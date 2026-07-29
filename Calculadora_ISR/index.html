@@ -1,0 +1,242 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>
+        Calculadora ISR México | Calculadoras México
+    </title>
+
+    <meta
+        name="description"
+        content="Calcula tu ISR y sueldo neto estimado con la tarifa mensual de ISR 2026 para México."
+    >
+
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+    <header>
+
+        <div class="logo">
+            💰 Calculadoras México
+        </div>
+
+        <nav>
+
+            <a href="index.html" class="activo">
+                ISR
+            </a>
+
+            <a href="#">
+                Aguinaldo
+            </a>
+
+            <a href="#">
+                Vacaciones
+            </a>
+
+            <a href="#">
+                IVA
+            </a>
+
+            <a href="#">
+                Finiquito
+            </a>
+
+        </nav>
+
+    </header>
+
+
+    <main>
+
+        <div class="contenedor">
+
+            <h1>
+                Calculadora de ISR México
+            </h1>
+
+            <p>
+                Calcula tu ISR y sueldo neto aproximado con la tarifa mensual de 2026.
+            </p>
+
+
+            <label for="periodo">
+                Periodo del salario
+            </label>
+
+            <select id="periodo">
+
+                <option value="mensual">
+                    Mensual
+                </option>
+
+                <option value="quincenal">
+                    Quincenal
+                </option>
+
+                <option value="semanal">
+                    Semanal
+                </option>
+
+            </select>
+
+
+            <label for="salario">
+                Salario bruto
+            </label>
+
+            <input
+                type="number"
+                id="salario"
+                placeholder="Ejemplo: 15000"
+                min="0.01"
+                step="0.01"
+                inputmode="decimal"
+            >
+
+
+            <button id="calcular">
+                Calcular ISR
+            </button>
+
+
+            <div class="resultado-box">
+
+                <div id="resultado">
+                    Aquí aparecerá el resultado.
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <section class="informacion">
+
+            <h2>
+                ¿Qué es el ISR?
+            </h2>
+
+            <p>
+                El Impuesto Sobre la Renta es un impuesto que se aplica a los
+                ingresos obtenidos por personas físicas y morales en México.
+            </p>
+
+
+            <h2>
+                ¿Cómo se calcula?
+            </h2>
+
+            <p>
+                El cálculo utiliza una tarifa con límite inferior, límite
+                superior, cuota fija y un porcentaje aplicado sobre el
+                excedente del ingreso.
+            </p>
+
+
+            <h2>
+                Preguntas frecuentes
+            </h2>
+
+            <h3>
+                ¿Es exacto el resultado?
+            </h3>
+
+            <p>
+                La calculadora ofrece una estimación basada en la tarifa
+                mensual de ISR de 2026. El resultado real puede variar por
+                subsidios, deducciones u otras condiciones particulares.
+            </p>
+
+        </section>
+
+
+        <section class="herramientas">
+
+            <h2>
+                Más calculadoras
+            </h2>
+
+            <div class="tarjetas">
+
+                <div class="tarjeta">
+
+                    <h3>
+                        Aguinaldo
+                    </h3>
+
+                    <p>
+                        Calcula cuánto aguinaldo te corresponde.
+                    </p>
+
+                    <button type="button" disabled>
+                        Próximamente
+                    </button>
+
+                </div>
+
+
+                <div class="tarjeta">
+
+                    <h3>
+                        Vacaciones
+                    </h3>
+
+                    <p>
+                        Calcula tus días y prima vacacional.
+                    </p>
+
+                    <button type="button" disabled>
+                        Próximamente
+                    </button>
+
+                </div>
+
+
+                <div class="tarjeta">
+
+                    <h3>
+                        IVA
+                    </h3>
+
+                    <p>
+                        Calcula el IVA agregado o incluido.
+                    </p>
+
+                    <button type="button" disabled>
+                        Próximamente
+                    </button>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+        © 2026 Calculadoras México
+    </footer>
+
+
+    <script src="tablas.js"></script>
+    <script src="script.js"></script>
+
+</body>
+
+</html>
+```
