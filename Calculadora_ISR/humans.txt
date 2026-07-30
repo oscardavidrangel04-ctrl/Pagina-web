@@ -1,0 +1,4 @@
+Calculadoras México
+Versión: 1.0 Producción
+Idioma: Español (México)
+Tecnologías: HTML, CSS y JavaScript

@@ -1,0 +1,21 @@
+{
+  "name": "Calculadoras México",
+  "short_name": "Calculadoras MX",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#071426",
+  "lang": "es-MX",
+  "description": "Calculadoras laborales, fiscales y financieras para México.",
+  "id": "/",
+  "scope": "/",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
