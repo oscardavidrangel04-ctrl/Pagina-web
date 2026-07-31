@@ -1,35 +1,14 @@
-
-const CACHE = "calculadoras-mx-v1";
-const CORE = [
-  "/", "/index.html", "/calculadoras.html", "/articulos.html",
-  "/assets/css/styles.css", "/assets/js/common.js", "/assets/js/optimize.js",
-  "/assets/js/premium.js", "/assets/img/logo.svg", "/favicon.svg"
-];
-self.addEventListener("install", event => {
-  event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(CORE)));
-  self.skipWaiting();
-});
-self.addEventListener("activate", event => {
-  event.waitUntil(caches.keys().then(keys => Promise.all(
-    keys.filter(key => key !== CACHE).map(key => caches.delete(key))
-  )));
-  self.clients.claim();
-});
-self.addEventListener("fetch", event => {
-  const request = event.request;
-  if (request.method !== "GET") return;
-  const url = new URL(request.url);
-  if (url.origin !== location.origin) return;
-  event.respondWith(
-    caches.match(request).then(cached => {
-      const network = fetch(request).then(response => {
-        if (response.ok && response.type === "basic") {
-          const clone = response.clone();
-          caches.open(CACHE).then(cache => cache.put(request, clone));
-        }
-        return response;
-      }).catch(() => cached || caches.match("/404.html"));
-      return cached || network;
-    })
-  );
+const CACHE='calculadoras-mx-v3.10.0';
+const CORE=['/index.html','/calculadoras.html','/simuladores.html','/offline.html','/assets/css/styles.css','/assets/js/catalog.js','/assets/js/common.js','/assets/img/logo.svg','/assets/img/favicon.svg'];
+self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
+self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
+self.addEventListener('fetch',event=>{
+  if(event.request.method!=='GET')return;
+  const url=new URL(event.request.url);
+  if(url.origin!==location.origin)return;
+  if(event.request.mode==='navigate'){
+    event.respondWith(fetch(event.request).then(response=>{const copy=response.clone();caches.open(CACHE).then(cache=>cache.put(event.request,copy));return response}).catch(()=>caches.match(event.request).then(hit=>hit||caches.match('/offline.html'))));
+    return;
+  }
+  if(url.pathname.startsWith('/assets/'))event.respondWith(caches.match(event.request).then(hit=>hit||fetch(event.request).then(response=>{if(response.ok){const copy=response.clone();caches.open(CACHE).then(cache=>cache.put(event.request,copy))}return response})));
 });
