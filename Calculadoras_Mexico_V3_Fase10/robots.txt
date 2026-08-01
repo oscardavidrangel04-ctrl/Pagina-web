@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://calculadora-isr-mexico.vercel.app/sitemap.xml
