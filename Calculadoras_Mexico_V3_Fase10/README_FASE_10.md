@@ -125,4 +125,4 @@ Se revisaron:
 - JSON-LD;
 - 65 URL del sitemap.
 
-Versión: `3.10.0`
+Versión corregida: `3.10.1`
