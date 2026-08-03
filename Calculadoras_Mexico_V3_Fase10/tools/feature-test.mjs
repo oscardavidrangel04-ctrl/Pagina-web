@@ -24,8 +24,8 @@ const context = vm.createContext({
     setItem(key, value) { values.set(key, value); }
   }
 });
-vm.runInContext(fs.readFileSync(path.join(root, 'assets/js/common.js'), 'utf8'), context);
 vm.runInContext(fs.readFileSync(path.join(root, 'assets/js/catalog.js'), 'utf8'), context);
+vm.runInContext(fs.readFileSync(path.join(root, 'assets/js/common.js'), 'utf8'), context);
 
 const rows = [
   {label: 'Ingreso bruto', value: '$20,000.00'},

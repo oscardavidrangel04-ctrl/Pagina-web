@@ -1,4 +1,4 @@
-const CM_CATALOG = [
+globalThis.CM_CATALOG = Object.freeze([
   {slug:'isr', title:'ISR 2026', category:'Impuestos', icon:'🧾', description:'Estima ISR y salario neto por periodo.', keywords:'renta salario impuestos mensual quincenal semanal', popular:true},
   {slug:'aguinaldo', title:'Aguinaldo', category:'Prestaciones', icon:'🎁', description:'Calcula aguinaldo completo o proporcional.', keywords:'prestación navidad días trabajados', popular:true},
   {slug:'vacaciones', title:'Vacaciones', category:'Prestaciones', icon:'🏖️', description:'Consulta días y prima vacacional.', keywords:'antigüedad descanso prima', popular:true},
@@ -49,4 +49,4 @@ const CM_CATALOG = [
   {slug:'costo-unidad', title:'Costo por unidad', category:'Negocios', icon:'📦', description:'Distribuye costos totales entre unidades.', keywords:'producto fabricación costo unitario', new:true},
   {slug:'conversion-longitud', title:'Conversor de longitud', category:'Herramientas', icon:'📏', description:'Convierte metros, kilómetros, pies y millas.', keywords:'unidades distancia conversión', new:true},
   {slug:'costo-combustible', title:'Costo de combustible', category:'Herramientas', icon:'⛽', description:'Estima litros y costo de un recorrido.', keywords:'gasolina viaje distancia rendimiento', new:true}
-];
+]);

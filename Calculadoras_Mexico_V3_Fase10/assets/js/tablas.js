@@ -40,13 +40,13 @@ const tablaISRMensual = Object.freeze([
 
     {
         limiteInferior: 14644.65,
-        limiteSuperior: 17533.63,
+        limiteSuperior: 17533.64,
         cuotaFija: 1339.14,
         porcentaje: 17.92
     },
 
     {
-        limiteInferior: 17533.64,
+        limiteInferior: 17533.65,
         limiteSuperior: 35362.83,
         cuotaFija: 1856.84,
         porcentaje: 21.36

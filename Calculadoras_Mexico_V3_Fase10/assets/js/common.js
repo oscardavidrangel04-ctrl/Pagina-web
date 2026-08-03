@@ -286,10 +286,61 @@ function calculatorCard(item, root = '') {
   </article>`;
 }
 
+let CM_RUNTIME_CATALOG = [];
+
+const normalizeSearch = value => String(value || '')
+  .normalize('NFD')
+  .replace(/\p{Diacritic}/gu, '')
+  .toLowerCase();
+
+function catalogItems() {
+  return Array.isArray(globalThis.CM_CATALOG) && globalThis.CM_CATALOG.length
+    ? globalThis.CM_CATALOG
+    : CM_RUNTIME_CATALOG;
+}
+
+function catalogFromCards(scope = document) {
+  const seen = new Set();
+  return [...scope.querySelectorAll('.calculator-card')].map(card => {
+    const link = card.querySelector('a[href*="calculadoras/"]');
+    const slug = link?.getAttribute('href')?.match(/calculadoras\/([^/?#]+)\.html/)?.[1];
+    if (!slug || seen.has(slug)) return null;
+    seen.add(slug);
+    return {
+      slug,
+      title: card.querySelector('h3')?.textContent?.trim() || slug,
+      category: card.querySelector('.card-kicker')?.textContent?.trim() || 'Calculadora',
+      icon: card.querySelector('.icon')?.textContent?.trim() || '🧮',
+      description: card.querySelector('p')?.textContent?.trim() || 'Herramienta gratuita',
+      keywords: card.dataset.search || '',
+      popular: false,
+      new: Boolean(card.querySelector('.new-badge'))
+    };
+  }).filter(Boolean);
+}
+
+async function ensureCatalog() {
+  const loaded = catalogItems();
+  if (loaded.length >= 50) return loaded;
+  const visible = catalogFromCards();
+  if (visible.length > CM_RUNTIME_CATALOG.length) CM_RUNTIME_CATALOG = visible;
+  try {
+    const response = await fetch(`${pageDepth()}calculadoras.html`, {cache: 'no-store'});
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const parsed = new DOMParser().parseFromString(await response.text(), 'text/html');
+    const recovered = catalogFromCards(parsed);
+    if (recovered.length > CM_RUNTIME_CATALOG.length) CM_RUNTIME_CATALOG = recovered;
+  } catch {
+    // Las tarjetas visibles y el enlace al catálogo siguen disponibles sin conexión.
+  }
+  return catalogItems();
+}
+
 function relatedCalculators(slug, limit = 4) {
-  const current = CM_CATALOG.find(item => item.slug === slug);
+  const catalog = catalogItems();
+  const current = catalog.find(item => item.slug === slug);
   if (!current) return [];
-  return CM_CATALOG
+  return catalog
     .filter(item => item.slug !== slug)
     .map(item => ({item, score:
       (item.category === current.category ? 6 : 0) +
@@ -304,7 +355,7 @@ function relatedCalculators(slug, limit = 4) {
 
 function trendingCalculators(limit = 8) {
   const activity = [...readStore(CM_KEYS.recent), ...readStore(CM_KEYS.history).map(entry => entry.slug)];
-  return CM_CATALOG
+  return catalogItems()
     .map(item => ({item, score: activity.filter(slug => slug === item.slug).length * 5 + (item.popular ? 3 : 0) + (item.new ? 1 : 0)}))
     .sort((a,b) => b.score - a.score || a.item.title.localeCompare(b.item.title, 'es'))
     .slice(0, limit)
@@ -313,9 +364,10 @@ function trendingCalculators(limit = 8) {
 
 function recommendedCalculators(limit = 8) {
   const signals = [...readStore(CM_KEYS.favorites), ...readStore(CM_KEYS.recent)];
-  const categories = signals.map(slug => CM_CATALOG.find(item => item.slug === slug)?.category).filter(Boolean);
+  const catalog = catalogItems();
+  const categories = signals.map(slug => catalog.find(item => item.slug === slug)?.category).filter(Boolean);
   const excluded = new Set(signals);
-  const ranked = CM_CATALOG
+  const ranked = catalog
     .filter(item => !excluded.has(item.slug))
     .map(item => ({item, score: categories.filter(category => category === item.category).length * 4 + (item.popular ? 2 : 0) + (item.new ? 1 : 0)}))
     .sort((a,b) => b.score - a.score || a.item.title.localeCompare(b.item.title, 'es'));
@@ -323,6 +375,7 @@ function recommendedCalculators(limit = 8) {
 }
 
 function renderPortalSections() {
+  if (!catalogItems().length) return;
   const root = pageDepth();
   document.querySelectorAll('[data-trending-list]').forEach(container => {
     container.innerHTML = trendingCalculators().map(item => calculatorCard(item, root)).join('');
@@ -339,12 +392,13 @@ function renderPortalSections() {
 
 function renderPersonalSpace() {
   const root = pageDepth();
+  const catalog = catalogItems();
   const favorites = readStore(CM_KEYS.favorites)
-    .map(slug => CM_CATALOG.find(item => item.slug === slug))
+    .map(slug => catalog.find(item => item.slug === slug))
     .filter(Boolean)
     .slice(0, 4);
   const recent = readStore(CM_KEYS.recent)
-    .map(slug => CM_CATALOG.find(item => item.slug === slug))
+    .map(slug => catalog.find(item => item.slug === slug))
     .filter(Boolean)
     .slice(0, 4);
   const history = readStore(CM_KEYS.history).slice(0, 5);
@@ -372,10 +426,44 @@ function renderPersonalSpace() {
 
 function renderCatalog() {
   document.querySelectorAll('[data-catalog]').forEach(container => {
+    const catalog = catalogItems();
+    if (!catalog.length) return;
     const category = container.dataset.catalog;
-    const items = category === 'all' ? CM_CATALOG : CM_CATALOG.filter(item => item.category === category);
+    const items = category === 'all' ? catalog : catalog.filter(item => item.category === category);
     container.innerHTML = items.map(item => calculatorCard(item)).join('');
   });
+}
+
+function setupCatalogFilters() {
+  const input = document.getElementById('catalog-search');
+  const grid = document.querySelector('[data-catalog]');
+  const buttons = [...document.querySelectorAll('[data-catalog-category]')];
+  const count = document.querySelector('[data-catalog-count]');
+  if (!input || !grid) return;
+  let category = 'Todas';
+  const apply = () => {
+    const query = normalizeSearch(input.value.trim());
+    let visible = 0;
+    grid.querySelectorAll('.calculator-card').forEach(card => {
+      const cardCategory = card.querySelector('.card-kicker')?.textContent?.trim() || '';
+      const matchesCategory = category === 'Todas' || cardCategory === category;
+      const matchesText = !query || normalizeSearch(card.dataset.search).includes(query);
+      card.hidden = !(matchesCategory && matchesText);
+      if (!card.hidden) visible++;
+    });
+    if (count) count.textContent = `${visible} ${visible === 1 ? 'resultado' : 'resultados'}`;
+  };
+  input.addEventListener('input', apply);
+  buttons.forEach(button => button.addEventListener('click', () => {
+    category = button.dataset.catalogCategory;
+    buttons.forEach(item => {
+      const active = item === button;
+      item.classList.toggle('active', active);
+      item.setAttribute('aria-pressed', String(active));
+    });
+    apply();
+  }));
+  apply();
 }
 
 function setupSearch() {
@@ -385,14 +473,14 @@ function setupSearch() {
   const root = pageDepth();
   let active = -1;
 
-  const normalize = value => value.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase();
-  const render = (term = '') => {
-    const query = normalize(term.trim());
-    const found = CM_CATALOG.filter(item => !query || normalize(`${item.title} ${item.description} ${item.category} ${item.keywords}`).includes(query)).slice(0, 10);
+  const render = async (term = '') => {
+    const catalog = await ensureCatalog();
+    const query = normalizeSearch(term.trim());
+    const found = catalog.filter(item => !query || normalizeSearch(`${item.title} ${item.description} ${item.category} ${item.keywords}`).includes(query)).slice(0, 10);
     active = -1;
     results.innerHTML = found.length
       ? found.map(item => `<a class="search-result" href="${root}calculadoras/${item.slug}.html"><span><b>${item.icon} ${item.title}</b><small>${item.category} · ${item.description}</small></span><span>→</span></a>`).join('')
-      : '<div class="search-empty">No encontramos resultados. Prueba con otra palabra.</div>';
+      : `<div class="search-empty">No encontramos resultados. <a href="${root}calculadoras.html">Abrir el catálogo completo</a>.</div>`;
   };
   const open = () => {
     dialog?.classList.add('open');
@@ -430,6 +518,29 @@ function setupSearch() {
   });
 }
 
+function setupHomeFinder() {
+  const form = document.querySelector('[data-home-finder]');
+  const input = form?.querySelector('input');
+  const results = document.querySelector('[data-home-finder-results]');
+  if (!form || !input || !results) return;
+  const render = async () => {
+    const query = normalizeSearch(input.value.trim());
+    const catalog = await ensureCatalog();
+    const found = catalog
+      .filter(item => !query || normalizeSearch(`${item.title} ${item.description} ${item.category} ${item.keywords}`).includes(query))
+      .slice(0, query ? 8 : 6);
+    results.innerHTML = found.length
+      ? found.map(item => `<a class="finder-result" href="calculadoras/${item.slug}.html"><span aria-hidden="true">${item.icon}</span><span><strong>${item.title}</strong><small>${item.category}</small></span><b aria-hidden="true">→</b></a>`).join('')
+      : '<p class="finder-empty">No hubo coincidencias. Prueba “salario”, “IVA”, “ahorro” o “préstamo”.</p>';
+  };
+  form.addEventListener('submit', event => {
+    event.preventDefault();
+    results.querySelector('a')?.click();
+  });
+  input.addEventListener('input', render);
+  render();
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('/sw.js').catch(()=>{});
   const root = document.documentElement;
@@ -458,10 +569,12 @@ document.addEventListener('DOMContentLoaded', () => {
   }));
 
   renderCatalog();
+  setupCatalogFilters();
   markRecent();
   renderPersonalSpace();
   renderPortalSections();
   setupSearch();
+  setupHomeFinder();
   loadCalculatorForm();
 
   document.addEventListener('click', async event => {

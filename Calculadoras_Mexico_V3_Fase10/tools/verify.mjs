@@ -43,7 +43,7 @@ const calculatorFiles = fs.readdirSync(path.join(root,'calculadoras')).filter(fi
 if (calculatorFiles.length !== 50) issues.push(`Expected 50 calculator pages, found ${calculatorFiles.length}`);
 for (const file of calculatorFiles) {
   const html = fs.readFileSync(path.join(root,'calculadoras',file),'utf8');
-  for (const required of ['data-calc=','class="calc-button"','data-form-reset','data-form-state','assets/js/catalog.js','assets/js/common.js','assets/js/calculators.js']) {
+  for (const required of ['data-calc=','class="calc-button"','data-form-reset','data-form-state','assets/js/common.js']) {
     if (!html.includes(required)) issues.push(`${file} is missing ${required}`);
   }
 }
@@ -55,7 +55,12 @@ if (!sitemap.trimEnd().endsWith('</urlset>')) issues.push('Sitemap does not clos
 const sitemapUrls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(match => match[1]);
 if (sitemapUrls.length !== 66) issues.push(`Expected 66 sitemap URLs, found ${sitemapUrls.length}`);
 const simulatorHtml=fs.readFileSync(path.join(root,'simuladores.html'),'utf8');
-for(const required of ['compare-salary','compare-loan','compare-saving','assets/js/simulators.js']) if(!simulatorHtml.includes(required)) issues.push(`simuladores.html is missing ${required}`);
+for(const required of ['compare-salary','compare-loan','compare-saving','assets/js/common.js']) if(!simulatorHtml.includes(required)) issues.push(`simuladores.html is missing ${required}`);
+
+const catalogHtml=fs.readFileSync(path.join(root,'calculadoras.html'),'utf8');
+const staticCards=[...catalogHtml.matchAll(/class="card calculator-card"/g)].length;
+if(staticCards!==50)issues.push(`Expected 50 static catalog cards, found ${staticCards}`);
+if(!catalogHtml.includes('data-catalog-count'))issues.push('Catalog result counter is missing');
 
 if (issues.length) {
   console.error(issues.join('\n'));

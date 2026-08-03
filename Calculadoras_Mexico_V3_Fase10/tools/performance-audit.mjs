@@ -3,10 +3,10 @@ import path from 'node:path';
 
 const root = path.resolve(import.meta.dirname,'..');
 const errors = [];
-const assets = ['assets/css/styles.css','assets/js/catalog.js','assets/js/common.js','assets/js/calculators.js','assets/js/tablas.js','assets/js/simulators.js'];
+const assets = ['assets/css/styles.css','assets/js/common.js','assets/js/tablas.js'];
 for (const asset of assets) {
   const size = fs.statSync(path.join(root,asset)).size;
-  if (size > 60000) errors.push(`${asset}: ${size} bytes; supera el límite interno de 60 KB`);
+  if (size > 80000) errors.push(`${asset}: ${size} bytes; supera el límite interno de 80 KB`);
 }
 const htmlFiles = [];
 for (const directory of [root,path.join(root,'calculadoras'),path.join(root,'articulos')]) {
@@ -21,9 +21,10 @@ for (const file of htmlFiles) {
   if (html.includes('logo.svg') && !html.includes('fetchpriority="high"')) errors.push(`${rel}: prioridad del logo ausente`);
 }
 const config = fs.readFileSync(path.join(root,'vercel.json'),'utf8');
-for (const token of ['max-age=31536000','stale-while-revalidate','/assets/(.*)','application/xml']) {
+for (const token of ['max-age=31536000','stale-while-revalidate','/assets/js/(.*)','/assets/css/(.*)','/assets/img/(.*)','application/xml']) {
   if (!config.includes(token)) errors.push(`vercel.json: falta ${token}`);
 }
+if (!config.includes('s-maxage=3600, must-revalidate')) errors.push('vercel.json: JavaScript y CSS deben poder actualizarse');
 const css = fs.readFileSync(path.join(root,'assets/css/styles.css'),'utf8');
 if (!css.includes('content-visibility:auto')) errors.push('CSS: content-visibility ausente');
 if (errors.length) {

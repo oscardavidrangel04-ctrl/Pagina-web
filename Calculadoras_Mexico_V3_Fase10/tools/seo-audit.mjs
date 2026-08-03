@@ -24,6 +24,7 @@ for (const file of files) {
   if (h1 !== 1) errors.push(`${rel}: debe tener exactamente un H1`);
   if (!html.includes('hreflang="es-MX"')) errors.push(`${rel}: hreflang es-MX ausente`);
   if (!html.includes('property="og:title"') || !html.includes('name="twitter:title"')) errors.push(`${rel}: metadatos sociales incompletos`);
+  if (html.includes('name="robots" content="index,follow') && !html.includes('max-snippet:-1')) errors.push(`${rel}: directiva de fragmentos completos ausente`);
   if (title) titles.set(title,[...(titles.get(title)||[]),rel]);
   if (canonical) canonicals.set(canonical,[...(canonicals.get(canonical)||[]),rel]);
   for (const match of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
@@ -39,6 +40,15 @@ for (const name of calculators) {
   if (!html.includes('"@type":"BreadcrumbList"')) errors.push(`calculadoras/${name}: BreadcrumbList ausente`);
   if (!html.includes('"@type":"FAQPage"') || !html.includes('<section class="content-box faq-section">')) errors.push(`calculadoras/${name}: FAQ visible o estructurada ausente`);
 }
+
+const catalogPage = fs.readFileSync(path.join(root,'calculadoras.html'),'utf8');
+for (const token of ['"@type":"CollectionPage"','"@type":"ItemList"','"numberOfItems":50']) {
+  if (!catalogPage.includes(token)) errors.push(`calculadoras.html: datos estructurados incompletos (${token})`);
+}
+const seoGuides = files.filter(file => fs.readFileSync(file,'utf8').includes('class="content-box seo-guide"'));
+if (seoGuides.length < 10) errors.push(`Contenido SEO visible insuficiente: ${seoGuides.length} guías`);
+const isr = fs.readFileSync(path.join(root,'calculadoras','isr.html'),'utf8');
+if (!isr.includes('Anexo-8-RMF-2026')) errors.push('calculadoras/isr.html: fuente oficial SAT 2026 ausente');
 
 if (errors.length) {
   console.error(`SEO audit failed (${errors.length}):\n- ${errors.join('\n- ')}`);
