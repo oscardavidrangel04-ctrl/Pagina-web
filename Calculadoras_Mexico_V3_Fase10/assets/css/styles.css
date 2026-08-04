@@ -234,3 +234,39 @@ html,body{max-width:100%;overflow-x:clip}
 .context-links a{display:flex;align-items:center;min-height:44px;padding:9px 11px;border:1px solid var(--line);border-radius:10px;background:var(--surface);font-weight:800;text-decoration:none}
 .context-links a:hover,.context-links a:focus-visible{border-color:var(--primary);outline:2px solid var(--primary-soft);outline-offset:1px}
 @media(max-width:680px){.seo-guide{gap:10px}.seo-guide>h3{font-size:20px}.context-links{padding:14px}.context-links ul{grid-template-columns:1fr}.context-links a{min-height:48px}.faq-section summary{line-height:1.35}}
+
+
+/* Adsterra ad slots */
+.ad-slot {
+  width: min(100% - 32px, 1120px);
+  margin: 28px auto;
+  text-align: center;
+  overflow: hidden;
+}
+.ad-label {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--muted, #64748b);
+  font-size: .72rem;
+  line-height: 1;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.ad-slot-native {
+  min-height: 90px;
+}
+.ad-slot-rectangle {
+  min-height: 278px;
+}
+.ad-rectangle-inner {
+  width: 300px;
+  min-height: 250px;
+  margin: 0 auto;
+}
+@media (max-width: 360px) {
+  .ad-slot { width: calc(100% - 16px); }
+  .ad-rectangle-inner {
+    max-width: 100%;
+    overflow: hidden;
+  }
+}
