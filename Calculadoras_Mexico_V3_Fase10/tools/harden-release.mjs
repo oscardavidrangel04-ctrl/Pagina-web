@@ -230,10 +230,10 @@ else if (!vercel.headers.some(entry => entry.source === '/assets/js/(.*)')) verc
 const securityEntry = vercel.headers.find(entry => entry.source === '/(.*)');
 if (securityEntry) {
   const securityHeaders = {
-    'Content-Security-Policy': "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; font-src 'self' data:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'; upgrade-insecure-requests",
-    'Strict-Transport-Security': 'max-age=31536000; includeSubDomains',
-    'X-Frame-Options': 'DENY'
-  };
+  'Content-Security-Policy': "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.effectivecpmnetwork.com https://effectivecpmnetwork.com https://*.highperformanceformat.com https://highperformanceformat.com https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; connect-src 'self' https: wss:; font-src 'self' data: https:; frame-src https:; child-src https:; media-src https: data:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests",
+  'Strict-Transport-Security': 'max-age=31536000; includeSubDomains',
+  'X-Frame-Options': 'DENY'
+};
   for (const [key, value] of Object.entries(securityHeaders)) {
     const existing = securityEntry.headers.find(header => header.key === key);
     if (existing) existing.value = value;
