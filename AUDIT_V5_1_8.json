@@ -1,0 +1,21 @@
+{
+  "version": "5.1.8",
+  "date": "2026-08-16",
+  "focus": "aguinaldo-premium",
+  "checks": {
+    "site_verify": "passed: 68 HTML, 50 calculators, 66 sitemap URLs, local links/scripts valid",
+    "calculator_regression": "passed: 50 calculators respond with default values",
+    "aguinaldo_custom_audit": "passed: canonical, description length, single H1, unique IDs, JSON-LD, local scripts",
+    "node_syntax": "passed: calculators.js and aguinaldo-premium.js"
+  },
+  "aguinaldo_features": [
+    "Año completo",
+    "Cálculo por fechas",
+    "Captura manual de días",
+    "Conteo automático del periodo dentro de 2026",
+    "Resultado detallado por escenario",
+    "Explicación dinámica del resultado",
+    "Selector visual por caso",
+    "Referencias oficiales LFT y PROFEDET"
+  ]
+}
