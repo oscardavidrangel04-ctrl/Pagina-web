@@ -1,0 +1,32 @@
+{
+  "html_files": 68,
+  "calculators": 50,
+  "sitemap_urls": 66,
+  "missing_local_refs": 0,
+  "pages": {
+    "horas-extra": {
+      "title": "Calculadora horas extra México 2026: dobles y triples",
+      "title_chars": 53,
+      "meta_chars": 135,
+      "h1_count": 1,
+      "quick_answers": 3,
+      "cluster_links": 4
+    },
+    "ptu": {
+      "title": "Calculadora PTU 2026 México: reparto de utilidades",
+      "title_chars": 50,
+      "meta_chars": 131,
+      "h1_count": 1,
+      "quick_answers": 3,
+      "cluster_links": 4
+    },
+    "salario-diario-integrado": {
+      "title": "Calculadora SDI 2026 México: salario diario integrado",
+      "title_chars": 53,
+      "meta_chars": 133,
+      "h1_count": 1,
+      "quick_answers": 3,
+      "cluster_links": 4
+    }
+  }
+}
