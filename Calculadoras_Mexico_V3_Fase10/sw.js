@@ -1,5 +1,5 @@
-const CACHE='calculadoras-mx-v5.5.1';
-const CORE=['/index.html','/calculadoras.html','/simuladores.html','/offline.html','/assets/css/styles.css?v=5.5.1','/assets/js/catalog.js?v=5.5.1','/assets/js/common.js?v=5.5.1','/assets/img/logo.svg','/assets/img/favicon.svg'];
+const CACHE='calculadoras-mx-v5.5.3';
+const CORE=['/index.html','/calculadoras.html','/simuladores.html','/offline.html','/assets/css/styles.css?v=5.5.3','/assets/js/catalog.min.js?v=5.5.3','/assets/js/common.min.js?v=5.5.3','/assets/img/logo.svg','/assets/img/favicon.svg'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{
