@@ -1,0 +1,24 @@
+# Calculadoras México
+
+> Calculadoras gratuitas en español para México sobre impuestos, nómina, prestaciones, finanzas y herramientas cotidianas.
+
+## Sitio
+- Inicio: https://calculadora-isr-mexico.vercel.app/
+- Calculadoras: https://calculadora-isr-mexico.vercel.app/calculadoras.html
+- Simuladores: https://calculadora-isr-mexico.vercel.app/simuladores.html
+- Artículos: https://calculadora-isr-mexico.vercel.app/articulos.html
+- Acerca de: https://calculadora-isr-mexico.vercel.app/acerca-de.html
+
+## Calculadoras principales
+- ISR: https://calculadora-isr-mexico.vercel.app/calculadoras/isr.html
+- Aguinaldo: https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo.html
+- Finiquito: https://calculadora-isr-mexico.vercel.app/calculadoras/finiquito.html
+- Salario neto: https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html
+- IVA: https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html
+
+## Descubrimiento
+- Sitemap: https://calculadora-isr-mexico.vercel.app/sitemap.xml
+- Robots: https://calculadora-isr-mexico.vercel.app/robots.txt
+
+## Notas
+Los resultados son estimaciones informativas. Las páginas fiscales, laborales y financieras muestran sus supuestos, metodología y referencias cuando corresponde.
