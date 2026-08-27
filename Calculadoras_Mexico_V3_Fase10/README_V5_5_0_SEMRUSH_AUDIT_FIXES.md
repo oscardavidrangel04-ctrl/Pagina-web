@@ -10,7 +10,7 @@ Base: V5.4.9 SEMRUSH_SCHEMA_HREFLANG.
 - Actualizado el precache del service worker a los recursos minificados.
 - Corregidos los casos detectables en esta base donde `<title>` y `<h1>` eran idénticos.
 - Sustituidos enlaces genéricos a `www.condusef.gob.mx` por la ficha oficial de CONDUSEF en `gob.mx` para evitar el HTTP 500 reportado en el rastreo anterior.
-- Verificado que no existan referencias a `www.calculadora-isr-mexico.vercel.app`; el host canónico sigue siendo `calculadora-isr-mexico.vercel.app`.
+- Verificado que no existan referencias a `host alternativo con www`; el host canónico sigue siendo `calculadora-isr-mexico.vercel.app`.
 
 ## Después de desplegar
 

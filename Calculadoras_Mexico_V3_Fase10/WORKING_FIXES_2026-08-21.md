@@ -6,5 +6,5 @@
 - Cache-buster de recursos propios actualizado a `v=5.5.5`.
 - Service worker actualizado para cachear los recursos minificados vigentes.
 - Páginas de Contacto, Privacidad y Términos ampliadas con contenido útil para superar el aviso de bajo número de palabras sin texto de relleno.
-- Dominio canónico: sin referencias activas a `www.calculadora-isr-mexico.vercel.app`.
+- Dominio canónico: sin referencias activas a `host alternativo con www`.
 - No se generó ZIP.
