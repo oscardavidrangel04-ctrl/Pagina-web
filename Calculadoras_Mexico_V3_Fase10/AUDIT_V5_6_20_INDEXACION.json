@@ -1,0 +1,24 @@
+{
+  "gsc_urls": 48,
+  "files_ok": 48,
+  "canonical_ok": 48,
+  "robots_ok": 48,
+  "sitemap_ok": 48,
+  "modified_files": [
+    "README_V5_6_20_INDEXACION_DISCOVERY_BOOST.md",
+    "articulos.html",
+    "calculadoras.html",
+    "calculadoras/aguinaldo-proporcional.html",
+    "calculadoras/aguinaldo.html",
+    "calculadoras/finiquito.html",
+    "calculadoras/interes-compuesto.html",
+    "calculadoras/isr.html",
+    "calculadoras/iva.html",
+    "calculadoras/prestamo.html",
+    "calculadoras/ptu.html",
+    "calculadoras/vacaciones.html",
+    "index.html",
+    "sitemap.xml",
+    "sw.js"
+  ]
+}
