@@ -1,0 +1,19 @@
+{
+  "version": "5.6.23",
+  "html_count": 81,
+  "new_or_rewritten": [
+    "articulos/finiquito-vs-liquidacion.html",
+    "articulos/que-incluye-finiquito.html",
+    "articulos/cuando-pagan-finiquito.html",
+    "articulos/cuando-tengo-derecho-finiquito.html",
+    "articulos/finiquito-renuncia-voluntaria.html",
+    "articulos/con-que-salario-se-calcula-finiquito.html"
+  ],
+  "broken_internal_links": [],
+  "broken_internal_link_count": 0,
+  "jsonld_errors": [],
+  "canonical_missing": [
+    "404.html"
+  ],
+  "sitemap_contains_all": true
+}

@@ -3,16 +3,16 @@
   <url><loc>https://calculadora-isr-mexico.vercel.app/</loc><lastmod>2026-09-01</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras.html</loc><lastmod>2026-09-01</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/simuladores.html</loc><lastmod>2026-08-26</lastmod></url>
-  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos.html</loc><lastmod>2026-09-01</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos.html</loc><lastmod>2026-09-02</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/acerca-de.html</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/contacto.html</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/privacidad.html</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/terminos.html</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/isr.html</loc><lastmod>2026-09-01</lastmod></url>
-  <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo.html</loc><lastmod>2026-09-01</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo.html</loc><lastmod>2026-09-02</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/vacaciones.html</loc><lastmod>2026-09-01</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html</loc><lastmod>2026-09-01</lastmod></url>
-  <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/finiquito.html</loc><lastmod>2026-09-01</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/finiquito.html</loc><lastmod>2026-09-02</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/horas-extra.html</loc><lastmod>2026-09-01</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/descuento.html</loc><lastmod>2026-08-26</lastmod></url>
@@ -58,14 +58,67 @@
   <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/costo-unidad.html</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/conversion-longitud.html</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/costo-combustible.html</loc><lastmod>2026-08-26</lastmod></url>
-  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-proporcional.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-proporcional.html</loc><lastmod>2026-09-02</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-iva.html</loc><lastmod>2026-08-26</lastmod></url>
-  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/finiquito-vs-liquidacion.html</loc><lastmod>2026-08-26</lastmod></url>
+    <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/finiquito-vs-liquidacion.html</loc><lastmod>2026-09-02</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-2026.html</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/leer-recibo-nomina.html</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-isr.html</loc><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/salario-bruto-neto.html</loc><lastmod>2026-08-26</lastmod></url>
-  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/vacaciones-mexico.html</loc><lastmod>2026-08-26</lastmod></url>
-  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-isr-2026.html</loc><lastmod>2026-08-26</lastmod></url>
-  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-si-renuncio.html</loc><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/vacaciones-mexico.html</loc><lastmod>2026-09-02</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-isr-2026.html</loc><lastmod>2026-09-02</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-si-renuncio.html</loc><lastmod>2026-09-02</lastmod></url>
+
+  <url>
+    <loc>https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-aguinaldo.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-3-meses.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-6-meses.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-aguinaldo.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://calculadora-isr-mexico.vercel.app/articulos/cuando-tengo-derecho-aguinaldo.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://calculadora-isr-mexico.vercel.app/articulos/cuando-se-paga-aguinaldo.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/que-incluye-finiquito.html</loc><lastmod>2026-09-02</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/cuando-pagan-finiquito.html</loc><lastmod>2026-09-02</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/cuando-tengo-derecho-finiquito.html</loc><lastmod>2026-09-02</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/finiquito-renuncia-voluntaria.html</loc><lastmod>2026-09-02</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-finiquito.html</loc><lastmod>2026-09-02</lastmod></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-prima-vacacional.html</loc><lastmod>2026-09-02</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/me-pueden-negar-vacaciones.html</loc><lastmod>2026-09-02</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/como-se-cuentan-dias-vacaciones.html</loc><lastmod>2026-09-02</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/cuando-se-pagan-vacaciones.html</loc><lastmod>2026-09-02</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/isr-prima-vacacional.html</loc><lastmod>2026-09-02</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-pago-vacaciones.html</loc><lastmod>2026-09-02</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
 </urlset>
