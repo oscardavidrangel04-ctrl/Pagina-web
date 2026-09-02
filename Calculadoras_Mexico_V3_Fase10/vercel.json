@@ -41,6 +41,15 @@
       ]
     },
     {
+      "source": "/styles-v5627.css",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=3600, must-revalidate"
+        }
+      ]
+    },
+    {
       "source": "/sw.js",
       "headers": [
         {
@@ -117,6 +126,13 @@
           "value": "DENY"
         }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/articulos/articulos.html",
+      "destination": "/articulos.html",
+      "permanent": true
     }
   ]
 }
