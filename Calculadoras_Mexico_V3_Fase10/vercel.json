@@ -2,6 +2,23 @@
   "cleanUrls": false,
   "headers": [
     {
+      "source": "/articulos/aguinaldo-3-meses.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
       "source": "/sitemap.xml",
       "headers": [
         {
@@ -124,6 +141,12 @@
       "source": "/articulos/articulos.html",
       "destination": "/articulos.html",
       "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/articulos/aguinaldo-3-meses.html",
+      "destination": "/aguinaldo-3-meses-fallback.html"
     }
   ]
 }
