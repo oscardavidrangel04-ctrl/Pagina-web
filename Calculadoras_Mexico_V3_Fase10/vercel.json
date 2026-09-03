@@ -2,7 +2,313 @@
   "cleanUrls": false,
   "headers": [
     {
+      "source": "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/aguinaldo-isr-2026.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/isr-prima-vacacional.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/me-pueden-negar-vacaciones.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/como-se-cuentan-dias-vacaciones.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/que-incluye-finiquito.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/como-calcular-aguinaldo.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/cuando-tengo-derecho-finiquito.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/aguinaldo-si-renuncio.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/cuando-se-pagan-vacaciones.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/finiquito-renuncia-voluntaria.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
       "source": "/articulos/aguinaldo-3-meses.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/como-calcular-pago-vacaciones.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/cuando-pagan-finiquito.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/cuando-se-paga-aguinaldo.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/como-calcular-prima-vacacional.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/aguinaldo-6-meses.html",
       "headers": [
         {
           "key": "Cache-Control",
@@ -145,8 +451,80 @@
   ],
   "rewrites": [
     {
+      "source": "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "destination": "/fallback-cuando-tengo-derecho-aguinaldo.html"
+    },
+    {
+      "source": "/articulos/aguinaldo-isr-2026.html",
+      "destination": "/fallback-aguinaldo-isr-2026.html"
+    },
+    {
+      "source": "/articulos/isr-prima-vacacional.html",
+      "destination": "/fallback-isr-prima-vacacional.html"
+    },
+    {
+      "source": "/articulos/me-pueden-negar-vacaciones.html",
+      "destination": "/fallback-me-pueden-negar-vacaciones.html"
+    },
+    {
+      "source": "/articulos/como-se-cuentan-dias-vacaciones.html",
+      "destination": "/fallback-como-se-cuentan-dias-vacaciones.html"
+    },
+    {
+      "source": "/articulos/que-incluye-finiquito.html",
+      "destination": "/fallback-que-incluye-finiquito.html"
+    },
+    {
+      "source": "/articulos/como-calcular-aguinaldo.html",
+      "destination": "/fallback-como-calcular-aguinaldo.html"
+    },
+    {
+      "source": "/articulos/cuando-tengo-derecho-finiquito.html",
+      "destination": "/fallback-cuando-tengo-derecho-finiquito.html"
+    },
+    {
+      "source": "/articulos/aguinaldo-si-renuncio.html",
+      "destination": "/fallback-aguinaldo-si-renuncio.html"
+    },
+    {
+      "source": "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "destination": "/fallback-con-que-salario-se-calcula-aguinaldo.html"
+    },
+    {
+      "source": "/articulos/cuando-se-pagan-vacaciones.html",
+      "destination": "/fallback-cuando-se-pagan-vacaciones.html"
+    },
+    {
+      "source": "/articulos/finiquito-renuncia-voluntaria.html",
+      "destination": "/fallback-finiquito-renuncia-voluntaria.html"
+    },
+    {
       "source": "/articulos/aguinaldo-3-meses.html",
-      "destination": "/aguinaldo-3-meses-fallback.html"
+      "destination": "/fallback-aguinaldo-3-meses.html"
+    },
+    {
+      "source": "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "destination": "/fallback-con-que-salario-se-calcula-finiquito.html"
+    },
+    {
+      "source": "/articulos/como-calcular-pago-vacaciones.html",
+      "destination": "/fallback-como-calcular-pago-vacaciones.html"
+    },
+    {
+      "source": "/articulos/cuando-pagan-finiquito.html",
+      "destination": "/fallback-cuando-pagan-finiquito.html"
+    },
+    {
+      "source": "/articulos/cuando-se-paga-aguinaldo.html",
+      "destination": "/fallback-cuando-se-paga-aguinaldo.html"
+    },
+    {
+      "source": "/articulos/como-calcular-prima-vacacional.html",
+      "destination": "/fallback-como-calcular-prima-vacacional.html"
+    },
+    {
+      "source": "/articulos/aguinaldo-6-meses.html",
+      "destination": "/fallback-aguinaldo-6-meses.html"
     }
   ]
 }
