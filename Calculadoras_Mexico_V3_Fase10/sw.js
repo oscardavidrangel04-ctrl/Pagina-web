@@ -1,5 +1,5 @@
-const CACHE='calculadoras-mx-v5.6.32-ziro-purple';
-const CORE=['/','/index.html','/calculadoras.html','/simuladores.html','/articulos.html','/offline.html','/styles-v5628.css?v=5.6.28','/ziro-theme-v5632.css?v=5.6.32','/assets/js/catalog.js?v=5.1.0','/assets/js/common.js?v=5.1.0','/assets/img/logo.svg','/assets/img/favicon.svg'];
+const CACHE='calculadoras-mx-v5.6.33-ziro-polish-purple';
+const CORE=['/','/index.html','/calculadoras.html','/simuladores.html','/articulos.html','/offline.html','/styles-v5628.css?v=5.6.28','/ziro-theme-v5633.css?v=5.6.33','/assets/js/catalog.js?v=5.1.0','/assets/js/common.js?v=5.1.0','/assets/img/logo.svg','/assets/img/favicon.svg'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{
