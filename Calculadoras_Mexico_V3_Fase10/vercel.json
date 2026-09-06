@@ -440,6 +440,57 @@
           "value": "DENY"
         }
       ]
+    },
+    {
+      "source": "/articulos/aguinaldo-por-meses.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/aguinaldo-por-antiguedad.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/dias-de-aguinaldo.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
     }
   ],
   "redirects": [
@@ -525,6 +576,18 @@
     {
       "source": "/articulos/aguinaldo-6-meses.html",
       "destination": "/fallback-aguinaldo-6-meses.html"
+    },
+    {
+      "source": "/articulos/aguinaldo-por-meses.html",
+      "destination": "/fallback-aguinaldo-por-meses.html"
+    },
+    {
+      "source": "/articulos/aguinaldo-por-antiguedad.html",
+      "destination": "/fallback-aguinaldo-por-antiguedad.html"
+    },
+    {
+      "source": "/articulos/dias-de-aguinaldo.html",
+      "destination": "/fallback-dias-de-aguinaldo.html"
     }
   ]
 }
