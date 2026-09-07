@@ -491,6 +491,74 @@
           "value": "no-store"
         }
       ]
+    },
+    {
+      "source": "/articulos/finiquito-por-despido.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/que-es-el-finiquito.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/carta-finiquito-laboral.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
+    },
+    {
+      "source": "/articulos/finiquito-por-meses-trabajados.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        },
+        {
+          "key": "CDN-Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "Vercel-CDN-Cache-Control",
+          "value": "no-store"
+        }
+      ]
     }
   ],
   "redirects": [
@@ -588,6 +656,34 @@
     {
       "source": "/articulos/dias-de-aguinaldo.html",
       "destination": "/fallback-dias-de-aguinaldo.html"
+    },
+    {
+      "source": "/articulos/cuanto-se-deja-propina-mexico.html",
+      "destination": "/fallback-cuanto-se-deja-propina-mexico.html"
+    },
+    {
+      "source": "/articulos/propina-obligatoria-mexico.html",
+      "destination": "/fallback-propina-obligatoria-mexico.html"
+    },
+    {
+      "source": "/articulos/que-es-propina.html",
+      "destination": "/fallback-que-es-propina.html"
+    },
+    {
+      "source": "/articulos/finiquito-por-despido.html",
+      "destination": "/fallback-finiquito-por-despido.html"
+    },
+    {
+      "source": "/articulos/que-es-el-finiquito.html",
+      "destination": "/fallback-que-es-el-finiquito.html"
+    },
+    {
+      "source": "/articulos/carta-finiquito-laboral.html",
+      "destination": "/fallback-carta-finiquito-laboral.html"
+    },
+    {
+      "source": "/articulos/finiquito-por-meses-trabajados.html",
+      "destination": "/fallback-finiquito-por-meses-trabajados.html"
     }
   ]
 }
