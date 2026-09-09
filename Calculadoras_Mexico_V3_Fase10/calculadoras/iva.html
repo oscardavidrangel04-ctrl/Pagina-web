@@ -1,43 +1,41 @@
 <!DOCTYPE html>
-
 <html lang="es-MX">
 <head>
-<meta charset="utf-8"/>
-<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta charset="utf-8">
+<meta content="width=device-width,initial-scale=1" name="viewport">
 <title>Calculadora IVA 16%: agregar, quitar y separar</title>
-<meta content="Calcula IVA, agrega 16% o separa subtotal e impuesto de un precio final. Revisa fórmulas, ejemplos y el desglose del resultado." name="description"/>
-<meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots"/>
-<link href="https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html" rel="canonical"/>
-<link href="/assets/img/favicon.svg" rel="icon" type="image/svg+xml"/>
-<link href="/manifest.webmanifest" rel="manifest"/>
-<meta content="Calculadoras México" name="application-name"/>
-<meta content="yes" name="apple-mobile-web-app-capable"/>
-<meta content="Calculadoras MX" name="apple-mobile-web-app-title"/>
-<meta content="#6c55e1" name="theme-color"/>
-<meta content="es_MX" property="og:locale"/>
-<meta content="website" property="og:type"/>
-<meta content="Calculadora IVA 16%: agregar, quitar y separar" property="og:title"/>
-<meta content="Calcula IVA, agrega 16% o separa subtotal e impuesto de un precio final. Revisa fórmulas, ejemplos y el desglose del resultado." property="og:description"/>
-<meta content="https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html" property="og:url"/>
-<meta content="Calculadoras México" property="og:site_name"/>
-<meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" property="og:image"/>
-<meta content="summary_large_image" name="twitter:card"/>
-<meta content="Calculadora IVA 16%: agregar, quitar y separar" name="twitter:title"/>
-<meta content="Calcula IVA, agrega 16% o separa subtotal e impuesto de un precio final. Revisa fórmulas, ejemplos y el desglose del resultado." name="twitter:description"/>
-<meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" name="twitter:image"/>
-<link href="/styles-v5628.css?v=5.6.28" rel="stylesheet"/>
-<script>document.documentElement.dataset.theme=localStorage.getItem('cm-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')</script>
-<link href="/ziro-theme-v5635.css?v=5.6.35" rel="stylesheet"/></head>
-<body class="ziro-site" data-calc="iva" data-v5638="production-inlinks">
+<meta content="Calcula IVA, agrega 16% o separa subtotal e impuesto de un precio final. Revisa fórmulas, ejemplos y el desglose del resultado." name="description">
+<meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots">
+<link href="https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html" rel="canonical">
+<link href="/assets/img/favicon.svg" rel="icon" type="image/svg+xml">
+<link href="/manifest.webmanifest" rel="manifest">
+<meta content="Calculadoras México" name="application-name">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="Calculadoras MX" name="apple-mobile-web-app-title">
+<meta content="#5542b5" name="theme-color">
+<meta content="es_MX" property="og:locale">
+<meta content="website" property="og:type">
+<meta content="Calculadora IVA 16%: agregar, quitar y separar" property="og:title">
+<meta content="Calcula IVA, agrega 16% o separa subtotal e impuesto de un precio final. Revisa fórmulas, ejemplos y el desglose del resultado." property="og:description">
+<meta content="https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html" property="og:url">
+<meta content="Calculadoras México" property="og:site_name">
+<meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" property="og:image">
+<meta content="summary_large_image" name="twitter:card">
+<meta content="Calculadora IVA 16%: agregar, quitar y separar" name="twitter:title">
+<meta content="Calcula IVA, agrega 16% o separa subtotal e impuesto de un precio final. Revisa fórmulas, ejemplos y el desglose del resultado." name="twitter:description">
+<meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" name="twitter:image">
+<link href="/styles-v5628.css?v=5.6.28" rel="stylesheet">
+<script>try{document.documentElement.dataset.theme=localStorage.getItem('cm-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script>
+<link href="/assets/css/interface-v570.css?v=5.7.0" rel="stylesheet"></head>
+<body class="ziro-site cm-ui" data-calc="iva" data-v5638="production-inlinks">
 <a class="skip" href="#contenido">Saltar al contenido</a>
 <header class="site-header">
 <div class="header-inner">
 <a aria-label="Ir al inicio" class="brand" href="/">
-<img alt="Calculadoras México" class="logo-img" decoding="async" fetchpriority="high" height="60" src="/assets/img/logo.svg" width="280"/>
-</a>
-<nav aria-label="Navegación principal" class="main-nav">
+<img src="/assets/img/logo-mark.svg" alt="" width="40" height="40" class="cm-logo-mark"><span class="cm-wordmark">Calculadoras<strong>México</strong></span></a>
+<nav aria-label="Navegación principal" class="main-nav" id="main-navigation">
 <a class="" href="/">Inicio</a>
-<a class="active" href="/calculadoras.html">Calculadoras</a>
+<a class="active" href="/calculadoras.html" aria-current="page">Calculadoras</a>
 <a href="/simuladores.html">Simuladores</a>
 <a class="" href="/articulos.html">Artículos</a>
 <a href="/acerca-de.html">Acerca de</a>
@@ -48,12 +46,12 @@
 <button aria-label="Cambiar tema" class="icon-button" data-theme-toggle="" type="button">
 <span data-theme-icon="">🌙</span>
 </button>
-<button aria-expanded="false" aria-label="Abrir menú" class="icon-button menu-toggle" data-menu-toggle="" type="button">☰</button>
+<button aria-expanded="false" aria-label="Abrir menú" class="icon-button menu-toggle" data-menu-toggle="" type="button" aria-controls="main-navigation">☰</button>
 </div>
 </div>
 </header>
 <main id="contenido">
-<nav class="breadcrumb">
+<nav class="breadcrumb" aria-label="Ruta de navegación">
 <a href="/">Inicio</a>
 <span>›</span>
 <a href="/calculadoras.html">Calculadoras</a>
@@ -69,16 +67,16 @@
 <button aria-pressed="false" class="favorite-page" data-favorite="iva" type="button">
 <span data-favorite-icon="">☆</span> <span data-favorite-label="">Guardar</span>
 </button>
-</header>
+<nav class="cm-page-shortcuts" aria-label="En esta página"><a href="#calculadora">Ir a la calculadora</a><a href="#guia-del-calculo">Guía y referencias</a></nav></header>
 <div class="calc-layout">
-<section aria-label="Formulario de cálculo" class="calc-box">
-<div class="form-group">
+<section aria-label="Formulario de cálculo" class="calc-box" id="calculadora">
+<h2 class="cm-form-title">Datos para el cálculo</h2><p class="cm-form-note">Revisa los datos y pulsa Calcular para ver el desglose.</p><div class="form-group">
 <label for="cantidad">Cantidad</label>
-<input id="cantidad" inputmode="decimal" min="0.01" step="0.01" type="number" value="1000"/>
+<input id="cantidad" inputmode="decimal" min="0.01" step="0.01" type="number" value="1000">
 </div>
 <div class="form-group">
 <label for="tasa">Tasa de IVA (%)</label>
-<input id="tasa" inputmode="decimal" min="0" step="0.01" type="number" value="16"/>
+<input id="tasa" inputmode="decimal" min="0" step="0.01" type="number" value="16">
 </div>
 <div class="form-group">
 <label for="operacion">Operación</label>
@@ -93,23 +91,16 @@
 <button class="reset-button" data-form-reset="" type="button">Limpiar</button>
 </div>
 <small class="form-state" data-form-state="">Los datos se guardan automáticamente en este dispositivo.</small>
-<div aria-live="polite" class="result">
+<div aria-live="polite" class="result" id="resultado" tabindex="-1" aria-label="Resultado del cálculo">
 <span>Completa los datos y presiona Calcular.</span>
 </div>
 </section>
 <aside class="side-box">
 <h2>Cómo calcular IVA al 16% en México</h2>
-<ul>
-<li>Forma parte de un catálogo de 50 herramientas.</li>
-<li>Encuentra herramientas relacionadas.</li>
-<li>Recupera y comparte tus escenarios.</li>
-<li>Visualiza y compara resultados.</li>
-<li>Exporta, copia o imprime el desglose.</li>
-</ul>
-<p class="privacy-note">🔒 Los datos se procesan en tu navegador y no se envían a un servidor.</p>
+<ol><li>Introduce los datos solicitados y comprueba sus unidades o periodo.</li><li>Pulsa Calcular y revisa el resultado principal y su desglose.</li><li>Consulta la explicación y los supuestos antes de utilizar el resultado.</li></ol><p class="privacy-note">🔒 Los datos se procesan en tu navegador y no se envían a un servidor.</p>
 </aside>
 </div>
-<section class="content-box semantic-intent" data-seo-intent="true">
+<section class="content-box semantic-intent" data-seo-intent="true" id="guia-del-calculo">
 <h2>Qué puedes calcular sobre IVA</h2>
 <p>Calcula IVA en México para agregar 16%, quitarlo de un precio final o separar subtotal e impuesto. La herramienta sirve para resolver rápidamente operaciones comunes de IVA con desglose.</p>
 <p class="semantic-note">También puede ayudarte si necesitas calcular IVA 16%, agregar IVA, quitar IVA o separar IVA de un precio.</p>
@@ -171,7 +162,7 @@
 </ul>
 </div>
 <aside class="source-note">
-<strong>Fuente oficial consultada:</strong> <a href="https://www.diputados.gob.mx/LeyesBiblio/ref/liva.htm" rel="noopener noreferrer">Ley del Impuesto al Valor Agregado vigente</a>, artículo 1 y demás aplicables.<br/>
+<strong>Fuente oficial consultada:</strong> <a href="https://www.diputados.gob.mx/LeyesBiblio/ref/liva.htm" rel="noopener noreferrer">Ley del Impuesto al Valor Agregado vigente</a>, artículo 1 y demás aplicables.<br>
 <span>Contenido educativo; no sustituye asesoría fiscal, contable, financiera o laboral.</span>
 </aside>
 <nav aria-label="Cálculos relacionados" class="context-links">
@@ -268,7 +259,7 @@
 <p class="table-note">Para retirar IVA de un precio final se divide entre 1.16; no se resta 16% directamente.</p>
 </section>
 <section class="content-box premium-guide">
-<span class="badge">Guía Premium</span>
+<span class="badge">Guía del cálculo</span>
 <h2>Metodología para calcular IVA</h2>
 <p>Para agregar IVA multiplica el subtotal por la tasa y suma el impuesto. Para quitarlo de un total divide entre 1 + tasa; no basta con restar 16%. La opción “calcular” muestra solamente el impuesto sobre la base capturada.</p>
 <h2>Ejemplos completos de IVA</h2>
@@ -465,20 +456,20 @@
 <div aria-hidden="true" aria-label="Buscador" aria-modal="true" class="search-dialog" role="dialog">
 <div class="search-panel">
 <div class="search-head">
-<input aria-label="Buscar en el sitio" class="global-search" placeholder="Busca ISR, finiquito, IVA..." type="search"/>
+<input aria-label="Buscar en el sitio" class="global-search" placeholder="Busca ISR, finiquito, IVA..." type="search">
 <button aria-label="Cerrar" class="icon-button modal-close" data-search-close="" type="button">✕</button>
 </div>
 <div class="search-results">
 </div>
 </div>
 </div>
-<script defer="" src="/assets/js/catalog.js?v=5.1.0">
+<script defer src="/assets/js/catalog.js?v=5.1.0">
 </script>
-<script defer="" src="/assets/js/common.js?v=5.1.0">
+<script defer src="/assets/js/common.js?v=5.7.0">
 </script>
-<script defer="" src="/_vercel/insights/script.js">
+<script defer src="/_vercel/insights/script.js">
 </script>
-<script defer="" src="/assets/js/calculators.js?v=5.5.5">
+<script defer src="/assets/js/calculators.js?v=5.5.5">
 </script>
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -522,5 +513,5 @@
   ]
 }</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cómo agrego 16%?","acceptedAnswer":{"@type":"Answer","text":"Multiplica el subtotal por 0.16 para el impuesto y por 1.16 para el total."}},{"@type":"Question","name":"¿Cómo lo quito?","acceptedAnswer":{"@type":"Answer","text":"Divide el total entre 1.16 y resta el subtotal al total."}},{"@type":"Question","name":"¿Por qué no resto 16%?","acceptedAnswer":{"@type":"Answer","text":"Porque ese porcentaje se calculó sobre el subtotal, no sobre el total."}},{"@type":"Question","name":"¿Tasa 0 y exento son iguales?","acceptedAnswer":{"@type":"Answer","text":"No. Su tratamiento fiscal es diferente."}},{"@type":"Question","name":"¿Siempre aplica 16%?","acceptedAnswer":{"@type":"Answer","text":"No. Depende de la operación y disposiciones aplicables."}},{"@type":"Question","name":"¿Cómo quito el IVA de un precio que ya lo incluye?","acceptedAnswer":{"@type":"Answer","text":"Si la tasa aplicable es 16%, divide el total entre 1.16 para obtener el subtotal; la diferencia es el IVA incluido."}},{"@type":"Question","name":"¿Todas las operaciones llevan IVA de 16%?","acceptedAnswer":{"@type":"Answer","text":"No. El tratamiento puede variar según la operación. Confirma la tasa o supuesto fiscal aplicable antes de usar una cifra."}},{"@type":"Question","name":"¿Retención de IVA es lo mismo que quitar IVA incluido?","acceptedAnswer":{"@type":"Answer","text":"No. Una retención es un concepto fiscal distinto; separar IVA incluido solo descompone matemáticamente subtotal e impuesto dentro de un total."}},{"@type":"Question","name":"¿Cómo quitar IVA de un precio?","acceptedAnswer":{"@type":"Answer","text":"Con tasa de 16%, divide el total entre 1.16. La diferencia entre total y subtotal es el IVA incluido."}},{"@type":"Question","name":"¿Por qué no debo restar 16% directamente?","acceptedAnswer":{"@type":"Answer","text":"Porque el 16% se calculó sobre el subtotal, no sobre el total que ya incluye el impuesto."}},{"@type":"Question","name":"¿Todas las operaciones llevan 16%?","acceptedAnswer":{"@type":"Answer","text":"No. El tratamiento depende del acto o actividad; confirma la tasa o supuesto aplicable."}},{"@type":"Question","name":"¿Retención de IVA es lo mismo?","acceptedAnswer":{"@type":"Answer","text":"No. La retención es un concepto fiscal diferente de separar IVA incluido."}}]}</script>
-</body>
+<script defer src="/assets/js/interface-v570.js?v=5.7.0"></script></body>
 </html>
