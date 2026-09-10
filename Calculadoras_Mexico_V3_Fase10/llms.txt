@@ -34,3 +34,9 @@ Los resultados son estimaciones informativas. Las páginas fiscales, laborales y
 - ISR semanal, quincenal y mensual: qué tarifa usar: https://calculadora-isr-mexico.vercel.app/articulos/isr-semanal-quincenal-mensual.html
 - Asimilados a salarios: qué son y cómo revisar el ISR: https://calculadora-isr-mexico.vercel.app/articulos/asimilados-a-salarios-isr.html
 - Indemnización por despido: qué revisar en la liquidación: https://calculadora-isr-mexico.vercel.app/articulos/despido-indemnizacion-liquidacion.html
+
+## Guías V5.9.0
+- Cómo calcular el ISR de tu sueldo en México: https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-isr-sueldo.html
+- Descuentos de nómina: ISR, IMSS y sueldo neto: https://calculadora-isr-mexico.vercel.app/articulos/descuentos-nomina-isr-imss.html
+- Ejemplo de cálculo de finiquito paso a paso: https://calculadora-isr-mexico.vercel.app/articulos/ejemplo-calculo-finiquito.html
+- Finiquito por antigüedad: qué cambia con los años trabajados: https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-antiguedad.html

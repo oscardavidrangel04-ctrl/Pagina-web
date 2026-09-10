@@ -1,0 +1,552 @@
+[
+  {
+    "slug": "prestamo",
+    "equal": true,
+    "rows": 4,
+    "result": {
+      "label": "Pago total",
+      "value": "$130,148.62",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "tiempo-ahorro",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Tiempo estimado",
+      "value": "30 meses",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "porcentaje",
+    "equal": true,
+    "rows": 1,
+    "result": {
+      "label": "20% de 100",
+      "value": "20.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "aguinaldo",
+    "equal": true,
+    "rows": 9,
+    "result": {
+      "label": "Aguinaldo estimado",
+      "value": "$7,500.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "pago-quincenal",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Pago quincenal",
+      "value": "$7,500.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "aguinaldo-proporcional",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Aguinaldo proporcional",
+      "value": "$3,698.63",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "isr",
+    "equal": true,
+    "rows": 8,
+    "result": {
+      "label": "Neto estimado",
+      "value": "$17,616.35",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "ahorro-mensual",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Ahorro acumulado",
+      "value": "$161,852.17",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "vacaciones",
+    "equal": true,
+    "rows": 4,
+    "result": {
+      "label": "Referencia total",
+      "value": "$7,500.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "descuento",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Precio final",
+      "value": "$800.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "bono",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Total bruto",
+      "value": "$16,500.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "iva",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Total",
+      "value": "$1,160.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "punto-equilibrio",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Unidades necesarias",
+      "value": "200",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "salario-diario",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Salario diario",
+      "value": "$500.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "conversion-longitud",
+    "equal": true,
+    "rows": 2,
+    "result": {
+      "label": "Resultado",
+      "value": "0.001 kilómetros",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "edad",
+    "equal": true,
+    "rows": 4,
+    "result": {
+      "label": "Días transcurridos",
+      "value": "9,708",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "vacaciones-proporcionales",
+    "equal": true,
+    "rows": 4,
+    "result": {
+      "label": "Total estimado",
+      "value": "$3,698.63",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "precio-sin-descuento",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Precio original",
+      "value": "$1,000.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "roi",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "ROI",
+      "value": "25.00%",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "hipoteca",
+    "equal": true,
+    "rows": 4,
+    "result": {
+      "label": "Mensualidad",
+      "value": "$12,386.26",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "precio-venta",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Precio de venta",
+      "value": "$910.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "horas-extra",
+    "equal": true,
+    "rows": 6,
+    "result": {
+      "label": "Total extraordinario",
+      "value": "$500.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "regla-tres",
+    "equal": true,
+    "rows": 2,
+    "result": {
+      "label": "Valor desconocido",
+      "value": "20",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "retencion-iva",
+    "equal": true,
+    "rows": 4,
+    "result": {
+      "label": "Total después de retención",
+      "value": "$10,533.33",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "propina",
+    "equal": true,
+    "rows": 7,
+    "result": {
+      "label": "Total por persona",
+      "value": "$440.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "credito-automotriz",
+    "equal": true,
+    "rows": 4,
+    "result": {
+      "label": "Mensualidad",
+      "value": "$6,801.67",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "costo-combustible",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Costo del recorrido",
+      "value": "$600.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "costo-unidad",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Costo por unidad",
+      "value": "$150.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "salario-bruto",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Salario bruto estimado",
+      "value": "$20,000.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "iva-incluido",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "IVA incluido",
+      "value": "$160.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "reparto-cuenta",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Monto por persona",
+      "value": "$300.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "interes-simple",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Monto final",
+      "value": "$11,000.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "salario-diario-integrado",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "SDI estimado",
+      "value": "$524.66",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "rendimiento-anualizado",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Rendimiento anualizado",
+      "value": "21.32%",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "comision",
+    "equal": true,
+    "rows": 4,
+    "result": {
+      "label": "Ingreso total",
+      "value": "$10,500.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "salario-neto",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Salario neto estimado",
+      "value": "$17,000.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "liquidacion",
+    "equal": true,
+    "rows": 4,
+    "result": {
+      "label": "Referencia total",
+      "value": "$75,000.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "cetes",
+    "equal": true,
+    "rows": 4,
+    "result": {
+      "label": "Rendimiento anual simple",
+      "value": "39.76%",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "diferencia-fechas",
+    "equal": true,
+    "rows": 4,
+    "result": {
+      "label": "Diferencia total",
+      "value": "211 días",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "tasa-efectiva",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Tasa efectiva anual",
+      "value": "12.6825%",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "finiquito",
+    "equal": true,
+    "rows": 5,
+    "result": {
+      "label": "Finiquito estimado",
+      "value": "$9,948.63",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "ptu",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "PTU estimada",
+      "value": "$6,000.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "ahorro-meta",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Ahorro mensual necesario",
+      "value": "$3,750.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "prima-vacacional",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Prima vacacional",
+      "value": "$1,500.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "aumento-salarial",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Nuevo salario",
+      "value": "$16,500.00",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "interes-compuesto",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Monto final",
+      "value": "$16,105.10",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "margen-ganancia",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Margen sobre venta",
+      "value": "30.00%",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "inflacion",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Poder adquisitivo estimado",
+      "value": "$8,219.27",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "salario-hora",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Salario por hora",
+      "value": "$72.12",
+      "total": true
+    },
+    "error": null
+  },
+  {
+    "slug": "prima-dominical",
+    "equal": true,
+    "rows": 3,
+    "result": {
+      "label": "Prima total",
+      "value": "$500.00",
+      "total": true
+    },
+    "error": null
+  }
+]

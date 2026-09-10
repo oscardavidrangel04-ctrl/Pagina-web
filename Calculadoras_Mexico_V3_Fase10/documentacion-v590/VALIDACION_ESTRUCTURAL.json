@@ -1,0 +1,15 @@
+{
+  "html_files": 133,
+  "sitemap_urls": 105,
+  "previous_urls": 101,
+  "new_guides": 4,
+  "json_ld_validated": 194,
+  "local_references_checked": 8441,
+  "calculation_js_byte_identical": true,
+  "robots_and_vercel_unchanged": true,
+  "errors": [],
+  "calculation_cases_equal": 50,
+  "action_handler_cases_passed": 50,
+  "new_urls_click_depth_from_home": 2,
+  "status": "PASS"
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "prestamo",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "tiempo-ahorro",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "porcentaje",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "aguinaldo",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "pago-quincenal",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "aguinaldo-proporcional",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "isr",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "ahorro-mensual",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "vacaciones",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "descuento",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "bono",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "iva",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "punto-equilibrio",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "salario-diario",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "conversion-longitud",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "edad",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "vacaciones-proporcionales",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "precio-sin-descuento",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "roi",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "hipoteca",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "precio-venta",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "horas-extra",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "regla-tres",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "retencion-iva",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "propina",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "credito-automotriz",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "costo-combustible",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "costo-unidad",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "salario-bruto",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "iva-incluido",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "reparto-cuenta",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "interes-simple",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "salario-diario-integrado",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "rendimiento-anualizado",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "comision",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "salario-neto",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "liquidacion",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "cetes",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "diferencia-fechas",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "tasa-efectiva",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "finiquito",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "ptu",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "ahorro-meta",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "prima-vacacional",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "aumento-salarial",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "interes-compuesto",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "margen-ganancia",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "inflacion",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "salario-hora",
+    "csv": true,
+    "copy": true,
+    "print": true
+  },
+  {
+    "slug": "prima-dominical",
+    "csv": true,
+    "copy": true,
+    "print": true
+  }
+]
