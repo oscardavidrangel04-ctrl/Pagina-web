@@ -1,0 +1,27 @@
+{
+  "html_files": 129,
+  "indexable_sitemap_urls": 101,
+  "previous_sitemap_urls": 91,
+  "new_articles": 10,
+  "json_ld_blocks_validated": 190,
+  "local_references_checked": 8227,
+  "new_article_click_depth": {
+    "https://calculadora-isr-mexico.vercel.app/articulos/que-es-ptu.html": 2,
+    "https://calculadora-isr-mexico.vercel.app/articulos/derecho-ptu-si-renuncio.html": 2,
+    "https://calculadora-isr-mexico.vercel.app/articulos/limite-ptu-tres-meses.html": 2,
+    "https://calculadora-isr-mexico.vercel.app/articulos/ptu-exenta-isr.html": 2,
+    "https://calculadora-isr-mexico.vercel.app/articulos/que-es-salario-diario-integrado.html": 2,
+    "https://calculadora-isr-mexico.vercel.app/articulos/factor-integracion-sdi.html": 2,
+    "https://calculadora-isr-mexico.vercel.app/articulos/convertir-salario-mensual-diario-hora.html": 2,
+    "https://calculadora-isr-mexico.vercel.app/articulos/isr-semanal-quincenal-mensual.html": 2,
+    "https://calculadora-isr-mexico.vercel.app/articulos/asimilados-a-salarios-isr.html": 2,
+    "https://calculadora-isr-mexico.vercel.app/articulos/despido-indemnizacion-liquidacion.html": 2
+  },
+  "all_canonical_orphans": [],
+  "max_click_depth_from_home": 2,
+  "calculation_scripts_byte_identical": true,
+  "sole_css_change": "Contain page-head width within responsive wrapper",
+  "existing_metadata_and_content_preserved": true,
+  "errors": [],
+  "warnings": []
+}

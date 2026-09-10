@@ -1,4 +1,4 @@
-const CACHE='calculadoras-mx-v5.7.0-interface';
+const CACHE='calculadoras-mx-v5.8.0-clusters';
 const CORE=['/','/index.html','/calculadoras.html','/simuladores.html','/articulos.html','/offline.html','/styles-v5628.css?v=5.6.28','/assets/css/interface-v570.css?v=5.7.0','/assets/js/catalog.js?v=5.1.0','/assets/js/common.js?v=5.7.0','/assets/js/interface-v570.js?v=5.7.0','/assets/img/logo.svg','/assets/img/favicon.svg'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
