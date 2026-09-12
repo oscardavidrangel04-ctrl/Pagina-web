@@ -1,0 +1,32 @@
+{
+  "version": "5.11.0",
+  "date": "2026-09-12",
+  "status": "PASS",
+  "integrity": {
+    "html_pages_checked": 137,
+    "sitemap_urls_checked": 109,
+    "broken_internal_links": 0,
+    "invalid_json_ld": 0,
+    "duplicate_primary_canonicals": 0,
+    "duplicate_ids": 0,
+    "robots_txt_correct": true,
+    "new_urls_in_sitemap": 2
+    ,"local_http_routes_200": 7
+  },
+  "functional_protection": {
+    "javascript_files_byte_identical_to_v5_10_0": true,
+    "javascript_syntax_check": "PASS",
+    "sdi_inline_scripts_identical_to_v5_10_0": true,
+    "sdi_form_controls_identical_to_v5_10_0": true,
+    "other_calculator_html_files_byte_identical": true
+  },
+  "new_content": {
+    "como_calcular_sdi_words": 943,
+    "que_es_sbc_words": 1061,
+    "unique_h1_and_canonical": true,
+    "schema_types": ["WebPage", "BlogPosting", "BreadcrumbList", "FAQPage"]
+  },
+  "known_inherited_conditions": [
+    "Las páginas fallback históricas comparten canonical con su página primaria."
+  ]
+}
