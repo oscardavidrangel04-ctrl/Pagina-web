@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-2026.html</loc><lastmod>2026-09-13</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-2026.html</loc><lastmod>2026-09-19</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/subsidio-empleo-2026.html</loc><lastmod>2026-09-13</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/declaracion-anual-asalariados-2026.html</loc><lastmod>2026-09-13</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/deducciones-personales-2026.html</loc><lastmod>2026-09-13</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
@@ -164,4 +164,70 @@
   <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-para-mascota.html</loc><lastmod>2026-09-17</lastmod><priority>0.70</priority></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-para-boda.html</loc><lastmod>2026-09-17</lastmod><priority>0.70</priority></url>
   <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/fondo-mantenimiento-hogar.html</loc><lastmod>2026-09-17</lastmod><priority>0.70</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/tabla-isr-2026.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/cuanto-quitan-isr-sueldo.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/isr-a-cargo-asalariado.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-diario-mensual-2026.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-frontera-norte-2026.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-dobles-triples.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/cuantas-horas-extra-semana.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/me-pueden-obligar-horas-extra.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/cuanto-finiquito-un-ano-renuncia.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/me-pueden-descontar-finiquito.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/trabajadores-sin-derecho-reparto-utilidades.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/es-obligatorio-reparto-utilidades.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/dias-vacaciones-por-antiguedad-2026.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-30-dias-aprobado-vigencia.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/es-legal-pago-nomina-dos-partes.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/credito-infonavit-terreno.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/puntos-credito-infonavit.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/termine-pagar-credito-infonavit.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/credito-infonavit-desempleo.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/pago-incapacidad-imss.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/como-cobrar-incapacidad-imss.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/desde-que-dia-paga-imss-incapacidad.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/pension-imss-ley-73.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/semanas-cotizadas-pension-imss.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-pensionados-imss.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/visor-deducciones-personales-sat.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/que-es-despido-injustificado.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/cuanto-toca-despido-injustificado.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/demanda-despido-injustificado.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/prima-antiguedad-cuando-aplica.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/incapacidad-imss.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/prima-antiguedad.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/declaracion-mensual-sat.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/persona-fisica-actividad-empresarial.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/que-son-honorarios.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/recibo-honorarios.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/retencion-iva-dos-terceras-partes.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/a-quien-retencion-iva.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/retencion-isr-resico.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/calculo-retencion-isr.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/xml-factura-electronica.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/plazo-solicitar-factura.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/como-sacar-constancia-situacion-fiscal.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/para-que-sirve-constancia-situacion-fiscal.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/como-saber-saldo-favor-sat.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/cuanto-tarda-sat-devolver-saldo-favor.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/devolucion-impuestos-sat.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/que-es-resico.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/quienes-pueden-resico.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/retenciones-isr-iva-honorarios.html</loc><lastmod>2026-09-19</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-aguinaldo.html</loc><lastmod>2026-09-20</lastmod><priority>0.85</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/que-es-seguro-gastos-medicos-mayores.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/cuanto-cuesta-seguro-gastos-medicos-mayores.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/que-cubre-seguro-gastos-medicos-mayores.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/deducible-vs-coaseguro.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/como-leer-poliza-gastos-medicos.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/seguro-medico-familiar.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/seguro-vida-temporal.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/seguro-dotal.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/seguro-para-mascotas.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/verificar-agente-seguros-cnsf.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/deducible-coaseguro.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/calculadoras/cobertura-seguro-vida.html</loc><lastmod>2026-09-20</lastmod><priority>0.75</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/incapacidades-afectan-aguinaldo.html</loc><lastmod>2026-09-20</lastmod><priority>0.72</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-pensionados-issste.html</loc><lastmod>2026-09-20</lastmod><priority>0.72</priority></url>
+  <url><loc>https://calculadora-isr-mexico.vercel.app/articulos/pensionados-viudez-reciben-aguinaldo.html</loc><lastmod>2026-09-20</lastmod><priority>0.72</priority></url>
 </urlset>

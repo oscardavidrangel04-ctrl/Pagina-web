@@ -498,6 +498,11 @@
       "source": "/articulos/articulos.html",
       "destination": "/articulos.html",
       "permanent": true
+    },
+    {
+      "source": "/articulos/que-es-el-finiquito.html",
+      "destination": "/articulos/que-incluye-finiquito.html",
+      "permanent": true
     }
   ],
   "rewrites": [
