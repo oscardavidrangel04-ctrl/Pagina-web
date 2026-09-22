@@ -38,6 +38,8 @@ function setTag(html, pattern, replacement) {
 }
 
 for (const [file, block] of Object.entries(improvements)) {
+  // Esta guía se consolidó manualmente después del informe; no reinsertar contenido repetido.
+  if (file === 'articulos/dias-de-aguinaldo.html') continue;
   if (!fs.existsSync(file)) throw new Error(`No existe ${file}`);
   let html = fs.readFileSync(file, 'utf8');
   html = html.replace(new RegExp(`<!-- ${MARKER}_START -->[\\s\\S]*?<!-- ${MARKER}_END -->`, 'g'), '');
