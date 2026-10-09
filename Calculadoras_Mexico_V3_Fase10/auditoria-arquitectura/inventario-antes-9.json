@@ -1,0 +1,681 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/devolucion-impuestos-sat.html",
+    "file": "articulos\\devolucion-impuestos-sat.html",
+    "served_file": "articulos\\devolucion-impuestos-sat.html",
+    "title": "Devolución de impuestos SAT: solicitud, requisitos y seguimiento",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/devolucion-impuestos-sat.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/devolucion-impuestos-sat.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Abrir herramienta o guía principal",
+      "Abrir recurso relacionado",
+      "Devolución de impuestos SAT: solicitud, requisitos y seguimiento",
+      "Leer guía →"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-saber-saldo-favor-sat.html",
+      "/articulos/cuanto-tarda-sat-devolver-saldo-favor.html",
+      "/articulos/declaracion-anual-asalariados-2026.html",
+      "/articulos/deducciones-personales-2026.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/dias-de-aguinaldo.html",
+    "file": "articulos\\dias-de-aguinaldo.html",
+    "served_file": "fallback-dias-de-aguinaldo.html",
+    "title": "Días de Aguinaldo por Ley en México | Cuántos corresponden",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/dias-de-aguinaldo.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 24,
+    "path": "/articulos/dias-de-aguinaldo.html",
+    "depth": 2,
+    "unique_inlinks": 44,
+    "anchors": [
+      "Días de aguinaldo por ley",
+      "Días de aguinaldo por ley\nConsulta cuántos días corresponden y cómo interpretarlos.",
+      "Días de aguinaldo por leyConsulta cuántos días corresponden y cómo interpretarlos.",
+      "Días de aguinaldo por leyCuántos días corresponden y cómo se interpretan.",
+      "Días de aguinaldo por leyRevisa cuántos días corresponden.",
+      "Leer guía →",
+      "dias de aguinaldo"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-6-meses.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/aguinaldo-por-antiguedad.html",
+      "/articulos/aguinaldo-por-meses.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/como-calcular-aguinaldo.html",
+      "/articulos/como-calcular-pago-vacaciones.html",
+      "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/horas-extra-2026.html",
+      "/articulos/isr-prima-vacacional.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/me-pueden-negar-vacaciones.html",
+      "/articulos/que-es-el-aguinaldo.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/que-incluye-finiquito.html",
+      "/articulos/recibo-de-aguinaldo.html",
+      "/articulos/salario-bruto-neto.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/aumento-salarial.html",
+      "/calculadoras/bono.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/ptu.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-neto.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/dias-festivos-obligatorios-2026.html",
+    "file": "articulos\\dias-festivos-obligatorios-2026.html",
+    "served_file": "articulos\\dias-festivos-obligatorios-2026.html",
+    "title": "Días festivos obligatorios 2026 en México: fechas y pago",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/dias-festivos-obligatorios-2026.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/dias-festivos-obligatorios-2026.html",
+    "depth": null,
+    "unique_inlinks": 0,
+    "anchors": [],
+    "link_contexts": [],
+    "inlink_sources": [],
+    "cluster": "prestaciones",
+    "subtopic": "Vacaciones y descanso"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/dias-vacaciones-por-antiguedad-2026.html",
+    "file": "articulos\\dias-vacaciones-por-antiguedad-2026.html",
+    "served_file": "articulos\\dias-vacaciones-por-antiguedad-2026.html",
+    "title": "Días de vacaciones por año y antigüedad: tabla 2026",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/dias-vacaciones-por-antiguedad-2026.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 15,
+    "path": "/articulos/dias-vacaciones-por-antiguedad-2026.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Días de vacaciones por año y antigüedad",
+      "Días de vacaciones por año y antigüedad: tabla 2026"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/vacaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Vacaciones y descanso"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/diferencia-clabe-numero-tarjeta-cuenta.html",
+    "file": "articulos\\diferencia-clabe-numero-tarjeta-cuenta.html",
+    "served_file": "articulos\\diferencia-clabe-numero-tarjeta-cuenta.html",
+    "title": "Diferencia entre CLABE, número de tarjeta y cuenta",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/diferencia-clabe-numero-tarjeta-cuenta.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/diferencia-clabe-numero-tarjeta-cuenta.html",
+    "depth": 5,
+    "unique_inlinks": 5,
+    "anchors": [
+      "CLABE, cuenta y número de tarjeta",
+      "CLABE, tarjeta y cuenta",
+      "diferencia entre CLABE, número de tarjeta y cuenta",
+      "diferencia entre CLABE, tarjeta y cuenta"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-hacer-transferencia-spei.html",
+      "/articulos/cuanto-tarda-transferencia-spei.html",
+      "/articulos/diferencia-tarjeta-credito-debito.html",
+      "/articulos/que-es-transferencia-spei.html",
+      "/articulos/transferencia-spei-cuenta-equivocada.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Elegir y utilizar tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/diferencia-ley-73-ley-97.html",
+    "file": "articulos\\diferencia-ley-73-ley-97.html",
+    "served_file": "articulos\\diferencia-ley-73-ley-97.html",
+    "title": "Ley 73 vs Ley 97 del IMSS: diferencias para pensionarse | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/diferencia-ley-73-ley-97.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/diferencia-ley-73-ley-97.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Ley 73 vs Ley 97 del IMSS: diferencias para pensionarse"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/pension-imss-ley-97.html"
+    ],
+    "cluster": "retiro",
+    "subtopic": "AFORE y pensiones"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/diferencia-tarjeta-credito-debito.html",
+    "file": "articulos\\diferencia-tarjeta-credito-debito.html",
+    "served_file": "articulos\\diferencia-tarjeta-credito-debito.html",
+    "title": "Diferencia entre tarjeta de crédito y débito",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/diferencia-tarjeta-credito-debito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/diferencia-tarjeta-credito-debito.html",
+    "depth": null,
+    "unique_inlinks": 1,
+    "anchors": [
+      "crédito vs débito"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/tarjetas-departamentales-como-funcionan.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Elegir y utilizar tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/disposicion-efectivo-tarjeta-credito.html",
+    "file": "articulos\\disposicion-efectivo-tarjeta-credito.html",
+    "served_file": "articulos\\disposicion-efectivo-tarjeta-credito.html",
+    "title": "Disposición de efectivo con tarjeta de crédito",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/disposicion-efectivo-tarjeta-credito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/disposicion-efectivo-tarjeta-credito.html",
+    "depth": null,
+    "unique_inlinks": 1,
+    "anchors": [
+      "disposición de efectivo"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/se-puede-transferir-dinero-tarjeta-credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Elegir y utilizar tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/diversificar-inversiones-principiantes.html",
+    "file": "articulos\\diversificar-inversiones-principiantes.html",
+    "served_file": "articulos\\diversificar-inversiones-principiantes.html",
+    "title": "Diversificar inversiones para principiantes",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/diversificar-inversiones-principiantes.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/diversificar-inversiones-principiantes.html",
+    "depth": 4,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Diversifica según tus metas"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html"
+    ],
+    "cluster": "inversion",
+    "subtopic": "Plazos, tasas y rendimientos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/donde-ahorrar-dinero-y-ganar-intereses.html",
+    "file": "articulos\\donde-ahorrar-dinero-y-ganar-intereses.html",
+    "served_file": "articulos\\donde-ahorrar-dinero-y-ganar-intereses.html",
+    "title": "Dónde ahorrar dinero y ganar intereses en México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/donde-ahorrar-dinero-y-ganar-intereses.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 5,
+    "path": "/articulos/donde-ahorrar-dinero-y-ganar-intereses.html",
+    "depth": 6,
+    "unique_inlinks": 4,
+    "anchors": [
+      "dónde ahorrar y ganar intereses",
+      "otras opciones de ahorro"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-afecta-inflacion-ahorro.html",
+      "/articulos/pagare-bancario-como-funciona.html",
+      "/articulos/plantilla-para-ahorrar-dinero.html",
+      "/articulos/que-hacer-con-dinero-ahorrado.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/donde-guardar-fondo-emergencia.html",
+    "file": "articulos\\donde-guardar-fondo-emergencia.html",
+    "served_file": "articulos\\donde-guardar-fondo-emergencia.html",
+    "title": "Dónde guardar el fondo de emergencia",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/donde-guardar-fondo-emergencia.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/donde-guardar-fondo-emergencia.html",
+    "depth": 5,
+    "unique_inlinks": 6,
+    "anchors": [
+      "dónde guardar el fondo de emergencia",
+      "dónde guardar un fondo de emergencia",
+      "dónde guardar una reserva",
+      "dónde guardarlo",
+      "dónde mantener una reserva para imprevistos"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/calcular-fondo-emergencia.html",
+      "/articulos/cuenta-ahorro-en-dolares.html",
+      "/articulos/cuenta-de-ahorro.html",
+      "/articulos/liquidez-inversion-que-significa.html",
+      "/articulos/pagar-deudas-o-invertir.html",
+      "/articulos/plan-para-ahorrar-dinero.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Reservas para imprevistos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/ejemplo-calculo-finiquito.html",
+    "file": "articulos\\ejemplo-calculo-finiquito.html",
+    "served_file": "articulos\\ejemplo-calculo-finiquito.html",
+    "title": "Ejemplo de cálculo de finiquito paso a paso | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/ejemplo-calculo-finiquito.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 19,
+    "path": "/articulos/ejemplo-calculo-finiquito.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "Ejemplo de cálculo de finiquito paso a paso",
+      "ejemplo de cálculo de finiquito",
+      "ejemplo de cálculo de finiquito paso a paso",
+      "ejemplo paso a paso"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/finiquito-por-antiguedad.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/que-es-el-finiquito.html",
+      "/articulos/que-incluye-finiquito.html",
+      "/calculadoras/finiquito.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Finiquito y renuncia"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/es-legal-pago-nomina-dos-partes.html",
+    "file": "articulos\\es-legal-pago-nomina-dos-partes.html",
+    "served_file": "articulos\\es-legal-pago-nomina-dos-partes.html",
+    "title": "¿Es legal que me paguen la nómina en dos partes?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/es-legal-pago-nomina-dos-partes.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 15,
+    "path": "/articulos/es-legal-pago-nomina-dos-partes.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "¿Es legal que me paguen la nómina en dos partes?"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/calculadoras/salario-neto.html"
+    ],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/es-obligatorio-reparto-utilidades.html",
+    "file": "articulos\\es-obligatorio-reparto-utilidades.html",
+    "served_file": "articulos\\es-obligatorio-reparto-utilidades.html",
+    "title": "¿Es obligatorio el reparto de utilidades en México?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/es-obligatorio-reparto-utilidades.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 15,
+    "path": "/articulos/es-obligatorio-reparto-utilidades.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "¿Es obligatorio el reparto de utilidades en México?"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/que-es-ptu.html",
+      "/articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+      "/calculadoras/ptu.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Reparto de utilidades"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/es-seguro-invertir-en-cetes.html",
+    "file": "articulos\\es-seguro-invertir-en-cetes.html",
+    "served_file": "articulos\\es-seguro-invertir-en-cetes.html",
+    "title": "¿Es seguro invertir en CETES? Riesgos y límites",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/es-seguro-invertir-en-cetes.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 5,
+    "path": "/articulos/es-seguro-invertir-en-cetes.html",
+    "depth": 6,
+    "unique_inlinks": 1,
+    "anchors": [
+      "si son seguros"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-invertir-en-cetes.html"
+    ],
+    "cluster": "seguros",
+    "subtopic": "Coberturas y costos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/factor-integracion-sdi.html",
+    "file": "articulos\\factor-integracion-sdi.html",
+    "served_file": "articulos\\factor-integracion-sdi.html",
+    "title": "Factor de integración 2026: fórmula, tabla y ejemplos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/factor-integracion-sdi.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 20,
+    "path": "/articulos/factor-integracion-sdi.html",
+    "depth": 2,
+    "unique_inlinks": 8,
+    "anchors": [
+      "Cuándo cambia el SDI o su factor",
+      "Cómo influye la prima en el factor de integración",
+      "Factor de integración 2026",
+      "Factor de integración SDIVer la fórmula →",
+      "Factor de integración del SDI: fórmula y ejemplos",
+      "Factor de integración y prestaciones superiores",
+      "factor de integración 2026",
+      "factor de integración con prestaciones superiores"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/bonos-salario-base-cotizacion.html",
+      "/articulos/como-calcular-prima-vacacional.html",
+      "/articulos/como-calcular-salario-diario-integrado.html",
+      "/articulos/que-es-salario-base-cotizacion.html",
+      "/articulos/que-es-salario-diario-integrado.html",
+      "/calculadoras/aumento-salarial.html",
+      "/calculadoras/salario-diario-integrado.html"
+    ],
+    "cluster": "herramientas",
+    "subtopic": "Porcentajes, fechas y otros cálculos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/faltas-afectan-aguinaldo.html",
+    "file": "articulos\\faltas-afectan-aguinaldo.html",
+    "served_file": "articulos\\faltas-afectan-aguinaldo.html",
+    "title": "¿Las faltas afectan el aguinaldo? Qué revisar en el cálculo | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/faltas-afectan-aguinaldo.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/faltas-afectan-aguinaldo.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Revisar el caso de las faltas",
+      "Si las faltas afectan el aguinaldo"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/incapacidades-afectan-aguinaldo.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/fecha-corte-vs-fecha-pago.html",
+    "file": "articulos\\fecha-corte-vs-fecha-pago.html",
+    "served_file": "articulos\\fecha-corte-vs-fecha-pago.html",
+    "title": "Fecha de corte vs fecha límite de pago",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/fecha-corte-vs-fecha-pago.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/fecha-corte-vs-fecha-pago.html",
+    "depth": 5,
+    "unique_inlinks": 6,
+    "anchors": [
+      "Fecha de corte vs fecha de pago",
+      "corte frente a fecha de pago",
+      "fecha de corte vs fecha de pago",
+      "fecha de corte vs. fecha de pago"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-funciona-una-tarjeta-de-credito.html",
+      "/articulos/como-leer-estado-cuenta-tarjeta.html",
+      "/articulos/meses-sin-intereses-como-funcionan.html",
+      "/articulos/que-pasa-si-pago-antes-fecha-corte.html",
+      "/articulos/tarjetas-credito.html",
+      "/articulos/vale-la-pena-tarjeta-con-anualidad.html"
+    ],
+    "cluster": "herramientas",
+    "subtopic": "Porcentajes, fechas y otros cálculos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-personales-excel.html",
+    "file": "articulos\\finanzas-personales-excel.html",
+    "served_file": "articulos\\finanzas-personales-excel.html",
+    "title": "Plantilla de finanzas personales en Excel: columnas y fórmulas",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-personales-excel.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/finanzas-personales-excel.html",
+    "depth": 5,
+    "unique_inlinks": 3,
+    "anchors": [
+      "estructura de una plantilla de finanzas personales en Excel",
+      "finanzas personales en Excel",
+      "guía de columnas y fórmulas de Excel"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-organizar-finanzas-personales-excel.html",
+      "/articulos/dashboard-finanzas-personales.html",
+      "/articulos/presupuesto-personal.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-personales-para-principiantes.html",
+    "file": "articulos\\finanzas-personales-para-principiantes.html",
+    "served_file": "articulos\\finanzas-personales-para-principiantes.html",
+    "title": "Finanzas personales para principiantes | Guía fácil",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-personales-para-principiantes.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/finanzas-personales-para-principiantes.html",
+    "depth": 4,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Finanzas personales para principiantes",
+      "ruta de finanzas para principiantes"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-organizar-primer-sueldo.html",
+      "/articulos/finanzas-personales.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  }
+]

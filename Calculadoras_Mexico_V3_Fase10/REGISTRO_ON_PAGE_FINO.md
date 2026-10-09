@@ -1,5 +1,13 @@
 # Registro de páginas trabajadas con On Page Fino
 
+## Lote séptimo de diez — 2026-10-09 (mejoras locales realizadas)
+
+Seleccionadas por ausencia de mención de trabajo en este registro; no se afirma un nuevo cruce completo con el listado original de 239. URLs propias bajo articulos/: cuenta-ahorro-en-pareja.html, cuenta-ahorro-para-ninos.html, cuenta-ahorro-para-retiro.html, cuenta-ahorro-tradicional.html, cuenta-ahorro-vs-cuenta-corriente.html, cuenta-ahorro-vs-pagare-bancario.html, cuentas-ahorro-sin-comisiones.html, dashboard-finanzas-personales.html, declaracion-mensual-sat.html y aportaciones-voluntarias-afore.html.
+
+Estado: ZIP v4_lotes recibido y diez HTML locales ampliados. El scraper clasificó 59 referencias como válidas y cinco capturas propias como válidas. Se descartaron referencias de bloqueo, acceso y ayuda genérica; las otras cinco páginas propias se revisaron desde sus archivos locales, no como capturas exitosas. Cambios: aportaciones proporcionales en pareja; documentos y metas infantiles; distinción entre ahorro bancario y retiro; costos anuales; separación de cuentas operativas y metas; ejemplo de pagaré con tasa hipotética; costo real de cuentas sin comisiones; conciliación de un dashboard; comprobación de envío y pago SAT; seguimiento de depósitos AFORE. Conservados H1 existentes, añadidos H2/H3 pertinentes y Article a cinco páginas sin JSON-LD. Fechas de modificación actualizadas. No se copiaron tasas promocionales ni promesas de rentabilidad.
+
+Validación local: diez H1 únicos, todos los JSON-LD parseables y cero enlaces internos a archivos inexistentes. Sin publicación ni prueba visual integral. Siete tandas: 70 URLs distintas revisadas localmente, 69 modificadas y una revisada sin cambios. La pertenencia de las diez nuevas a la lista original de 239 sigue sin un nuevo cruce documental: 60 confirmadas en el conteo anterior y diez nuevas registradas; 169 pendientes sería el saldo si se confirma esa pertenencia. Base histórica de 102 separada, no sumada como inventario verificado del sitio.
+
 ## Segunda revisión por Search Console — 2026-10-08
 
 ZIP v4_lotes: 34 referencias utilizables (salario neto 9, automotriz 6, SDI 10, pago quincenal 9), cuatro capturas propias válidas. Se revisaron matrices y HTML local. Se descartaron temas de tarjeta de crédito ajenos a automotriz y expansión fiscal no compatible con herramientas de captura manual o conversión.

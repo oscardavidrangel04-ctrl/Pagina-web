@@ -1,0 +1,708 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-son-honorarios.html",
+    "file": "articulos\\que-son-honorarios.html",
+    "served_file": "articulos\\que-son-honorarios.html",
+    "title": "Qué son los honorarios y cómo se facturan en México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-son-honorarios.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/que-son-honorarios.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Leer guía →",
+      "Qué son los honorarios y cómo se facturan en México"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/recibo-honorarios.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-son-los-cetes-y-como-funcionan.html",
+    "file": "articulos\\que-son-los-cetes-y-como-funcionan.html",
+    "served_file": "articulos\\que-son-los-cetes-y-como-funcionan.html",
+    "title": "Qué son los CETES y cómo funcionan | Guía México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-son-los-cetes-y-como-funcionan.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/que-son-los-cetes-y-como-funcionan.html",
+    "depth": 6,
+    "unique_inlinks": 3,
+    "anchors": [
+      "CETES",
+      "cómo funcionan",
+      "qué son los CETES"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-invertir-en-cetes.html",
+      "/articulos/es-seguro-invertir-en-cetes.html",
+      "/articulos/pagare-bancario-como-funciona.html"
+    ],
+    "cluster": "inversion",
+    "subtopic": "CETES"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/quienes-pueden-resico.html",
+    "file": "articulos\\quienes-pueden-resico.html",
+    "served_file": "articulos\\quienes-pueden-resico.html",
+    "title": "¿Quiénes pueden tributar en RESICO? Requisitos y exclusiones",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/quienes-pueden-resico.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/quienes-pueden-resico.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Abrir herramienta o guía principal",
+      "Abrir recurso relacionado",
+      "Leer guía →",
+      "¿Quiénes pueden tributar en RESICO? Requisitos y exclusiones"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/que-es-resico.html",
+      "/articulos/retencion-isr-resico.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/recibo-de-aguinaldo.html",
+    "file": "articulos\\recibo-de-aguinaldo.html",
+    "served_file": "articulos\\recibo-de-aguinaldo.html",
+    "title": "Recibo de aguinaldo: cómo revisar días, ISR y pago neto | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/recibo-de-aguinaldo.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/recibo-de-aguinaldo.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo revisar el recibo de aguinaldo"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/incapacidades-afectan-aguinaldo.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/recibo-honorarios.html",
+    "file": "articulos\\recibo-honorarios.html",
+    "served_file": "articulos\\recibo-honorarios.html",
+    "title": "Recibo de honorarios: datos, impuestos y ejemplo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/recibo-honorarios.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/recibo-honorarios.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Abrir herramienta o guía principal",
+      "Abrir recurso relacionado",
+      "Cómo leer el recibo",
+      "Leer guía →",
+      "Recibo de honorarios: datos, impuestos y ejemplo"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/que-son-honorarios.html",
+      "/articulos/xml-factura-electronica.html",
+      "/calculadoras/retencion-iva.html",
+      "/calculadoras/retenciones-isr-iva-honorarios.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/reestructurar-deuda-que-revisar.html",
+    "file": "articulos\\reestructurar-deuda-que-revisar.html",
+    "served_file": "articulos\\reestructurar-deuda-que-revisar.html",
+    "title": "Reestructurar una deuda: qué revisar antes de firmar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/reestructurar-deuda-que-revisar.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/reestructurar-deuda-que-revisar.html",
+    "depth": 5,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Qué revisar en una reestructura"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/tarjetas-credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Préstamos y pagos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/referencia-spei-vs-clave-rastreo.html",
+    "file": "articulos\\referencia-spei-vs-clave-rastreo.html",
+    "served_file": "articulos\\referencia-spei-vs-clave-rastreo.html",
+    "title": "Referencia SPEI vs clave de rastreo: diferencias",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/referencia-spei-vs-clave-rastreo.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/referencia-spei-vs-clave-rastreo.html",
+    "depth": 5,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Referencia frente a clave de rastreo",
+      "diferencia entre referencia y clave"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/clave-rastreo-spei-donde-encontrarla.html",
+      "/articulos/que-es-transferencia-spei.html"
+    ],
+    "cluster": "transferencias",
+    "subtopic": "Datos, estados y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/reinvertir-rendimientos-o-retirarlos.html",
+    "file": "articulos\\reinvertir-rendimientos-o-retirarlos.html",
+    "served_file": "articulos\\reinvertir-rendimientos-o-retirarlos.html",
+    "title": "Reinvertir rendimientos o retirarlos: cómo decidir",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/reinvertir-rendimientos-o-retirarlos.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/reinvertir-rendimientos-o-retirarlos.html",
+    "depth": 4,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Decide si reinvertir o retirar ganancias"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html"
+    ],
+    "cluster": "inversion",
+    "subtopic": "Plazos, tasas y rendimientos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/rendimiento-diario-cuenta-ahorro.html",
+    "file": "articulos\\rendimiento-diario-cuenta-ahorro.html",
+    "served_file": "articulos\\rendimiento-diario-cuenta-ahorro.html",
+    "title": "Rendimiento diario en una cuenta de ahorro: cómo leerlo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/rendimiento-diario-cuenta-ahorro.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/rendimiento-diario-cuenta-ahorro.html",
+    "depth": 5,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Cómo se calcula el rendimiento diario"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-de-ahorro.html"
+    ],
+    "cluster": "inversion",
+    "subtopic": "Plazos, tasas y rendimientos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/rendimiento-total-vs-tasa-anual.html",
+    "file": "articulos\\rendimiento-total-vs-tasa-anual.html",
+    "served_file": "articulos\\rendimiento-total-vs-tasa-anual.html",
+    "title": "Rendimiento total vs tasa anual: diferencia",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/rendimiento-total-vs-tasa-anual.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/rendimiento-total-vs-tasa-anual.html",
+    "depth": 4,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Distingue rendimiento del periodo y tasa anual"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html"
+    ],
+    "cluster": "inversion",
+    "subtopic": "Plazos, tasas y rendimientos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/retencion-isr-resico.html",
+    "file": "articulos\\retencion-isr-resico.html",
+    "served_file": "articulos\\retencion-isr-resico.html",
+    "title": "Retención de ISR en RESICO: tasa de 1.25% y ejemplo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/retencion-isr-resico.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/retencion-isr-resico.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "Leer guía →",
+      "Retención RESICO 1.25%",
+      "Retención de ISR en RESICO: tasa de 1.25% y ejemplo"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/que-es-resico.html",
+      "/articulos/quienes-pueden-resico.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/retenciones-isr-iva-honorarios.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "ISR y nómina"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/retencion-iva-dos-terceras-partes.html",
+    "file": "articulos\\retencion-iva-dos-terceras-partes.html",
+    "served_file": "articulos\\retencion-iva-dos-terceras-partes.html",
+    "title": "Retención de IVA de dos terceras partes: cálculo y fundamento",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/retencion-iva-dos-terceras-partes.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/retencion-iva-dos-terceras-partes.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Dos terceras partes del IVA",
+      "Leer guía →",
+      "Retención de IVA de dos terceras partes: cálculo y fundamento"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/a-quien-retencion-iva.html",
+      "/articulos/calculo-retencion-isr.html",
+      "/calculadoras/retencion-iva.html",
+      "/calculadoras/retenciones-isr-iva-honorarios.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/retiro-por-desempleo-afore.html",
+    "file": "articulos\\retiro-por-desempleo-afore.html",
+    "served_file": "articulos\\retiro-por-desempleo-afore.html",
+    "title": "Retiro por desempleo de la AFORE: consecuencias y trámite | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/retiro-por-desempleo-afore.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/retiro-por-desempleo-afore.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Retiro por desempleo de la AFORE: consecuencias y trámite",
+      "Retiro por desempleo y semanas cotizadas"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/cuenta-ahorro-para-retiro.html",
+      "/articulos/pension-imss-ley-73.html",
+      "/articulos/semanas-cotizadas-pension-imss.html"
+    ],
+    "cluster": "retiro",
+    "subtopic": "AFORE y pensiones"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-bruto-neto.html",
+    "file": "articulos\\salario-bruto-neto.html",
+    "served_file": "articulos\\salario-bruto-neto.html",
+    "title": "Sueldo bruto y neto en México: cómo pasar de bruto a neto",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/salario-bruto-neto.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 42,
+    "path": "/articulos/salario-bruto-neto.html",
+    "depth": 1,
+    "unique_inlinks": 82,
+    "anchors": [
+      "Comparar bruto y netoAbrir →",
+      "Comparar una oferta bruta con una neta",
+      "Cómo pasar de bruto a neto",
+      "Diferencia entre salario bruto y neto",
+      "Diferencia entre salario bruto y netoAbrir herramienta o guía →",
+      "Entender bruto y neto\nAbrir herramienta o guía →",
+      "Entender salario bruto y netoAbrir herramienta o guía →",
+      "Leer artículo →",
+      "Por qué bruto y neto no aumentan igual",
+      "Salario bruto vs. netoConsultar →",
+      "Salario bruto y neto",
+      "Salario bruto y neto: diferencias",
+      "Sueldo bruto vs. neto →",
+      "diferencia entre bruto y neto",
+      "salario antes y después de impuestos",
+      "salario bruto vs neto",
+      "salario bruto y neto",
+      "sueldo bruto frente a neto"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "footer"
+    ],
+    "inlink_sources": [
+      "/",
+      "/acerca-de.html",
+      "/articulos.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/asimilados-a-salarios-isr.html",
+      "/articulos/como-calcular-isr-sueldo.html",
+      "/articulos/como-calcular-iva.html",
+      "/articulos/como-calcular-ptu.html",
+      "/articulos/como-calcular-salario-diario-integrado.html",
+      "/articulos/convertir-salario-mensual-diario-hora.html",
+      "/articulos/cuando-se-pagan-utilidades.html",
+      "/articulos/derecho-ptu-si-renuncio.html",
+      "/articulos/descuentos-nomina-isr-imss.html",
+      "/articulos/despido-indemnizacion-liquidacion.html",
+      "/articulos/ejemplo-calculo-finiquito.html",
+      "/articulos/factor-integracion-sdi.html",
+      "/articulos/finiquito-por-antiguedad.html",
+      "/articulos/horas-extra-2026.html",
+      "/articulos/isr-semanal-quincenal-mensual.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/limite-ptu-tres-meses.html",
+      "/articulos/ptu-exenta-isr.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/que-es-ptu.html",
+      "/articulos/que-es-salario-base-cotizacion.html",
+      "/articulos/que-es-salario-diario-integrado.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/aguinaldo.html",
+      "/calculadoras/ahorro-mensual.html",
+      "/calculadoras/ahorro-meta.html",
+      "/calculadoras/aumento-salarial.html",
+      "/calculadoras/bono.html",
+      "/calculadoras/cetes.html",
+      "/calculadoras/comision.html",
+      "/calculadoras/conversion-longitud.html",
+      "/calculadoras/costo-combustible.html",
+      "/calculadoras/costo-unidad.html",
+      "/calculadoras/credito-automotriz.html",
+      "/calculadoras/descuento.html",
+      "/calculadoras/diferencia-fechas.html",
+      "/calculadoras/edad.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/hipoteca.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/inflacion.html",
+      "/calculadoras/interes-compuesto.html",
+      "/calculadoras/interes-simple.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/iva-incluido.html",
+      "/calculadoras/iva.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/margen-ganancia.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/porcentaje.html",
+      "/calculadoras/precio-sin-descuento.html",
+      "/calculadoras/precio-venta.html",
+      "/calculadoras/prestamo.html",
+      "/calculadoras/prima-dominical.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/propina.html",
+      "/calculadoras/ptu.html",
+      "/calculadoras/punto-equilibrio.html",
+      "/calculadoras/regla-tres.html",
+      "/calculadoras/rendimiento-anualizado.html",
+      "/calculadoras/reparto-cuenta.html",
+      "/calculadoras/retencion-iva.html",
+      "/calculadoras/roi.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/salario-neto.html",
+      "/calculadoras/tasa-efectiva.html",
+      "/calculadoras/tiempo-ahorro.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html",
+      "/contacto.html",
+      "/privacidad.html",
+      "/simuladores.html",
+      "/terminos.html"
+    ],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-2026.html",
+    "file": "articulos\\salario-minimo-2026.html",
+    "served_file": "articulos\\salario-minimo-2026.html",
+    "title": "Salario mínimo 2026 en México: diario, mensual y frontera",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-2026.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/salario-minimo-2026.html",
+    "depth": null,
+    "unique_inlinks": 0,
+    "anchors": [],
+    "link_contexts": [],
+    "inlink_sources": [],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-diario-mensual-2026.html",
+    "file": "articulos\\salario-minimo-diario-mensual-2026.html",
+    "served_file": "articulos\\salario-minimo-diario-mensual-2026.html",
+    "title": "Salario mínimo 2026 diario, semanal, quincenal y mensual",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-diario-mensual-2026.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 15,
+    "path": "/articulos/salario-minimo-diario-mensual-2026.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Salario mínimo 2026 diario, semanal, quincenal y mensual",
+      "Salario mínimo diario, semanal, quincenal y mensual"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/salario-minimo-2026.html",
+      "/articulos/salario-minimo-frontera-norte-2026.html"
+    ],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-frontera-norte-2026.html",
+    "file": "articulos\\salario-minimo-frontera-norte-2026.html",
+    "served_file": "articulos\\salario-minimo-frontera-norte-2026.html",
+    "title": "Salario mínimo en la frontera norte 2026: monto y zona",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-frontera-norte-2026.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 15,
+    "path": "/articulos/salario-minimo-frontera-norte-2026.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Salario mínimo en la frontera norte",
+      "Salario mínimo en la frontera norte 2026: monto y zona",
+      "guía de salario mínimo fronterizo"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/salario-minimo-2026.html",
+      "/articulos/salario-minimo-diario-mensual-2026.html"
+    ],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/saldo-a-favor-tarjeta-credito.html",
+    "file": "articulos\\saldo-a-favor-tarjeta-credito.html",
+    "served_file": "articulos\\saldo-a-favor-tarjeta-credito.html",
+    "title": "Saldo a favor en tarjeta de crédito: qué significa",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/saldo-a-favor-tarjeta-credito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/saldo-a-favor-tarjeta-credito.html",
+    "depth": 5,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Qué significa un saldo a favor"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/tarjetas-credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Pagos y saldos de tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/saldo-actual-vs-saldo-al-corte.html",
+    "file": "articulos\\saldo-actual-vs-saldo-al-corte.html",
+    "served_file": "articulos\\saldo-actual-vs-saldo-al-corte.html",
+    "title": "Saldo actual vs saldo al corte en tarjeta",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/saldo-actual-vs-saldo-al-corte.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/saldo-actual-vs-saldo-al-corte.html",
+    "depth": 5,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Saldo actual vs saldo al corte",
+      "distinguir saldos de la tarjeta",
+      "saldo actual vs saldo al corte"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-leer-estado-cuenta-tarjeta.html",
+      "/articulos/limite-credito-vs-saldo-disponible.html",
+      "/articulos/por-que-no-puedo-pagar-con-tarjeta-credito.html",
+      "/articulos/tarjetas-credito.html"
+    ],
+    "cluster": "herramientas",
+    "subtopic": "Porcentajes, fechas y otros cálculos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/saldo-minimo-cuenta-ahorro.html",
+    "file": "articulos\\saldo-minimo-cuenta-ahorro.html",
+    "served_file": "articulos\\saldo-minimo-cuenta-ahorro.html",
+    "title": "Saldo mínimo en una cuenta de ahorro: qué revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/saldo-minimo-cuenta-ahorro.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/saldo-minimo-cuenta-ahorro.html",
+    "depth": 5,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Saldo mínimo exigido"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-de-ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  }
+]

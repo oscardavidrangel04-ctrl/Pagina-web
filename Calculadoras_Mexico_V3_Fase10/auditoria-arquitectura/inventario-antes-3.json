@@ -1,0 +1,884 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-30-dias-aprobado-vigencia.html",
+    "file": "articulos\\aguinaldo-30-dias-aprobado-vigencia.html",
+    "served_file": "articulos\\aguinaldo-30-dias-aprobado-vigencia.html",
+    "title": "¿Ya se aprobó el aguinaldo de 30 días? Estado y vigencia",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-30-dias-aprobado-vigencia.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 15,
+    "path": "/articulos/aguinaldo-30-dias-aprobado-vigencia.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "aguinaldo de 30 días: aprobación y entrada en vigor",
+      "¿Ya se aprobó el aguinaldo de 30 días? Estado y vigencia"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/que-es-el-aguinaldo.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-6-meses.html",
+    "file": "articulos\\aguinaldo-6-meses.html",
+    "served_file": "fallback-aguinaldo-6-meses.html",
+    "title": "¿Cuánto me toca de aguinaldo por 6 meses de trabajo?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-6-meses.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 24,
+    "path": "/articulos/aguinaldo-6-meses.html",
+    "depth": 2,
+    "unique_inlinks": 41,
+    "anchors": [
+      "6 meses",
+      "Aguinaldo por 6 meses",
+      "Aguinaldo por 6 meses\nEjemplo específico para medio año trabajado.",
+      "Aguinaldo por 6 mesesCaso específico de seis meses.",
+      "Aguinaldo por 6 mesesEjemplo específico para medio año trabajado.",
+      "Aguinaldo por 6 mesesVer proporcional →",
+      "Leer guía →",
+      "aguinaldo por 6 meses",
+      "cuánto toca de aguinaldo por 6 meses"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/aguinaldo-por-antiguedad.html",
+      "/articulos/aguinaldo-por-meses.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/como-calcular-aguinaldo.html",
+      "/articulos/como-calcular-pago-vacaciones.html",
+      "/articulos/como-calcular-prima-vacacional.html",
+      "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/dias-de-aguinaldo.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/horas-extra-2026.html",
+      "/articulos/isr-prima-vacacional.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/que-incluye-finiquito.html",
+      "/articulos/salario-bruto-neto.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/aguinaldo.html",
+      "/calculadoras/comision.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/prima-dominical.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/salario-neto.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-isr-2026.html",
+    "file": "articulos\\aguinaldo-isr-2026.html",
+    "served_file": "fallback-aguinaldo-isr-2026.html",
+    "title": "Cómo se calcula el ISR del aguinaldo en 2026 | México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-isr-2026.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 28,
+    "path": "/articulos/aguinaldo-isr-2026.html",
+    "depth": 2,
+    "unique_inlinks": 42,
+    "anchors": [
+      "Aguinaldo e ISR",
+      "Aguinaldo e ISR 2026",
+      "Aguinaldo e ISR 2026Entender el tratamiento fiscal →",
+      "Aguinaldo e ISR 2026Entender la parte exenta, gravada y el cálculo de nómina →",
+      "Aguinaldo e ISRParte exenta y gravada →",
+      "Aguinaldo e ISRParte exenta, gravada e impuesto.",
+      "Aguinaldo e ISRRevisar parte exenta y gravada →",
+      "Consulta la guía de Aguinaldo e ISR 2026",
+      "ISR del aguinaldo",
+      "ISR del aguinaldo\nRevisa parte exenta, gravada y cálculo del impuesto.",
+      "ISR del aguinaldoConsulta cómo puede aplicarse ISR.",
+      "ISR del aguinaldoRevisa parte exenta, gravada y cálculo del impuesto.",
+      "ISR sobre aguinaldo",
+      "Leer guía →",
+      "aguinaldo e ISR",
+      "aguinaldo exento e ISR",
+      "aguinaldo isr 2026",
+      "consultar la guía de aguinaldo e ISR",
+      "cómo funciona el ISR del aguinaldo",
+      "cómo se calcula el ISR del aguinaldo",
+      "cómo se relacionan aguinaldo e ISR",
+      "guía de aguinaldo e ISR",
+      "ver cómo se calcula el ISR del aguinaldo"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-6-meses.html",
+      "/articulos/aguinaldo-por-antiguedad.html",
+      "/articulos/aguinaldo-por-meses.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/como-calcular-aguinaldo.html",
+      "/articulos/como-calcular-pago-vacaciones.html",
+      "/articulos/como-calcular-prima-vacacional.html",
+      "/articulos/como-se-cuentan-dias-vacaciones.html",
+      "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-se-pagan-vacaciones.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/despido-indemnizacion-liquidacion.html",
+      "/articulos/dias-de-aguinaldo.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/horas-extra-2026.html",
+      "/articulos/isr-semanal-quincenal-mensual.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/me-pueden-negar-vacaciones.html",
+      "/articulos/que-es-el-aguinaldo.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/recibo-de-aguinaldo.html",
+      "/articulos/salario-bruto-neto.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/aguinaldo.html",
+      "/calculadoras/aumento-salarial.html",
+      "/calculadoras/bono.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/ptu.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-pensionados-imss.html",
+    "file": "articulos\\aguinaldo-pensionados-imss.html",
+    "served_file": "articulos\\aguinaldo-pensionados-imss.html",
+    "title": "¿A los pensionados del IMSS les dan aguinaldo?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-pensionados-imss.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 12,
+    "path": "/articulos/aguinaldo-pensionados-imss.html",
+    "depth": 2,
+    "unique_inlinks": 7,
+    "anchors": [
+      "Aguinaldo de pensionados IMSS",
+      "Aguinaldo para pensionados",
+      "¿A los pensionados del IMSS les dan aguinaldo?"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-pensionados-issste.html",
+      "/articulos/incapacidades-afectan-aguinaldo.html",
+      "/articulos/pension-imss-ley-73.html",
+      "/articulos/pensionados-viudez-reciben-aguinaldo.html",
+      "/articulos/que-es-el-aguinaldo.html",
+      "/articulos/semanas-cotizadas-pension-imss.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-pensionados-issste.html",
+    "file": "articulos\\aguinaldo-pensionados-issste.html",
+    "served_file": "articulos\\aguinaldo-pensionados-issste.html",
+    "title": "Aguinaldo para pensionados del ISSSTE 2026: fechas y comprobante",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-pensionados-issste.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/aguinaldo-pensionados-issste.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Aguinaldo para pensionados del ISSSTE 2026: fechas y comprobante"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-pensionados-imss.html",
+      "/articulos/incapacidades-afectan-aguinaldo.html",
+      "/articulos/pensionados-viudez-reciben-aguinaldo.html",
+      "/articulos/que-es-el-aguinaldo.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-antiguedad.html",
+    "file": "articulos\\aguinaldo-por-antiguedad.html",
+    "served_file": "fallback-aguinaldo-por-antiguedad.html",
+    "title": "Aguinaldo por antigüedad: cuánto corresponde por años trabajados",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-antiguedad.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 24,
+    "path": "/articulos/aguinaldo-por-antiguedad.html",
+    "depth": 2,
+    "unique_inlinks": 36,
+    "anchors": [
+      "Aguinaldo por antigüedad",
+      "Aguinaldo por antigüedad1, 2, 3, 4, 5 o más años →",
+      "Aguinaldo por antigüedadAños trabajados y tabla orientativa.",
+      "Aguinaldo por antigüedadRevisar años trabajados →",
+      "Aguinaldo y antigüedadConsulta años trabajados y tabla orientativa.",
+      "Aguinaldo y antigüedadTabla y casos por años trabajados.",
+      "Leer guía →",
+      "aguinaldo por años de antigüedad",
+      "antigüedad por sí sola no cambia automáticamente el mínimo legal"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-6-meses.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/aguinaldo-por-meses.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/como-calcular-aguinaldo.html",
+      "/articulos/como-calcular-pago-vacaciones.html",
+      "/articulos/como-calcular-prima-vacacional.html",
+      "/articulos/como-se-cuentan-dias-vacaciones.html",
+      "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-se-pagan-vacaciones.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/dias-de-aguinaldo.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/horas-extra-2026.html",
+      "/articulos/isr-prima-vacacional.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/me-pueden-negar-vacaciones.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/salario-bruto-neto.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/aguinaldo.html",
+      "/calculadoras/aumento-salarial.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/ptu.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-meses.html",
+    "file": "articulos\\aguinaldo-por-meses.html",
+    "served_file": "fallback-aguinaldo-por-meses.html",
+    "title": "Aguinaldo por meses trabajados: 1, 4, 5, 7, 8, 9 y 10 meses",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-meses.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 24,
+    "path": "/articulos/aguinaldo-por-meses.html",
+    "depth": 2,
+    "unique_inlinks": 40,
+    "anchors": [
+      "Aguinaldo por meses",
+      "Aguinaldo por meses trabajados",
+      "Aguinaldo por meses trabajados\nConsulta ejemplos de 1 a 10 meses.",
+      "Aguinaldo por meses trabajados\nEjemplos para 1, 4, 5, 7, 8, 9 y 10 meses.",
+      "Aguinaldo por meses trabajados1, 4, 5, 7, 8, 9 y 10 meses →",
+      "Aguinaldo por meses trabajadosConsulta ejemplos de 1 a 10 meses.",
+      "Aguinaldo por meses trabajadosEjemplos para 1, 4, 5, 7, 8, 9 y 10 meses.",
+      "Aguinaldo por mesesConsulta 1, 4, 5, 7, 8, 9 y 10 meses.",
+      "Aguinaldo por mesesRevisar periodos incompletos →",
+      "Leer guía →",
+      "aguinaldo por meses trabajados",
+      "cuánto toca de aguinaldo por meses trabajados",
+      "guía de aguinaldo por meses trabajados",
+      "tabla por meses trabajados"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-6-meses.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/aguinaldo-por-antiguedad.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/como-calcular-aguinaldo.html",
+      "/articulos/como-calcular-pago-vacaciones.html",
+      "/articulos/como-calcular-prima-vacacional.html",
+      "/articulos/como-se-cuentan-dias-vacaciones.html",
+      "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-se-pagan-vacaciones.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/dias-de-aguinaldo.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/horas-extra-2026.html",
+      "/articulos/isr-prima-vacacional.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/me-pueden-negar-vacaciones.html",
+      "/articulos/que-es-el-aguinaldo.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/salario-bruto-neto.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/aguinaldo.html",
+      "/calculadoras/bono.html",
+      "/calculadoras/comision.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/prima-dominical.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/salario-neto.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-proporcional.html",
+    "file": "articulos\\aguinaldo-proporcional.html",
+    "served_file": "articulos\\aguinaldo-proporcional.html",
+    "title": "Aguinaldo proporcional: cómo calcularlo, fórmula y ejemplos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-proporcional.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 26,
+    "path": "/articulos/aguinaldo-proporcional.html",
+    "depth": 1,
+    "unique_inlinks": 35,
+    "anchors": [
+      "Aguinaldo proporcional",
+      "Aguinaldo proporcional: fórmula y ejemplos",
+      "Aguinaldo proporcionalEntender la fórmula →",
+      "Aguinaldo proporcionalEntiende la parte proporcional.",
+      "Cómo calcular aguinaldo proporcionalAbrir herramienta o guía →",
+      "Cómo funciona el aguinaldo proporcionalFórmula, días trabajados y casos comunes.",
+      "Cómo se calcula el aguinaldo proporcional\nFórmula, días trabajados y ejemplos.",
+      "Guía de aguinaldo proporcional",
+      "Guía de aguinaldo proporcionalAbrir herramienta o guía →",
+      "Leer artículo →",
+      "Leer guía →",
+      "PrestacionesCómo calcular el aguinaldo proporcionalEntiende la fórmula cuando no trabajaste todo el año.",
+      "aguinaldo proporcional",
+      "cómo calcular el aguinaldo proporcional",
+      "cómo calcular la parte proporcional del aguinaldo"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "footer"
+    ],
+    "inlink_sources": [
+      "/",
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-6-meses.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/aguinaldo-por-antiguedad.html",
+      "/articulos/aguinaldo-por-meses.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/como-calcular-aguinaldo.html",
+      "/articulos/como-se-cuentan-dias-vacaciones.html",
+      "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-se-pagan-vacaciones.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/dias-de-aguinaldo.html",
+      "/articulos/faltas-afectan-aguinaldo.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/me-pueden-negar-vacaciones.html",
+      "/articulos/que-es-el-aguinaldo.html",
+      "/articulos/que-incluye-finiquito.html",
+      "/articulos/salario-bruto-neto.html",
+      "/calculadoras.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/aguinaldo.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-si-renuncio.html",
+    "file": "articulos\\aguinaldo-si-renuncio.html",
+    "served_file": "fallback-aguinaldo-si-renuncio.html",
+    "title": "Aguinaldo si renuncio en 2026: cálculo proporcional",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-si-renuncio.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 27,
+    "path": "/articulos/aguinaldo-si-renuncio.html",
+    "depth": 2,
+    "unique_inlinks": 22,
+    "anchors": [
+      "Aguinaldo al renunciarCómo entra en el finiquito.",
+      "Aguinaldo al renunciarParte proporcional dentro del finiquito.",
+      "Aguinaldo si renuncio",
+      "Aguinaldo si renuncioConsulta cómo se relaciona con una salida laboral.",
+      "Aguinaldo si renuncioQué pasa con la parte proporcional →",
+      "Aguinaldo si renuncioRevisa el tratamiento proporcional al salir de un empleo.",
+      "Leer guía →",
+      "aguinaldo al renunciar",
+      "aguinaldo proporcional al renunciar",
+      "aguinaldo si renuncias",
+      "aguinaldo si renuncio"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-6-meses.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/aguinaldo-por-antiguedad.html",
+      "/articulos/aguinaldo-por-meses.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/como-calcular-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/dias-de-aguinaldo.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/que-es-el-aguinaldo.html",
+      "/articulos/que-incluye-finiquito.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/aguinaldo.html",
+      "/calculadoras/finiquito.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/ahorro-automatico-quincenal.html",
+    "file": "articulos\\ahorro-automatico-quincenal.html",
+    "served_file": "articulos\\ahorro-automatico-quincenal.html",
+    "title": "Ahorro automático quincenal: cómo configurarlo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/ahorro-automatico-quincenal.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/ahorro-automatico-quincenal.html",
+    "depth": 4,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Organizar ahorro automático quincenal"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/ahorro-para-estudios-hijos.html",
+    "file": "articulos\\ahorro-para-estudios-hijos.html",
+    "served_file": "articulos\\ahorro-para-estudios-hijos.html",
+    "title": "Cómo ahorrar para estudios de hijos: plan por etapas",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/ahorro-para-estudios-hijos.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/ahorro-para-estudios-hijos.html",
+    "depth": 4,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Ahorra para estudios de tus hijos"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/ahorro-recurrente-cetes.html",
+    "file": "articulos\\ahorro-recurrente-cetes.html",
+    "served_file": "articulos\\ahorro-recurrente-cetes.html",
+    "title": "Ahorro recurrente en CETES: guía paso a paso",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/ahorro-recurrente-cetes.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/ahorro-recurrente-cetes.html",
+    "depth": null,
+    "unique_inlinks": 0,
+    "anchors": [],
+    "link_contexts": [],
+    "inlink_sources": [],
+    "cluster": "inversion",
+    "subtopic": "CETES"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/apartados-cuenta-ahorro.html",
+    "file": "articulos\\apartados-cuenta-ahorro.html",
+    "served_file": "articulos\\apartados-cuenta-ahorro.html",
+    "title": "Apartados de ahorro: cómo usarlos sin confundirte",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/apartados-cuenta-ahorro.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/apartados-cuenta-ahorro.html",
+    "depth": 5,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Apartados para separar metas"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-de-ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aplicaciones-para-ahorrar-dinero.html",
+    "file": "articulos\\aplicaciones-para-ahorrar-dinero.html",
+    "served_file": "articulos\\aplicaciones-para-ahorrar-dinero.html",
+    "title": "Aplicaciones para ahorrar dinero: cómo elegir",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/aplicaciones-para-ahorrar-dinero.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/aplicaciones-para-ahorrar-dinero.html",
+    "depth": 5,
+    "unique_inlinks": 1,
+    "anchors": [
+      "cómo elegir una app para organizar dinero"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-manejar-finanzas-personales.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aportaciones-voluntarias-afore.html",
+    "file": "articulos\\aportaciones-voluntarias-afore.html",
+    "served_file": "articulos\\aportaciones-voluntarias-afore.html",
+    "title": "Aportaciones voluntarias a la AFORE: cómo hacerlas y retirarlas | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/aportaciones-voluntarias-afore.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/aportaciones-voluntarias-afore.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Aportaciones voluntarias a la AFORE: cómo hacerlas y retirarlas"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-cambiar-de-afore.html",
+      "/articulos/como-saber-en-que-afore-estoy.html",
+      "/articulos/pension-imss-ley-97.html"
+    ],
+    "cluster": "retiro",
+    "subtopic": "AFORE y pensiones"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/asimilados-a-salarios-isr.html",
+    "file": "articulos\\asimilados-a-salarios-isr.html",
+    "served_file": "articulos\\asimilados-a-salarios-isr.html",
+    "title": "Asimilados a salarios: qué son y cómo revisar el ISR",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/asimilados-a-salarios-isr.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 20,
+    "path": "/articulos/asimilados-a-salarios-isr.html",
+    "depth": 1,
+    "unique_inlinks": 15,
+    "anchors": [
+      "Asimilados a salarios: alcance de la estimación",
+      "Asimilados a salarios: qué son y cómo revisar el ISR",
+      "Ingresos asimilados a salarios",
+      "Leer guía de asimilados →",
+      "el alcance de asimilados a salarios"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/",
+      "/articulos.html",
+      "/articulos/como-calcular-isr-sueldo.html",
+      "/articulos/descuentos-nomina-isr-imss.html",
+      "/articulos/isr-semanal-quincenal-mensual.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/salario-bruto-neto.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/salario-neto.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "ISR y nómina"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/balance-finanzas-personales.html",
+    "file": "articulos\\balance-finanzas-personales.html",
+    "served_file": "articulos\\balance-finanzas-personales.html",
+    "title": "Balance de finanzas personales: cómo calcularlo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/balance-finanzas-personales.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/balance-finanzas-personales.html",
+    "depth": 4,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Calcula tu balance patrimonial",
+      "balance de finanzas personales",
+      "balance personal"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-hacer-presupuesto-personal.html",
+      "/articulos/dashboard-finanzas-personales.html",
+      "/articulos/finanzas-personales.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/bonos-salario-base-cotizacion.html",
+    "file": "articulos\\bonos-salario-base-cotizacion.html",
+    "served_file": "articulos\\bonos-salario-base-cotizacion.html",
+    "title": "¿Los bonos integran el salario base de cotización? | México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/bonos-salario-base-cotizacion.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 10,
+    "path": "/articulos/bonos-salario-base-cotizacion.html",
+    "depth": null,
+    "unique_inlinks": 0,
+    "anchors": [],
+    "link_contexts": [],
+    "inlink_sources": [],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/calcular-fondo-emergencia.html",
+    "file": "articulos\\calcular-fondo-emergencia.html",
+    "served_file": "articulos\\calcular-fondo-emergencia.html",
+    "title": "Cómo calcular tu fondo de emergencia paso a paso",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/calcular-fondo-emergencia.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/calcular-fondo-emergencia.html",
+    "depth": 6,
+    "unique_inlinks": 3,
+    "anchors": [
+      "calcularlo paso a paso",
+      "fondo de emergencia",
+      "reserva de emergencia"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-ahorrar-dinero-en-un-ano.html",
+      "/articulos/como-ahorrar-para-comprar-casa.html",
+      "/calculadoras/fondo-emergencia.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Reservas para imprevistos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/calculo-retencion-isr.html",
+    "file": "articulos\\calculo-retencion-isr.html",
+    "served_file": "articulos\\calculo-retencion-isr.html",
+    "title": "Cómo calcular una retención de ISR: base, tasa y ejemplo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/calculo-retencion-isr.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/calculo-retencion-isr.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Cómo calcular una retención de ISR: base, tasa y ejemplo",
+      "Leer guía →"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/a-quien-retencion-iva.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/retencion-iva-dos-terceras-partes.html",
+      "/calculadoras/isr.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "ISR y nómina"
+  }
+]

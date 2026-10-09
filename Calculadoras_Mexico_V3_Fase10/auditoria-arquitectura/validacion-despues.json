@@ -1,0 +1,24 @@
+{
+  "summary": {
+    "physical_pages": 405,
+    "indexable": 377,
+    "zero_inlinks": 0,
+    "one_inlink": 0,
+    "unreachable": 0,
+    "depth": {
+      "0": 1,
+      "1": 64,
+      "2": 312
+    },
+    "broken_links": 0,
+    "redirect_links": 0,
+    "sitemap_missing_pages": [],
+    "sitemap_nonindexable": [],
+    "indexable_not_sitemap": []
+  },
+  "protected_metadata_changes": [],
+  "h1_errors": [],
+  "json_ld_errors": [],
+  "rewrites": 25,
+  "redirects": 1
+}

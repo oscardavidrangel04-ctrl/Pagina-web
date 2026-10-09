@@ -1,0 +1,925 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+    "file": "articulos\\tasa-fija-vs-tasa-variable-prestamo.html",
+    "served_file": "articulos\\tasa-fija-vs-tasa-variable-prestamo.html",
+    "title": "Tasa fija vs tasa variable en un préstamo: diferencias",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+    "depth": 4,
+    "unique_inlinks": 3,
+    "anchors": [
+      "entender tasa fija y variable",
+      "tasa fija o variable",
+      "tasas fijas y variables"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/costo-total-prestamo-como-calcular.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/prestamo-para-pagar-deudas.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Préstamos y pagos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tasa-promocional-cuenta-ahorro.html",
+    "file": "articulos\\tasa-promocional-cuenta-ahorro.html",
+    "served_file": "articulos\\tasa-promocional-cuenta-ahorro.html",
+    "title": "Tasa promocional en una cuenta de ahorro: qué revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/tasa-promocional-cuenta-ahorro.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/tasa-promocional-cuenta-ahorro.html",
+    "depth": 5,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Cómo evaluar una tasa promocional"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-de-ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tasa-rendimiento-cetes.html",
+    "file": "articulos\\tasa-rendimiento-cetes.html",
+    "served_file": "articulos\\tasa-rendimiento-cetes.html",
+    "title": "Tasa de rendimiento de CETES: cálculo y ejemplo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/tasa-rendimiento-cetes.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/tasa-rendimiento-cetes.html",
+    "depth": null,
+    "unique_inlinks": 0,
+    "anchors": [],
+    "link_contexts": [],
+    "inlink_sources": [],
+    "cluster": "inversion",
+    "subtopic": "CETES"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/termine-pagar-credito-infonavit.html",
+    "file": "articulos\\termine-pagar-credito-infonavit.html",
+    "served_file": "articulos\\termine-pagar-credito-infonavit.html",
+    "title": "Ya terminé de pagar mi crédito Infonavit: qué sigue",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/termine-pagar-credito-infonavit.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 9,
+    "path": "/articulos/termine-pagar-credito-infonavit.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Ya terminé de pagar mi crédito Infonavit: qué sigue"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/credito-infonavit-desempleo.html",
+      "/articulos/credito-infonavit-terreno.html",
+      "/articulos/puntos-credito-infonavit.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Vivienda e Infonavit"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+    "file": "articulos\\trabajadores-sin-derecho-reparto-utilidades.html",
+    "served_file": "articulos\\trabajadores-sin-derecho-reparto-utilidades.html",
+    "title": "Qué trabajadores no tienen derecho al reparto de utilidades",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 16,
+    "path": "/articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Qué trabajadores no tienen derecho al reparto de utilidades"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/es-obligatorio-reparto-utilidades.html",
+      "/articulos/que-es-ptu.html",
+      "/calculadoras/ptu.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Reparto de utilidades"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/transferencia-spei-cuenta-equivocada.html",
+    "file": "articulos\\transferencia-spei-cuenta-equivocada.html",
+    "served_file": "articulos\\transferencia-spei-cuenta-equivocada.html",
+    "title": "Envié un SPEI a otra cuenta: qué hacer en México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/transferencia-spei-cuenta-equivocada.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 5,
+    "path": "/articulos/transferencia-spei-cuenta-equivocada.html",
+    "depth": 4,
+    "unique_inlinks": 4,
+    "anchors": [
+      "aclarar un SPEI enviado a otra cuenta",
+      "actuar si la cuenta era incorrecta",
+      "cómo actuar ante una transferencia SPEI equivocada",
+      "qué hacer ante un SPEI a una cuenta equivocada"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/cuanto-tarda-transferencia-spei.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/que-es-transferencia-spei.html",
+      "/articulos/spei-devuelto-que-hacer.html"
+    ],
+    "cluster": "transferencias",
+    "subtopic": "Datos, estados y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/vacaciones-mexico.html",
+    "file": "articulos\\vacaciones-mexico.html",
+    "served_file": "articulos\\vacaciones-mexico.html",
+    "title": "Vacaciones en México 2026: días, prima y cálculo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/vacaciones-mexico.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 33,
+    "path": "/articulos/vacaciones-mexico.html",
+    "depth": 2,
+    "unique_inlinks": 25,
+    "anchors": [
+      "Entender vacaciones y primaAbrir herramienta o guía →",
+      "Guía de vacaciones en MéxicoAbrir herramienta o guía →",
+      "Guía de vacaciones en MéxicoConsulta contexto y reglas generales.",
+      "Guía de vacaciones en MéxicoConsultar →",
+      "Leer artículo →",
+      "Vacaciones en México",
+      "Vacaciones en MéxicoGuía general de vacaciones.",
+      "Vacaciones en MéxicoLeer →",
+      "cuántos días te corresponden",
+      "vacaciones en México"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "footer"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-30-dias-aprobado-vigencia.html",
+      "/articulos/como-calcular-pago-vacaciones.html",
+      "/articulos/como-calcular-prima-vacacional.html",
+      "/articulos/como-se-cuentan-dias-vacaciones.html",
+      "/articulos/cuando-se-pagan-vacaciones.html",
+      "/articulos/cuantas-horas-extra-semana.html",
+      "/articulos/cuanto-finiquito-un-ano-renuncia.html",
+      "/articulos/cuanto-quitan-isr-sueldo.html",
+      "/articulos/dias-vacaciones-por-antiguedad-2026.html",
+      "/articulos/es-legal-pago-nomina-dos-partes.html",
+      "/articulos/es-obligatorio-reparto-utilidades.html",
+      "/articulos/horas-extra-dobles-triples.html",
+      "/articulos/isr-a-cargo-asalariado.html",
+      "/articulos/isr-prima-vacacional.html",
+      "/articulos/me-pueden-descontar-finiquito.html",
+      "/articulos/me-pueden-negar-vacaciones.html",
+      "/articulos/me-pueden-obligar-horas-extra.html",
+      "/articulos/salario-minimo-diario-mensual-2026.html",
+      "/articulos/salario-minimo-frontera-norte-2026.html",
+      "/articulos/tabla-isr-2026.html",
+      "/articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Vacaciones y descanso"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/vale-la-pena-tarjeta-con-anualidad.html",
+    "file": "articulos\\vale-la-pena-tarjeta-con-anualidad.html",
+    "served_file": "articulos\\vale-la-pena-tarjeta-con-anualidad.html",
+    "title": "¿Vale la pena una tarjeta con anualidad?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/vale-la-pena-tarjeta-con-anualidad.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/vale-la-pena-tarjeta-con-anualidad.html",
+    "depth": 6,
+    "unique_inlinks": 2,
+    "anchors": [
+      "cuándo podría valer la pena pagar anualidad",
+      "si conviene conservar una tarjeta con anualidad"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-cancelar-tarjeta-credito.html",
+      "/articulos/como-elegir-tarjeta-credito-sin-anualidad.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Elegir y utilizar tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/verificar-agente-seguros-cnsf.html",
+    "file": "articulos\\verificar-agente-seguros-cnsf.html",
+    "served_file": "articulos\\verificar-agente-seguros-cnsf.html",
+    "title": "Cómo verificar un agente de seguros en la CNSF",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/verificar-agente-seguros-cnsf.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/verificar-agente-seguros-cnsf.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Cómo verificar un agente de seguros en la CNSF",
+      "Leer guía →",
+      "Verificar agente de seguros"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/seguro-para-mascotas.html",
+      "/calculadoras/cobertura-seguro-vida.html"
+    ],
+    "cluster": "seguros",
+    "subtopic": "Coberturas y costos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/visor-deducciones-personales-sat.html",
+    "file": "articulos\\visor-deducciones-personales-sat.html",
+    "served_file": "articulos\\visor-deducciones-personales-sat.html",
+    "title": "Visor de deducciones personales SAT: cómo revisarlo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/visor-deducciones-personales-sat.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/visor-deducciones-personales-sat.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Visor de deducciones personales SAT: cómo revisarlo"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/declaracion-anual-asalariados-2026.html",
+      "/articulos/deducciones-personales-2026.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/xml-factura-electronica.html",
+    "file": "articulos\\xml-factura-electronica.html",
+    "served_file": "articulos\\xml-factura-electronica.html",
+    "title": "XML de factura electrónica: qué es y para qué sirve",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/xml-factura-electronica.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/xml-factura-electronica.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Abrir herramienta o guía principal",
+      "Abrir recurso relacionado",
+      "Leer guía →",
+      "XML de factura electrónica: qué es y para qué sirve"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/plazo-solicitar-factura.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/abono-capital-prestamo.html",
+    "file": "calculadoras\\abono-capital-prestamo.html",
+    "served_file": "calculadoras\\abono-capital-prestamo.html",
+    "title": "Simulador de abono a capital: cuota o plazo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/abono-capital-prestamo.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/calculadoras/abono-capital-prestamo.html",
+    "depth": 2,
+    "unique_inlinks": 7,
+    "anchors": [
+      "Abono a capital",
+      "Simula un abono a capital",
+      "simulación de abonos",
+      "simulador de abono a capital",
+      "simulador general de abono a capital",
+      "simular un abono directo a capital"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/abonar-capital-vs-reducir-plazo.html",
+      "/articulos/abono-capital-vs-adelantar-mensualidades.html",
+      "/articulos/como-abonar-capital-infonavit.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/prestamo-para-pagar-deudas.html",
+      "/calculadoras.html",
+      "/calculadoras/capacidad-endeudamiento.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Préstamos y pagos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo-proporcional.html",
+    "file": "calculadoras\\aguinaldo-proporcional.html",
+    "served_file": "calculadoras\\aguinaldo-proporcional.html",
+    "title": "Calculadora de Aguinaldo Proporcional 2026 México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo-proporcional.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 32,
+    "path": "/calculadoras/aguinaldo-proporcional.html",
+    "depth": 1,
+    "unique_inlinks": 38,
+    "anchors": [
+      "Abrir calculadora →",
+      "Aguinaldo proporcional",
+      "Aguinaldo proporcional\nUsa el tiempo trabajado para una estimación proporcional.",
+      "Aguinaldo proporcionalCalcular por días →",
+      "Aguinaldo proporcionalCalcular por tiempo trabajado →",
+      "Aguinaldo proporcionalCalcular →",
+      "Aguinaldo proporcionalConsultar →",
+      "Aguinaldo proporcionalEstima la parte pendiente del aguinaldo.",
+      "Calculadora de aguinaldo proporcional",
+      "Calculadora de aguinaldo proporcional\nEstima la parte del año que te corresponde.",
+      "Calculadora de aguinaldo proporcionalEstima la parte del año que te corresponde.",
+      "Calculadora proporcionalCalcula el aguinaldo por días trabajados.",
+      "Calcular aguinaldo proporcional →",
+      "Calcular aguinaldo proporcionalAbrir herramienta o guía →",
+      "Calcular aguinaldo proporcionalEstima la parte del aguinaldo pendiente.",
+      "Calcular solo aguinaldo proporcionalAbrir herramienta o guía →",
+      "Revisar aguinaldo proporcionalAbrir herramienta o guía →",
+      "aguinaldo proporcional",
+      "calculadora de aguinaldo proporcional",
+      "calculadora proporcional"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/",
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-6-meses.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/aguinaldo-por-antiguedad.html",
+      "/articulos/aguinaldo-por-meses.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/como-calcular-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-se-pagan-vacaciones.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/dias-de-aguinaldo.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/isr-prima-vacacional.html",
+      "/articulos/me-pueden-negar-vacaciones.html",
+      "/articulos/que-es-el-aguinaldo.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/que-incluye-finiquito.html",
+      "/articulos/salario-bruto-neto.html",
+      "/calculadoras.html",
+      "/calculadoras/aguinaldo.html",
+      "/calculadoras/aumento-salarial.html",
+      "/calculadoras/diferencia-fechas.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/ptu.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo.html",
+    "file": "calculadoras\\aguinaldo.html",
+    "served_file": "calculadoras\\aguinaldo.html",
+    "title": "Calculadora de aguinaldo 2026 México | Completo, proporcional e ISR",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 36,
+    "path": "/calculadoras/aguinaldo.html",
+    "depth": 1,
+    "unique_inlinks": 76,
+    "anchors": [
+      "Abrir calculadora",
+      "Abrir calculadora de aguinaldo con desglose",
+      "Abrir calculadora →",
+      "Aguinaldo",
+      "Aguinaldo\nCalcula aguinaldo anual o proporcional.",
+      "Aguinaldo completo y proporcionalExplorar calculadoras →",
+      "AguinaldoCalcula aguinaldo anual o proporcional.",
+      "AguinaldoCalcula otra prestación anual importante.",
+      "Calculadora de aguinaldo",
+      "Calculadora de aguinaldo 2026",
+      "Calculadora de aguinaldo 2026Abrir herramienta o guía →",
+      "Calculadora de aguinaldo 2026Calcular con salario y fechas →",
+      "Calculadora de aguinaldo 2026Calcular el importe bruto →",
+      "Calculadora de aguinaldoCalcula el aguinaldo anual completo.",
+      "Calculadora de aguinaldoCalcula el monto con salario y fechas.",
+      "Calculadora de aguinaldoCalcular con fechas →",
+      "Calculadora de aguinaldoCalcular →",
+      "Calculadora de aguinaldoEstima tu prestación anual.",
+      "Calculadora de aguinaldoRevisa otra prestación anual.",
+      "Calcular aguinaldo",
+      "Calcular aguinaldo\nRevisa los días de aguinaldo del escenario →",
+      "Calcular aguinaldo 2026Compara otra prestación anual →",
+      "Calcular aguinaldo con mis días",
+      "Calcular aguinaldo proporcional por fechasAbrir calculadora →",
+      "Calcular aguinaldo →",
+      "Calcular aguinaldoEstima la prestación anual y revisa su tratamiento fiscal.",
+      "Calcular aguinaldoRevisa una prestación usada en cálculos laborales.",
+      "Calcular mi aguinaldo",
+      "Estimar aguinaldo →",
+      "aguinaldo pactado",
+      "calculadora de aguinaldo",
+      "calculadora de aguinaldo 2026",
+      "calculadoras/aguinaldo",
+      "🎁 Aguinaldo 2026",
+      "🎁LaboralAguinaldoCompleto o proporcional por salario y tiempo.",
+      "🎁PrestacionesCalculadora de aguinaldo 2026Completo o proporcional por fechas y días trabajados.Calcular aguinaldo →"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "footer",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/",
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-30-dias-aprobado-vigencia.html",
+      "/articulos/aguinaldo-6-meses.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/aguinaldo-pensionados-imss.html",
+      "/articulos/aguinaldo-por-antiguedad.html",
+      "/articulos/aguinaldo-por-meses.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/como-calcular-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/dias-de-aguinaldo.html",
+      "/articulos/faltas-afectan-aguinaldo.html",
+      "/articulos/horas-extra-2026.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/que-es-el-aguinaldo.html",
+      "/articulos/que-es-salario-diario-integrado.html",
+      "/articulos/recibo-de-aguinaldo.html",
+      "/calculadoras.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/ahorro-mensual.html",
+      "/calculadoras/ahorro-meta.html",
+      "/calculadoras/aumento-salarial.html",
+      "/calculadoras/bono.html",
+      "/calculadoras/cetes.html",
+      "/calculadoras/comision.html",
+      "/calculadoras/conversion-longitud.html",
+      "/calculadoras/costo-combustible.html",
+      "/calculadoras/costo-unidad.html",
+      "/calculadoras/credito-automotriz.html",
+      "/calculadoras/descuento.html",
+      "/calculadoras/diferencia-fechas.html",
+      "/calculadoras/edad.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/hipoteca.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/inflacion.html",
+      "/calculadoras/interes-compuesto.html",
+      "/calculadoras/interes-simple.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/iva-incluido.html",
+      "/calculadoras/iva.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/margen-ganancia.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/porcentaje.html",
+      "/calculadoras/precio-sin-descuento.html",
+      "/calculadoras/precio-venta.html",
+      "/calculadoras/prestamo.html",
+      "/calculadoras/prima-dominical.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/propina.html",
+      "/calculadoras/ptu.html",
+      "/calculadoras/punto-equilibrio.html",
+      "/calculadoras/regla-tres.html",
+      "/calculadoras/rendimiento-anualizado.html",
+      "/calculadoras/reparto-cuenta.html",
+      "/calculadoras/retencion-iva.html",
+      "/calculadoras/roi.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/salario-neto.html",
+      "/calculadoras/tasa-efectiva.html",
+      "/calculadoras/tiempo-ahorro.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html",
+      "/contacto.html",
+      "/privacidad.html",
+      "/simuladores.html",
+      "/terminos.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/ahorro-mensual.html",
+    "file": "calculadoras\\ahorro-mensual.html",
+    "served_file": "calculadoras\\ahorro-mensual.html",
+    "title": "Calculadora de ahorro mensual: cuánto puedes acumular",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/ahorro-mensual.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 29,
+    "path": "/calculadoras/ahorro-mensual.html",
+    "depth": 1,
+    "unique_inlinks": 17,
+    "anchors": [
+      "Abrir calculadora →",
+      "Ahorro mensual",
+      "Ahorro mensualCalcula una aportación periódica.",
+      "Ahorro mensualProyecta aportaciones periódicas.",
+      "ahorro mensual",
+      "calculadora de ahorro mensual"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/",
+      "/articulos/maneras-ahorrar-dinero-mes.html",
+      "/calculadoras.html",
+      "/calculadoras/ahorro-meta.html",
+      "/calculadoras/aumento-salarial.html",
+      "/calculadoras/cetes.html",
+      "/calculadoras/comision.html",
+      "/calculadoras/credito-automotriz.html",
+      "/calculadoras/descuento.html",
+      "/calculadoras/hipoteca.html",
+      "/calculadoras/inflacion.html",
+      "/calculadoras/interes-compuesto.html",
+      "/calculadoras/interes-simple.html",
+      "/calculadoras/prestamo.html",
+      "/calculadoras/rendimiento-anualizado.html",
+      "/calculadoras/tasa-efectiva.html",
+      "/calculadoras/tiempo-ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/ahorro-meta.html",
+    "file": "calculadoras\\ahorro-meta.html",
+    "served_file": "calculadoras\\ahorro-meta.html",
+    "title": "Calculadora de ahorro para una meta: cuota mensual",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/ahorro-meta.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 29,
+    "path": "/calculadoras/ahorro-meta.html",
+    "depth": 2,
+    "unique_inlinks": 24,
+    "anchors": [
+      "Abrir calculadora →",
+      "Ahorro para una meta",
+      "Ahorro para una metaCalcula cuánto necesitas ahorrar.",
+      "Ahorro para una metaPlanea aportaciones hacia un objetivo.",
+      "Ahorro por objetivo",
+      "Meta de ahorroCalcula cuánto ahorrar para un objetivo.",
+      "ahorro para una meta",
+      "calculadora de ahorro para una meta",
+      "calculadora de ahorro por objetivo",
+      "calculadora de meta de ahorro",
+      "calcular una meta de ahorro",
+      "herramienta de metas de ahorro",
+      "la calculadora de meta de ahorro",
+      "simular una meta de ahorro"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/ahorro-para-estudios-hijos.html",
+      "/articulos/calendario-para-ahorrar-dinero.html",
+      "/articulos/como-ahorrar-dinero-en-un-ano.html",
+      "/articulos/como-ahorrar-dinero-si-gano-poco.html",
+      "/articulos/como-ahorrar-para-comprar-auto.html",
+      "/articulos/como-ahorrar-para-un-viaje.html",
+      "/articulos/cuanto-ahorrar-cada-quincena.html",
+      "/articulos/maneras-ahorrar-dinero-mes.html",
+      "/articulos/presupuesto-para-mudanza.html",
+      "/calculadoras.html",
+      "/calculadoras/ahorro-mensual.html",
+      "/calculadoras/aumento-salarial.html",
+      "/calculadoras/cetes.html",
+      "/calculadoras/comision.html",
+      "/calculadoras/credito-automotriz.html",
+      "/calculadoras/descuento.html",
+      "/calculadoras/hipoteca.html",
+      "/calculadoras/inflacion.html",
+      "/calculadoras/interes-compuesto.html",
+      "/calculadoras/interes-simple.html",
+      "/calculadoras/prestamo.html",
+      "/calculadoras/rendimiento-anualizado.html",
+      "/calculadoras/tasa-efectiva.html",
+      "/calculadoras/tiempo-ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/aumento-salarial.html",
+    "file": "calculadoras\\aumento-salarial.html",
+    "served_file": "calculadoras\\aumento-salarial.html",
+    "title": "Calculadora de aumento salarial: nuevo sueldo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/aumento-salarial.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 27,
+    "path": "/calculadoras/aumento-salarial.html",
+    "depth": 2,
+    "unique_inlinks": 17,
+    "anchors": [
+      "Abrir calculadora →",
+      "calculadora de aumento salarial",
+      "estimar el efecto de un aumento"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/convertir-salario-mensual-diario-hora.html",
+      "/articulos/factor-integracion-sdi.html",
+      "/articulos/que-hacer-con-aumento-de-sueldo.html",
+      "/articulos/salario-bruto-neto.html",
+      "/calculadoras.html",
+      "/calculadoras/ahorro-mensual.html",
+      "/calculadoras/ahorro-meta.html",
+      "/calculadoras/cetes.html",
+      "/calculadoras/comision.html",
+      "/calculadoras/descuento.html",
+      "/calculadoras/inflacion.html",
+      "/calculadoras/interes-compuesto.html",
+      "/calculadoras/interes-simple.html",
+      "/calculadoras/prestamo.html",
+      "/calculadoras/rendimiento-anualizado.html",
+      "/calculadoras/tasa-efectiva.html",
+      "/calculadoras/tiempo-ahorro.html"
+    ],
+    "cluster": "herramientas",
+    "subtopic": "Porcentajes, fechas y otros cálculos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html",
+    "file": "calculadoras\\bono.html",
+    "served_file": "calculadoras\\bono.html",
+    "title": "Calculadora de bono: porcentaje, monto y total",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 24,
+    "path": "/calculadoras/bono.html",
+    "depth": 2,
+    "unique_inlinks": 10,
+    "anchors": [
+      "Abrir calculadora →",
+      "Calculadora de bonoEstimar un importe →"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/bonos-salario-base-cotizacion.html",
+      "/calculadoras.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/prima-dominical.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/salario-neto.html"
+    ],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/capacidad-endeudamiento.html",
+    "file": "calculadoras\\capacidad-endeudamiento.html",
+    "served_file": "calculadoras\\capacidad-endeudamiento.html",
+    "title": "Calculadora de capacidad de endeudamiento personal",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/capacidad-endeudamiento.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 5,
+    "path": "/calculadoras/capacidad-endeudamiento.html",
+    "depth": 2,
+    "unique_inlinks": 8,
+    "anchors": [
+      "Abrir recurso principal",
+      "Abrir recurso relacionado",
+      "Calcula tu capacidad de endeudamiento",
+      "Capacidad de endeudamiento",
+      "calculadora de capacidad de pago",
+      "capacidad de endeudamiento",
+      "capacidad de endeudamiento disponible",
+      "capacidad de pago",
+      "revisar capacidad de pago"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos/como-salir-de-deudas-con-poco-dinero.html",
+      "/articulos/credito-infonavit-desempleo.html",
+      "/articulos/credito-revolvente-vs-prestamo-personal.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/prestamo-para-pagar-deudas.html",
+      "/articulos/presupuesto-personal.html",
+      "/articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+      "/calculadoras.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Préstamos y pagos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/cetes.html",
+    "file": "calculadoras\\cetes.html",
+    "served_file": "calculadoras\\cetes.html",
+    "title": "Calculadora de CETES 2026: rendimiento estimado",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/cetes.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 28,
+    "path": "/calculadoras/cetes.html",
+    "depth": 1,
+    "unique_inlinks": 18,
+    "anchors": [
+      "Abrir calculadora →",
+      "CETES",
+      "CETESEstima rendimiento de CETES.",
+      "CETESEstima rendimiento de una inversión.",
+      "CETESEstimar rendimiento →",
+      "Calculadora de CETES",
+      "Estimar rendimiento en CETES",
+      "calculadora de CETES",
+      "calculadora de rendimiento"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/",
+      "/articulos/ahorro-recurrente-cetes.html",
+      "/articulos/cetes-28-vs-91-dias.html",
+      "/articulos/cuanto-invertir-cetes-ganar-1000.html",
+      "/articulos/es-seguro-invertir-en-cetes.html",
+      "/articulos/tasa-rendimiento-cetes.html",
+      "/calculadoras.html",
+      "/calculadoras/ahorro-mensual.html",
+      "/calculadoras/ahorro-meta.html",
+      "/calculadoras/credito-automotriz.html",
+      "/calculadoras/hipoteca.html",
+      "/calculadoras/inflacion.html",
+      "/calculadoras/interes-compuesto.html",
+      "/calculadoras/interes-simple.html",
+      "/calculadoras/prestamo.html",
+      "/calculadoras/rendimiento-anualizado.html",
+      "/calculadoras/tasa-efectiva.html",
+      "/calculadoras/tiempo-ahorro.html"
+    ],
+    "cluster": "inversion",
+    "subtopic": "CETES"
+  }
+]
