@@ -1,6 +1,47 @@
 # Registro de páginas trabajadas con On Page Fino
 
-Última actualización: 2026-10-01
+## Segunda revisión por Search Console — 2026-10-08
+
+ZIP v4_lotes: 34 referencias utilizables (salario neto 9, automotriz 6, SDI 10, pago quincenal 9), cuatro capturas propias válidas. Se revisaron matrices y HTML local. Se descartaron temas de tarjeta de crédito ajenos a automotriz y expansión fiscal no compatible con herramientas de captura manual o conversión.
+
+Cambios locales en calculadoras/salario-neto.html y calculadoras/pago-quincenal.html: aclaración del alcance real, ejemplos aritméticos y precauciones del periodo. En articulos/simulador-credito-automotriz.html: comparación hipotética de 36 y 48 meses, no duplicar seguros financiados, distinguir CAT y tasa ordinaria. En articulos/como-calcular-salario-diario-integrado.html: comprobación del cambio de factor y distinción del modelo frente al SBC registrado. Conservados H1, fórmulas y controladores existentes. Documentación IMSS consultada; simulador CONDUSEF no accesible durante la verificación web, sin afirmar prueba de la interfaz.
+
+Validación: cuatro H1 únicos, JSON-LD parseable y marcas de revisión. Sin publicación ni prueba visual integral. Son cuatro revisiones adicionales, no cuatro URLs nuevas del listado de 239; ese conteo permanece en 60 revisadas.
+
+Última actualización: 2026-10-02
+
+## Lote 239 sexto: diez páginas editadas — 2026-10-02
+
+ZIP v5_rapido revisado: 80 referencias clasificadas como válidas, distribuidas 7, 9, 9, 8, 6, 9, 6, 9, 7 y 10. Las diez capturas propias respondieron HTTP 200; CETES (84 palabras), alto rendimiento (76), digital (78) y dólares (82) fueron clasificadas como insuficientes. Se contrastaron matrices, encabezados, extractos y archivos locales; no se consideran esas cuatro extracciones auditorías propias exitosas. Se descartaron promociones, menús, información extranjera inaplicable y afirmaciones de riesgo cero.
+
+Diez archivos editados bajo articulos/: credito-revolvente-vs-prestamo-personal, cuanto-ahorrar-cada-quincena, cuanto-cuesta-seguro-gastos-medicos-mayores, cuanto-invertir-cetes-ganar-1000, cuanto-tarda-sat-devolver-saldo-favor, cuanto-tarda-transferencia-spei, cuanto-usar-linea-credito, cuenta-ahorro-alto-rendimiento, cuenta-ahorro-digital y cuenta-ahorro-en-dolares.
+
+Mejoras: tabla de crédito reutilizable frente a plazo; presupuesto y reservas quincenales; cotizaciones comparables de seguro; fórmula aproximada CETES con tasa hipotética explícita y plazos distintos; solicitud fiscal completa frente a devolución automática y suspensiones del artículo 22; interpretación de estados SPEI; utilización frente a capacidad de pago; ejemplo de tasa por tramos; apertura y recuperación de cuenta digital; restricciones y riesgo cambiario en dólares. Se incorporó Article JSON-LD a cinco páginas que no lo tenían y se actualizaron fechas de modificación. No se inventaron tasas vigentes, cotizaciones ni garantías de score o depósito.
+
+Fuentes contrastadas: artículo 22 publicado por SAT, MI SPEI y documentación SPEI de Banxico, Buró de Crédito, padrón de CNBV y requisitos Libretón Dólares de BBVA. El simulador de cetesdirecto y Banxico Contigo tienen contenido dependiente de interfaz; no se afirma haber probado una operación. Verificación local: diez H1 únicos, todos los bloques JSON-LD parseables, cero enlaces internos a archivos inexistentes; artículos estimados entre 342 y 578 palabras. Sin prueba visual integral ni publicación.
+
+Las seis tandas de esta lista suman 60 de 239 revisadas, 59 modificadas y una (IVA) revisada sin cambios; 179 fuera de estas tandas. No es un recuento histórico global.
+
+## Primer lote de la lista separada de 239 URLs — 2026-10-01
+
+Diez páginas revisadas y ampliadas localmente:
+
+- articulos/a-quien-retencion-iva.html
+- articulos/abonar-capital-vs-reducir-plazo.html
+- articulos/abono-capital-vs-adelantar-mensualidades.html
+- articulos/aguinaldo-30-dias-aprobado-vigencia.html
+- articulos/aguinaldo-pensionados-imss.html
+- articulos/aguinaldo-pensionados-issste.html
+- articulos/ahorro-automatico-quincenal.html
+- articulos/ahorro-para-estudios-hijos.html
+- articulos/ahorro-recurrente-cetes.html
+- articulos/apartados-cuenta-ahorro.html
+
+Primer ZIP revisado en esta conversación: 66 referencias válidas. El ZIP de reemplazos disponible contiene 21 válidas y nueve capturas propias válidas. El archivo anterior fue sustituido en la misma ruta, por lo que no se conserva aquí una copia íntegra de la primera matriz; se usaron las observaciones previas y el HTML local, sin presentar 87 como un conjunto fusionado archivado.
+
+Cambios: procedimientos, comparación de tablas, documentos, regímenes de pensión, periodicidad, aportaciones y límites. La nota de vigencia de aguinaldo mantiene su fecha previa; no se afirma haber certificado la ausencia de reformas al 1 de octubre.
+
+Conteo de este listado separado: 10 de 239 revisadas localmente; 229 sin revisar en este lote. Base anterior: 102 registradas/revisadas. Total entre listas disjuntas bajo ese criterio: 112. Publicación no verificada.
 
 ## ZIP de las tres últimas rutas — 2026-10-01
 
@@ -225,3 +266,43 @@ El archivo incluyó **68 competidores válidos** distribuidos en diez páginas p
 - `articulos/finiquito-vs-liquidacion.html` — 8 competidores; ya cubre diferencias, tabla comparativa, escenarios de salida, preguntas frecuentes y fuentes de PROFEDET.
 
 Este lote suma diez URLs revisadas. Se editaron dos y se añadieron sus marcas al inventario. Las otras ocho se dejan registradas como revisadas en este apartado, sin inflar el conteo de páginas modificadas. Ningún cambio local demuestra por sí solo que ya esté publicado en producción.
+# Lote 239 segundo: 10 páginas editadas el 2026-10-01
+
+ZIP revisado: auditoria_seo_resultados.zip de futbol_seo_scraper_playwright_v5_rapido. Contiene diez URLs propias en HTTP 200 y 75 competidores clasificados como válidos por el scraper (9, 7, 7, 9, 9, 7, 8, 7, 5 y 7). Se contrastaron las matrices temáticas con el HTML local; se descartaron noticias, navegación y promociones ajenas a la intención. No se interpretan los ordinales como posiciones verificadas en Google.
+
+Editadas: aplicaciones-para-ahorrar-dinero, balance-finanzas-personales, calcular-fondo-emergencia, calculo-retencion-isr, calendario-para-ahorrar-dinero, cep-spei-como-obtener, clave-rastreo-spei-donde-encontrarla, como-abonar-capital-infonavit, como-abrir-cuenta-de-ahorro y como-ahorrar-dinero-en-un-ano (todas bajo articulos/).
+
+Ampliaciones: tipos y seguridad de apps; balance frente a flujo de efectivo; faltante y aportaciones al fondo; ejemplo ISR explícitamente didáctico y fuentes SAT/DOF; calendario y fórmula de 52 semanas; descarga oficial del CEP y búsqueda de clave; comprobación de abonos Infonavit; requisitos y comparación de cuentas; plan anual y ajustes por aportaciones incumplidas. Se retiraron cuatro badges con métricas SEO ajenas al lector y se incorporó Article JSON-LD donde faltaba.
+
+Validación local: un H1 por archivo, diez bloques JSON-LD válidos y ningún enlace interno a un archivo inexistente. Contenido de artículo estimado entre 383 y 650 palabras. No se realizó prueba visual de navegador ni publicación. Estos diez archivos tienen cambios reales, no solo revisión; no se confirma un total global sin cruzar el inventario completo.
+
+# Lote 239 tercero: revisión de diez URLs — 2026-10-01
+
+ZIP comparativo con 72 competidores clasificados como válidos por el scraper (7, 7, 8, 8, 7, 9, 10, 4, 5 y 7). Se revisaron matrices temáticas y HTML local; se descartaron menús, anuncios y propiedades inmobiliarias ajenas a la guía.
+
+Nueve páginas editadas bajo articulos/: como-ahorrar-dinero-si-gano-poco, como-ahorrar-para-comprar-auto, como-ahorrar-para-comprar-casa, como-ahorrar-para-un-viaje, como-calcular-intereses-tarjeta-credito, como-calcular-pago-vacaciones, como-cancelar-tarjeta-credito, como-cobrar-incapacidad-imss y como-elegir-cuenta-ahorro. Se añadieron procedimientos, ejemplos propios, comparaciones y preguntas específicas. Se incorporó Article JSON-LD a las seis guías breves que carecían de él.
+
+como-calcular-iva.html: revisada sin cambios. Ya incluye agregar/quitar IVA, ejemplos, redondeo, tratamientos fiscales, retenciones, FAQ y fuentes; no se añadió contenido redundante.
+
+Correcciones relevantes: intereses usa saldo promedio diario y tasa ordinaria, no CAT; vacaciones aclara la duplicación del salario habitual; incapacidad diferencia autorización, modalidad y fecha de depósito, sin prometer el tercer día hábil. Documentación, gratuidad y excepción del convenio patronal contrastadas con IMSS-01-036-B; método de intereses contrastado con Santander y descanso pagado con PROFEDET.
+
+Este lote son diez revisadas, nueve modificadas. Junto a las dos tandas anteriores de la lista separada, son 30 de 239 revisadas en estas tres tandas; 209 fuera de estas tandas. No equivale a confirmar el inventario histórico completo ni publicación. Cambios guardados localmente, sin prueba visual integral de navegador ni despliegue.
+
+# Lote 239 cuarto: diez páginas editadas — 2026-10-01
+
+ZIP con 67 competidores clasificados como válidos por el scraper (8, 8, 5, 6, 5, 9, 6, 6, 5 y 9). Se contrastaron temas y contenido local, descartando navegación y promociones ajenas a la intención.
+
+Editadas bajo articulos/: como-elegir-tarjeta-credito-sin-anualidad, como-ensenar-ahorrar-ninos, como-funciona-pago-minimo-tarjeta, como-funciona-una-tarjeta-de-credito, como-hacer-presupuesto-personal, como-hacer-transferencia-spei, como-leer-estado-cuenta-tarjeta, como-leer-poliza-gastos-medicos, como-manejar-finanzas-personales y como-mejorar-score-crediticio.
+
+Cambios: comparaciones de costos, actividad infantil con meta, ejemplo del pago mínimo, ciclo de tarjeta, gastos irregulares y prevención de doble conteo, comprobaciones SPEI, lectura del estado de cuenta, póliza con ejemplo explícitamente condicionado, indicadores de organización y revisión del reporte crediticio. Se corrigió RECA por RECAS y su enlace en la página de seguros, contrastado con CONDUSEF. No se prometen cobertura médica, aprobación crediticia ni aumento de puntaje.
+
+Verificación local de H1 único, JSON-LD parseable y destinos de enlaces internos. Sin prueba visual integral ni despliegue. Las cuatro tandas de esta lista suman 40 de 239 revisadas, 39 con modificaciones y una (IVA) revisada sin cambios; 199 fuera de estas tandas. No es un nuevo cruce del inventario histórico global.
+
+# Lote 239 quinto: diez páginas editadas — 2026-10-02
+
+ZIP con 60 referencias válidas según el scraper, distribuidas 7, 7, 7, 5, 6, 6, 3, 8, 5 y 6. Descartados navegación, promociones, programas antiguos y temas ajenos. Editadas: como-organizar-primer-sueldo, como-saber-saldo-favor-sat, como-saber-si-estoy-en-buro-credito, como-sacar-constancia-situacion-fiscal, como-salir-de-deuda-tarjeta-credito, como-salir-de-deudas-con-poco-dinero, como-se-paga-una-tarjeta-de-credito, costo-total-prestamo-como-calcular, credito-infonavit-desempleo y credito-infonavit-terreno, bajo articulos/.
+
+Añadidos pasos, ejemplos propios, H2/H3 y advertencias específicas. Diferenciados saldo fiscal y devolución autorizada, reporte y score, mínimo y pago para no generar intereses, costo en pesos y CAT, precalificación y revisión del terreno. Añadido Article JSON-LD a tres páginas sin schema. Buró y Banco de México contrastados con documentación oficial; páginas SAT sin texto extraíble e Infonavit Fácil bloqueado, por lo que no se afirman requisitos cuantitativos ni pasos de interfaz no verificados.
+
+Validación local: un H1 en cada página, JSON-LD parseable y cero enlaces internos a archivos inexistentes. Sin prueba visual integral ni publicación. Estas cinco tandas suman 50 de 239 revisadas, 49 modificadas y una revisada sin cambios; 189 fuera de estas tandas. No es un conteo histórico global.
+
