@@ -1,0 +1,18 @@
+{
+  "keyword": "calculadora de aguinaldo",
+  "posicion": 1,
+  "es_url_propia": false,
+  "url": "https://www.fiscolick.mx/validadorcfdi/calculadora-de-aguinaldo.html",
+  "dominio": "www.fiscolick.mx",
+  "estado_http": null,
+  "fecha_scrape": "2026-10-10T05:30:58.113929+00:00",
+  "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.fiscolick.mx/validadorcfdi/calculadora-de-aguinaldo.html\nCall log:\n  - navigating to \"https://www.fiscolick.mx/validadorcfdi/calculadora-de-aguinaldo.html\", waiting until \"domcontentloaded\"\n",
+  "validacion_contenido": {
+    "contenido_valido": false,
+    "contenido_insuficiente": false,
+    "clasificacion": "descartar",
+    "motivos": [
+      "No fue posible cargar la URL."
+    ]
+  }
+}

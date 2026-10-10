@@ -1,0 +1,37 @@
+.aguinaldo-antiguedad-page .page-wrap{width:min(1120px,92%)}
+.aguinaldo-antiguedad-hero{position:relative;overflow:hidden;text-align:left!important;padding:42px!important;border:1px solid #e6dffd;border-radius:24px;background:radial-gradient(circle at 90% 10%,rgba(119,91,220,.14),transparent 34%),linear-gradient(145deg,#fff,#f7f5ff);box-shadow:0 22px 60px rgba(44,31,104,.09)}
+.aguinaldo-antiguedad-hero h1{max-width:850px;margin-inline:0!important}
+.aguinaldo-antiguedad-hero>p{max-width:760px;margin-inline:0!important}
+.hero-answer{max-width:850px;margin:24px 0 0;padding:17px 19px;border-left:4px solid #5a43c4;border-radius:12px;background:var(--surface);color:var(--text);font-size:1.02rem;line-height:1.65}
+.hero-answer strong{color:#4d36b5}
+.aguinaldo-antiguedad-page .cm-page-shortcuts{justify-content:flex-start;margin-top:22px}
+.aguinaldo-antiguedad-page .article{border-top:3px solid #5a43c4!important}
+.aguinaldo-antiguedad-page .article>section{padding-block:8px;scroll-margin-top:140px}
+.aguinaldo-antiguedad-page .article h2{font-size:clamp(1.55rem,3vw,2rem);letter-spacing:-.025em}
+.article-note{padding:14px 16px;border-radius:12px;background:#f6f3ff;border:1px solid #ded7ff}
+.section-kicker{display:inline-block;color:#5a43c4;font-size:.76rem;font-weight:850;letter-spacing:.1em;text-transform:uppercase}
+.aguinaldo-quick-calc{margin:32px 0;padding:25px;border:1px solid #dcd4ff;border-radius:20px;background:linear-gradient(145deg,#faf9ff,#f2efff)}
+.aguinaldo-quick-calc h2{margin-top:.4rem!important}
+.aguinaldo-quick-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.aguinaldo-quick-calc .form-group{margin:0}
+.aguinaldo-quick-calc .calc-button{margin-top:10px}
+.aguinaldo-quick-result{margin-top:16px;padding:0;border:1px solid #d7d0f5;border-radius:16px;background:var(--surface);overflow:hidden}
+.aguinaldo-quick-result>span{display:block;padding:18px;color:var(--muted)}
+.aguinaldo-quick-result.has-result{border-color:#5a43c4}
+.aguinaldo-result-main{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;padding:20px;background:linear-gradient(135deg,#241a59,#6449d9);color:#fff}
+.aguinaldo-result-main span,.aguinaldo-result-main strong{display:block}.aguinaldo-result-main span{font-size:.82rem}.aguinaldo-result-main strong{margin-top:4px;font-size:clamp(1.8rem,4vw,2.5rem);line-height:1}.aguinaldo-result-main small{font-size:.78rem}
+.aguinaldo-result-details{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:#e5e0f5}.aguinaldo-result-details div{padding:14px;background:var(--surface)}.aguinaldo-result-details span,.aguinaldo-result-details strong{display:block}.aguinaldo-result-details span{font-size:.78rem;color:var(--muted)}.aguinaldo-result-details strong{margin-top:4px;color:var(--text)}
+.quick-calc-disclaimer{margin:.7rem 0 0!important;color:var(--muted);font-size:.78rem}
+.formula-card{display:grid;gap:7px;margin:18px 0;padding:18px;border:1px solid #dcd6f3;border-radius:16px;background:#faf9ff}.formula-card code{width:fit-content;max-width:100%;padding:8px 10px;border-radius:8px;background:#241a59;color:#fff;white-space:normal}.formula-card span{color:var(--muted)}
+.aguinaldo-check-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.aguinaldo-check-grid>div{padding:17px;border:1px solid var(--line);border-radius:15px;background:var(--surface-2)}.aguinaldo-check-grid h3{margin-top:0!important}
+.aguinaldo-compare{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}.aguinaldo-compare>div{padding:19px;border:1px solid var(--line);border-radius:16px;background:var(--surface-2)}.aguinaldo-compare span,.aguinaldo-compare strong{display:block}.aguinaldo-compare span{color:#5a43c4;font-size:.78rem;font-weight:850;text-transform:uppercase;letter-spacing:.08em}.aguinaldo-compare strong{margin:.3rem 0;font-size:1.08rem}
+.aguinaldo-antiguedad-page .faq-section details{margin:.7rem 0;padding:.15rem 1rem;border:1px solid var(--line);border-radius:13px;background:var(--surface)}.aguinaldo-antiguedad-page .faq-section summary{cursor:pointer;padding:1rem 1.8rem 1rem 0;font-weight:750}.aguinaldo-antiguedad-page .faq-section details[open]{border-color:#bdb0f5;background:#faf9ff}
+.authority-sources{display:grid;gap:8px;margin-top:28px}.authority-sources div{display:flex;gap:12px;flex-wrap:wrap}.authority-sources a{font-weight:750}
+.aguinaldo-sidebox{border-top:3px solid #5a43c4!important}.aguinaldo-sidebox ol{padding-left:1.35rem;margin:1rem 0}.aguinaldo-sidebox .btn{width:100%}.aguinaldo-sidebox .privacy-note{margin-top:14px;font-size:.82rem}
+.aguinaldo-antiguedad-page .table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:15px}.aguinaldo-antiguedad-page table{width:100%;border-collapse:collapse;min-width:630px}.aguinaldo-antiguedad-page th,.aguinaldo-antiguedad-page td{padding:12px 14px;border-bottom:1px solid var(--line);text-align:left}.aguinaldo-antiguedad-page th{background:#eeeaff;color:#2d255d}.aguinaldo-antiguedad-page tbody tr:last-child td{border-bottom:0}
+html[data-theme="dark"] .aguinaldo-antiguedad-hero{background:radial-gradient(circle at 90% 10%,rgba(124,98,225,.2),transparent 34%),linear-gradient(145deg,#111d30,#181630)}
+html[data-theme="dark"] .hero-answer,html[data-theme="dark"] .article-note,html[data-theme="dark"] .formula-card,html[data-theme="dark"] .aguinaldo-antiguedad-page .faq-section details{background:var(--surface)}
+html[data-theme="dark"] .aguinaldo-antiguedad-page th{background:#29234f;color:#fff}
+@media(max-width:760px){.aguinaldo-antiguedad-hero{padding:24px!important}.aguinaldo-quick-grid,.aguinaldo-check-grid{grid-template-columns:1fr}.aguinaldo-result-details{grid-template-columns:1fr}.aguinaldo-result-main{align-items:flex-start;flex-direction:column}.aguinaldo-compare{grid-template-columns:1fr}.authority-sources div{display:grid}.aguinaldo-antiguedad-page .article{padding-inline:20px!important}}
+@media(max-width:420px){.aguinaldo-antiguedad-page .page-wrap{width:calc(100% - 24px)}.aguinaldo-quick-calc{padding:18px}.hero-answer{font-size:.95rem}}
+

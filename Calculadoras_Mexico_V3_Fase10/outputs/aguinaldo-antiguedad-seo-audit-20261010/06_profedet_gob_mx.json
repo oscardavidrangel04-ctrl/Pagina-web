@@ -1,0 +1,18 @@
+{
+  "keyword": "cuánto me toca de aguinaldo",
+  "posicion": 6,
+  "es_url_propia": false,
+  "url": "https://www.profedet.gob.mx/profedet/archivos/Preguntas_frecuentes_AGUINALDO_2020.pdf",
+  "dominio": "www.profedet.gob.mx",
+  "estado_http": null,
+  "fecha_scrape": "2026-10-10T06:39:51.667748+00:00",
+  "error": "Error: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.profedet.gob.mx/profedet/archivos/Preguntas_frecuentes_AGUINALDO_2020.pdf\", waiting until \"domcontentloaded\"\n",
+  "validacion_contenido": {
+    "contenido_valido": false,
+    "contenido_insuficiente": false,
+    "clasificacion": "descartar",
+    "motivos": [
+      "No fue posible cargar la URL."
+    ]
+  }
+}

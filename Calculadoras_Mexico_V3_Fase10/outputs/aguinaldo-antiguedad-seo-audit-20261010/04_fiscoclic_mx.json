@@ -1,0 +1,61 @@
+{
+  "keyword": "cuánto me toca de aguinaldo",
+  "posicion": 4,
+  "es_url_propia": false,
+  "url": "https://www.fiscoclic.mx/validadorfd/calculadora-de-aguinaldo.html",
+  "dominio": "fiscoclic.mx",
+  "estado_http": 404,
+  "fecha_scrape": "2026-10-10T06:39:32.213031+00:00",
+  "seo": {
+    "title": "Page Not Found :(",
+    "meta_description": null,
+    "canonical": null
+  },
+  "encabezados": {
+    "h1": [
+      "Not found :("
+    ],
+    "h2": [],
+    "h3": []
+  },
+  "contenido": {
+    "texto_principal": "Not found :( Sorry, but the page you were trying to view does not exist. It looks like this was the result of either: a mistyped address an out-of-date link",
+    "numero_palabras": 31,
+    "contenedor_principal_detectado": false,
+    "secciones": [
+      {
+        "nivel": "INTRODUCCION",
+        "encabezado": "Introducción",
+        "texto": "Sorry, but the page you were trying to view does not exist. It looks like this was the result of either: a mistyped address an out-of-date link",
+        "palabras": 29
+      }
+    ]
+  },
+  "elementos": {
+    "tablas_html": [],
+    "faqs_visibles": [],
+    "faqs_schema": []
+  },
+  "schema": {
+    "tipos": [],
+    "json_ld": []
+  },
+  "rendimiento_basico": {
+    "load_ms": 780,
+    "html_bytes": 4438
+  },
+  "renderizado_js": true,
+  "validacion_contenido": {
+    "http_200": false,
+    "contenido_valido": false,
+    "contenido_insuficiente": true,
+    "clasificacion": "descartar",
+    "motivos": [
+      "HTTP 404 (se exige 200).",
+      "Título o texto de bloqueo/error detectado: not found.",
+      "Se usó un contenedor principal alternativo (sin <main>/<article>).",
+      "Sólo se extrajeron 31 palabras; requiere revisión y no entra a competidores válidos."
+    ]
+  },
+  "archivos_evidencia": {}
+}

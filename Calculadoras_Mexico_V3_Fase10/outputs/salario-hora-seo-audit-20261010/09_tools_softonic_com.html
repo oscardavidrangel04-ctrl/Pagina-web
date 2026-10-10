@@ -1,0 +1,1003 @@
+<!DOCTYPE html><html lang="es" dir="ltr" data-hup-ab-remove-second="1"><head><script type="text/javascript" async="" src="https://dynamic.criteo.com/js/ld/ld.js?"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-R5K71YRXMV&amp;cx=c&amp;gtm=4e6a80h2"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-H68LZN27CS&amp;cx=c&amp;gtm=4e6a72"></script><script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610070101/pubads_impl_page_level_ads.js?cb=122881484"></script><script type="text/javascript" async="" src="https://api.idsequoia.ai/rtd.js?siteId=9d781bf5649aca6e&amp;session=4b44a2a8-14ef-470d-be9e-5d7bbeb4d0f9&amp;r=tools.softonic.com"></script>
+    <script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script>(()=>{const p=new URLSearchParams(location.hash.replace(/^#/,'')),b=p.get('handoff')||'',h=p.get('binaryHexHandoff')||'',valid=v=>/^[a-f0-9-]{16,64}\.[a-f0-9-]{16,64}$/i.test(v),base64=/^[a-f0-9-]{16,64}$/i.test(b);if(!(base64||valid(h)))return;const u=new URL(location.href);u.hash='';history.replaceState(history.state,'',u);if(base64){Object.defineProperty(window,'__hyperionBase64ImageHandoff',{value:b,configurable:true});window.dispatchEvent(new Event('hyperion:base64-image-handoff-ready'));}if(valid(h))Object.defineProperty(window,'__hyperionBinaryHexHandoff',{value:h,configurable:true});})();</script>
+    <script>
+    (() => {
+        const initial = new URL(window.location.href);
+        if (initial.searchParams.has('funnel') || initial.searchParams.has('step')) return;
+
+        const replaceState = window.history.replaceState.bind(window.history);
+        const attribution = [
+            'locale', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content',
+            'gclid', 'fbclid', 'msclkid',
+        ];
+        const allowUserNavigation = (event) => {
+            if (!event.isTrusted) return;
+            window.history.replaceState = replaceState;
+        };
+        ['pointerdown', 'keydown', 'click'].forEach((type) => {
+            window.addEventListener(type, allowUserNavigation, { capture: true, once: true });
+        });
+
+        window.history.replaceState = function (state, unused, value) {
+            if (arguments.length < 3) return replaceState(state, unused);
+            if (value === undefined || value === null) return replaceState(state, unused, value);
+
+            let next;
+            try {
+                next = new URL(value, window.location.href);
+            } catch (_) {
+                return replaceState(state, unused, value);
+            }
+
+            if (
+                next.origin === initial.origin
+                && next.pathname === initial.pathname
+                && (next.searchParams.has('funnel') || next.searchParams.has('step'))
+            ) {
+                [...next.searchParams.keys()].forEach((key) => {
+                    if (!initial.searchParams.has(key)) next.searchParams.delete(key);
+                });
+                attribution.forEach((key) => {
+                    if (!initial.searchParams.has(key)) return;
+                    next.searchParams.delete(key);
+                    initial.searchParams.getAll(key).forEach((value) => next.searchParams.append(key, value));
+                });
+                value = next.toString();
+            }
+
+            return replaceState(state, unused, value);
+        };
+    })();
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="preconnect" href="https://securepubads.g.doubleclick.net" crossorigin="">
+<link rel="preconnect" href="https://rv-assets.softonic.com" crossorigin="">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+
+<link rel="dns-prefetch" href="https://securepubads.g.doubleclick.net">
+<link rel="dns-prefetch" href="https://rv-assets.softonic.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://c.amazon-adsystem.com">
+<link rel="dns-prefetch" href="https://sdk.privacy-center.org">
+<link rel="dns-prefetch" href="https://spn-v1.revampcdn.com">
+        <title>Calculadora de salario: convierte sueldo por hora, semana, mes y año</title>
+<meta name="description" content="Convierte cualquier salario entre cifras por hora, semanales, quincenales, mensuales y anuales. Compatible con cualquier divisa y horarios de trabajo personalizados.">
+<link rel="canonical" href="https://tools.softonic.com/salary-calculator">
+<link rel="alternate" type="application/rss+xml" title="Herramientas online de Softonic - Publicadas en las últimas 24 h" href="https://tools.softonic.com/recent-tools.xml">
+<meta property="og:title" content="Calculadora de salario: convierte sueldo por hora, semana, mes y año">
+<meta property="og:description" content="Convierte cualquier salario entre cifras por hora, semanales, quincenales, mensuales y anuales. Compatible con cualquier divisa y horarios de trabajo personalizados.">
+<meta property="og:url" content="https://tools.softonic.com/salary-calculator">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Herramientas online de Softonic">
+
+<link rel="alternate" hreflang="es" href="https://tools.softonic.com/salary-calculator">
+<link rel="alternate" hreflang="ja" href="https://tools.softonic.jp/salary-calculator">
+<link rel="alternate" hreflang="nl" href="https://tools.softonic.nl/salary-calculator">
+<link rel="alternate" hreflang="id" href="https://tools.softonic-id.com/salary-calculator">
+<link rel="alternate" hreflang="pl" href="https://tools.softonic.pl/salary-calculator">
+<link rel="alternate" hreflang="fr" href="https://tools.fr.softonic.com/salary-calculator">
+<link rel="alternate" hreflang="pt" href="https://tools.softonic.com.br/salary-calculator">
+<link rel="alternate" hreflang="de" href="https://tools.de.softonic.com/salary-calculator">
+<link rel="alternate" hreflang="sv" href="https://tools.softonic.se/salary-calculator">
+<link rel="alternate" hreflang="ar" href="https://tools.softonic-ar.com/salary-calculator">
+<link rel="alternate" hreflang="vi" href="https://tools.vi.softonic.com/salary-calculator">
+<link rel="alternate" hreflang="ko" href="https://tools.softonic.kr/salary-calculator">
+<link rel="alternate" hreflang="th" href="https://tools.softonic-th.com/salary-calculator">
+<link rel="alternate" hreflang="en" href="https://tools.en.softonic.com/salary-calculator">
+<link rel="alternate" hreflang="it" href="https://tools.it.softonic.com/salary-calculator">
+<link rel="alternate" hreflang="ru" href="https://tools.softonic.ru/salary-calculator">
+<link rel="alternate" hreflang="tr" href="https://tools.softonic.com.tr/salary-calculator">
+<link rel="alternate" hreflang="zh" href="https://tools.softonic.cn/salary-calculator">
+<link rel="alternate" hreflang="x-default" href="https://tools.en.softonic.com/salary-calculator">
+<link rel="icon" href="/favicons/softonic.png">
+    
+    <script>
+window.dataLayer = window.dataLayer || [];
+// Server-rendered page context (edge-cached: identical per locale/tool/step).
+var __hypPage = {"page_type":"Toolpage","site_language":"es","program_id":"hyp_b6f1de95b232","program_slug":"salary-calculator","program_name":"Salary Calculator","program_category":"calculator","page_number":1};
+
+// logged_in is per-user, so it MUST be read from the browser cookie at runtime, never
+// baked server-side into this edge-cached markup. Softonic's session cookie
+// sup_session=1 means logged in; it is scoped to .softonic.com, so it only exists on
+// en/es/de/fr/it/vi. On the other-TLD domains it is absent and this reads 'no', which
+// is correct: login is not available there (confirmed by Softonic, 2026-07-28).
+__hypPage.logged_in = /(?:^|;\s*)sup_session=1(?:;|$)/.test(document.cookie) ? 'yes' : 'no';
+window.hyperionPage = __hypPage;
+// page_view fires as an explicit dataLayer event: Softonic's GA4 tag in GTM-5LWWHP
+// triggers on a dataLayer event named exactly 'page_view' (confirmed by Paul,
+// 2026-07-27). window.hyperionPage stays event-less as the click-handler lookup.
+window.dataLayer.push(Object.assign({ event: 'page_view' }, __hypPage));
+</script>
+    <link rel="preload" as="style" href="https://tools.softonic.com/build/assets/public-0gU-lwA8.css"><link rel="preload" as="style" href="https://tools.softonic.com/build/assets/public-CKhB0lpr.css"><link rel="modulepreload" as="script" href="https://tools.softonic.com/build/assets/public-AanSxo9Z.js"><link rel="modulepreload" as="script" href="https://tools.softonic.com/build/assets/rolldown-runtime-DAXXjFlN.js"><link rel="stylesheet" href="https://tools.softonic.com/build/assets/public-0gU-lwA8.css" data-navigate-track="reload"><link rel="stylesheet" href="https://tools.softonic.com/build/assets/public-CKhB0lpr.css" data-navigate-track="reload"><script type="module" src="https://tools.softonic.com/build/assets/public-AanSxo9Z.js" data-navigate-track="reload"></script>        <style>/* Softonic brand overrides */</style>
+                <meta name="google-site-verification" content="XSJKokGUsZnwvvthoFIH5XO_RgGPwUr5TD-T9R4O09c">
+        <script>
+window.didomiOnReady = window.didomiOnReady || [];
+window.didomiOnReady.push(function () {
+    if (window.__hupConsentGoogleTagsLoaded) return;
+    window.__hupConsentGoogleTagsLoaded = true;
+
+    var dataLayer = window.dataLayer = window.dataLayer || [];
+    var gtagIds = ["AW-776951102","G-H68LZN27CS"];
+    var gtmId = "GTM-5LWWHP";
+
+    if (gtagIds.length) {
+        window.gtag = window.gtag || function () { dataLayer.push(arguments); };
+        var gtagScript = document.createElement('script');
+        gtagScript.async = true;
+        gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(gtagIds[0]);
+        gtagScript.dataset.hupConsentTag = 'gtag';
+        document.head.appendChild(gtagScript);
+        window.gtag('js', new Date());
+        gtagIds.forEach(function (id) { window.gtag('config', id); });
+    }
+
+    if (gtmId) {
+        var gtmScript = document.createElement('script');
+        gtmScript.async = true;
+        gtmScript.src = 'https://www.googletagmanager.com/gtm.js?id=' + encodeURIComponent(gtmId);
+        gtmScript.dataset.hupConsentTag = 'gtm';
+        document.head.appendChild(gtmScript);
+    }
+});
+</script>
+
+<script async="" src="https://sdk.privacy-center.org/a8ff32f4-78c7-4428-825d-0badb488b68b/loader.js?target=tools.softonic.com"></script>
+
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+<link rel="preconnect" href="https://c.amazon-adsystem.com">
+<link rel="preconnect" href="https://spn-v1.revampcdn.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script async="" src="https://www.google.com/adsense/search/ads.js"></script>
+
+<meta property="td-page" content="Toolpage">
+<meta property="rv-ad-unit-path" content="%%display%%/%%display%%-Web-es/apps/Toolpage/%%slot%%">
+<meta property="rv-locale" content="es-ES">
+<meta property="rv-country" content="MX">
+<meta property="rv-region" content="C">
+<meta property="rv-compliant" content="1">
+<meta property="rv-monetizable" content="true">
+<meta property="rv-interstitial-unhideWindow" content="true">
+<meta property="rv-interstitial-navBar" content="true">
+
+<meta property="rv-toolrecat" content="calculators-converters">
+
+
+<script>window.__rvSlotEvents=window.__rvSlotEvents||[];document.addEventListener('rv:adRendered',function(e){window.__rvSlotEvents.push(e.detail||{});});</script>
+
+<script>window.__rvAb={testId:"RAMP-4833",variants:{"0":25,"1":25,"2":25,"3":25},effects:{"0":["remove_second"],"1":["remove_second"],"2":[],"3":["remove_top"]}};
+/*hup-ab-start*/(function(){var cfg=window.__rvAb;if(!cfg||!cfg.testId||!cfg.variants)return;try{if(!window.matchMedia('(min-width:768px)').matches)return;}catch(_){return;}
+var names=Object.keys(cfg.variants);if(!names.length)return;
+var key='hyperion:experiment:'+cfg.testId,variant='';
+try{var forced=new URLSearchParams(location.search).get('ab');if(forced&&names.indexOf(forced)>-1){variant=forced;try{localStorage.setItem(key,variant);}catch(_){}}}catch(_){}
+if(!variant){try{variant=localStorage.getItem(key)||'';}catch(_){}}
+if(names.indexOf(variant)===-1){var bucket=Math.random()*100;try{var r=new Uint32Array(1);crypto.getRandomValues(r);bucket=r[0]*100/0x100000000;}catch(_){}
+variant=names[names.length-1];var acc=0;
+for(var i=0;i<names.length;i++){acc+=cfg.variants[names[i]];if(bucket<acc){variant=names[i];break;}}
+try{localStorage.setItem(key,variant);}catch(_){}}
+var fx=(cfg.effects&&cfg.effects[variant])||[];
+for(var j=0;j<fx.length;j++){document.documentElement.setAttribute('data-hup-ab-'+String(fx[j]).replace(/_/g,'-'),'1');}
+try{var m=document.createElement('meta');m.setAttribute('property','rv-ab-variant');m.setAttribute('content',cfg.testId+'.'+variant);document.head.appendChild(m);}catch(_){}
+window.hyperionDesktopLayoutAb={id:cfg.testId,variant:variant};
+try{(window.dataLayer=window.dataLayer||[]).push({event:'experiment_impression',experiment_id:cfg.testId,experiment_variant:variant,variant_id:variant});}catch(_){}
+})();/*hup-ab-end*/</script><meta property="rv-ab-variant" content="RAMP-4833.0">
+
+<meta property="rv-platform-id" content="windows">
+<script>(function(){try{var m=document.querySelector('meta[property="rv-platform-id"]');if(!m)return;var ua=navigator.userAgent||'',p='other';if(/Windows/i.test(ua))p='windows';else if(/Android/i.test(ua))p='android';else if(/iPhone|iPad|iPod/i.test(ua))p='ios';else if(/Mac OS X|Macintosh/i.test(ua))p='macos';else if(/Linux|CrOS/i.test(ua))p='linux';m.setAttribute('content',p);}catch(e){}})();</script>
+<script async="" type="module" src="//rv-assets.softonic.com/publishers/softonic.js?modern=1"></script>
+<script async="" src="//rv-assets.softonic.com/prebid/softonic/prebid-client.js"></script>
+        <style data-hyperion-softonic-chrome="es">
+/* Softonic chrome captured by Hyperion. Source: https://www.softonic.com/ Locale: es Captured: 2026-05-27T11:59:08.836Z */
+@font-face { font-weight: 400; font-family: Inter; font-style: normal; font-display: swap; src: local("Inter Regular"), local("Inter-Regular"), url("https://assets.sftcdn.net/public/584579.woff2") format("woff2"), url("https://assets.sftcdn.net/public/2717a9.woff") format("woff"); }
+@font-face { font-weight: 600; font-family: Inter; font-style: normal; font-display: swap; src: local("Inter SemiBold"), local("Inter-SemiBold"), url("https://assets.sftcdn.net/public/de11dc.woff2") format("woff2"), url("https://assets.sftcdn.net/public/80c279.woff") format("woff"); }
+@font-face { font-weight: 600; font-family: Montserrat; font-style: normal; font-display: swap; src: local("Montserrat SemiBold"), local("Montserrat-SemiBold"), url("https://assets.sftcdn.net/public/c971c0.woff2") format("woff2"), url("https://assets.sftcdn.net/public/96b129.woff") format("woff"); }
+@font-face { font-family: "Arial Fallback"; font-display: swap; font-weight: 400; src: local("Arial"); size-adjust: 107.4%; descent-override: 19%; }
+@font-face { font-family: "Arial Fallback"; font-display: swap; font-weight: 600; src: local("Arial Bold"); size-adjust: 107.7%; descent-override: 19%; }
+:root { --img-placeholder: url("https://assets.sftcdn.net/public/d8b289.svg"); }
+.is-hidden { display: none !important; }
+:root { --gutter-neg: -8px; --gutter-pos: 8px; }
+.PGB_8o { width: 100%; display: flex; }
+.has-wallpaper .PGB_8o { background-color: rgb(255, 255, 255); max-width: 1030px; margin: 0px auto; }
+.raiSkinDesktop .PGB_8o { background-color: rgb(255, 255, 255); max-width: 1200px; margin: 0px auto; }
+.bXkH_7 { background-color: rgb(255, 255, 255); width: 100%; margin: 0px auto; padding-inline: 16px; }
+@media screen and (min-width: 30em) { .bXkH_7 { max-width: 80em; padding-inline: 16px; } }
+@media screen and (min-width: 48em) { .bXkH_7 { max-width: 80em; padding-inline: 16px; } }
+@media screen and (min-width: 64em) { .bXkH_7 { max-width: 80em; padding-inline: 24px; } }
+@media screen and (min-width: 80em) { .bXkH_7 { max-width: 80em; padding-inline: 24px; } }
+.JWiJTm { fill: currentcolor; width: 16px; height: 16px; display: inline-block; }
+._tkCZE { width: 24px; height: 24px; }
+.sIUrXF { width: 32px; height: 32px; }
+.BKi9Ew { fill: currentcolor; }
+:root { --gutter-scroll-neg: -16px; --gutter-scroll-pos: 16px; --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; }
+@media (hover: hover) and (min-width: 30em) { .OJEyxL :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 30em) { .P8Vhq4 :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 30em) { .srMVzQ :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 30em) { .mVfoap :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 30em) { .O7W7E8 :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 30em) { .xcCE9s :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 30em) { .aErJFB :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 30em) { .k9lmI2 :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 30em) { .zGcRzD :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 30em) { .N0_ZLd :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 30em) { .FyDXcc :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 30em) { .zCoDsA :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .NWbThh :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .n3i_o3 :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .vraTQ7 :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .rySWb_ :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .p5GoMa :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .aWwjki :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .CEaj16 :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .w4Yx0C :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .V2RyZF :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .nisVdd :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .xGiu69 :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media (hover: hover) and (min-width: 48em) { .FaeRlN :root { --half-gutter-scroll-neg: -8px; --half-gutter-scroll-pos: 8px; } }
+@media screen and (min-width: 64em) { :root { --half-gutter-scroll-neg: -12px; --half-gutter-scroll-pos: 12px; } }
+@media screen and (min-width: 80em) { :root { --half-gutter-scroll-neg: -12px; --half-gutter-scroll-pos: 12px; } }
+.PDfZX_ { margin-inline: var(--gutter-neg); flex-wrap: wrap; display: flex; }
+.rxEyu2 { padding: 0 var(--gutter-pos); flex: 0 0 100%; max-width: 100%; }
+@media screen and (min-width: 30em) { :root { --gutter-neg: -8px; --gutter-pos: 8px; } }
+@media screen and (min-width: 48em) { :root { --gutter-neg: -8px; --gutter-pos: 8px; }
+.PigimL { flex: 0 0 33.3333%; max-width: 33.3333%; }
+.lGAQWv { flex: 0 0 66.6667%; max-width: 66.6667%; }
+.EtNpvF { flex: 0 0 100%; max-width: 100%; } }
+@media screen and (min-width: 64em) { :root { --gutter-neg: -12px; --gutter-pos: 12px; }
+.OMlpov { flex: 0 0 25%; max-width: 25%; }
+.lLPjuY { flex: 0 0 75%; max-width: 75%; } }
+@media screen and (min-width: 80em) { :root { --gutter-neg: -12px; --gutter-pos: 12px; } }
+.wkPIBJ { cursor: pointer; color: rgb(59, 61, 64); background-color: rgb(255, 255, 255); border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; border-radius: 50%; justify-content: center; align-items: center; width: 32px; height: 32px; transition: background-color 0.25s; display: flex; box-shadow: rgb(59, 61, 64) 0px 0px 0px 2px inset; }
+.wkPIBJ:hover { background-color: rgb(59, 61, 64); }
+.wkPIBJ:hover svg { color: rgb(255, 255, 255); }
+.Q7IVdm { color: rgb(255, 255, 255); background-color: transparent; box-shadow: rgb(255, 255, 255) 0px 0px 0px 2px inset; }
+.Q7IVdm:hover { background-color: rgb(255, 255, 255); }
+.Q7IVdm:hover svg { color: rgb(0, 106, 220); }
+.wVkNvw { color: rgb(255, 255, 255); content-visibility: auto; contain-intrinsic-size: auto 500px; background-color: rgb(66, 127, 158); background-image: linear-gradient(276deg, rgb(72, 160, 203) -3%, rgb(66, 127, 158) 60%, rgb(0, 0, 0) 150%); position: relative; overflow: hidden; }
+@media screen and (min-width: 48em) { .wVkNvw { background-image: linear-gradient(276deg, rgb(72, 160, 203) -3%, rgb(66, 127, 158) 60%, rgb(0, 0, 0) 110%); } }
+.wVkNvw::before { transform-origin: 100% 0px; content: ""; background-image: linear-gradient(195deg, rgba(44, 187, 129, 0.9) 7%, rgba(38, 100, 70, 0.9) 80%); width: 80%; height: 100%; position: absolute; inset: 0px; transform: rotate(30deg); }
+@media screen and (min-width: 30em) { .wVkNvw::before { width: 42%; transform: skew(332deg); } }
+.wPgSia { z-index: 1; padding-block: 48px; }
+.wVkNvw .wPgSia { background-color: initial; }
+.XjM2OG { margin-block-end: 12px; font-family: Montserrat, "Arial Fallback", arial, sans-serif; font-size: 1.25rem; font-weight: 600; }
+.ADwqCt { flex-direction: column; gap: 8px; margin-block-end: 24px; display: inline-flex; }
+@media screen and (min-width: 48em) { .ADwqCt { width: 66%; } }
+.KFkn5A { flex-flow: wrap; width: 100%; }
+.I44GA0 { display: inline-flex; }
+.PP5LFg { cursor: pointer; color: rgb(255, 255, 255); background: 0px 0px; border: 0px; padding: 0px; font-size: 0.875rem; line-height: 1.4; }
+.PP5LFg:hover { text-decoration: underline; }
+.EFjdZP { cursor: default; font-weight: 600; }
+.EFjdZP:hover { text-decoration: none; }
+.A56vMh { margin-block-end: 24px; font-size: 0.875rem; }
+.A56vMh .fffvnv { display: block; }
+@media screen and (min-width: 48em) { .A56vMh .fffvnv { display: inline; } }
+@media screen and (min-width: 64em) { .jrO0sC { text-align: end; } }
+@media screen and (min-width: 48em) { .cIJrmA { background-color: rgb(255, 255, 255); align-items: center; height: 100%; display: flex; }
+.jUAi53 { height: 100%; }
+.dH3_E6 { color: rgb(59, 61, 64); background-color: rgb(255, 255, 255); flex-wrap: wrap; align-items: center; column-gap: 4px; height: 100%; padding-inline: 12px; font-size: 1rem; transition: background-color 0.25s; display: flex; }
+.dH3_E6:hover { background-color: rgb(245, 245, 245); }
+.dH3_E6:focus-visible { outline-offset: -1px; } }
+.mgcls3 { overflow: visible auto; }
+.cyuKFe { opacity: 1; background-color: rgb(255, 255, 255); border-inline-end: 1px solid rgb(189, 189, 189); width: 100%; height: 100vh; padding-block-end: 160px; position: absolute; inset-block-start: 48px; }
+@media screen and (min-width: 64em) { .cyuKFe { inset-block-start: 0px; } }
+.has-wallpaper .cyuKFe, .raiSkinDesktop .cyuKFe { padding-block-end: 298px; }
+.BXJ_Tc { display: none; inset-inline-start: -100%; }
+.has-wallpaper .BXJ_Tc, .raiSkinDesktop .BXJ_Tc { display: none; }
+.WNTOdu { cursor: pointer; text-align: start; text-transform: capitalize; color: rgb(59, 61, 64); background-color: rgb(255, 255, 255); border: 0px; border-block-end: 1px solid rgb(224, 224, 224); flex-wrap: wrap; align-items: center; column-gap: 8px; width: 100%; min-height: 48px; padding: 12px; font-family: inherit; font-size: 0.875rem; transition: background-color 0.25s; display: flex; }
+.WNTOdu:hover { background-color: rgb(245, 245, 245); }
+.tEDxqA { padding-inline-start: 40px; }
+.WNTOdu span { flex: 1 1 0%; }
+.uWtoxJ { display: none; }
+.uWtoxJ:checked ~ .ADIGIZ { display: revert; inset-inline-start: 0px; }
+.has-wallpaper .uWtoxJ:checked ~ .ADIGIZ, .raiSkinDesktop .uWtoxJ:checked ~ .ADIGIZ { display: initial; }
+.hLGQcf { opacity: 1; background-color: rgb(255, 255, 255); border-inline-end: 1px solid rgb(189, 189, 189); width: 100%; height: 100vh; padding-block-end: 160px; position: absolute; inset-block-start: 48px; overflow: visible auto; }
+@media screen and (min-width: 64em) { .hLGQcf { inset-block-start: 0px; } }
+.has-wallpaper .hLGQcf, .raiSkinDesktop .hLGQcf { padding-block-end: 298px; }
+.uzNa23 { display: none; inset-inline-start: -100%; }
+.has-wallpaper .uzNa23, .raiSkinDesktop .uzNa23 { display: none; }
+.rcw1Ye { text-align: start; color: rgb(59, 61, 64); background-color: rgb(255, 255, 255); border: 0px; border-block-end: 1px solid rgb(224, 224, 224); flex-wrap: wrap; align-items: center; column-gap: 8px; width: 100%; min-height: 48px; padding: 12px; font-size: 0.875rem; display: flex; }
+.frnOIP { cursor: pointer; text-align: start; text-transform: capitalize; color: rgb(59, 61, 64); border-style: solid; border-color: rgb(224, 224, 224); border-image: initial; background-color: rgb(255, 255, 255); border-width: 0px 0px 1px; flex-wrap: wrap; align-items: center; column-gap: 8px; width: 100%; min-height: 48px; padding: 12px; font-size: 0.875rem; display: flex; }
+.frnOIP:hover { background-color: rgb(245, 245, 245); }
+.SFug31 { color: rgb(20, 20, 21); font-weight: 600; }
+.xEaojW { padding-inline-start: 36px; }
+.wivkkz { opacity: 1; background-color: rgb(255, 255, 255); border-inline-end: 1px solid rgb(189, 189, 189); width: 100%; height: 100vh; padding-block-end: 160px; position: absolute; inset-block-start: 48px; overflow: visible auto; }
+@media screen and (min-width: 64em) { .wivkkz { inset-block-start: 0px; } }
+.has-wallpaper .wivkkz, .raiSkinDesktop .wivkkz { padding-block-end: 298px; }
+.frehpc { display: none; inset-inline-start: -100%; }
+.aj18kZ { cursor: pointer; text-align: start; text-transform: capitalize; color: rgb(59, 61, 64); border-style: solid; border-color: rgb(224, 224, 224); border-image: initial; background-color: rgb(255, 255, 255); border-width: 0px 0px 1px; flex-wrap: wrap; align-items: center; column-gap: 8px; width: 100%; min-height: 48px; padding: 12px; font-size: 0.875rem; display: flex; }
+.aj18kZ:hover { background-color: rgb(245, 245, 245); }
+.aj18kZ.selected { color: rgb(20, 20, 21); font-weight: 600; }
+.t2hfAo { padding-inline-start: 36px; }
+.HwBOed { background-color: rgb(20, 20, 21); height: 100vh; }
+@media screen and (min-width: 64em) { .HwBOed { background-color: rgb(255, 255, 255); } }
+.dyCtGA { display: none; }
+.dyCtGA:checked ~ .BBKHTV, .dyCtGA:checked ~ .noM7eM { display: revert; inset-inline-start: 0px; }
+.has-wallpaper .dyCtGA:checked ~ .BBKHTV, .dyCtGA:checked ~ .noM7eM, .raiSkinDesktop .dyCtGA:checked ~ .BBKHTV { display: initial; }
+.NBmDh3 { overscroll-behavior-y: contain; height: 100%; padding-block: 48px 160px; overflow: visible auto; }
+@media screen and (min-width: 64em) { .NBmDh3 { padding-block: 0px; } }
+.has-wallpaper .NBmDh3, .raiSkinDesktop .NBmDh3 { padding-block-end: 298px; }
+.SY07Ep { cursor: pointer; text-align: start; color: rgb(255, 255, 255); background-color: rgb(0, 163, 224); border-block-end: 1px solid rgb(255, 255, 255); flex-wrap: wrap; align-items: center; width: 100%; min-height: 48px; padding: 12px; font-size: 0.875rem; transition: background-color 0.25s; display: flex; }
+.SY07Ep:hover { background-color: rgb(0, 135, 222); }
+.SY07Ep span { flex: 1 1 0%; }
+.vTumPT { text-transform: uppercase; font-weight: 600; }
+.iDfc8y { background: #eee var(--img-placeholder)no-repeat center/contain; object-fit: cover; border-radius: 50%; box-shadow: rgb(224, 224, 224) 0px 0px 0px 1px; }
+.T3eh3H { --user-profile-menu-bp: 64em; position: relative; }
+.RlVfbu { cursor: pointer; background-color: rgb(255, 255, 255); justify-content: center; align-items: center; width: 48px; height: 48px; transition: background-color 0.25s; display: flex; position: static; }
+@media screen and (min-width: 64em) { .RlVfbu { width: 80px; height: 80px; } }
+@media screen and (hover: hover) { .RlVfbu:hover { background-color: rgb(245, 245, 245); } }
+.T3eh3H[open] .RlVfbu { z-index: 121; border: 0px; border-radius: 0px; justify-content: flex-end; width: 100%; height: 48px; padding: 12px 16px; position: fixed; inset-block-start: 0px; inset-inline-start: 0px; }
+@media screen and (min-width: 64em) { .T3eh3H[open] .RlVfbu { z-index: 1; cursor: pointer; background-color: rgb(245, 245, 245); justify-content: center; align-items: center; width: 48px; height: 48px; transition: background-color 0.25s; display: flex; position: static; } }
+@media screen and (min-width: 64em) and (min-width: 64em) { .T3eh3H[open] .RlVfbu { width: 80px; height: 80px; } }
+@media screen and (min-width: 64em) and (hover: hover) { .T3eh3H[open] .RlVfbu:hover { background-color: rgb(245, 245, 245); } }
+@media screen and (min-width: 64em) { .r6gGSd { width: 32px; height: 32px; } }
+.T3eh3H[open] .r6gGSd { display: none; }
+@media screen and (min-width: 64em) { .T3eh3H[open] .r6gGSd { display: block; } }
+.JQGqeM { object-fit: cover; }
+@media screen and (min-width: 64em) { .JQGqeM { width: 40px !important; height: 40px !important; } }
+.T3eh3H[open] .JQGqeM { display: none; }
+@media screen and (min-width: 64em) { .T3eh3H[open] .JQGqeM { display: flex; } }
+.ufLXEg { display: none; }
+.T3eh3H[open] .ufLXEg { display: flex; }
+@media screen and (min-width: 64em) { .T3eh3H[open] .ufLXEg { display: none; } }
+.T3eh3H[open] .zXsD0K { z-index: 120; white-space: normal; background-color: rgb(255, 255, 255); position: fixed; inset: 48px 0px 0px; }
+@media screen and (min-width: 64em) { .T3eh3H[open] .zXsD0K { z-index: 1; white-space: pre; background-color: transparent; min-width: 100%; position: absolute; inset: 64px auto auto 0px; overflow: visible; }
+.T3eh3H[open] .ItJltf { inset-inline: auto 24px; } }
+.e_JXGS { user-select: none; background-color: rgb(255, 255, 255); height: calc(-48px + 100vh); padding-block: 0px 80px; font-size: 0.875rem; overflow-y: auto; }
+@media screen and (min-width: 64em) { .e_JXGS { border: 1px solid rgb(224, 224, 224); border-radius: 8px; flex-direction: column; height: auto; padding-block: 16px; display: flex; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 4px; } }
+.l0JZi7 { line-height: 1rem; position: relative; }
+.l0JZi7:not(:last-child)::after { z-index: 1; content: ""; background-color: rgb(224, 224, 224); height: 1px; position: absolute; inset-block-end: -1px; inset-inline: 16px; }
+@media screen and (min-width: 64em) { .l0JZi7:not(:last-child)::after { content: none; } }
+.OnOrkq { align-items: center; column-gap: 8px; padding: 16px; display: flex; }
+@media screen and (hover: hover) { .OnOrkq:hover { background-color: rgb(245, 245, 245); } }
+.OnOrkq:focus-visible { outline-offset: -1px; }
+@media screen and (min-width: 64em) { .OnOrkq { padding: 12px 16px; } }
+.rJFzeN { z-index: 100; background-color: rgb(255, 255, 255); width: 100%; height: 48px; margin: auto; position: sticky; inset-block-start: 0px; inset-inline-start: 0px; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px; }
+@media screen and (min-width: 64em) { .rJFzeN { height: 80px; } }
+.has-wallpaper .rJFzeN { max-width: 1030px; margin: 0px auto; }
+.raiSkinDesktop .rJFzeN { max-width: 1200px; margin: 0px auto; }
+@media screen and (min-width: 64em) { .zNLpis .qgMeLx { margin-inline: 8px auto; } }
+@media screen and (min-width: 48em) { .zNLpis .B3VKe9 { display: flex; } }
+.GCt2Ot { flex-flow: wrap; justify-content: space-between; width: 100%; max-width: 1280px; margin: auto; display: flex; }
+.qgMeLx { align-items: center; width: auto; height: 48px; display: flex; position: absolute; inset-inline-start: calc(50% - 42px); }
+.qgMeLx:focus-visible { outline-offset: -1px; }
+@media screen and (min-width: 48em) { .qgMeLx { margin-inline: 8px auto; position: static; } }
+@media screen and (min-width: 64em) { .qgMeLx { height: 80px; margin-inline: 8px; } }
+.sVKzW2 { width: 84px; height: 24px; position: relative; }
+@media screen and (min-width: 48em) { .sVKzW2 { width: 113px; height: 32px; } }
+@media screen and (min-width: 64em) { .sVKzW2 { width: 141px; height: 40px; } }
+.sVKzW2 svg { width: 84px; height: 24px; }
+@media screen and (min-width: 48em) { .sVKzW2 svg { width: inherit; height: inherit; } }
+.w9fZiG { height: 24px; }
+@media screen and (min-width: 48em) { .w9fZiG { height: 32px; } }
+.Z4jBeS { color: rgb(59, 61, 64); background-color: rgb(255, 255, 255); border: 0px; justify-content: center; align-items: center; width: 48px; height: 48px; margin-inline-start: 8px; display: flex; }
+.Z4jBeS:focus-visible { outline-offset: -1px; }
+@media screen and (min-width: 48em) { .Z4jBeS { transition: background-color 0.25s; }
+.Z4jBeS:hover { cursor: pointer; background-color: rgb(245, 245, 245); } }
+@media screen and (min-width: 64em) { .Z4jBeS { width: 80px; height: 80px; margin-inline-start: 0px; } }
+.Z4jBeS .w9fZiG:first-child { opacity: 1; width: auto; transition: opacity 0.25s; }
+.Z4jBeS .w9fZiG:nth-child(2) { transform-origin: 50% center; opacity: 0; width: 0px; transition: transform 0.25s, opacity 0.25s; transform: rotate(-360deg); }
+.rsq30s { z-index: 130; background-color: rgb(255, 255, 255); flex-flow: column; width: 100%; height: 100%; max-height: 100%; display: none; position: fixed; inset-block-start: 0px; inset-inline-start: -100%; }
+.has-wallpaper .rsq30s, .raiSkinDesktop .rsq30s { box-shadow: none; }
+@media screen and (min-width: 48em) { .rsq30s { width: 360px; inset-inline-start: -360px; } }
+@media screen and (min-width: 64em) { .rsq30s { width: 400px; inset-inline-start: -400px; } }
+.B3VKe9 { display: none; }
+@media screen and (min-width: 64em) { .B3VKe9 { display: flex; } }
+.xRfQxn { margin-inline-end: 8px; }
+@media screen and (min-width: 64em) { .xRfQxn { border-inline-start: 1px solid rgb(224, 224, 224); margin-inline-end: 0px; } }
+.ssb2a1 { visibility: hidden; opacity: 0; z-index: 125; cursor: pointer; pointer-events: none; background-color: transparent; width: 0px; height: 100%; position: fixed; inset-block-start: 0px; inset-inline-start: 0px; }
+.Qwuris { width: 100%; height: 100%; display: block; }
+.ACHl4b, .klPAk9 { display: none; }
+.ACHl4b:checked ~ .Z4jBeS .w9fZiG:first-child, .ACHl4b:checked ~ .rsq30s .Z4jBeS .w9fZiG:first-child, .klPAk9:checked ~ .Z4jBeS .w9fZiG:first-child, .klPAk9:checked ~ .rsq30s .Z4jBeS .w9fZiG:first-child { opacity: 0; width: 0px; }
+.ACHl4b:checked ~ .Z4jBeS .XUfXjA:first-child, .ACHl4b:checked ~ .rsq30s .Z4jBeS .XUfXjA:first-child, .klPAk9:checked ~ .Z4jBeS .XUfXjA:first-child, .klPAk9:checked ~ .rsq30s .Z4jBeS .XUfXjA:first-child { transform: rotate(-360deg); }
+.ACHl4b:checked ~ .Z4jBeS .w9fZiG:nth-child(2), .ACHl4b:checked ~ .rsq30s .Z4jBeS .w9fZiG:nth-child(2), .klPAk9:checked ~ .Z4jBeS .w9fZiG:nth-child(2), .klPAk9:checked ~ .rsq30s .Z4jBeS .w9fZiG:nth-child(2) { opacity: 1; width: auto; transform: rotate(0deg); }
+.ACHl4b:checked ~ .jJVQWa, .klPAk9:checked ~ .jJVQWa { display: block; }
+.ACHl4b:checked ~ .rsq30s, .klPAk9:checked ~ .rsq30s { display: flex; inset-inline-start: 0px; box-shadow: rgba(0, 0, 0, 0.5) 4px 0px 4px; }
+.has-wallpaper .ACHl4b:checked ~ .rsq30s, .klPAk9:checked ~ .rsq30s, .raiSkinDesktop .ACHl4b:checked ~ .rsq30s { inset-block-start: inherit; inset-inline: inherit; height: 100vh; position: absolute; }
+.ACHl4b:checked ~ .Roygxx { z-index: 135; color: rgb(255, 255, 255); background-color: rgb(20, 20, 21); border-block-end: 1px solid rgb(224, 224, 224); justify-content: flex-start; width: 100%; margin-inline-start: 0px; padding-inline: 12px; transition: none; position: fixed; inset-block-start: 0px; inset-inline-start: 0px; }
+.has-wallpaper .ACHl4b:checked ~ .Roygxx, .raiSkinDesktop .ACHl4b:checked ~ .Roygxx { position: relative; }
+@media screen and (min-width: 48em) { .ACHl4b:checked ~ .Roygxx { width: 360px; padding-inline: 8px; } }
+@media screen and (min-width: 64em) { .ACHl4b:checked ~ .Roygxx { background-color: transparent; border-block-end: 0px; justify-content: center; width: 80px; padding-inline: 0px; inset-inline-start: 400px; } }
+.ACHl4b:checked ~ .z9Cz8v { visibility: visible; opacity: 1; pointer-events: auto; background-color: rgba(0, 0, 0, 0.7); width: 100%; height: 100vh; }
+.has-wallpaper .ACHl4b:checked ~ .z9Cz8v, .raiSkinDesktop .ACHl4b:checked ~ .z9Cz8v { inset-block-start: inherit; inset-inline: inherit; height: 100vh; position: absolute; }
+.hyperion-softonic-chrome-root { font-family: Inter, Arial, Helvetica, sans-serif; }
+.hyperion-softonic-chrome-root, .hyperion-softonic-chrome-root * { box-sizing: border-box; }
+</style>
+                <!-- Livewire Styles --><style>[wire\:loading][wire\:loading], [wire\:loading\.delay][wire\:loading\.delay], [wire\:loading\.inline-block][wire\:loading\.inline-block], [wire\:loading\.inline][wire\:loading\.inline], [wire\:loading\.block][wire\:loading\.block], [wire\:loading\.flex][wire\:loading\.flex], [wire\:loading\.table][wire\:loading\.table], [wire\:loading\.grid][wire\:loading\.grid], [wire\:loading\.inline-flex][wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.none][wire\:loading\.delay\.none], [wire\:loading\.delay\.shortest][wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter][wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short][wire\:loading\.delay\.short], [wire\:loading\.delay\.default][wire\:loading\.delay\.default], [wire\:loading\.delay\.long][wire\:loading\.delay\.long], [wire\:loading\.delay\.longer][wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest][wire\:loading\.delay\.longest] {display: none;}[wire\:offline][wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}:root {--livewire-progress-bar-color: #2299dd;}[x-cloak] {display: none !important;}[wire\:cloak] {display: none !important;}dialog#livewire-error::backdrop {background-color: rgba(0, 0, 0, .6);}</style>
+<script type="text/javascript" async="" src="https://btloader.com/tag?o=5633429348548608&amp;upapi=true"></script><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610070101/pubads_impl.js?cb=122881484" async="" fetchpriority="high"></script><link href="https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610080101/gpt" rel="compression-dictionary"><script src="https://config.aps.amazon-adsystem.com/configs/3177" type="text/javascript" async="async"></script><style>/* Make clicks pass-through */
+
+    #nprogress {
+      pointer-events: none;
+    }
+
+    #nprogress .bar {
+      background: var(--livewire-progress-bar-color, #29d);
+
+      position: fixed;
+      z-index: 1031;
+      top: 0;
+      left: 0;
+
+      width: 100%;
+      height: 2px;
+    }
+
+    /* Fancy blur effect */
+    #nprogress .peg {
+      display: block;
+      position: absolute;
+      right: 0px;
+      width: 100px;
+      height: 100%;
+      box-shadow: 0 0 10px var(--livewire-progress-bar-color, #29d), 0 0 5px var(--livewire-progress-bar-color, #29d);
+      opacity: 1.0;
+
+      -webkit-transform: rotate(3deg) translate(0px, -4px);
+          -ms-transform: rotate(3deg) translate(0px, -4px);
+              transform: rotate(3deg) translate(0px, -4px);
+    }
+
+    /* Remove these to get rid of the spinner */
+    #nprogress .spinner {
+      display: block;
+      position: fixed;
+      z-index: 1031;
+      top: 15px;
+      right: 15px;
+    }
+
+    #nprogress .spinner-icon {
+      width: 18px;
+      height: 18px;
+      box-sizing: border-box;
+
+      border: solid 2px transparent;
+      border-top-color: var(--livewire-progress-bar-color, #29d);
+      border-left-color: var(--livewire-progress-bar-color, #29d);
+      border-radius: 50%;
+
+      -webkit-animation: nprogress-spinner 400ms linear infinite;
+              animation: nprogress-spinner 400ms linear infinite;
+    }
+
+    .nprogress-custom-parent {
+      overflow: hidden;
+      position: relative;
+    }
+
+    .nprogress-custom-parent #nprogress .spinner,
+    .nprogress-custom-parent #nprogress .bar {
+      position: absolute;
+    }
+
+    @-webkit-keyframes nprogress-spinner {
+      0%   { -webkit-transform: rotate(0deg); }
+      100% { -webkit-transform: rotate(360deg); }
+    }
+    @keyframes nprogress-spinner {
+      0%   { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    </style><style id="rv-ad-style">
+      .rv-ad {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+      }
+    </style><link rel="prefetch" as="document" href="https://tools.softonic.com/salary-calculator?funnel=1&amp;step=2&amp;amount=50000&amp;inputBasis=annual&amp;hoursPerWeek=40&amp;weeksPerYear=52"><script src="//cdn.id5-sync.com/api/1.0/id5-api.js"></script><script type="text/javascript" async="" src="https://sdk.privacy-center.org/sdk/19e33079db3d8a86604b0be19f227e31e5e3e76b/modern/sdk.19e33079db3d8a86604b0be19f227e31e5e3e76b.js" charset="utf-8"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-776951102" data-hup-consent-tag="gtag"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5LWWHP" data-hup-consent-tag="gtm"></script><script esp-signal="true" src="https://tags.crwdcntrl.net/lt/c/16589/sync.min.js"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/776951102/?random=1791611939747&amp;cv=11&amp;fst=1791611939747&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be6a72v883359720za208zd883359720xecxf1&amp;gcd=13t3t3t3t5l1&amp;dma=0&amp;tcfd=10000&amp;tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121046263~121046271~121246026~121246034&amp;u_w=1440&amp;u_h=1000&amp;url=https%3A%2F%2Ftools.softonic.com%2Fsalary-calculator&amp;rcb=11&amp;frm=0&amp;tiba=Calculadora%20de%20salario%3A%20convierte%20sueldo%20por%20hora%2C%20semana%2C%20mes%20y%20a%C3%B1o&amp;did=dMTc4Zm&amp;gdid=dMTc4Zm&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1031444893.1791611940&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=10.0&amp;uaw=0&amp;gpp=DBAA&amp;gpp_sid=-1&amp;data=event%3Dgtag.config&amp;ept=9&amp;rfmt=3&amp;fmt=4"></script><script type="module" async="" src="https://cdn.btmessage.com/script/rlink.js?o=5633429348548608&amp;bt_env=prod" crossorigin="anonymous"></script></head>
+<body class="min-h-screen bg-gradient-to-b from-gray-50 to-white text-gray-800 antialiased hup-softonic-theme" aria-hidden="false"><div id="didomi-host" class="didomi-host" data-nosnippet="true" aria-hidden="true" lang="es" data-lang-dir="ltr"></div>
+        <script>(function(){try{var q=new URLSearchParams(location.search),s=q.get('utm_source'),m=q.get('utm_medium'),p=[];if(m)p.push('medium='+encodeURIComponent(m));if(s)p.push('source='+encodeURIComponent(s));if(p.length){document.cookie='utm='+encodeURIComponent(p.join('&'))+';path=/;max-age='+(60*60*24*30)+';SameSite=Lax';}}catch(e){}})();</script>
+
+<div class="revamp-slot flex md:hidden mx-auto w-full" style="min-height:64px;" data-meta="placeholder-slot" data-meta-id="mob-native-notificationbar"><div data-label="Advertisement" id="mob-native-notificationbar"></div></div>
+                <div class="revamp-slot revamp-slot-sticky flex md:hidden mx-auto w-full" data-meta="placeholder-slot" data-meta-id="mob-top-leaderboard-sticky"><div data-label="Advertisement" id="mob-top-leaderboard-sticky"></div></div>
+        <script>
+window.hyperionAdClick = {"conversionId":"AW-776951102/Dm0kCMmqsNoCEL6qvfIC","consentPurposes":[7,8,9],"bingUet":false};
+</script>
+
+            <div class="hyperion-softonic-chrome-root"><header class="rJFzeN zNLpis" data-track-placement="menu_navigation" id="page-header" data-meta="page-header"><div class="GCt2Ot"><input id="sidenav-menu-status" class="ACHl4b" type="checkbox"><label for="sidenav-menu-status" tabindex="0" class="Z4jBeS Roygxx js-menu-toggle-button js-menu-toggle-sidebar" aria-label="Menú principal" data-track="sandwich-menu" aria-haspopup="menu"><svg class="JWiJTm sIUrXF w9fZiG XUfXjA" viewBox="0 0 1024 1024" aria-label="menu icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-menu"></use></svg><svg class="JWiJTm sIUrXF w9fZiG" viewBox="0 0 1024 1024" aria-label="close icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-close"></use></svg></label><div id="sidenav-menu" class="rsq30s" role="menu"><nav class="HwBOed" role="menubar"><ul class="NBmDh3"><li><a class="SY07Ep vTumPT js-menu-main-item" tabindex="0" role="menuitem" href="https://www.softonic.com/articulos" data-google-interstitial="false" data-track="menu-section-item" data-track-section-id="articles" data-track-placement="menu_navigation" data-js-url-template="https://www.softonic.com/articulos"><span>Artículos</span></a></li><li><a class="SY07Ep vTumPT js-menu-main-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows" data-google-interstitial="false" data-track="menu-section-item" data-track-section-id="apps" data-track-placement="menu_navigation" data-js-url-template="https://www.softonic.com/platformidtemplate" aria-expanded="true" aria-haspopup="menu"><span>Apps</span></a><ul class="mgcls3" role="menu"><li><input id="games-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="games-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="games icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-games"></use></svg><span>Juegos</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="games-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/juegos" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/juegos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="games"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="games icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-games"></use></svg><strong>Home Juegos</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/accion" data-js-url-template="https://www.softonic.com/platformidtemplate/accion" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="action" data-track-placement="menu_navigation">Acción</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/arcade" data-js-url-template="https://www.softonic.com/platformidtemplate/arcade" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="arcade" data-track-placement="menu_navigation">Arcade</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/aventuras" data-js-url-template="https://www.softonic.com/platformidtemplate/aventuras" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="adventure" data-track-placement="menu_navigation">Aventuras</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/carreras" data-js-url-template="https://www.softonic.com/platformidtemplate/carreras" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="racing" data-track-placement="menu_navigation">Carreras</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/cartas" data-js-url-template="https://www.softonic.com/platformidtemplate/cartas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="card" data-track-placement="menu_navigation">Cartas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/casino" data-js-url-template="https://www.softonic.com/platformidtemplate/casino" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="casino" data-track-placement="menu_navigation">Casino</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/deportes-juegos" data-js-url-template="https://www.softonic.com/platformidtemplate/deportes-juegos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="sport-games" data-track-placement="menu_navigation">Deportes</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/educativo" data-js-url-template="https://www.softonic.com/platformidtemplate/educativo" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="educational" data-track-placement="menu_navigation">Educativo</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/estrategia" data-js-url-template="https://www.softonic.com/platformidtemplate/estrategia" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="strategy" data-track-placement="menu_navigation">Estrategia</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/familia" data-js-url-template="https://www.softonic.com/platformidtemplate/familia" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="family" data-track-placement="menu_navigation">Familia</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/mesa" data-js-url-template="https://www.softonic.com/platformidtemplate/mesa" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="board" data-track-placement="menu_navigation">Mesa</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/mods-de-juegos" data-js-url-template="https://www.softonic.com/platformidtemplate/mods-de-juegos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="mods" data-track-placement="menu_navigation">Mods</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/musica" data-js-url-template="https://www.softonic.com/platformidtemplate/musica" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="music" data-track-placement="menu_navigation">Música</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/palabras" data-js-url-template="https://www.softonic.com/platformidtemplate/palabras" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="word" data-track-placement="menu_navigation">Palabras</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/preguntas-respuestas" data-js-url-template="https://www.softonic.com/platformidtemplate/preguntas-respuestas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="trivia" data-track-placement="menu_navigation">Preguntas y respuestas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/rol" data-js-url-template="https://www.softonic.com/platformidtemplate/rol" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="role-playing" data-track-placement="menu_navigation">Rol</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/rompecabezas" data-js-url-template="https://www.softonic.com/platformidtemplate/rompecabezas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="puzzle" data-track-placement="menu_navigation">Rompecabezas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/simulacion" data-js-url-template="https://www.softonic.com/platformidtemplate/simulacion" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="simulation" data-track-placement="menu_navigation">Simulación</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/utilidades" data-js-url-template="https://www.softonic.com/platformidtemplate/utilidades" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="utilities" data-track-placement="menu_navigation">Utilidades</a></li></ul></li><li><input id="ai-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="ai-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="ai icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-ai"></use></svg><span>IA</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="ai-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/ia/windows" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/ia/platformidtemplate" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="ai icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-ai"></use></svg><strong>Home IA</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/ia/windows/agentes" data-js-url-template="https://www.softonic.com/ia/platformidtemplate/agentes" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai-text-localization" data-track-placement="menu_navigation">Agentes de IA</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/ia/windows/escritura" data-js-url-template="https://www.softonic.com/ia/platformidtemplate/escritura" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai-writing-assistant" data-track-placement="menu_navigation">Asistente de escritura con IA</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/ia/windows/automatizaciones" data-js-url-template="https://www.softonic.com/ia/platformidtemplate/automatizaciones" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai-text-optimization" data-track-placement="menu_navigation">Automatización con IA</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/ia/windows/busqueda" data-js-url-template="https://www.softonic.com/ia/platformidtemplate/busqueda" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai-search" data-track-placement="menu_navigation">Búsqueda con IA</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/ia/windows/chat" data-js-url-template="https://www.softonic.com/ia/platformidtemplate/chat" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai-chat" data-track-placement="menu_navigation">Chat con IA</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/ia/windows/imagen" data-js-url-template="https://www.softonic.com/ia/platformidtemplate/imagen" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai-image-generator-editor" data-track-placement="menu_navigation">Generador de imágenes con IA</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/ia/windows/videos" data-js-url-template="https://www.softonic.com/ia/platformidtemplate/videos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai-video-generator-editor" data-track-placement="menu_navigation">Generador de vídeo con IA</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/ia/windows/voces" data-js-url-template="https://www.softonic.com/ia/platformidtemplate/voces" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai-voice-generator" data-track-placement="menu_navigation">Generador de voz con IA</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/ia/windows/marketing" data-js-url-template="https://www.softonic.com/ia/platformidtemplate/marketing" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai-marketing" data-track-placement="menu_navigation">Marketing con IA</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/ia/windows/productividad-herramientas" data-js-url-template="https://www.softonic.com/ia/platformidtemplate/productividad-herramientas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai-productivity" data-track-placement="menu_navigation">Productividad con IA</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/ia/windows/programacion" data-js-url-template="https://www.softonic.com/ia/platformidtemplate/programacion" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ai-coding" data-track-placement="menu_navigation">Programación con IA</a></li></ul></li><li><input id="browsers-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="browsers-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="browsers icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-browsers"></use></svg><span>Navegadores</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="browsers-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/navegadores" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/navegadores" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="browsers"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="browsers icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-browsers"></use></svg><strong>Home Navegadores</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/extensiones-herramientas" data-js-url-template="https://www.softonic.com/platformidtemplate/extensiones-herramientas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="add-ons-tools" data-track-placement="menu_navigation">Extensiones y herramientas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/navegadores-web" data-js-url-template="https://www.softonic.com/platformidtemplate/navegadores-web" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="web-browsers" data-track-placement="menu_navigation">Navegadores web</a></li></ul></li><li><input id="security-privacy-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="security-privacy-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="security-privacy icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-security-privacy"></use></svg><span>Seguridad y privacidad</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="security-privacy-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/seguridad-privacidad" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/seguridad-privacidad" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="security-privacy"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="security-privacy icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-security-privacy"></use></svg><strong>Home Seguridad y privacidad</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/antispam-antiespias" data-js-url-template="https://www.softonic.com/platformidtemplate/antispam-antiespias" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="anti-spam-anti-spy" data-track-placement="menu_navigation">Antispam y antiespías</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/antivirus" data-js-url-template="https://www.softonic.com/platformidtemplate/antivirus" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="antivirus" data-track-placement="menu_navigation">Antivirus</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/bloqueadores-anuncios" data-js-url-template="https://www.softonic.com/platformidtemplate/bloqueadores-anuncios" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ad-blockers" data-track-placement="menu_navigation">Bloqueadores de anuncios</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/cifrado" data-js-url-template="https://www.softonic.com/platformidtemplate/cifrado" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="encryption" data-track-placement="menu_navigation">Cifrado</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/control-acceso" data-js-url-template="https://www.softonic.com/platformidtemplate/control-acceso" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="access-control" data-track-placement="menu_navigation">Control de acceso</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/cortafuegos" data-js-url-template="https://www.softonic.com/platformidtemplate/cortafuegos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="firewalls" data-track-placement="menu_navigation">Cortafuegos</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/gestion-contrasenas" data-js-url-template="https://www.softonic.com/platformidtemplate/gestion-contrasenas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="password-management" data-track-placement="menu_navigation">Gestión de contraseñas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/registradores-digitacion" data-js-url-template="https://www.softonic.com/platformidtemplate/registradores-digitacion" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="keyloggers" data-track-placement="menu_navigation">Registradores de digitación</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/vpn" data-js-url-template="https://www.softonic.com/platformidtemplate/vpn" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="vpn" data-track-placement="menu_navigation">VPN</a></li></ul></li><li><input id="business-productivity-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="business-productivity-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="business-productivity icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-business-productivity"></use></svg><span>Productividad</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="business-productivity-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/productividad" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/productividad" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="business-productivity"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="business-productivity icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-business-productivity"></use></svg><strong>Home Productividad</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/agendas-calendarios" data-js-url-template="https://www.softonic.com/platformidtemplate/agendas-calendarios" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="agenda-calendars" data-track-placement="menu_navigation">Agendas y calendarios</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/banca-cajeros" data-js-url-template="https://www.softonic.com/platformidtemplate/banca-cajeros" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="banking-atm" data-track-placement="menu_navigation">Banca y cajeros</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/calculadoras-conversores" data-js-url-template="https://www.softonic.com/platformidtemplate/calculadoras-conversores" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="calculators-converters" data-track-placement="menu_navigation">Calculadoras y conversores</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/clientes-correo-electronico" data-js-url-template="https://www.softonic.com/platformidtemplate/clientes-correo-electronico" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="e-mail-clients" data-track-placement="menu_navigation">Clientes de correo electrónico</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/contabilidad" data-js-url-template="https://www.softonic.com/platformidtemplate/contabilidad" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="accounting" data-track-placement="menu_navigation">Contabilidad</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/finanzas" data-js-url-template="https://www.softonic.com/platformidtemplate/finanzas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="finance" data-track-placement="menu_navigation">Finanzas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/gestion-documentos" data-js-url-template="https://www.softonic.com/platformidtemplate/gestion-documentos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="document-management" data-track-placement="menu_navigation">Gestión de documentos</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/gestion-finanzas-personales" data-js-url-template="https://www.softonic.com/platformidtemplate/gestion-finanzas-personales" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="personal-finance-management" data-track-placement="menu_navigation">Gestión de finanzas personales</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/gestion-proyectos" data-js-url-template="https://www.softonic.com/platformidtemplate/gestion-proyectos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="project-management" data-track-placement="menu_navigation">Gestión de proyectos</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/ofimatica" data-js-url-template="https://www.softonic.com/platformidtemplate/ofimatica" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="office-suites" data-track-placement="menu_navigation">Ofimática</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/pc-remoto" data-js-url-template="https://www.softonic.com/platformidtemplate/pc-remoto" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="remote-pc" data-track-placement="menu_navigation">PC remoto</a></li></ul></li><li><input id="internet-network-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="internet-network-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="internet-network icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-internet-network"></use></svg><span>Internet y redes</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="internet-network-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/internet-redes" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/internet-redes" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="internet-network"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="internet-network icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-internet-network"></use></svg><strong>Home Internet y redes</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/compartir-archivos-p2p" data-js-url-template="https://www.softonic.com/platformidtemplate/compartir-archivos-p2p" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="file-sharing-peer-to-peer" data-track-placement="menu_navigation">Compartir archivos y P2P</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/gestores-descargas" data-js-url-template="https://www.softonic.com/platformidtemplate/gestores-descargas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="download-managers" data-track-placement="menu_navigation">Gestores de descargas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/herramientas-busqueda" data-js-url-template="https://www.softonic.com/platformidtemplate/herramientas-busqueda" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="search-lookup-tools" data-track-placement="menu_navigation">Herramientas de búsqueda</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/wifi" data-js-url-template="https://www.softonic.com/platformidtemplate/wifi" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="wifi" data-track-placement="menu_navigation">Wifi</a></li></ul></li><li><input id="multimedia-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="multimedia-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="multimedia icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-multimedia"></use></svg><span>Multimedia</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="multimedia-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/multimedia" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/multimedia" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="multimedia"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="multimedia icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-multimedia"></use></svg><strong>Home Multimedia</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/audio" data-js-url-template="https://www.softonic.com/platformidtemplate/audio" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="audio" data-track-placement="menu_navigation">Audio</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/diseno-grafico" data-js-url-template="https://www.softonic.com/platformidtemplate/diseno-grafico" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="graphic-design" data-track-placement="menu_navigation">Diseño gráfico</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/fotografia" data-js-url-template="https://www.softonic.com/platformidtemplate/fotografia" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="photography" data-track-placement="menu_navigation">Fotografía</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/grabacion" data-js-url-template="https://www.softonic.com/platformidtemplate/grabacion" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="burning" data-track-placement="menu_navigation">Grabación</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/musica-radio" data-js-url-template="https://www.softonic.com/platformidtemplate/musica-radio" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="music-radio" data-track-placement="menu_navigation">Música y radio</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/peliculas-television" data-js-url-template="https://www.softonic.com/platformidtemplate/peliculas-television" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="movies-tv" data-track-placement="menu_navigation">Películas y televisión</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/video" data-js-url-template="https://www.softonic.com/platformidtemplate/video" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="video" data-track-placement="menu_navigation">Vídeo</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/videos-en-linea" data-js-url-template="https://www.softonic.com/platformidtemplate/videos-en-linea" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="streaming-videos" data-track-placement="menu_navigation">Vídeos en línea</a></li></ul></li><li><input id="development-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="development-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="development icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-development"></use></svg><span>Desarrollo</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="development-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/desarrollo" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/desarrollo" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="development"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="development icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-development"></use></svg><strong>Home Desarrollo</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/bases-datos" data-js-url-template="https://www.softonic.com/platformidtemplate/bases-datos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="database" data-track-placement="menu_navigation">Bases de datos</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/clientes-ftp" data-js-url-template="https://www.softonic.com/platformidtemplate/clientes-ftp" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ftp-clients" data-track-placement="menu_navigation">Clientes FTP</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/control-remoto" data-js-url-template="https://www.softonic.com/platformidtemplate/control-remoto" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="remote-control" data-track-placement="menu_navigation">Control remoto</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/copia-seguridad-almacenamiento-en-la-nube" data-js-url-template="https://www.softonic.com/platformidtemplate/copia-seguridad-almacenamiento-en-la-nube" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="backup-cloud-storage" data-track-placement="menu_navigation">Copia de seguridad y almacenamiento en la nube</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/desarrollo-web" data-js-url-template="https://www.softonic.com/platformidtemplate/desarrollo-web" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="web-development" data-track-placement="menu_navigation">Desarrollo web</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/ide-editores-fuente" data-js-url-template="https://www.softonic.com/platformidtemplate/ide-editores-fuente" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ides-source-editors" data-track-placement="menu_navigation">IDE/Editores de fuente</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/kits-desarrollo" data-js-url-template="https://www.softonic.com/platformidtemplate/kits-desarrollo" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="development-kits" data-track-placement="menu_navigation">Kits de desarrollo</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/lenguajes-programacion" data-js-url-template="https://www.softonic.com/platformidtemplate/lenguajes-programacion" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="programming-languages" data-track-placement="menu_navigation">Lenguajes de programación</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/manuales-tutoriales" data-js-url-template="https://www.softonic.com/platformidtemplate/manuales-tutoriales" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="manual-tutorials" data-track-placement="menu_navigation">Manuales y tutoriales</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/redes" data-js-url-template="https://www.softonic.com/platformidtemplate/redes" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="networking" data-track-placement="menu_navigation">Redes</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/servidores" data-js-url-template="https://www.softonic.com/platformidtemplate/servidores" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="servers" data-track-placement="menu_navigation">Servidores</a></li></ul></li><li><input id="education-reference-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="education-reference-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="education-reference icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-education-reference"></use></svg><span>Educación y referencia</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="education-reference-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/educacion-referencia" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/educacion-referencia" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="education-reference"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="education-reference icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-education-reference"></use></svg><strong>Home Educación y referencia</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/catalogos" data-js-url-template="https://www.softonic.com/platformidtemplate/catalogos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="catalogs" data-track-placement="menu_navigation">Catálogos</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/ciencia" data-js-url-template="https://www.softonic.com/platformidtemplate/ciencia" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="science" data-track-placement="menu_navigation">Ciencia</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/diccionarios" data-js-url-template="https://www.softonic.com/platformidtemplate/diccionarios" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="dictionaries" data-track-placement="menu_navigation">Diccionarios</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/ensenanza-formacion" data-js-url-template="https://www.softonic.com/platformidtemplate/ensenanza-formacion" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="teaching-training" data-track-placement="menu_navigation">Enseñanza y formación</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/geografia" data-js-url-template="https://www.softonic.com/platformidtemplate/geografia" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="geography" data-track-placement="menu_navigation">Geografía</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/idiomas-traduccion" data-js-url-template="https://www.softonic.com/platformidtemplate/idiomas-traduccion" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="languages-translation" data-track-placement="menu_navigation">Idiomas y traducción</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/libros" data-js-url-template="https://www.softonic.com/platformidtemplate/libros" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="books" data-track-placement="menu_navigation">Libros</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/libros-electronicos" data-js-url-template="https://www.softonic.com/platformidtemplate/libros-electronicos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="e-readers" data-track-placement="menu_navigation">Libros electrónicos</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/medicina" data-js-url-template="https://www.softonic.com/platformidtemplate/medicina" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="medicine" data-track-placement="menu_navigation">Medicina</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/revistas-periodicos" data-js-url-template="https://www.softonic.com/platformidtemplate/revistas-periodicos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="magazines-newspapers" data-track-placement="menu_navigation">Revistas y periódicos</a></li></ul></li><li><input id="lifestyle-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="lifestyle-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="lifestyle icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-lifestyle"></use></svg><span>Estilo de vida</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="lifestyle-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/estilo-vida" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/estilo-vida" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="lifestyle"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="lifestyle icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-lifestyle"></use></svg><strong>Home Estilo de vida</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/aficiones" data-js-url-template="https://www.softonic.com/platformidtemplate/aficiones" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="hobbies" data-track-placement="menu_navigation">Aficiones</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/comida-bebida" data-js-url-template="https://www.softonic.com/platformidtemplate/comida-bebida" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="food-drink" data-track-placement="menu_navigation">Comida y bebida</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/compras" data-js-url-template="https://www.softonic.com/platformidtemplate/compras" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="shopping" data-track-placement="menu_navigation">Compras</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/sports" data-js-url-template="https://www.softonic.com/platformidtemplate/sports" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="sports" data-track-placement="menu_navigation">Deportes</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/ejercicio" data-js-url-template="https://www.softonic.com/platformidtemplate/ejercicio" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="workout" data-track-placement="menu_navigation">Ejercicio</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/listas-compra" data-js-url-template="https://www.softonic.com/platformidtemplate/listas-compra" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="grocery-lists" data-track-placement="menu_navigation">Listas de la compra</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/moda-estilo" data-js-url-template="https://www.softonic.com/platformidtemplate/moda-estilo" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="fashion-style" data-track-placement="menu_navigation">Moda y estilo</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/salud" data-js-url-template="https://www.softonic.com/platformidtemplate/salud" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="medical" data-track-placement="menu_navigation">Salud</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/salud-forma-fisica" data-js-url-template="https://www.softonic.com/platformidtemplate/salud-forma-fisica" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="health-fitness" data-track-placement="menu_navigation">Salud y forma física</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/servicio-venta-entradas" data-js-url-template="https://www.softonic.com/platformidtemplate/servicio-venta-entradas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ticketing-service" data-track-placement="menu_navigation">Servicio de venta de entradas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/tiempo" data-js-url-template="https://www.softonic.com/platformidtemplate/tiempo" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="weather" data-track-placement="menu_navigation">Tiempo</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/valoracion-comparacion-productos" data-js-url-template="https://www.softonic.com/platformidtemplate/valoracion-comparacion-productos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="product-reviews-comparison" data-track-placement="menu_navigation">Valoración y comparación de productos</a></li></ul></li><li><input id="personalization-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="personalization-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="personalization icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-personalization"></use></svg><span>Personalización</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="personalization-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/personalizacion" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/personalizacion" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="personalization"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="personalization icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-personalization"></use></svg><strong>Home Personalización</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/bloqueo-pantalla" data-js-url-template="https://www.softonic.com/platformidtemplate/bloqueo-pantalla" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="screen-lockers" data-track-placement="menu_navigation">Bloqueo de pantalla</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/cursores-fuentes" data-js-url-template="https://www.softonic.com/platformidtemplate/cursores-fuentes" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="cursors-fonts" data-track-placement="menu_navigation">Cursores y fuentes</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/fondos-pantalla" data-js-url-template="https://www.softonic.com/platformidtemplate/fondos-pantalla" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="wallpaper" data-track-placement="menu_navigation">Fondos de pantalla</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/salvapantallas" data-js-url-template="https://www.softonic.com/platformidtemplate/salvapantallas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="screen-savers" data-track-placement="menu_navigation">Salvapantallas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/temas" data-js-url-template="https://www.softonic.com/platformidtemplate/temas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="themes" data-track-placement="menu_navigation">Temas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/tonos-sonidos" data-js-url-template="https://www.softonic.com/platformidtemplate/tonos-sonidos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="ringtones-sounds" data-track-placement="menu_navigation">Tonos y sonidos</a></li></ul></li><li><input id="social-communication-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="social-communication-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="social-communication icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-social-communication"></use></svg><span>Social y comunicaciones</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="social-communication-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/social-comunicaciones" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/social-comunicaciones" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="social-communication"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="social-communication icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-social-communication"></use></svg><strong>Home Social y comunicaciones</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/blog" data-js-url-template="https://www.softonic.com/platformidtemplate/blog" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="blog" data-track-placement="menu_navigation">Blog</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/chat-mensajeria-instantanea" data-js-url-template="https://www.softonic.com/platformidtemplate/chat-mensajeria-instantanea" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="chat-instant-messaging" data-track-placement="menu_navigation">Chat y mensajería instantánea</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/citas" data-js-url-template="https://www.softonic.com/platformidtemplate/citas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="dating" data-track-placement="menu_navigation">Citas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/compartir-fotos-videos" data-js-url-template="https://www.softonic.com/platformidtemplate/compartir-fotos-videos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="photo-video-sharing" data-track-placement="menu_navigation">Compartir fotos y vídeos</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/redes-sociales" data-js-url-template="https://www.softonic.com/platformidtemplate/redes-sociales" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="social-networking" data-track-placement="menu_navigation">Redes sociales</a></li></ul></li><li><input id="utilities-tools-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="utilities-tools-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="utilities-tools icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-utilities-tools"></use></svg><span>Utilidades y herramientas</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="utilities-tools-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/utilidades-herramientas" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/utilidades-herramientas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="utilities-tools"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="utilities-tools icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-utilities-tools"></use></svg><strong>Home Utilidades y herramientas</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/administradores-archivos" data-js-url-template="https://www.softonic.com/platformidtemplate/administradores-archivos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="file-managers" data-track-placement="menu_navigation">Administradores de archivos</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/captura-pantalla" data-js-url-template="https://www.softonic.com/platformidtemplate/captura-pantalla" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="screen-capture" data-track-placement="menu_navigation">Captura de pantalla</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/compresion-archivos" data-js-url-template="https://www.softonic.com/platformidtemplate/compresion-archivos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="file-compression" data-track-placement="menu_navigation">Compresión de archivos</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/escaneado-codigo-barras" data-js-url-template="https://www.softonic.com/platformidtemplate/escaneado-codigo-barras" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="bar-code-scanning" data-track-placement="menu_navigation">Escaneado de código de barras</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/impresora-fax" data-js-url-template="https://www.softonic.com/platformidtemplate/impresora-fax" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="printer-fax" data-track-placement="menu_navigation">Impresora y fax</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/medicion" data-js-url-template="https://www.softonic.com/platformidtemplate/medicion" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="measurement" data-track-placement="menu_navigation">Medición</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/recuperacion-datos" data-js-url-template="https://www.softonic.com/platformidtemplate/recuperacion-datos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="data-recovery" data-track-placement="menu_navigation">Recuperación de datos</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/relojes-alarmas" data-js-url-template="https://www.softonic.com/platformidtemplate/relojes-alarmas" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="clocks-alarms" data-track-placement="menu_navigation">Relojes y alarmas</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/teclados" data-js-url-template="https://www.softonic.com/platformidtemplate/teclados" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="keyboards" data-track-placement="menu_navigation">Teclados</a></li></ul></li><li><input id="travel-navigation-menu-status-id" class="uWtoxJ" type="checkbox"><label class="WNTOdu js-menu-toggle-button" tabindex="0" role="menuitem" for="travel-navigation-menu-status-id" aria-expanded="false" aria-haspopup="menu"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="travel-navigation icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-travel-navigation"></use></svg><span>Viajes y navegación</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="mgcls3 cyuKFe ADIGIZ BXJ_Tc" role="menu"><li><label for="travel-navigation-menu-status-id" tabindex="0" role="menuitem" class="WNTOdu js-menu-toggle-button"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="WNTOdu js-menu-categories-item" href="https://www.softonic.com/windows/viajes-navegacion" tabindex="0" role="menuitem" data-js-url-template="https://www.softonic.com/platformidtemplate/viajes-navegacion" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="travel-navigation"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="travel-navigation icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-travel-navigation"></use></svg><strong>Home Viajes y navegación</strong></a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/mapas-gps" data-js-url-template="https://www.softonic.com/platformidtemplate/mapas-gps" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="maps-gps" data-track-placement="menu_navigation">Mapas y GPS</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/planificacion-viajes" data-js-url-template="https://www.softonic.com/platformidtemplate/planificacion-viajes" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="trip-management" data-track-placement="menu_navigation">Planificación de viajes</a></li><li><a class="WNTOdu tEDxqA js-menu-categories-item" tabindex="0" role="menuitem" href="https://www.softonic.com/windows/transporte-publico" data-js-url-template="https://www.softonic.com/platformidtemplate/transporte-publico" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="public-transportation" data-track-placement="menu_navigation">Transporte público</a></li></ul></li><li><a class="WNTOdu" tabindex="0" role="menuitem" href="https://roblox.softonic.com/juegos" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="roblox" data-track-placement="menu_navigation"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="roblox icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-roblox"></use></svg><span>Juegos de Roblox</span></a></li><li><a class="WNTOdu" tabindex="0" role="menuitem" href="https://chrome.softonic.com/extensiones" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="chrome" data-track-placement="menu_navigation"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="chrome icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-chrome"></use></svg><span>Extensiones de Google Chrome</span></a></li><li><a class="WNTOdu" tabindex="0" role="menuitem" href="https://mozilla-firefox.softonic.com/extensiones" data-google-interstitial="false" data-track="menu-categories-item" data-track-category-id="mozilla-firefox" data-track-placement="menu_navigation"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="mozilla-firefox icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-mozilla-firefox"></use></svg><span>Extensiones de Firefox</span></a></li></ul></li><li><input id="platforms-menu-status-id" class="dyCtGA" type="checkbox"><label class="SY07Ep js-menu-main-item js-menu-toggle-button" for="platforms-menu-status-id" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="menu" data-js-url-template="https://www.softonic.com/"><span>Cambiar sistema operativo</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="wivkkz noM7eM frehpc" role="menu"><li><label class="aj18kZ js-menu-toggle-button" for="platforms-menu-status-id" tabindex="0" role="menuitem"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li><a class="aj18kZ t2hfAo js-menu-platforms-item" data-js-platform-id="windows" href="https://www.softonic.com/windows" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-platform-item" data-track-platform-id="windows"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="windows icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-windows"></use></svg>Windows</a></li><li><a class="aj18kZ t2hfAo js-menu-platforms-item" data-js-platform-id="android" href="https://www.softonic.com/android" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-platform-item" data-track-platform-id="android"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="android icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-android"></use></svg>Android</a></li><li><a class="aj18kZ t2hfAo js-menu-platforms-item" data-js-platform-id="mac" href="https://www.softonic.com/mac" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-platform-item" data-track-platform-id="mac"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="mac icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-mac"></use></svg>Mac</a></li><li><a class="aj18kZ t2hfAo js-menu-platforms-item" data-js-platform-id="iphone" href="https://www.softonic.com/iphone" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-platform-item" data-track-platform-id="iphone"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="iphone icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-iphone"></use></svg>iPhone</a></li><li><a class="aj18kZ t2hfAo js-menu-platforms-item" data-js-platform-id="pwa" href="https://www.softonic.com/pwa" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-platform-item" data-track-platform-id="pwa"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="pwa icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-pwa"></use></svg>PWA</a></li><li><a class="aj18kZ t2hfAo js-menu-platforms-item" data-js-platform-id="web-apps" href="https://www.softonic.com/aplicaciones-web" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-platform-item" data-track-platform-id="web-apps"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="web-apps icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-web-apps"></use></svg>Web Apps</a></li></ul></li><li><input id="languages-menu-status-id" class="dyCtGA" type="checkbox"><label class="SY07Ep js-menu-main-item js-menu-toggle-button" for="languages-menu-status-id" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="menu" data-js-url-template="https://www.softonic.com/platformidtemplate"><span>Cambiar idioma</span><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-right icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-right"></use></svg></label><ul class="hLGQcf BBKHTV uzNa23" role="menu"><li><label class="frnOIP js-menu-toggle-button" for="languages-menu-status-id" tabindex="0" role="menuitem"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="arrow-left icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-arrow-left"></use></svg><span>Menú principal</span></label></li><li class="rcw1Ye"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="internet-network icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-internet-network"></use></svg><strong>Softonic en:</strong></li><li><a class="frnOIP xEaojW" href="https://www.softonic-ar.com/" lang="ar-SA" hreflang="ar-SA" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="ar-SA">عربي</a></li><li><a class="frnOIP xEaojW" href="https://de.softonic.com/" lang="de-DE" hreflang="de-DE" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="de-DE">Deutsch</a></li><li><a class="frnOIP xEaojW" href="https://en.softonic.com/" lang="en-US" hreflang="en-US" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="en-US">English</a></li><li><a class="frnOIP xEaojW SFug31" href="https://www.softonic.com/" lang="es-ES" hreflang="es-ES" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="es-ES">Español</a></li><li><a class="frnOIP xEaojW" href="https://fr.softonic.com/" lang="fr-FR" hreflang="fr-FR" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="fr-FR">Français</a></li><li><a class="frnOIP xEaojW" href="https://www.softonic-id.com/" lang="id-ID" hreflang="id-ID" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="id-ID">Bahasa Indonesia</a></li><li><a class="frnOIP xEaojW" href="https://it.softonic.com/" lang="it-IT" hreflang="it-IT" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="it-IT">Italiano</a></li><li><a class="frnOIP xEaojW" href="https://www.softonic.jp/" lang="ja-JP" hreflang="ja-JP" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="ja-JP">日本語</a></li><li><a class="frnOIP xEaojW" href="https://www.softonic.kr/" lang="ko-KR" hreflang="ko-KR" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="ko-KR">한국어</a></li><li><a class="frnOIP xEaojW" href="https://www.softonic.nl/" lang="nl-NL" hreflang="nl-NL" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="nl-NL">Nederlands</a></li><li><a class="frnOIP xEaojW" href="https://www.softonic.pl/" lang="pl-PL" hreflang="pl-PL" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="pl-PL">Polski</a></li><li><a class="frnOIP xEaojW" href="https://www.softonic.com.br/" lang="pt-BR" hreflang="pt-BR" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="pt-BR">Português</a></li><li><a class="frnOIP xEaojW" href="https://www.softonic.ru/" lang="ru-RU" hreflang="ru-RU" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="ru-RU">Русский</a></li><li><a class="frnOIP xEaojW" href="https://www.softonic.se/" lang="sv-SE" hreflang="sv-SE" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="sv-SE">Svenska</a></li><li><a class="frnOIP xEaojW" href="https://www.softonic-th.com/" lang="th-TH" hreflang="th-TH" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="th-TH">ภาษาไทย</a></li><li><a class="frnOIP xEaojW" href="https://www.softonic.com.tr/" lang="tr-TR" hreflang="tr-TR" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="tr-TR">Türkçe</a></li><li><a class="frnOIP xEaojW" href="https://vi.softonic.com/" lang="vi-VN" hreflang="vi-VN" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="vi-VN">Tiếng Việt</a></li><li><a class="frnOIP xEaojW" href="https://www.softonic.cn/" lang="zh-CN" hreflang="zh-CN" tabindex="0" role="menuitem" data-google-interstitial="false" data-track="menu-locale-item" data-track-locale="zh-CN">中文</a></li></ul></li></ul></nav></div><div class="ssb2a1 z9Cz8v"><label class="Qwuris js-menu-toggle-sidebar" for="sidenav-menu-status" tabindex="-1"></label></div><a tabindex="0" href="https://www.softonic.com/" class="qgMeLx" aria-label="Softonic" data-google-interstitial="false" data-track="logo-main"><div class="sVKzW2"><svg viewBox="0 0 505 141"><desc>Softonic</desc><path d="M170.1 62c-7-2.8-10-4.4-10-8.5 0-1.7.4-2.8 1.5-3.6 1.8-1.6 5.3-2.4 10-2.4a50.1 50.1 0 0 1 9.1.8 4.1 4.1 0 0 0 4-3.4c.3-2.3-1.3-4.4-3.4-4.6a59 59 0 0 0-9.8-.9c-6.7 0-11.8 1.4-15.2 4.2a12.2 12.2 0 0 0-4.4 10c0 9.8 8.7 13.4 15 16h.2c7.5 3.2 11.8 5.3 11.8 11.5 0 2.7-.9 4.7-2.7 6a16 16 0 0 1-9.2 2.2c-3.5 0-7.3-.5-10.8-1.6l-1.2-.2a4 4 0 0 0-4 4.5c0 .5.2 1 .4 1.5a4.1 4.1 0 0 0 2.5 2c2.4.7 7.4 2 13 2 5.8 0 10.6-1.3 14.2-3.9a15 15 0 0 0 5.9-12.5c0-12-9.8-16-16.9-19Zm62.7-20c-4.8-2.7-10.2-2.7-12.8-2.7-2.6 0-8 0-12.8 2.7-6 3.3-9 9.7-9 18.7V76c0 9.1 3 15.4 9 18.8 4.8 2.7 10.2 2.7 12.8 2.7 2.6 0 8 0 12.9-2.7 6-3.4 9-9.7 9-18.8V60.7c0-9-3-15.4-9-18.7Zm1 18.7V76c0 11.1-5.3 13.4-13.8 13.4S206.2 87 206.2 76V60.7c0-11 5.3-13.3 13.8-13.3s13.8 2.3 13.8 13.3Zm127-18.7c-4.8-2.7-10.3-2.7-12.9-2.7-2.6 0-8 0-12.8 2.7-6 3.3-9 9.7-9 18.7V76c0 9.1 3 15.4 9 18.8a26 26 0 0 0 12.8 2.7c2.6 0 8 0 12.9-2.7 6-3.4 9-9.7 9-18.8V60.7c0-9-3-15.4-9-18.7Zm1 18.7V76c0 11.1-5.4 13.4-13.9 13.4S334.1 87 334.1 76V60.7c0-11 5.3-13.3 13.8-13.3s13.8 2.3 13.8 13.3ZM405 39.3a39.7 39.7 0 0 0-21.3 5.9c-1.5 1-1.4 2.7-1.4 2.7v45.5a4 4 0 0 0 4 4.1 4 4 0 0 0 4.2-4v-43H390.8c3.8-2 8.4-3 14.2-3 5.4 0 9.2 1.1 11.1 3.4 2 2 3 5.4 3 10v32.5a4 4 0 0 0 4 4.1 4 4 0 0 0 4-4V60.8a23 23 0 0 0-4.7-15.5c-3.7-4-9.5-6.1-17.4-6.1Zm38.5-19.1a5 5 0 0 0-5 5c0 2.9 2.2 5.2 5 5.2 2.9 0 5.3-2.3 5.3-5.2 0-2.7-2.4-5-5.3-5Zm0 19a4 4 0 0 0-4 4.2v50a4 4 0 0 0 4 4.1 4 4 0 0 0 4.2-4V43.3a4 4 0 0 0-4.2-4.1Zm59.2 50a4 4 0 0 0-5.2-2.2l-.2.1a35.1 35.1 0 0 1-11.5 1.8c-8.2 0-18-3.6-18-20.9 0-17.3 9.8-20.9 18-20.9a32.5 32.5 0 0 1 11.6 1.8 4 4 0 0 0 3.8-.3 4 4 0 0 0 1.5-1.8 4 4 0 0 0-.7-4.4 4 4 0 0 0-1.3-1c-.7-.3-6-2.4-15-2.4-4.2 0-10.5.8-16 4.7-6.7 4.9-10.1 13-10.1 24.3 0 11.2 3.4 19.4 10.2 24.3 5.4 4 11.7 4.7 16 4.7a43.5 43.5 0 0 0 15-2.5c1-.5 1.6-1.3 2-2.2.4-1 .4-2.2-.1-3.1Zm-189 .3-.6-.1c-3-.7-6.9-2.7-9.9-5.7-3.5-3.3-5.3-8.2-5.3-14.5V47.3h14.7a4 4 0 0 0 3.9-5.4 4.1 4.1 0 0 0-4-2.7h-14.6V20c0-2.9-3-5.2-6-3.6a4.4 4.4 0 0 0-2 3.9v19h-27c.6-4.1 2.2-7.5 4.8-10.1 3.5-3.4 8-4.7 11.1-5.2a4 4 0 0 0 3.8-4 4 4 0 0 0-4.1-4l-.3-.1c-4.3.6-10.9 2.4-16.1 7.5a27 27 0 0 0-7.7 19.8v50.1c0 2 1.3 3.7 3.2 4.1 2.6.5 5-1.4 5-4v-46h27.2v21.8a27 27 0 0 0 7.7 20.3c4.5 4.4 10 7 14.2 7.9 2.9.5 5.4-2 4.9-4.8a4.1 4.1 0 0 0-3-3.1Z" fill="#53565A"></path><path d="m39.8 106-35-34.6a16.5 16.5 0 0 1 0-23.4L48.5 4.8c6.5-6.4 17-6.4 23.6 0l34.8 34.6-67 66.6Z" fill="#26D07C"></path><path d="m14.2 106 30.4 30.2c6.6 6.4 17.1 6.4 23.7 0L111.7 93a16.5 16.5 0 0 0 0-23.4L81.3 39.4 14.2 106Z" fill="#00A3E0"></path><path d="M106.8 39.4 94.1 52.1 81.3 39.4h25.5Z" fill="#005587"></path></svg></div></a><div class="B3VKe9"><nav><ul class="cIJrmA"><li class="jUAi53"><a class="dH3_E6 js-menu-featured-item" href="https://www.softonic.com/windows" data-js-url-template="https://www.softonic.com/platformidtemplate" data-google-interstitial="false" data-track="menu-featured-item" data-track-section-id="platform" data-track-placement="header"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="apps icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-apps"></use></svg>Apps</a></li><li class="jUAi53"><a class="dH3_E6 js-menu-featured-item" href="https://www.softonic.com/windows/juegos" data-js-url-template="https://www.softonic.com/platformidtemplate/juegos" data-google-interstitial="false" data-track="menu-featured-item" data-track-section-id="games" data-track-placement="header"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="games icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-games"></use></svg>Juegos</a></li><li class="jUAi53"><a class="dH3_E6 js-menu-featured-item" href="https://www.softonic.com/articulos" data-js-url-template="https://www.softonic.com/articulos" data-google-interstitial="false" data-track="menu-featured-item" data-track-section-id="articles" data-track-placement="header"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="articles icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-articles"></use></svg>Noticias</a></li><li class="jUAi53"><a class="dH3_E6 js-menu-featured-item" href="https://publishing-center.softonic.com/home?utm_campaign=navbar&amp;utm_source=softonic&amp;utm_medium=homepage" data-js-url-template="https://publishing-center.softonic.com/home?utm_campaign=navbar&amp;utm_source=softonic&amp;utm_medium=homepage" data-google-interstitial="false" data-track="menu-featured-item" data-track-section-id="developers" data-track-placement="header"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="code-blocks icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-code-blocks"></use></svg>Desarrolladores</a></li></ul></nav></div><div class="xRfQxn"><details class="T3eh3H is-hidden" id="user-profile-menu-logged-in" data-meta="user-profile-menu-logged-in"><summary class="RlVfbu" aria-label="Cuenta de Softonic: Perfil de Usuario"><img class="iDfc8y JQGqeM" src="https://avatars.sftcdn.net/default/00.svg" width="32" height="32" style="width:32px;height:32px" loading="eager" fetchpriority="low" alt="" id="user-avatar-img"><svg class="JWiJTm _tkCZE ufLXEg" viewBox="0 0 1024 1024" aria-label="close icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-close"></use></svg></summary><div class="zXsD0K ItJltf"><ul class="e_JXGS"><li class="l0JZi7"><a class="OnOrkq" href="https://account.softonic.com/downloads/my-downloads" rel="nofollow" data-meta="download-history-link"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="download icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-download"></use></svg>Historial de Descargas</a></li><li class="l0JZi7"><a class="OnOrkq" href="https://account.softonic.com/reviews/my-reviews" rel="nofollow" data-meta="my-reviews-link"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="chat-bubble-outline icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-chat-bubble-outline"></use></svg>Mis reseñas</a></li><li class="l0JZi7"><a class="OnOrkq" href="https://account.softonic.com/settings/profile" rel="nofollow" data-meta="settings-link"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="settings icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-settings"></use></svg>Configuración</a></li><li class="l0JZi7"><a class="OnOrkq" href="https://auth.softonic.com/auth/logout?redirect=https%3A%2F%2Fwww.softonic.com%2F" rel="nofollow" data-meta="logout-link"><svg class="JWiJTm _tkCZE" viewBox="0 0 1024 1024" aria-label="logout icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-logout"></use></svg>Cerrar sesión</a></li></ul></div></details><div class="T3eh3H" id="user-profile-menu-logged-out" data-meta="user-profile-menu-logged-out"><a class="RlVfbu" href="https://auth.softonic.com/auth/login?redirect=https%3A%2F%2Fwww.softonic.com%2F" aria-label="Iniciar sesión en la cuenta de Softonic" rel="nofollow"><svg class="JWiJTm _tkCZE r6gGSd" viewBox="0 0 1024 1024" aria-label="account-circle icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-account-circle"></use></svg></a></div></div></div></header></div>
+    
+        <div class="hup-page-shell max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-4 md:pt-10 pb-10">
+        
+        <div class="revamp-slot hidden md:flex mx-auto my-6 w-full" style="min-height:90px;max-width:970px;" data-meta="placeholder-slot" data-meta-id="dsk-top-leaderboard-1"><div data-label="Advertisement" id="dsk-top-leaderboard-1"><div class="rv-ad"><div id="dsk-top-leaderboard-1__ad" style="" data-google-query-id="CIOSrcrirpcDFX7oHAIdxLEerA"><div id="google_ads_iframe_/5302/desktop/desktop-Web-es/apps/Toolpage/ATF_Leaderboard_First_0__container__" style="border: 0pt; margin: auto; text-align: center;"><iframe id="google_ads_iframe_/5302/desktop/desktop-Web-es/apps/Toolpage/ATF_Leaderboard_First_0" name="google_ads_iframe_/5302/desktop/desktop-Web-es/apps/Toolpage/ATF_Leaderboard_First_0" title="Contenido de anuncios de terceros" width="970" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Anuncio" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="3" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div></div></div>
+    
+<script>(function(){if(document.documentElement.getAttribute('data-hup-ab-remove-top')!=='1')return;var el=document.querySelector('[data-meta-id="dsk-top-leaderboard-1"]');if(el&&el.parentNode)el.parentNode.removeChild(el);})();</script>
+                
+        <div class="lg:flex lg:gap-8 lg:items-start">
+            <main class="min-w-0 lg:flex-1">
+                
+
+<nav class="mb-4 md:mb-8 text-sm text-gray-400" aria-label="Breadcrumb">
+    <ol class="flex items-center gap-2" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+            <a href="/" itemprop="item" class="hover:text-indigo-600 transition-colors"><span itemprop="name">Inicio</span></a>
+            <meta itemprop="position" content="1">
+        </li>
+        <li>
+            <svg class="w-4 h-4 text-gray-300" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path></svg>
+        </li>
+        <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+            <span itemprop="name" class="text-gray-700 font-medium">Calculadora de salario</span>
+            <meta itemprop="position" content="2">
+        </li>
+    </ol>
+</nav>
+
+
+<div class="mb-5 md:mb-8">
+    <div class="tool-header-bar mb-4 md:mb-6"></div>
+    <h1 class="text-3xl sm:text-4xl font-extrabold text-gray-900 tracking-tight">
+        Calculadora de salario
+    </h1>
+</div>
+
+
+<div class="revamp-slot flex md:hidden mx-auto w-full" style="min-height: 250px; max-width: 300px; display: none;" data-meta="placeholder-slot" data-meta-id="mob-td-top-mpu-0" data-rv-collapse-empty="1"><div data-label="Advertisement" id="mob-td-top-mpu-0"></div></div>
+                
+
+
+
+<div class="tool-salary-calculator tool-container mb-10">
+    <div wire:snapshot="{&quot;data&quot;:{&quot;amount&quot;:&quot;50000&quot;,&quot;inputBasis&quot;:&quot;annual&quot;,&quot;hoursPerWeek&quot;:&quot;40&quot;,&quot;weeksPerYear&quot;:&quot;52&quot;,&quot;siteTool&quot;:[null,{&quot;class&quot;:&quot;App\\Models\\SiteTool&quot;,&quot;key&quot;:25872,&quot;s&quot;:&quot;mdl&quot;}],&quot;config&quot;:[[],{&quot;s&quot;:&quot;arr&quot;}],&quot;labels&quot;:[[],{&quot;s&quot;:&quot;arr&quot;}],&quot;funnelMode&quot;:true,&quot;funnelStep&quot;:1,&quot;funnelSteps&quot;:3,&quot;funnelBaseUrl&quot;:&quot;https:\/\/tools.softonic.com\/salary-calculator&quot;,&quot;funnelBaseQuery&quot;:[[],{&quot;s&quot;:&quot;arr&quot;}]},&quot;memo&quot;:{&quot;id&quot;:&quot;RVGcei59xNgrHXlWgdn8&quot;,&quot;name&quot;:&quot;tools.salary-calculator&quot;,&quot;path&quot;:&quot;salary-calculator&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;release&quot;:&quot;a-a-a&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;es&quot;},&quot;checksum&quot;:&quot;2dee1709ade47d49b3c2d9240bb6ec1954605d059ec3ba73f0f14f39af0e97bf&quot;}" wire:effects="[]" wire:id="RVGcei59xNgrHXlWgdn8" class="space-y-6">
+    <!--[if BLOCK]><![endif]-->        <div class="space-y-8" x-data="{
+                amount: String('50000'),
+                inputBasis: String('annual'),
+                hoursPerWeek: String('40'),
+                weeksPerYear: String('52'),
+                number(value, fallback = 0, min = 0, max = 1000000000) {
+                    const parsed = Number(value);
+                    return Number.isFinite(parsed) ? Math.min(max, Math.max(min, parsed)) : fallback;
+                },
+                state() {
+                    return {
+                        amount: String(this.number(this.amount, 50000)),
+                        inputBasis: ['annual', 'monthly', 'biweekly', 'weekly', 'daily', 'hourly'].includes(String(this.inputBasis)) ? String(this.inputBasis) : 'annual',
+                        hoursPerWeek: String(this.number(this.hoursPerWeek, 40, 1, 168)),
+                        weeksPerYear: String(this.number(this.weeksPerYear, 52, 1, 52)),
+                    };
+                },
+                stepUrl(step) {
+                    const url = new URL(window.location.href);
+                    url.searchParams.set('funnel', '1');
+                    url.searchParams.set('step', String(step));
+                    Object.entries(this.state()).forEach(([key, value]) =&gt; url.searchParams.set(key, String(value)));
+                    return url.toString();
+                },
+                go(step) {
+                    Object.assign(this, this.state());
+                    const url = this.stepUrl(step);
+                    window.hyperionFunnel ? window.hyperionFunnel.navigate(url) : window.location.assign(url);
+                },
+            }">
+            <div class="space-y-3">
+                <div class="flex items-center justify-between gap-4">
+                    <span class="section-label">Paso 1 / 3</span>
+                    <span class="text-xs font-medium text-gray-500">Anual</span>
+                </div>
+                <div class="h-2 overflow-hidden rounded-full bg-gray-100">
+                    <div class="h-full rounded-full bg-indigo-600 transition-all" style="width: 33%"></div>
+                </div>
+            </div>
+
+            <!--[if BLOCK]><![endif]-->                <section class="space-y-6">
+                    <div class="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                        <div><label class="section-label mb-1 block text-xs">Cantidad</label><input type="number" step="any" x-model.number="amount" class="premium-textarea font-mono" style="min-height:auto;padding:.5rem .75rem" aria-label="Cantidad"></div>
+                        <div>
+                            <label class="section-label mb-1 block text-xs">Base</label>
+                            <select x-model="inputBasis" class="premium-textarea font-mono" style="min-height:auto;padding:.5rem .75rem" aria-label="Base">
+                                <option value="annual">Anual</option>
+                                <option value="monthly">Mensual</option>
+                                <option value="biweekly">Quincenal</option>
+                                <option value="weekly">Semanal</option>
+                                <option value="daily">Diario</option>
+                                <option value="hourly">Cada hora</option>
+                            </select>
+                        </div>
+                    </div>
+                    <a class="btn-primary" :href="stepUrl(2)" :data-hup-prefetch-url="stepUrl(2)" href="https://tools.softonic.com/salary-calculator?funnel=1&amp;step=2&amp;amount=50000&amp;inputBasis=annual&amp;hoursPerWeek=40&amp;weeksPerYear=52" data-hup-prefetch-url="https://tools.softonic.com/salary-calculator?funnel=1&amp;step=2&amp;amount=50000&amp;inputBasis=annual&amp;hoursPerWeek=40&amp;weeksPerYear=52">Siguiente</a>
+                </section>
+            <!--[if ENDBLOCK]><![endif]-->        </div>
+    <!--[if ENDBLOCK]><![endif]--></div>
+</div>
+        
+    
+<script>(function(){if(document.documentElement.getAttribute('data-hup-ab-remove-second')!=='1')return;var el=document.querySelector('[data-meta-id="dsk-top-leaderboard-2"]');if(el&&el.parentNode)el.parentNode.removeChild(el);})();</script>
+                <div class="revamp-slot flex md:hidden mx-auto my-6 w-full" style="min-height:600px;max-width:300px;" data-meta="placeholder-slot" data-meta-id="mob-top-mpu-1"><div data-label="Advertisement" id="mob-top-mpu-1"></div></div>
+                
+
+
+    <div class="intro text-lg text-gray-600 leading-relaxed mb-8 max-w-3xl">
+    <p>Las ofertas de empleo se expresan con la periodicidad que prefiere cada departamento de recursos humanos: anual en algunos países, mensual en la mayor parte de Europa y por hora para autónomos. Esta calculadora las normaliza. Introduce el sueldo en cualquier unidad y obtén las cifras equivalentes por hora, semanales, quincenales, mensuales y anuales, con la posibilidad de cambiar las horas por semana y las semanas trabajadas al año para ajustarlas a tu jornada real.</p>
+
+</div>
+                <section class="how-it-works mt-10 mb-10">
+    <h2 class="text-2xl font-bold text-gray-900 tracking-tight mb-6">Cómo convertir entre periodos de pago</h2>
+    <ol class="space-y-4 list-none counter-reset-steps">
+                <li class="flex gap-4">
+            <span class="flex-shrink-0 w-8 h-8 rounded-full bg-indigo-100 text-indigo-700 font-bold flex items-center justify-center">1</span>
+            <div>
+                                <h3 class="font-semibold text-gray-900 mb-1">Introduce el importe y su unidad</h3>
+                                                <p class="text-gray-600 leading-relaxed">Por ejemplo, 35.000 al año, 2.900 al mes o 18 por hora.</p>
+                            </div>
+        </li>
+                <li class="flex gap-4">
+            <span class="flex-shrink-0 w-8 h-8 rounded-full bg-indigo-100 text-indigo-700 font-bold flex items-center justify-center">2</span>
+            <div>
+                                <h3 class="font-semibold text-gray-900 mb-1">Define tu jornada</h3>
+                                                <p class="text-gray-600 leading-relaxed">Horas por semana (40 por defecto) y semanas al año (52 por defecto, o 48 en puestos con 4 semanas de excedencia sin sueldo).</p>
+                            </div>
+        </li>
+                <li class="flex gap-4">
+            <span class="flex-shrink-0 w-8 h-8 rounded-full bg-indigo-100 text-indigo-700 font-bold flex items-center justify-center">3</span>
+            <div>
+                                <h3 class="font-semibold text-gray-900 mb-1">Elige una divisa</h3>
+                                                <p class="text-gray-600 leading-relaxed">Sirve cualquier símbolo: la conversión es matemática pura, sin tipos de cambio.</p>
+                            </div>
+        </li>
+                <li class="flex gap-4">
+            <span class="flex-shrink-0 w-8 h-8 rounded-full bg-indigo-100 text-indigo-700 font-bold flex items-center justify-center">4</span>
+            <div>
+                                <h3 class="font-semibold text-gray-900 mb-1">Compara los resultados</h3>
+                                                <p class="text-gray-600 leading-relaxed">Obtienes una cuadrícula con el sueldo por hora, diario, semanal, quincenal, bimensual, mensual y anual, uno junto a otro.</p>
+                            </div>
+        </li>
+            </ol>
+</section>
+                <h2 class="text-2xl font-bold text-gray-900 tracking-tight mt-10 mb-4">Cómo funcionan realmente las conversiones de salario</h2>
+                <div class="prose prose-gray prose-lg max-w-none mb-10 prose-headings:font-bold prose-headings:tracking-tight prose-a:text-indigo-600 prose-a:no-underline hover:prose-a:underline prose-table:text-sm">
+    <p>Las cuentas son sencillas, pero hay dos detalles que despistan a casi todo el mundo: las semanas al año y la diferencia entre quincenal y bimensual.</p>
+<h3>Las fórmulas básicas</h3>
+<p>Suponiendo 40 horas por semana y 52 semanas al año:</p>
+<ul>
+<li>Por hora = Anual / (40 x 52) = Anual / 2080</li>
+<li>Semanal = Anual / 52</li>
+<li>Quincenal = Anual / 26 (cada dos semanas, 26 pagas)</li>
+<li>Bimensual = Anual / 24 (el día 1 y el 15, 24 pagas)</li>
+<li>Mensual = Anual / 12</li>
+</ul>
+<h3>Quincenal frente a bimensual</h3>
+<p>Suenan igual, pero no lo son. Quincenal = 26 pagas del mismo importe. Bimensual = 24 pagas, algo mayores cada una. Si una empresa pasa de un sistema al otro, el importe de cada paga cambia alrededor de un 8 %.</p>
+<h3>Cuadrícula de referencia</h3>
+<table>
+<thead>
+<tr>
+<th>Anual</th>
+<th>Mensual</th>
+<th>Quincenal</th>
+<th>Semanal</th>
+<th>Por hora (2080 h)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>21.000 €</td>
+<td>1.750 €</td>
+<td>808 €</td>
+<td>404 €</td>
+<td>10,10 €</td>
+</tr>
+<tr>
+<td>35.000 €</td>
+<td>2.917 €</td>
+<td>1.346 €</td>
+<td>673 €</td>
+<td>16,83 €</td>
+</tr>
+<tr>
+<td>52.000 €</td>
+<td>4.333 €</td>
+<td>2.000 €</td>
+<td>1.000 €</td>
+<td>25,00 €</td>
+</tr>
+<tr>
+<td>70.000 €</td>
+<td>5.833 €</td>
+<td>2.692 €</td>
+<td>1.346 €</td>
+<td>33,65 €</td>
+</tr>
+<tr>
+<td>105.000 €</td>
+<td>8.750 €</td>
+<td>4.038 €</td>
+<td>2.019 €</td>
+<td>50,48 €</td>
+</tr>
+</tbody>
+</table>
+<h3>Consejos</h3>
+<ul>
+<li><strong>Ajusta las semanas trabajadas</strong> en empleos de consultoría o docencia. 48 semanas (4 semanas sin actividad) reduce la equivalencia por hora alrededor de un 8 %.</li>
+<li><strong>No olvides el coste para la empresa.</strong> Tu coste real por hora para la empresa suele ser 1,25-1,4 veces el sueldo bruto una vez sumados impuestos, cotizaciones sociales y prestaciones.</li>
+<li><strong>Compara por “retribución total”</strong> y no solo por el salario: bonus, acciones y beneficios pueden duplicar la diferencia.</li>
+</ul>
+
+</div>
+                <section class="mt-14" x-data="{ open: null }">
+    <h2 class="text-2xl font-extrabold text-gray-900 tracking-tight mb-6">Preguntas frecuentes</h2>
+    <div class="space-y-3">
+                <div class="faq-item">
+            <button @click="open = open === 0 ? null : 0">
+                <span class="text-left">¿Es el sueldo bruto o el neto?</span>
+                <svg class="w-5 h-5 text-gray-400 transition-transform duration-200 shrink-0 ml-4" :class="{ 'rotate-180': open === 0 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
+                </svg>
+            </button>
+            <div x-show="open === 0" x-collapse="" style="display: none; height: 0px; overflow: hidden;" hidden="">
+                <div class="px-6 pb-5 text-gray-600 leading-relaxed prose prose-sm max-w-none">
+                                            <p>Bruto, antes de impuestos y retenciones. El neto depende mucho del país, la comunidad autónoma y la situación personal. Para una estimación del neto usa una calculadora de sueldo neto.</p>
+
+                                    </div>
+            </div>
+        </div>
+                <div class="faq-item">
+            <button @click="open = open === 1 ? null : 1">
+                <span class="text-left">¿Por qué mi paga quincenal no coincide exactamente con anual / 26?</span>
+                <svg class="w-5 h-5 text-gray-400 transition-transform duration-200 shrink-0 ml-4" :class="{ 'rotate-180': open === 1 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
+                </svg>
+            </button>
+            <div x-show="open === 1" x-collapse="" style="display: none; height: 0px; overflow: hidden;" hidden="">
+                <div class="px-6 pb-5 text-gray-600 leading-relaxed prose prose-sm max-w-none">
+                                            <p>La mayoría de los años tienen 26 periodos de pago quincenales, pero algunos tienen 27 según el calendario. Cada empresa gestiona ese desfase de forma distinta: unas reparten la paga extra y otras dejan que una de las pagas sea la “sobrante”.</p>
+
+                                    </div>
+            </div>
+        </div>
+                <div class="faq-item">
+            <button @click="open = open === 2 ? null : 2">
+                <span class="text-left">¿Cómo tengo en cuenta las horas extra?</span>
+                <svg class="w-5 h-5 text-gray-400 transition-transform duration-200 shrink-0 ml-4" :class="{ 'rotate-180': open === 2 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
+                </svg>
+            </button>
+            <div x-show="open === 2" x-collapse="" style="display: none; height: 0px; overflow: hidden;" hidden="">
+                <div class="px-6 pb-5 text-gray-600 leading-relaxed prose prose-sm max-w-none">
+                                            <p>Introduce tu tarifa base por hora y anualiza las horas extra por separado a 1,5x. La calculadora no incluye las horas extra de forma automática porque las jornadas varían demasiado.</p>
+
+                                    </div>
+            </div>
+        </div>
+                <div class="faq-item">
+            <button @click="open = open === 3 ? null : 3">
+                <span class="text-left">¿Se envía mi salario a algún sitio?</span>
+                <svg class="w-5 h-5 text-gray-400 transition-transform duration-200 shrink-0 ml-4" :class="{ 'rotate-180': open === 3 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
+                </svg>
+            </button>
+            <div x-show="open === 3" x-collapse="" style="display: none; height: 0px; overflow: hidden;" hidden="">
+                <div class="px-6 pb-5 text-gray-600 leading-relaxed prose prose-sm max-w-none">
+                                            <p>No. Todas las conversiones se realizan en tu navegador y no se transmite ningún dato de tu sueldo.</p>
+
+                                    </div>
+            </div>
+        </div>
+            </div>
+</section>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+                {
+            "@type": "Question",
+            "name": "\u00bfEs el sueldo bruto o el neto?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bruto, antes de impuestos y retenciones. El neto depende mucho del pa\u00eds, la comunidad aut\u00f3noma y la situaci\u00f3n personal. Para una estimaci\u00f3n del neto usa una calculadora de sueldo neto."            }
+        },                {
+            "@type": "Question",
+            "name": "\u00bfPor qu\u00e9 mi paga quincenal no coincide exactamente con anual \/ 26?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La mayor\u00eda de los a\u00f1os tienen 26 periodos de pago quincenales, pero algunos tienen 27 seg\u00fan el calendario. Cada empresa gestiona ese desfase de forma distinta: unas reparten la paga extra y otras dejan que una de las pagas sea la \u0022sobrante\u0022."            }
+        },                {
+            "@type": "Question",
+            "name": "\u00bfC\u00f3mo tengo en cuenta las horas extra?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Introduce tu tarifa base por hora y anualiza las horas extra por separado a 1,5x. La calculadora no incluye las horas extra de forma autom\u00e1tica porque las jornadas var\u00edan demasiado."            }
+        },                {
+            "@type": "Question",
+            "name": "\u00bfSe env\u00eda mi salario a alg\u00fan sitio?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Todas las conversiones se realizan en tu navegador y no se transmite ning\u00fan dato de tu sueldo."            }
+        }            ]
+}
+</script>
+                <section class="mt-14">
+    <h2 class="text-2xl font-extrabold text-gray-900 tracking-tight mb-6">Herramientas relacionadas</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                <a href="/miles-to-km-converter" class="related-tool-card group">
+            <h3 class="font-semibold text-gray-800 group-hover:text-indigo-600 transition-colors">
+                Convertidor de millas a kilómetros
+            </h3>
+                        <p class="text-sm text-gray-500 mt-2 line-clamp-2 leading-relaxed">Convierte millas a kilómetros con el factor exacto 1 mi = 1,609344 km. Incluye tabla de distancias comunes y trucos de cálculo mental.</p>
+                    </a>
+                <a href="/clock-out-time-calculator" class="related-tool-card group">
+            <h3 class="font-semibold text-gray-800 group-hover:text-indigo-600 transition-colors">
+                Calculadora de hora de salida
+            </h3>
+                        <p class="text-sm text-gray-500 mt-2 line-clamp-2 leading-relaxed">Calcula tu hora de salida a partir de la hora de entrada, las horas de trabajo retribuidas que debes cumplir y las pausas no retribuidas. Admite turnos que cruzan la medianoche y muestra la hora en formato de 24 y 12 horas.</p>
+                    </a>
+                <a href="/days-to-months-converter" class="related-tool-card group">
+            <h3 class="font-semibold text-gray-800 group-hover:text-indigo-600 transition-colors">
+                Convertidor de Días a Meses
+            </h3>
+                        <p class="text-sm text-gray-500 mt-2 line-clamp-2 leading-relaxed">Convierte un número de días en meses, semanas y años usando la duración media del mes de 30,437 días, listo para planificación y estimaciones.</p>
+                    </a>
+                <a href="/age-calculator" class="related-tool-card group">
+            <h3 class="font-semibold text-gray-800 group-hover:text-indigo-600 transition-colors">
+                Calculadora de edad
+            </h3>
+                        <p class="text-sm text-gray-500 mt-2 line-clamp-2 leading-relaxed">Calcula la edad exacta en años, meses y días a partir de una fecha de nacimiento, además del total de días, horas y la cuenta regresiva para el próximo cumpleaños.</p>
+                    </a>
+                <a href="/fraction-calculator" class="related-tool-card group">
+            <h3 class="font-semibold text-gray-800 group-hover:text-indigo-600 transition-colors">
+                Calculadora de Fracciones
+            </h3>
+                        <p class="text-sm text-gray-500 mt-2 line-clamp-2 leading-relaxed">Calcula sumas, diferencias, productos y cocientes de fracciones. Los resultados aparecen en su mínima expresión con el procedimiento mostrado paso a paso, además del equivalente decimal y la forma de número mixto para comprobar.</p>
+                    </a>
+                <a href="/money-counter" class="related-tool-card group">
+            <h3 class="font-semibold text-gray-800 group-hover:text-indigo-600 transition-colors">
+                Contador de dinero
+            </h3>
+                        <p class="text-sm text-gray-500 mt-2 line-clamp-2 leading-relaxed">Cuenta efectivo por billetes, monedas sueltas y rollos de monedas estándar de EE. UU. Introduce la cantidad de cada denominación para obtener el total de billetes, el valor de las monedas, las piezas y el total general.</p>
+                    </a>
+            </div>
+</section>
+                            <section id="available-languages" class="mt-14" aria-labelledby="available-languages-heading">
+    <h2 id="available-languages-heading" class="text-2xl font-extrabold text-gray-900 tracking-tight mb-6">
+        Herramienta disponible en otros idiomas
+    </h2>
+    <ul class="flex flex-wrap gap-x-6 gap-y-3 text-lg" role="list">
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic.jp/salary-calculator" hreflang="ja" lang="ja" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                給与計算ツール
+            </a>
+            <span class="text-gray-500" dir="ltr">[JA]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic.nl/salary-calculator" hreflang="nl" lang="nl" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Salarisberekening
+            </a>
+            <span class="text-gray-500" dir="ltr">[NL]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic-id.com/salary-calculator" hreflang="id" lang="id" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Kalkulator Gaji
+            </a>
+            <span class="text-gray-500" dir="ltr">[ID]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic.pl/salary-calculator" hreflang="pl" lang="pl" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Kalkulator wynagrodzenia
+            </a>
+            <span class="text-gray-500" dir="ltr">[PL]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.fr.softonic.com/salary-calculator" hreflang="fr" lang="fr" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Calculateur de salaire
+            </a>
+            <span class="text-gray-500" dir="ltr">[FR]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic.com.br/salary-calculator" hreflang="pt" lang="pt" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Calculadora de salário
+            </a>
+            <span class="text-gray-500" dir="ltr">[PT]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.de.softonic.com/salary-calculator" hreflang="de" lang="de" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Gehaltsrechner
+            </a>
+            <span class="text-gray-500" dir="ltr">[DE]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic.se/salary-calculator" hreflang="sv" lang="sv" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Lönekalkylator
+            </a>
+            <span class="text-gray-500" dir="ltr">[SV]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic-ar.com/salary-calculator" hreflang="ar" lang="ar" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                حاسبة الراتب
+            </a>
+            <span class="text-gray-500" dir="ltr">[AR]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.vi.softonic.com/salary-calculator" hreflang="vi" lang="vi" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Công cụ tính lương
+            </a>
+            <span class="text-gray-500" dir="ltr">[VI]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic.kr/salary-calculator" hreflang="ko" lang="ko" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                연봉 계산기
+            </a>
+            <span class="text-gray-500" dir="ltr">[KO]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic-th.com/salary-calculator" hreflang="th" lang="th" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                เครื่องคำนวณเงินเดือน
+            </a>
+            <span class="text-gray-500" dir="ltr">[TH]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.en.softonic.com/salary-calculator" hreflang="en" lang="en" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Salary Calculator
+            </a>
+            <span class="text-gray-500" dir="ltr">[EN]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.it.softonic.com/salary-calculator" hreflang="it" lang="it" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Calcolatore di stipendio
+            </a>
+            <span class="text-gray-500" dir="ltr">[IT]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic.ru/salary-calculator" hreflang="ru" lang="ru" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Калькулятор зарплаты
+            </a>
+            <span class="text-gray-500" dir="ltr">[RU]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic.com.tr/salary-calculator" hreflang="tr" lang="tr" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                Maaş Hesaplayıcı
+            </a>
+            <span class="text-gray-500" dir="ltr">[TR]</span>
+        </li>
+                        <li class="inline-flex items-baseline gap-1">
+            <a href="https://tools.softonic.cn/salary-calculator" hreflang="zh" lang="zh" dir="auto" class="font-medium text-indigo-600 hover:text-indigo-800 hover:underline underline-offset-4 transition-colors">
+                薪资计算器
+            </a>
+            <span class="text-gray-500" dir="ltr">[ZH]</span>
+        </li>
+            </ul>
+</section>
+            
+
+
+            </main>
+            <aside class="hidden lg:block lg:self-stretch w-[300px] flex-none">
+    
+    <div class="revamp-slot hidden md:flex mx-auto my-6 w-full" style="min-height:600px;max-width:300px;" data-meta="placeholder-slot" data-meta-id="dsk-top-mpu-1"><div data-label="Advertisement" id="dsk-top-mpu-1"><div class="rv-ad"><div id="dsk-top-mpu-1__ad" style="" data-google-query-id="CIKSrcrirpcDFX7oHAIdxLEerA"><div id="google_ads_iframe_/5302/desktop/desktop-Web-es/apps/Toolpage/ATF_MPU_First_0__container__" style="border: 0pt; margin: auto; text-align: center; width: 300px; height: 600px;"><iframe frameborder="0" src="https://54b7a7f4d501737c693c7a1b0a474a02.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html" id="google_ads_iframe_/5302/desktop/desktop-Web-es/apps/Toolpage/ATF_MPU_First_0" title="Contenido de anuncios de terceros" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="600" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="private-state-token-redemption;attribution-reporting" aria-label="Anuncio" tabindex="0" data-google-container-id="2" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div></div></div></div>
+                    
+        <div class="sticky top-4 mt-12">
+            <div class="revamp-slot hidden md:flex mx-auto my-6 w-full" style="min-height:600px;max-width:300px;" data-meta="placeholder-slot" data-meta-id="dsk-bottom-mpu-1"><div data-label="Advertisement" id="dsk-bottom-mpu-1"><div class="rv-ad"><div id="dsk-bottom-mpu-1__ad"></div></div></div></div>
+                </div>
+    </aside>
+        </div>
+        <div class="revamp-slot hidden md:flex mx-auto my-6 w-full" style="min-height:250px;max-width:970px;" data-meta="placeholder-slot" data-meta-id="dsk-bottom-leaderboard-1"><div data-label="Advertisement" id="dsk-bottom-leaderboard-1"><div class="rv-ad"><div id="dsk-bottom-leaderboard-1__ad"></div></div></div></div>
+                <div class="revamp-slot flex md:hidden mx-auto my-6 w-full" style="min-height:600px;max-width:300px;" data-meta="placeholder-slot" data-meta-id="mob-bottom-mpu-1"><div data-label="Advertisement" id="mob-bottom-mpu-1"></div></div>
+                
+    </div>
+
+            <div class="hyperion-softonic-chrome-root"><footer class="PGB_8o wVkNvw js-page-footer"><div class="bXkH_7 wPgSia" data-meta="page-footer"><div class="PDfZX_"><div class="rxEyu2 PigimL OMlpov"><p class="XjM2OG" role="heading" aria-level="2">Sobre nosotros</p><ul class="ADwqCt"><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://hello.softonic.com/">Conócenos</a></li><li class="I44GA0"><a class="PP5LFg" href="https://www.softonic.com/centro-de-seguridad-y-confianza">Centro de Seguridad y Confianza</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://get-support.softonic.com/">Ayuda y Soporte</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://hello.softonic.com/careers/#join-us">Empleo</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://hello.softonic.com/editorial-guidelines/">Directrices editoriales</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://publishing-center.softonic.com/">Añade tu software / app</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://www.softonic.com/business">For Business</a></li></ul></div><div class="rxEyu2 PigimL OMlpov"><p class="XjM2OG" role="heading" aria-level="2">Publicidad</p><ul class="ADwqCt"><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://revamp.softonic.com/">Soluciones de monetización para publicaciones</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://publishing-center.softonic.com/">Publica y administra tu software</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://hello.softonic.com/software-policy/">Software Policy</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://hello.softonic.com/advertise-with-us/">Publicidad en Softonic</a></li></ul></div><div class="rxEyu2 PigimL OMlpov"><p class="XjM2OG" role="heading" aria-level="2">Legal</p><ul class="ADwqCt"><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://hello.softonic.com/dmca-policy/">DMCA</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://hello.softonic.com/legal-information/">Información legal</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://hello.softonic.com/terms-of-use/">Términos de uso</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://hello.softonic.com/privacy-policy/">Política de Privacidad</a></li><li class="I44GA0"><a class="PP5LFg" target="_blank" rel="noopener" href="https://hello.softonic.com/cookies-policy/">Política de cookies</a></li><li class="I44GA0"><button type="button" class="PP5LFg consents-open-preferences">Configuración de cookies</button></li></ul></div><div class="rxEyu2 EtNpvF OMlpov"><p class="XjM2OG" role="heading" aria-level="2">Social media</p><ul class="ADwqCt KFkn5A"><li class="I44GA0"><a class="wkPIBJ Q7IVdm" target="_blank" rel="nofollow noopener noreferrer" title="facebook" href="https://www.facebook.com/Softonic" data-track="footer-social" data-track-social-media="facebook" data-track-placement="footer" data-meta="facebook"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="facebook icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-facebook"></use></svg></a></li><li class="I44GA0"><a class="wkPIBJ Q7IVdm" target="_blank" rel="nofollow noopener noreferrer" title="instagram" href="https://www.instagram.com/Softonic/" data-track="footer-social" data-track-social-media="instagram" data-track-placement="footer" data-meta="instagram"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="instagram icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-instagram"></use></svg></a></li><li class="I44GA0"><a class="wkPIBJ Q7IVdm" target="_blank" rel="nofollow noopener noreferrer" title="tiktok" href="https://www.tiktok.com/@softonic" data-track="footer-social" data-track-social-media="tiktok" data-track-placement="footer" data-meta="tiktok"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="tiktok icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-tiktok"></use></svg></a></li><li class="I44GA0"><a class="wkPIBJ Q7IVdm" target="_blank" rel="nofollow noopener noreferrer" title="twitter" href="https://x.com/softonic_es" data-track="footer-social" data-track-social-media="x" data-track-placement="footer" data-meta="twitter"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="twitter icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-twitter"></use></svg></a></li><li class="I44GA0"><a class="wkPIBJ Q7IVdm" target="_blank" rel="nofollow noopener noreferrer" title="linkedin" href="https://www.linkedin.com/company/softonic" data-track="footer-social" data-track-social-media="linkedin" data-track-placement="footer" data-meta="linkedin"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="linkedin icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-linkedin"></use></svg></a></li><li class="I44GA0"><a class="wkPIBJ Q7IVdm" target="_blank" rel="nofollow noopener noreferrer" title="youtube" href="https://www.youtube.com/@softonic" data-track="footer-social" data-track-social-media="youtube" data-track-placement="footer" data-meta="youtube"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="youtube icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-youtube"></use></svg></a></li><li class="I44GA0"><a class="wkPIBJ Q7IVdm" target="_blank" rel="nofollow noopener noreferrer" title="telegram" href="https://t.me/softonic_es" data-track="footer-social" data-track-social-media="telegram" data-track-placement="footer" data-meta="telegram"><svg class="JWiJTm" viewBox="0 0 1024 1024" aria-label="telegram icon" role="img"><use class="BKi9Ew" href="/softonic-chrome/icons.svg#i-telegram"></use></svg></a></li></ul></div></div><div class="PDfZX_"><div class="rxEyu2"><p class="XjM2OG" role="heading" aria-level="2">Softonic en:</p></div><div class="rxEyu2 lGAQWv lLPjuY"><ul class="ADwqCt KFkn5A"><li class="I44GA0"><a class="PP5LFg" lang="ar-SA" href="https://www.softonic-ar.com/" hreflang="ar-SA">عربي</a></li><li class="I44GA0"><a class="PP5LFg" lang="de-DE" href="https://de.softonic.com/" hreflang="de-DE">Deutsch</a></li><li class="I44GA0"><a class="PP5LFg" lang="en-US" href="https://en.softonic.com/" hreflang="en-US">English</a></li><li class="I44GA0"><a class="PP5LFg EFjdZP" lang="es-ES" href="https://www.softonic.com/" hreflang="es-ES">Español</a></li><li class="I44GA0"><a class="PP5LFg" lang="fr-FR" href="https://fr.softonic.com/" hreflang="fr-FR">Français</a></li><li class="I44GA0"><a class="PP5LFg" lang="id-ID" href="https://www.softonic-id.com/" hreflang="id-ID">Bahasa Indonesia</a></li><li class="I44GA0"><a class="PP5LFg" lang="it-IT" href="https://it.softonic.com/" hreflang="it-IT">Italiano</a></li><li class="I44GA0"><a class="PP5LFg" lang="ja-JP" href="https://www.softonic.jp/" hreflang="ja-JP">日本語</a></li><li class="I44GA0"><a class="PP5LFg" lang="ko-KR" href="https://www.softonic.kr/" hreflang="ko-KR">한국어</a></li><li class="I44GA0"><a class="PP5LFg" lang="nl-NL" href="https://www.softonic.nl/" hreflang="nl-NL">Nederlands</a></li><li class="I44GA0"><a class="PP5LFg" lang="pl-PL" href="https://www.softonic.pl/" hreflang="pl-PL">Polski</a></li><li class="I44GA0"><a class="PP5LFg" lang="pt-BR" href="https://www.softonic.com.br/" hreflang="pt-BR">Português</a></li><li class="I44GA0"><a class="PP5LFg" lang="ru-RU" href="https://www.softonic.ru/" hreflang="ru-RU">Русский</a></li><li class="I44GA0"><a class="PP5LFg" lang="sv-SE" href="https://www.softonic.se/" hreflang="sv-SE">Svenska</a></li><li class="I44GA0"><a class="PP5LFg" lang="th-TH" href="https://www.softonic-th.com/" hreflang="th-TH">ภาษาไทย</a></li><li class="I44GA0"><a class="PP5LFg" lang="tr-TR" href="https://www.softonic.com.tr/" hreflang="tr-TR">Türkçe</a></li><li class="I44GA0"><a class="PP5LFg" lang="vi-VN" href="https://vi.softonic.com/" hreflang="vi-VN">Tiếng Việt</a></li><li class="I44GA0"><a class="PP5LFg" lang="zh-CN" href="https://www.softonic.cn/" hreflang="zh-CN">中文</a></li></ul><p class="A56vMh">Copyright SOFTONIC INTERNATIONAL S.A. <span class="fffvnv">© 1997–2026 — Todos los derechos reservados</span></p></div><div class="rxEyu2 PigimL OMlpov jrO0sC"><img src="https://assets.sftcdn.net/public/046876.svg" alt="Softonic" width="177" height="49" loading="lazy"></div></div></div></footer></div>
+    
+    <script src="/livewire/livewire.min.js?id=bd51a0a6" data-csrf="nM2GTx4zTWPRVEkKP1jpTnUa2q0IvQtuMXmZbXmL" data-update-uri="/livewire/update" data-navigate-once="true"></script><iframe name="__gppLocator" style="display: none;"></iframe>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Calculadora de salario: convierte sueldo por hora, semana, mes y a\u00f1o",
+    "description": "Convierte cualquier salario entre cifras por hora, semanales, quincenales, mensuales y anuales. Compatible con cualquier divisa y horarios de trabajo personalizados.",
+    "url": "https://tools.softonic.com/salary-calculator",
+    "applicationCategory": "UtilitiesApplication",
+    "operatingSystem": "Any",
+    "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Softonic"    }
+}
+</script>
+    
+
+<iframe marginwidth="0" marginheight="0" scrolling="no" frameborder="0" id="1728a21552eb9a" width="0" height="0" src="about:blank" name="__pb_locator__" style="display: none; height: 0px; width: 0px; border: 0px;"></iframe><script type="text/javascript" id="" charset="">var sessionDurationThreshold=120;function gtm_getCookie(a){var b=decodeURIComponent(document.cookie);b=b.split(";");return b=b.find(function(d){return a==d.trim().substring(0,a.length)})}
+(function(){var a=gtm_getCookie("gtm_session_start"),b=gtm_getCookie("gtm_session_threshold"),d=new Date,e=d.getTime();d=1E3*sessionDurationThreshold-1;var c=new Date;c.setTime(c.getTime()+18E5);c="expires\x3d"+c.toUTCString();a?b||(a=a.trim().slice(18),a=e-a,a>d&&(window.dataLayer=window.dataLayer||[],dataLayer.push({event:"session_duration_conv"}),document.cookie="gtm_session_threshold\x3dtrue;"+c+";path\x3d/")):document.cookie="gtm_session_start\x3d"+e+";"+c+";path\x3d/"})();</script><iframe name="google_ads_top_frame" id="google_ads_top_frame" style="display: none; position: fixed; left: -999px; top: -999px; width: 0px; height: 0px;"></iframe><div id="criteo-tags-div" style="display: none;"><iframe src="https://gum.criteo.com/syncframe?topUrl=tools.softonic.com&amp;origin=onetag&amp;ceid=13a1173d-c7cd-4975-bc4c-867c2b00e2fe&amp;gdpr=0&amp;gdpr_consent=&amp;gpp=DBAA&amp;gpp_sid=-1#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22softonic.com%22,%22topUrl%22:%22tools.softonic.com%22,%22version%22:%225_51_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0,%22requestId%22:%2243c5566d-abda-4535-a8f4-8faf0c32810d%22}" id="criteo-syncframe-onetag" hidden="" sandbox="allow-scripts allow-same-origin" aria-hidden="true" tabindex="-1" title="Criteo GUM iframe"></iframe><script async="true" type="text/javascript" src="https://sslwidget.criteo.com/event?v=5.51.0&amp;p0=e%3Dvpg&amp;bundle=UGdd819kSjk3a2xaOW1rVzhHbmZ5VGw2MHVZTmdkd0lxdW1TWWYxV0R2ekVvZ3AlMkIlMkJ4RkIxSWxjWVphbWVWVTFpclZzaXlIWlU2a0hpdm9Rb2JNcG9hejBBN05GMkFOQUxHa1NZMklReHdaU25NM09lWFZHeUJQVHAlMkZPVTJiOGglMkY5QzdpeHhOOTBHJTJGYWdrcmo2eDlQbXhjU2NBJTNEJTNE&amp;tld=softonic.com&amp;dy=1&amp;fu=https%253A%252F%252Ftools.softonic.com%252Fsalary-calculator&amp;ceid=13a1173d-c7cd-4975-bc4c-867c2b00e2fe&amp;gra=0&amp;grs=&amp;grv=5&amp;gpp=DBAA&amp;gpp_sid=-1"></script></div><iframe src="https://cdn.btmessage.com/assets/bt-rlink-storage-BvSbFeGG.html" id="bt-rlink-iframe" style="display: none;"></iframe></body><iframe id="goog_plcm_frame" src="https://cm.g.doubleclick.net/partnerpixels?trt=2&amp;gpp=DBAA&amp;url=https%3A%2F%2Ftools.softonic.com%2Fsalary-calculator" style="display: none;"></iframe><ins id="gpt_unit_/5302/desktop/desktop-Web-es/apps/Toolpage/ATF_OOP_Interstitial_0" style="display: none !important; width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; clear: none !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; position: fixed !important; vertical-align: baseline !important; visibility: visible !important; z-index: 2147483647 !important; background: transparent !important;" data-google-query-id="CKa4sMrirpcDFcEpsgMd63kEdg" aria-hidden="true" data-vignette-loaded="true"><div id="google_ads_iframe_/5302/desktop/desktop-Web-es/apps/Toolpage/ATF_OOP_Interstitial_0__container__" style="border: 0pt !important; margin: auto !important; text-align: center !important; width: 100vw !important; height: 100vh !important; inset: auto !important; clear: none !important; display: inline !important; float: none !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; position: static !important; vertical-align: baseline !important; visibility: visible !important; z-index: auto !important;"><iframe id="google_ads_iframe_/5302/desktop/desktop-Web-es/apps/Toolpage/ATF_OOP_Interstitial_0" name="google_ads_iframe_/5302/desktop/desktop-Web-es/apps/Toolpage/ATF_OOP_Interstitial_0" title="Contenido de anuncios de terceros" width="" height="" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Anuncio" tabindex="0" allow="private-state-token-redemption;attribution-reporting;autoplay" data-load-complete="true" data-google-container-id="1" style="border: 0px !important; vertical-align: bottom !important; width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; position: absolute !important; clear: none !important; display: inline !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; visibility: visible !important; z-index: auto !important;"></iframe></div></ins></html>

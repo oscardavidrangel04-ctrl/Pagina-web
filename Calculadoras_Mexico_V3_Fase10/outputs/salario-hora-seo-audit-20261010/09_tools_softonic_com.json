@@ -1,0 +1,319 @@
+{
+  "keyword": "calcular salario por hora",
+  "posicion": 9,
+  "es_url_propia": false,
+  "url": "https://tools.softonic.com/salary-calculator",
+  "dominio": "tools.softonic.com",
+  "estado_http": 200,
+  "fecha_scrape": "2026-10-10T05:59:12.879064+00:00",
+  "seo": {
+    "title": "Calculadora de salario: convierte sueldo por hora, semana, mes y año",
+    "meta_description": "Convierte cualquier salario entre cifras por hora, semanales, quincenales, mensuales y anuales. Compatible con cualquier divisa y horarios de trabajo personalizados.",
+    "canonical": "https://tools.softonic.com/salary-calculator"
+  },
+  "encabezados": {
+    "h1": [
+      "Calculadora de salario"
+    ],
+    "h2": [
+      "Cómo convertir entre periodos de pago",
+      "Cómo funcionan realmente las conversiones de salario",
+      "Preguntas frecuentes",
+      "Herramientas relacionadas",
+      "Herramienta disponible en otros idiomas"
+    ],
+    "h3": [
+      "Introduce el importe y su unidad",
+      "Define tu jornada",
+      "Elige una divisa",
+      "Compara los resultados",
+      "Las fórmulas básicas",
+      "Quincenal frente a bimensual",
+      "Consejos",
+      "Convertidor de millas a kilómetros",
+      "Calculadora de hora de salida",
+      "Convertidor de Días a Meses",
+      "Calculadora de edad",
+      "Calculadora de Fracciones",
+      "Contador de dinero"
+    ]
+  },
+  "contenido": {
+    "texto_principal": "Calculadora de salario Paso 1 / 3 Anual Cantidad Base Anual Mensual Quincenal Semanal Diario Cada hora Siguiente Las ofertas de empleo se expresan con la periodicidad que prefiere cada departamento de recursos humanos: anual en algunos países, mensual en la mayor parte de Europa y por hora para autónomos. Esta calculadora las normaliza. Introduce el sueldo en cualquier unidad y obtén las cifras equivalentes por hora, semanales, quincenales, mensuales y anuales, con la posibilidad de cambiar las horas por semana y las semanas trabajadas al año para ajustarlas a tu jornada real. Cómo convertir entre periodos de pago 1 Introduce el importe y su unidad Por ejemplo, 35.000 al año, 2.900 al mes o 18 por hora. 2 Define tu jornada Horas por semana (40 por defecto) y semanas al año (52 por defecto, o 48 en puestos con 4 semanas de excedencia sin sueldo). 3 Elige una divisa Sirve cualquier símbolo: la conversión es matemática pura, sin tipos de cambio. 4 Compara los resultados Obtienes una cuadrícula con el sueldo por hora, diario, semanal, quincenal, bimensual, mensual y anual, uno junto a otro. Cómo funcionan realmente las conversiones de salario Las cuentas son sencillas, pero hay dos detalles que despistan a casi todo el mundo: las semanas al año y la diferencia entre quincenal y bimensual. Las fórmulas básicas Suponiendo 40 horas por semana y 52 semanas al año: Por hora = Anual / (40 x 52) = Anual / 2080 Semanal = Anual / 52 Quincenal = Anual / 26 (cada dos semanas, 26 pagas) Bimensual = Anual / 24 (el día 1 y el 15, 24 pagas) Mensual = Anual / 12 Quincenal frente a bimensual Suenan igual, pero no lo son. Quincenal = 26 pagas del mismo importe. Bimensual = 24 pagas, algo mayores cada una. Si una empresa pasa de un sistema al otro, el importe de cada paga cambia alrededor de un 8 %. Cuadrícula de referencia Anual Mensual Quincenal Semanal Por hora (2080 h) 21.000 € 1.750 € 808 € 404 € 10,10 € 35.000 € 2.917 € 1.346 € 673 € 16,83 € 52.000 € 4.333 € 2.000 € 1.000 € 25,00 € 70.000 € 5.833 € 2.692 € 1.346 € 33,65 € 105.000 € 8.750 € 4.038 € 2.019 € 50,48 € Consejos Ajusta las semanas trabajadas en empleos de consultoría o docencia. 48 semanas (4 semanas sin actividad) reduce la equivalencia por hora alrededor de un 8 %. No olvides el coste para la empresa. Tu coste real por hora para la empresa suele ser 1,25-1,4 veces el sueldo bruto una vez sumados impuestos, cotizaciones sociales y prestaciones. Compara por “retribución total” y no solo por el salario: bonus, acciones y beneficios pueden duplicar la diferencia. Preguntas frecuentes ¿Es el sueldo bruto o el neto? Bruto, antes de impuestos y retenciones. El neto depende mucho del país, la comunidad autónoma y la situación personal. Para una estimación del neto usa una calculadora de sueldo neto. ¿Por qué mi paga quincenal no coincide exactamente con anual / 26? La mayoría de los años tienen 26 periodos de pago quincenales, pero algunos tienen 27 según el calendario. Cada empresa gestiona ese desfase de forma distinta: unas reparten la paga extra y otras dejan que una de las pagas sea la “sobrante”. ¿Cómo tengo en cuenta las horas extra? Introduce tu tarifa base por hora y anualiza las horas extra por separado a 1,5x. La calculadora no incluye las horas extra de forma automática porque las jornadas varían demasiado. ¿Se envía mi salario a algún sitio? No. Todas las conversiones se realizan en tu navegador y no se transmite ningún dato de tu sueldo. Herramientas relacionadas Convertidor de millas a kilómetros Convierte millas a kilómetros con el factor exacto 1 mi = 1,609344 km. Incluye tabla de distancias comunes y trucos de cálculo mental. Calculadora de hora de salida Calcula tu hora de salida a partir de la hora de entrada, las horas de trabajo retribuidas que debes cumplir y las pausas no retribuidas. Admite turnos que cruzan la medianoche y muestra la hora en formato de 24 y 12 horas. Convertidor de Días a Meses Convierte un número de días en meses, semanas y años usando la duración media del mes de 30,437 días, listo para planificación y estimaciones. Calculadora de edad Calcula la edad exacta en años, meses y días a partir de una fecha de nacimiento, además del total de días, horas y la cuenta regresiva para el próximo cumpleaños. Calculadora de Fracciones Calcula sumas, diferencias, productos y cocientes de fracciones. Los resultados aparecen en su mínima expresión con el procedimiento mostrado paso a paso, además del equivalente decimal y la forma de número mixto para comprobar. Contador de dinero Cuenta efectivo por billetes, monedas sueltas y rollos de monedas estándar de EE. UU. Introduce la cantidad de cada denominación para obtener el total de billetes, el valor de las monedas, las piezas y el total general. Herramienta disponible en otros idiomas 給与計算ツール [JA] Salarisberekening [NL] Kalkulator Gaji [ID] Kalkulator wynagrodzenia [PL] Calculateur de salaire [FR] Calculadora de salário [PT] Gehaltsrechner [DE] Lönekalkylator [SV] حاسبة الراتب [AR] Công cụ tính lương [VI] 연봉 계산기 [KO] เครื่องคำนวณเงินเดือน [TH] Salary Calculator [EN] Calcolatore di stipendio [IT] Калькулятор зарплаты [RU] Maaş Hesaplayıcı [TR] 薪资计算器 [ZH]",
+    "numero_palabras": 872,
+    "contenedor_principal_detectado": true,
+    "secciones": [
+      {
+        "nivel": "INTRODUCCION",
+        "encabezado": "Introducción",
+        "texto": "Calculadora de salario Cantidad Base Anual Mensual Quincenal Semanal Diario Cada hora Siguiente Paso 1 / 3 Anual Las ofertas de empleo se expresan con la periodicidad que prefiere cada departamento de recursos humanos: anual en algunos países, mensual en la mayor parte de Europa y por hora para autónomos. Esta calculadora las normaliza. Introduce el sueldo en cualquier unidad y obtén las cifras equivalentes por hora, semanales, quincenales, mensuales y anuales, con la posibilidad de cambiar las horas por semana y las semanas trabajadas al año para ajustarlas a tu jornada real.",
+        "palabras": 92
+      },
+      {
+        "nivel": "H2",
+        "encabezado": "Cómo convertir entre periodos de pago",
+        "texto": "1 Introduce el importe y su unidad",
+        "palabras": 7
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Introduce el importe y su unidad",
+        "texto": "Por ejemplo, 35.000 al año, 2.900 al mes o 18 por hora. Define tu jornada",
+        "palabras": 17
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Define tu jornada",
+        "texto": "Horas por semana (40 por defecto) y semanas al año (52 por defecto, o 48 en puestos con 4 semanas de excedencia sin sueldo). 3 Elige una divisa",
+        "palabras": 28
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Elige una divisa",
+        "texto": "Sirve cualquier símbolo: la conversión es matemática pura, sin tipos de cambio. 4 Compara los resultados",
+        "palabras": 16
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Compara los resultados",
+        "texto": "Obtienes una cuadrícula con el sueldo por hora, diario, semanal, quincenal, bimensual, mensual y anual, uno junto a otro.",
+        "palabras": 19
+      },
+      {
+        "nivel": "H2",
+        "encabezado": "Cómo funcionan realmente las conversiones de salario",
+        "texto": "Las cuentas son sencillas, pero hay dos detalles que despistan a casi todo el mundo: las semanas al año y la diferencia entre quincenal y bimensual. Las fórmulas básicas Suponiendo 40 horas por semana y 52 semanas al año: Por hora = Anual / (40 x 52) = Anual / 2080 Semanal = Anual / 52 Quincenal = Anual / 26 (cada dos semanas, 26 pagas) Bimensual = Anual / 24 (el día 1 y el 15, 24 pagas) Mensual = Anual / 12 Quincenal frente a bimensual Suenan igual, pero no lo son. Quincenal = 26 pagas del mismo importe. Bimensual = 24 pagas, algo mayores cada una. Si una empresa pasa de un sistema al otro, el importe de cada paga cambia alrededor de un 8 %. Cuadrícula de referencia Anual Mensual Quincenal Semanal Por hora (2080 h) 21.000 € 1.750 € 808 € 404 € 10,10 € 35.000 € 2.917 € 1.346 € 673 € 16,83 € 52.000 € 4.333 € 2.000 € 1.000 € 25,00 € 70.000 € 5.833 € 2.692 € 1.346 € 33,65 € 105.000 € 8.750 € 4.038 € 2.019 € 50,48 € Consejos Ajusta las semanas trabajadas en empleos de consultoría o docencia. 48 semanas (4 semanas sin actividad) reduce la equivalencia por hora alrededor de un 8 %. No olvides el coste para la empresa. Tu coste real por hora para la empresa suele ser 1,25-1,4 veces el sueldo bruto una vez sumados impuestos, cotizaciones sociales y prestaciones. Compara por “retribución total” y no solo por el salario: bonus, acciones y beneficios pueden duplicar la diferencia.",
+        "palabras": 249
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Las fórmulas básicas",
+        "texto": "Suponiendo 40 horas por semana y 52 semanas al año: Por hora = Anual / (40 x 52) = Anual / 2080 Semanal = Anual / 52 Quincenal = Anual / 26 (cada dos semanas, 26 pagas) Bimensual = Anual / 24 (el día 1 y el 15, 24 pagas) Mensual = Anual / 12",
+        "palabras": 43
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Quincenal frente a bimensual",
+        "texto": "Suenan igual, pero no lo son. Quincenal = 26 pagas del mismo importe. Bimensual = 24 pagas, algo mayores cada una. Si una empresa pasa de un sistema al otro, el importe de cada paga cambia alrededor de un 8 %.",
+        "palabras": 38
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Consejos",
+        "texto": "Ajusta las semanas trabajadas en empleos de consultoría o docencia. 48 semanas (4 semanas sin actividad) reduce la equivalencia por hora alrededor de un 8 %. No olvides el coste para la empresa. Tu coste real por hora para la empresa suele ser 1,25-1,4 veces el sueldo bruto una vez sumados impuestos, cotizaciones sociales y prestaciones. Compara por “retribución total” y no solo por el salario: bonus, acciones y beneficios pueden duplicar la diferencia.",
+        "palabras": 76
+      },
+      {
+        "nivel": "H2",
+        "encabezado": "Preguntas frecuentes",
+        "texto": "¿Es el sueldo bruto o el neto? Bruto, antes de impuestos y retenciones. El neto depende mucho del país, la comunidad autónoma y la situación personal. Para una estimación del neto usa una calculadora de sueldo neto. ¿Por qué mi paga quincenal no coincide exactamente con anual / 26? La mayoría de los años tienen 26 periodos de pago quincenales, pero algunos tienen 27 según el calendario. Cada empresa gestiona ese desfase de forma distinta: unas reparten la paga extra y otras dejan que una de las pagas sea la “sobrante”. ¿Cómo tengo en cuenta las horas extra? Introduce tu tarifa base por hora y anualiza las horas extra por separado a 1,5x. La calculadora no incluye las horas extra de forma automática porque las jornadas varían demasiado. ¿Se envía mi salario a algún sitio? No. Todas las conversiones se realizan en tu navegador y no se transmite ningún dato de tu sueldo.",
+        "palabras": 153
+      },
+      {
+        "nivel": "H2",
+        "encabezado": "Herramientas relacionadas",
+        "texto": "Convertidor de millas a kilómetros Convierte millas a kilómetros con el factor exacto 1 mi = 1,609344 km. Incluye tabla de distancias comunes y trucos de cálculo mental. Calculadora de hora de salida Calcula tu hora de salida a partir de la hora de entrada, las horas de trabajo retribuidas que debes cumplir y las pausas no retribuidas. Admite turnos que cruzan la medianoche y muestra la hora en formato de 24 y 12 horas. Convertidor de Días a Meses Convierte un número de días en meses, semanas y años usando la duración media del mes de 30,437 días, listo para planificación y estimaciones. Calculadora de edad Calcula la edad exacta en años, meses y días a partir de una fecha de nacimiento, además del total de días, horas y la cuenta regresiva para el próximo cumpleaños. Calculadora de Fracciones Calcula sumas, diferencias, productos y cocientes de fracciones. Los resultados aparecen en su mínima expresión con el procedimiento mostrado paso a paso, además del equivalente decimal y la forma de número mixto para comprobar. Contador de dinero Cuenta efectivo por billetes, monedas sueltas y rollos de monedas estándar de EE. UU. Introduce la cantidad de cada denominación para obtener el total de billetes, el valor de las monedas, las piezas y el total general.",
+        "palabras": 215
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Convertidor de millas a kilómetros",
+        "texto": "Convierte millas a kilómetros con el factor exacto 1 mi = 1,609344 km. Incluye tabla de distancias comunes y trucos de cálculo mental.",
+        "palabras": 23
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Calculadora de hora de salida",
+        "texto": "Calcula tu hora de salida a partir de la hora de entrada, las horas de trabajo retribuidas que debes cumplir y las pausas no retribuidas. Admite turnos que cruzan la medianoche y muestra la hora en formato de 24 y 12 horas.",
+        "palabras": 42
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Convertidor de Días a Meses",
+        "texto": "Convierte un número de días en meses, semanas y años usando la duración media del mes de 30,437 días, listo para planificación y estimaciones.",
+        "palabras": 25
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Calculadora de edad",
+        "texto": "Calcula la edad exacta en años, meses y días a partir de una fecha de nacimiento, además del total de días, horas y la cuenta regresiva para el próximo cumpleaños.",
+        "palabras": 30
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Calculadora de Fracciones",
+        "texto": "Calcula sumas, diferencias, productos y cocientes de fracciones. Los resultados aparecen en su mínima expresión con el procedimiento mostrado paso a paso, además del equivalente decimal y la forma de número mixto para comprobar.",
+        "palabras": 34
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Contador de dinero",
+        "texto": "Cuenta efectivo por billetes, monedas sueltas y rollos de monedas estándar de EE. UU. Introduce la cantidad de cada denominación para obtener el total de billetes, el valor de las monedas, las piezas y el total general.",
+        "palabras": 37
+      },
+      {
+        "nivel": "H2",
+        "encabezado": "Herramienta disponible en otros idiomas",
+        "texto": "給与計算ツール [JA] Salarisberekening [NL] Kalkulator Gaji [ID] Kalkulator wynagrodzenia [PL] Calculateur de salaire [FR] Calculadora de salário [PT] Gehaltsrechner [DE] Lönekalkylator [SV] حاسبة الراتب [AR] Công cụ tính lương [VI] 연봉 계산기 [KO] เครื่องคำนวณเงินเดือน [TH] Salary Calculator [EN] Calcolatore di stipendio [IT] Калькулятор зарплаты [RU] Maaş Hesaplayıcı [TR] 薪资计算器 [ZH]",
+        "palabras": 53
+      }
+    ]
+  },
+  "elementos": {
+    "tablas_html": [
+      {
+        "indice": 1,
+        "filas": [
+          [
+            "Anual",
+            "Mensual",
+            "Quincenal",
+            "Semanal",
+            "Por hora (2080 h)"
+          ],
+          [
+            "21.000 €",
+            "1.750 €",
+            "808 €",
+            "404 €",
+            "10,10 €"
+          ],
+          [
+            "35.000 €",
+            "2.917 €",
+            "1.346 €",
+            "673 €",
+            "16,83 €"
+          ],
+          [
+            "52.000 €",
+            "4.333 €",
+            "2.000 €",
+            "1.000 €",
+            "25,00 €"
+          ],
+          [
+            "70.000 €",
+            "5.833 €",
+            "2.692 €",
+            "1.346 €",
+            "33,65 €"
+          ],
+          [
+            "105.000 €",
+            "8.750 €",
+            "4.038 €",
+            "2.019 €",
+            "50,48 €"
+          ]
+        ],
+        "total_filas": 6
+      }
+    ],
+    "faqs_visibles": [],
+    "faqs_schema": [
+      {
+        "pregunta": "¿Es el sueldo bruto o el neto?",
+        "respuesta": "Bruto, antes de impuestos y retenciones. El neto depende mucho del país, la comunidad autónoma y la situación personal. Para una estimación del neto usa una calculadora de sueldo neto."
+      },
+      {
+        "pregunta": "¿Por qué mi paga quincenal no coincide exactamente con anual / 26?",
+        "respuesta": "La mayoría de los años tienen 26 periodos de pago quincenales, pero algunos tienen 27 según el calendario. Cada empresa gestiona ese desfase de forma distinta: unas reparten la paga extra y otras dejan que una de las pagas sea la \"sobrante\"."
+      },
+      {
+        "pregunta": "¿Cómo tengo en cuenta las horas extra?",
+        "respuesta": "Introduce tu tarifa base por hora y anualiza las horas extra por separado a 1,5x. La calculadora no incluye las horas extra de forma automática porque las jornadas varían demasiado."
+      },
+      {
+        "pregunta": "¿Se envía mi salario a algún sitio?",
+        "respuesta": "No. Todas las conversiones se realizan en tu navegador y no se transmite ningún dato de tu sueldo."
+      }
+    ]
+  },
+  "schema": {
+    "tipos": [
+      "Answer",
+      "FAQPage",
+      "Offer",
+      "Organization",
+      "Question",
+      "WebApplication"
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Es el sueldo bruto o el neto?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Bruto, antes de impuestos y retenciones. El neto depende mucho del país, la comunidad autónoma y la situación personal. Para una estimación del neto usa una calculadora de sueldo neto."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Por qué mi paga quincenal no coincide exactamente con anual / 26?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La mayoría de los años tienen 26 periodos de pago quincenales, pero algunos tienen 27 según el calendario. Cada empresa gestiona ese desfase de forma distinta: unas reparten la paga extra y otras dejan que una de las pagas sea la \"sobrante\"."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo tengo en cuenta las horas extra?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Introduce tu tarifa base por hora y anualiza las horas extra por separado a 1,5x. La calculadora no incluye las horas extra de forma automática porque las jornadas varían demasiado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se envía mi salario a algún sitio?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Todas las conversiones se realizan en tu navegador y no se transmite ningún dato de tu sueldo."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Calculadora de salario: convierte sueldo por hora, semana, mes y año",
+        "description": "Convierte cualquier salario entre cifras por hora, semanales, quincenales, mensuales y anuales. Compatible con cualquier divisa y horarios de trabajo personalizados.",
+        "url": "https://tools.softonic.com/salary-calculator",
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "Any",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Softonic"
+        }
+      }
+    ]
+  },
+  "rendimiento_basico": {
+    "load_ms": 2726,
+    "html_bytes": 181373
+  },
+  "renderizado_js": true,
+  "validacion_contenido": {
+    "http_200": true,
+    "contenido_valido": true,
+    "contenido_insuficiente": false,
+    "clasificacion": "valido",
+    "motivos": [
+      "HTTP 200 y contenido utilizable para el análisis."
+    ]
+  },
+  "archivos_evidencia": {
+    "html": "09_tools_softonic_com.html",
+    "captura": "09_tools_softonic_com.png"
+  }
+}

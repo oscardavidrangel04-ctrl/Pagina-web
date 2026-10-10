@@ -1,0 +1,18 @@
+{
+  "keyword": "calcular salario por hora",
+  "posicion": 3,
+  "es_url_propia": false,
+  "url": "https://taclia.com/es/products/clock-in",
+  "dominio": "taclia.com",
+  "estado_http": null,
+  "fecha_scrape": "2026-10-10T05:58:15.279489+00:00",
+  "error": "SelectorSyntaxError: Malformed id selector at position 0\n  line 1:\n#:r0:-faq-panel-0\n^",
+  "validacion_contenido": {
+    "contenido_valido": false,
+    "contenido_insuficiente": false,
+    "clasificacion": "descartar",
+    "motivos": [
+      "No fue posible cargar la URL."
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "keyword": "calcular salario por hora",
+  "posicion": 1,
+  "es_url_propia": false,
+  "url": "https://es.talent.com/convert",
+  "dominio": "es.talent.com",
+  "estado_http": 200,
+  "fecha_scrape": "2026-10-10T05:57:58.646900+00:00",
+  "seo": {
+    "title": "Salary Converter | Convertir Cualquier Salario | Por Hora, Diario, Anual",
+    "meta_description": "Utiliza el conversor salarial de Talent.com para cambiar cualquier salario a tarifas anuales, mensuales, semanales, diarias o por hora. Obtén conversiones instantáneas.",
+    "canonical": "https://es.talent.com/convert"
+  },
+  "encabezados": {
+    "h1": [
+      "Conversor anual/mensual/semanal/por hora"
+    ],
+    "h2": [
+      "¿3500 € mensual es cuánto a la hora?"
+    ],
+    "h3": []
+  },
+  "contenido": {
+    "texto_principal": "Conversor anual/mensual/semanal/por hora ¿3500 € mensual es cuánto a la hora? ¿Cuál es tu salario? € Salario anual € Sueldo mensual € Salario quincenal € Sueldo semanal € Sueldo diario € Salario por hora Horas trabajadas a la semana ¿3500 € mensual es cuánto a la hora? Si ganas 3500 € al mes, tu salario a la hora sería 20 , 19 € . Este resultado se obtiene multiplicando tu salario base por el número de horas, semanas y meses que trabajas al año, suponiendo que trabajas 40 horas semanales. ¿Sabías que? ¿ Cuántos impuestos tengo que pagar si gano 42.000 € al mes ? Andalucía Aragón Asturias Baleares Canarias Cantabria Castilla y León Castilla-La Mancha Cataluña Ceuta Comunidad de Madrid Comunidad Valenciana Extremadura Galicia La Rioja Melilla Navarra País Vasco Región de Murcia ¿Cuál es el impuesto sobre la renta en 20 , 19 € a la hora? ¿Cuál es el salario medio en España? Conversión de 3500 € al mes en otra unidad de tiempo Conversión Unidad Salario anual 3500 € mensual es 42.000 € por año Salario quincenal 3500 € mensual es 1615,38 € quincenalmente Sueldo semanal 3500 € mensual es 807,69 € a la semana Sueldo diario 3500 € mensual es 161,54 € al día Salario por hora 3500€ mensual es 20,19€ por hora Tabla de conversión Hora Día Semana Mes Año 1 hora 1 día 8 H 1 semana 40 H 5 D 1 mes 174 H 21.67 D 4.33 S 1 año 2080 H 260 D 52 S 12 M",
+    "numero_palabras": 242,
+    "contenedor_principal_detectado": true,
+    "secciones": [
+      {
+        "nivel": "INTRODUCCION",
+        "encabezado": "Introducción",
+        "texto": "Conversor anual/mensual/semanal/por hora ¿3500 € mensual es cuánto a la hora?",
+        "palabras": 13
+      },
+      {
+        "nivel": "H2",
+        "encabezado": "¿3500 € mensual es cuánto a la hora?",
+        "texto": "¿Cuál es tu salario? € Salario anual € Sueldo mensual € Salario quincenal € Sueldo semanal € Sueldo diario € Salario por hora Horas trabajadas a la semana ¿3500 € mensual es cuánto a la hora? Si ganas 3500 € al mes, tu salario a la hora sería 20 , 19 € . Este resultado se obtiene multiplicando tu salario base por el número de horas, semanas y meses que trabajas al año, suponiendo que trabajas 40 horas semanales. ¿Sabías que? ¿ Cuántos impuestos tengo que pagar si gano 42.000 € al mes ? Andalucía Aragón Asturias Baleares Canarias Cantabria Castilla y León Castilla-La Mancha Cataluña Ceuta Comunidad de Madrid Comunidad Valenciana Extremadura Galicia La Rioja Melilla Navarra País Vasco Región de Murcia ¿Cuál es el impuesto sobre la renta en 20 , 19 € a la hora? ¿Cuál es el salario medio en España? Conversión de 3500 € al mes en otra unidad de tiempo Conversión Unidad Salario anual 3500 € mensual es 42.000 € por año Salario quincenal 3500 € mensual es 1615,38 € quincenalmente Sueldo semanal 3500 € mensual es 807,69 € a la semana Sueldo diario 3500 € mensual es 161,54 € al día Salario por hora 3500€ mensual es 20,19€ por hora Tabla de conversión Hora Día Semana Mes Año 1 hora 1 día 8 H 1 semana 40 H 5 D 1 mes 174 H 21.67 D 4.33 S 1 año 2080 H 260 D 52 S 12 M",
+        "palabras": 229
+      }
+    ]
+  },
+  "elementos": {
+    "tablas_html": [],
+    "faqs_visibles": [
+      {
+        "pregunta": "¿ Cuántos impuestos tengo que pagar si gano 42.000 € al mes ?",
+        "respuesta": "Andalucía Aragón Asturias Baleares Canarias Cantabria Castilla y León Castilla-La Mancha Cataluña Ceuta Comunidad de Madrid Comunidad Valenciana Extremadura Galicia La Rioja Melilla Navarra País Vasco Región de Murcia"
+      }
+    ],
+    "faqs_schema": []
+  },
+  "schema": {
+    "tipos": [],
+    "json_ld": []
+  },
+  "rendimiento_basico": {
+    "load_ms": 3684,
+    "html_bytes": 486997
+  },
+  "renderizado_js": true,
+  "validacion_contenido": {
+    "http_200": true,
+    "contenido_valido": true,
+    "contenido_insuficiente": true,
+    "clasificacion": "valido",
+    "motivos": [
+      "HTTP 200 y contenido utilizable para el análisis."
+    ]
+  },
+  "archivos_evidencia": {
+    "html": "01_es_talent_com.html",
+    "captura": "01_es_talent_com.png"
+  }
+}

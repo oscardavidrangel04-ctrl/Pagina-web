@@ -1,0 +1,235 @@
+{
+  "keyword": "calculadora de aguinaldo",
+  "posicion": 7,
+  "es_url_propia": false,
+  "url": "https://runahr.com/mx/recursos/nomina/calculadora-aguinaldo/",
+  "dominio": "runahr.com",
+  "estado_http": 200,
+  "fecha_scrape": "2026-10-10T05:32:33.668873+00:00",
+  "seo": {
+    "title": "Calculadora de Aguinaldo | MX | Runa HR",
+    "meta_description": "Utiliza esta calculadora para hacer el cálculo correcto de aguinaldo y prepárate para cierre de año en tu empresa.",
+    "canonical": "https://runahr.com/mx/recursos/nomina/calculadora-aguinaldo/"
+  },
+  "encabezados": {
+    "h1": [
+      "Calculadora de aguinaldo"
+    ],
+    "h2": [],
+    "h3": []
+  },
+  "contenido": {
+    "texto_principal": "NÓMINA Automatiza y simplifica tu nómina.",
+    "numero_palabras": 6,
+    "contenedor_principal_detectado": true,
+    "secciones": [
+      {
+        "nivel": "INTRODUCCION",
+        "encabezado": "Introducción",
+        "texto": "Automatiza y simplifica tu nómina.",
+        "palabras": 5
+      }
+    ]
+  },
+  "elementos": {
+    "tablas_html": [],
+    "faqs_visibles": [],
+    "faqs_schema": [
+      {
+        "pregunta": "¿Qué es el aguinaldo y quién tiene derecho a recibirlo?",
+        "respuesta": "<p><span style=\"font-weight: 400\">El </span><a href=\"https://runahr.com/mx/recursos/hr-management/aguinaldo/\"><span style=\"font-weight: 400\">aguinaldo</span></a><span style=\"font-weight: 400\"> es una de las </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/prestaciones-de-ley/\"><span style=\"font-weight: 400\">prestaciones de ley</span></a><span style=\"font-weight: 400\"> fija. Ya que está en la </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/ley-federal-del-trabajo-lft/\"><span style=\"font-weight: 400\">Ley Federal del Trabajo</span></a><span style=\"font-weight: 400\"> y no es negociable. ¿Quién lo recibe? Cualquier persona con </span><a href=\"https://runahr.com/mx/recursos/hr-management/relacion-laboral/\"><span style=\"font-weight: 400\">relación laboral</span></a><span style=\"font-weight: 400\"> activa. Puede ser </span><a href=\"https://runahr.com/mx/recursos/hr-management/trabajador/\"><span style=\"font-weight: 400\">trabajador</span></a><span style=\"font-weight: 400\"> de planta, medio tiempo o por contrato. Mientras esté en la </span><a href=\"https://runahr.com/mx/recursos/nomina/que-es-nomina/\"><span style=\"font-weight: 400\">nómina</span></a><span style=\"font-weight: 400\">, le toca.</span></p>"
+      },
+      {
+        "pregunta": "¿Cuánto es el aguinaldo mínimo en México?",
+        "respuesta": "<p><span style=\"font-weight: 400\">En México, el aguinaldo mínimo debe ser igual a 15 días de </span><a href=\"https://runahr.com/mx/recursos/nomina/salario/\"><span style=\"font-weight: 400\">salario</span></a><span style=\"font-weight: 400\">. Menos de eso, no se puede. Si la </span><a href=\"https://runahr.com/mx/recursos/comienza-tu-empresa/guia-para-crear-una-empresa/\"><span style=\"font-weight: 400\">empresa</span></a><span style=\"font-weight: 400\"> quiere dar más, adelante. Pero recortar esa base… No es una opción.</span></p>"
+      },
+      {
+        "pregunta": "¿Cuándo se debe pagar el aguinaldo?",
+        "respuesta": "<p><span style=\"font-weight: 400\">Hay una fecha clara: </span><a href=\"https://runahr.com/mx/recursos/nomina/aguinaldo-2025/\"><span style=\"font-weight: 400\">cuando se paga el aguinaldo</span></a><span style=\"font-weight: 400\"> debe ser el 20 de diciembre como límite. Así que antes de esa fecha debe estar pagado el aguinaldo. Si no se paga a tiempo, puede haber sanciones. Y no son nada suaves.</span></p>"
+      },
+      {
+        "pregunta": "¿Cómo se calcula el aguinaldo?",
+        "respuesta": "<p><span style=\"font-weight: 400\">El cálculo es directo. Salario diario por 15 días. Si alguien no trabajó el año completo, solo se le paga el </span><a href=\"https://runahr.com/mx/recursos/nomina/aguinaldo-proporcional/\"><span style=\"font-weight: 400\">aguinaldo proporcional</span></a><span style=\"font-weight: 400\">, según los días que estuvo activo.</span></p>"
+      },
+      {
+        "pregunta": "¿El aguinaldo paga impuestos (ISR)?",
+        "respuesta": "<p><span style=\"font-weight: 400\">Sí, pero no todo. El aguinaldo está exento de </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/calculadora-isr/\"><span style=\"font-weight: 400\">ISR</span></a><span style=\"font-weight: 400\"> hasta 30 </span><a href=\"https://runahr.com/mx/recursos/nomina/uma/\"><span style=\"font-weight: 400\">UMA</span></a><span style=\"font-weight: 400\">. Lo que pase de ahí, sí paga. Y se retiene como cualquier otro ingreso.</span></p>"
+      },
+      {
+        "pregunta": "¿Tengo derecho a aguinaldo si renuncio o me despiden?",
+        "respuesta": "<p><span style=\"font-weight: 400\">Sí. Ya sea </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/renuncia-voluntaria-lft/\"><span style=\"font-weight: 400\">renuncia voluntaria</span></a><span style=\"font-weight: 400\"> o </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/despido/\"><span style=\"font-weight: 400\">despido</span></a><span style=\"font-weight: 400\">, da igual. Si trabajó ese año, le toca su parte. El aguinaldo proporcional va dentro del </span><a href=\"https://runahr.com/mx/recursos/nomina/finiquito/\"><span style=\"font-weight: 400\">finiquito</span></a><span style=\"font-weight: 400\">. No es opcional.</span></p>"
+      },
+      {
+        "pregunta": "¿Qué pasa si la empresa no paga el aguinaldo?",
+        "respuesta": "<p><span style=\"font-weight: 400\">Pues no es menor. No pagar el aguinaldo rompe la ley. Y trae varios focos rojos:</span></p> <ul> <li style=\"font-weight: 400\"><span style=\"font-weight: 400\">Multas</span></li> <li style=\"font-weight: 400\"><span style=\"font-weight: 400\">Quejas en la </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/profedet/\"><span style=\"font-weight: 400\">PROFEDET</span></a></li> <li style=\"font-weight: 400\"><span style=\"font-weight: 400\">Y demandas, si se pone tensa la cosa</span></li> </ul> <p><span style=\"font-weight: 400\">No es algo que convenga dejar pasar.</span></p>"
+      }
+    ]
+  },
+  "schema": {
+    "tipos": [
+      "Answer",
+      "FAQPage",
+      "ImageObject",
+      "Offer",
+      "Organization",
+      "Question",
+      "WebApplication"
+    ],
+    "json_ld": [
+      [
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebApplication",
+          "@id": "https://runahr.com/mx/recursos/nomina/calculadora-aguinaldo/#webapplication",
+          "url": "https://runahr.com/mx/recursos/nomina/calculadora-aguinaldo/",
+          "inLanguage": "es",
+          "mainEntityOfPage": "https://runahr.com/mx/recursos/nomina/calculadora-aguinaldo/",
+          "description": "Utiliza esta calculadora para hacer el cálculo correcto de aguinaldo y prepárate para cierre de año en tu empresa.",
+          "datePublished": "2024-01-08T07:33:15-06:00",
+          "dateModified": "2026-04-15T07:31:27-06:00",
+          "author": {
+            "@type": "Organization",
+            "name": "Runa HR",
+            "url": "https://runahr.com/"
+          },
+          "keywords": "Aguinaldo, Calculadora, Nómina, ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Runa HR",
+            "url": "https://runahr.com/mx/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://runahr.com/wp-content/uploads/2021/05/logo.svg",
+              "width": 102,
+              "height": 64
+            }
+          },
+          "image": [
+            {
+              "@type": "ImageObject",
+              "@id": "https://runahr.com/mx/recursos/nomina/calculadora-aguinaldo/#primaryimage",
+              "url": "https://runahr.com/wp-content/uploads/2024/01/calculadora-de-aguinaldo-1-scaled.png",
+              "width": "2560",
+              "height": "1116",
+              "caption": "Thumbnail calculadora de aguinaldo"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://runahr.com/wp-content/uploads/2024/01/calculadora-de-aguinaldo-1-scaled-1200x900.png",
+              "width": "1200",
+              "height": "900",
+              "caption": "Thumbnail calculadora de aguinaldo"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://runahr.com/wp-content/uploads/2024/01/calculadora-de-aguinaldo-1-scaled-1200x675.png",
+              "width": "1200",
+              "height": "675",
+              "caption": "Thumbnail calculadora de aguinaldo"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://runahr.com/wp-content/uploads/2024/01/calculadora-de-aguinaldo-1-scaled-1116x1116.png",
+              "width": "1116",
+              "height": "1116",
+              "caption": "Thumbnail calculadora de aguinaldo"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "https://runahr.com/wp-content/uploads/2024/01/New_Ad_illustrations-04-1024x760.png",
+              "width": 1024,
+              "height": 760
+            }
+          ],
+          "name": "Calculadora de aguinaldo",
+          "applicationCategory": "FinanceApplication",
+          "operatingSystem": "Any",
+          "browserRequirements": "Requires JavaScript",
+          "isAccessibleForFree": true,
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "MXN"
+          }
+        }
+      ],
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Qué es el aguinaldo y quién tiene derecho a recibirlo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p><span style=\"font-weight: 400\">El </span><a href=\"https://runahr.com/mx/recursos/hr-management/aguinaldo/\"><span style=\"font-weight: 400\">aguinaldo</span></a><span style=\"font-weight: 400\"> es una de las </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/prestaciones-de-ley/\"><span style=\"font-weight: 400\">prestaciones de ley</span></a><span style=\"font-weight: 400\"> fija. Ya que está en la </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/ley-federal-del-trabajo-lft/\"><span style=\"font-weight: 400\">Ley Federal del Trabajo</span></a><span style=\"font-weight: 400\"> y no es negociable. ¿Quién lo recibe? Cualquier persona con </span><a href=\"https://runahr.com/mx/recursos/hr-management/relacion-laboral/\"><span style=\"font-weight: 400\">relación laboral</span></a><span style=\"font-weight: 400\"> activa. Puede ser </span><a href=\"https://runahr.com/mx/recursos/hr-management/trabajador/\"><span style=\"font-weight: 400\">trabajador</span></a><span style=\"font-weight: 400\"> de planta, medio tiempo o por contrato. Mientras esté en la </span><a href=\"https://runahr.com/mx/recursos/nomina/que-es-nomina/\"><span style=\"font-weight: 400\">nómina</span></a><span style=\"font-weight: 400\">, le toca.</span></p>\n"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto es el aguinaldo mínimo en México?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p><span style=\"font-weight: 400\">En México, el aguinaldo mínimo debe ser igual a 15 días de </span><a href=\"https://runahr.com/mx/recursos/nomina/salario/\"><span style=\"font-weight: 400\">salario</span></a><span style=\"font-weight: 400\">. Menos de eso, no se puede. Si la </span><a href=\"https://runahr.com/mx/recursos/comienza-tu-empresa/guia-para-crear-una-empresa/\"><span style=\"font-weight: 400\">empresa</span></a><span style=\"font-weight: 400\"> quiere dar más, adelante. Pero recortar esa base… No es una opción.</span></p>\n"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuándo se debe pagar el aguinaldo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p><span style=\"font-weight: 400\">Hay una fecha clara: </span><a href=\"https://runahr.com/mx/recursos/nomina/aguinaldo-2025/\"><span style=\"font-weight: 400\">cuando se paga el aguinaldo</span></a><span style=\"font-weight: 400\"> debe ser el 20 de diciembre como límite. Así que antes de esa fecha debe estar pagado el aguinaldo. Si no se paga a tiempo, puede haber sanciones. Y no son nada suaves.</span></p>\n"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo se calcula el aguinaldo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p><span style=\"font-weight: 400\">El cálculo es directo. Salario diario por 15 días. Si alguien no trabajó el año completo, solo se le paga el </span><a href=\"https://runahr.com/mx/recursos/nomina/aguinaldo-proporcional/\"><span style=\"font-weight: 400\">aguinaldo proporcional</span></a><span style=\"font-weight: 400\">, según los días que estuvo activo.</span></p>\n"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿El aguinaldo paga impuestos (ISR)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p><span style=\"font-weight: 400\">Sí, pero no todo. El aguinaldo está exento de </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/calculadora-isr/\"><span style=\"font-weight: 400\">ISR</span></a><span style=\"font-weight: 400\"> hasta 30 </span><a href=\"https://runahr.com/mx/recursos/nomina/uma/\"><span style=\"font-weight: 400\">UMA</span></a><span style=\"font-weight: 400\">. Lo que pase de ahí, sí paga. Y se retiene como cualquier otro ingreso.</span></p>\n"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tengo derecho a aguinaldo si renuncio o me despiden?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p><span style=\"font-weight: 400\">Sí. Ya sea </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/renuncia-voluntaria-lft/\"><span style=\"font-weight: 400\">renuncia voluntaria</span></a><span style=\"font-weight: 400\"> o </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/despido/\"><span style=\"font-weight: 400\">despido</span></a><span style=\"font-weight: 400\">, da igual. Si trabajó ese año, le toca su parte. El aguinaldo proporcional va dentro del </span><a href=\"https://runahr.com/mx/recursos/nomina/finiquito/\"><span style=\"font-weight: 400\">finiquito</span></a><span style=\"font-weight: 400\">. No es opcional.</span></p>\n"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué pasa si la empresa no paga el aguinaldo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p><span style=\"font-weight: 400\">Pues no es menor. No pagar el aguinaldo rompe la ley. Y trae varios focos rojos:</span></p>\n<ul>\n<li style=\"font-weight: 400\"><span style=\"font-weight: 400\">Multas</span></li>\n<li style=\"font-weight: 400\"><span style=\"font-weight: 400\">Quejas en la </span><a href=\"https://runahr.com/mx/recursos/aspectos-legales/profedet/\"><span style=\"font-weight: 400\">PROFEDET</span></a></li>\n<li style=\"font-weight: 400\"><span style=\"font-weight: 400\">Y demandas, si se pone tensa la cosa</span></li>\n</ul>\n<p><span style=\"font-weight: 400\">No es algo que convenga dejar pasar.</span></p>\n"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "rendimiento_basico": {
+    "load_ms": 1126,
+    "html_bytes": 655113
+  },
+  "renderizado_js": true,
+  "validacion_contenido": {
+    "http_200": true,
+    "contenido_valido": false,
+    "contenido_insuficiente": true,
+    "clasificacion": "revisar",
+    "motivos": [
+      "Sólo se extrajeron 6 palabras; requiere revisión y no entra a competidores válidos."
+    ]
+  },
+  "archivos_evidencia": {}
+}

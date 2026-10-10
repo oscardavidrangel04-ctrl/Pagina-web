@@ -1,0 +1,69 @@
+{
+  "keyword": "calcular salario por hora",
+  "posicion": 4,
+  "es_url_propia": false,
+  "url": "http://cosmonauta.mx/toolbox/precioporhora.html",
+  "dominio": "cosmonauta.mx",
+  "estado_http": 200,
+  "fecha_scrape": "2026-10-10T05:58:22.155050+00:00",
+  "seo": {
+    "title": "Calculadora de precio de hora de trabajo | Cosmonauta – Digital By Default",
+    "meta_description": "Calculadora de precio de hora de trabajo",
+    "canonical": null
+  },
+  "encabezados": {
+    "h1": [
+      ""
+    ],
+    "h2": [],
+    "h3": [
+      "Responde 6 preguntas y descúbrelo."
+    ]
+  },
+  "contenido": {
+    "texto_principal": "¿Sabes cuánto cobrar por una hora de tus servicios? Responde 6 preguntas y descúbrelo. ¿Cuánto te gustaría ganar al mes? Además de los fines de semana, ¿cuántos días libres quieres tener al año? A veces nos enfermamos, ¿cuántos días por enfermedad prevés tomar al año? ¿Qué porcentaje de tu tiempo utilizas en juntas, cotizaciones, etc.? ¿Cuáles son tus gastos fijos mensuales? Total: 0 Tu trabajo es muy valioso, ¿qué porcentaje mereces de ganancia? Tu hora de trabajo vale: $0.00 Necesitas vender $0.00 al mes para ser rentable Ve todo el procedimiento aquí Para calcular el precio por hora para un salario de: $0.00 hacemos lo siguiente: Calculamos tu salario anual: Salario mensual × 12.5 meses ( 12 meses + días de aguinaldo. ) $0.00 × 12.5 = $0.00 Encontramos tu costo básico por hora: Salario anual ÷ 2,080 horas posibles ( 8 horas × 5 días × 52 semanas ) $0.00 ÷ 2,080 = $0.00 Sumamos el costo de las horas que no trabajarás: 0 días feriados × 8 hs. = 0 hs. + 0 días de vacaciones × 8 = 0 hs. + Prima vacacional ( Calculada al 25% ) hs. + 0 días de incapacidad × 8 hs. = 0 hs. 0 hs. × $0.00 de costo básico = $0.00 Calculamos el costo del tiempo que dedicas a cotizaciones y juntas (tiempo administrativo): 0% (2,080 hs. posibles - 0 horas que no trabajarás) × $0.00 costo básico. 0% × 2,080 hs. × $0.00 = $0.00 Calculamos el total de tus gastos fijos: Renta mensual: $0.00 + Servicios mensuales: $0.00 + Papelería mensual: $0.00 + Otros gastos fijos mensuales: $0.00 Gastos fijos mensuales $0.00 × 12 meses = $0.00 fijos anuales Sumamos el costo de las horas que no trabajas más el costo del tiempo de administración y el de los gastos fijos para obtener el costo extra anual por tu trabajo. $0.00 + $0.00 + $0.00 = $0.00 de costo extra anual Ahora calculamos lo que ganarás al año: 2,080 hs. posibles al año - 0 hs. de vacaciones, feriado e incapacidad - 0 hs. de juntas cotizaciones × $0.00 costo básico 2,080 horas de diseño × $0.00 = $0.00 de ganancia anual. Calculamos el porcentaje de rentabilidad dividiendo el costo entre la ganancia: $0.00 ÷ $0.00 = 0% Por último para calcular la hora de diseño sumamos el porcentaje de rentabilidad y el porcentaje de utilidad a nuestro costo básico: $0.00 + $0.00 × 0% + $0.00 × 0% = $0.00 por hora de diseño.",
+    "numero_palabras": 406,
+    "contenedor_principal_detectado": false,
+    "secciones": [
+      {
+        "nivel": "INTRODUCCION",
+        "encabezado": "Introducción",
+        "texto": "¿Sabes cuánto cobrar por una hora de tus servicios? Responde 6 preguntas y descúbrelo.",
+        "palabras": 14
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Responde 6 preguntas y descúbrelo.",
+        "texto": "¿Cuánto te gustaría ganar al mes? Además de los fines de semana, ¿cuántos días libres quieres tener al año? A veces nos enfermamos, ¿cuántos días por enfermedad prevés tomar al año? ¿Qué porcentaje de tu tiempo utilizas en juntas, cotizaciones, etc.? ¿Cuáles son tus gastos fijos mensuales? Total: 0 Tu trabajo es muy valioso, ¿qué porcentaje mereces de ganancia? Tu hora de trabajo vale: $0.00 Necesitas vender $0.00 al mes para ser rentable Ve todo el procedimiento aquí Para calcular el precio por hora para un salario de: $0.00 hacemos lo siguiente: Calculamos tu salario anual: Salario mensual × 12.5 meses ( 12 meses + días de aguinaldo. ) $0.00 × 12.5 = $0.00 Encontramos tu costo básico por hora: Salario anual ÷ 2,080 horas posibles ( 8 horas × 5 días × 52 semanas ) $0.00 ÷ 2,080 = $0.00 Sumamos el costo de las horas que no trabajarás: 0 días feriados × 8 hs. = 0 hs. + 0 días de vacaciones × 8 = 0 hs. + Prima vacacional ( Calculada al 25% ) hs. + 0 días de incapacidad × 8 hs. = 0 hs. 0 hs. × $0.00 de costo básico = $0.00 Calculamos el costo del tiempo que dedicas a cotizaciones y juntas (tiempo administrativo): 0% (2,080 hs. posibles - 0 horas que no trabajarás) × $0.00 costo básico. 0% × 2,080 hs. × $0.00 = $0.00 Calculamos el total de tus gastos fijos: Renta mensual: $0.00 + Servicios mensuales: $0.00 + Papelería mensual: $0.00 + Otros gastos fijos mensuales: $0.00 Gastos fijos mensuales $0.00 × 12 meses = $0.00 fijos anuales Sumamos el costo de las horas que no trabajas más el costo del tiempo de administración y el de los gastos fijos para obtener el costo extra anual por tu trabajo. $0.00 + $0.00 + $0.00 = $0.00 de costo extra anual Ahora calculamos lo que ganarás al año: 2,080 hs. posibles al año - 0 hs. de vacaciones, feriado e incapacidad - 0 hs. de juntas cotizaciones × $0.00 costo básico 2,080 horas de diseño × $0.00 = $0.00 de ganancia anual. Calculamos el porcentaje de rentabilidad dividiendo el costo entre la ganancia: $0.00 ÷ $0.00 = 0% Por último para calcular la hora de diseño sumamos el porcentaje de rentabilidad y el porcentaje de utilidad a nuestro costo básico: $0.00 + $0.00 × 0% + $0.00 × 0% = $0.00 por hora de diseño.",
+        "palabras": 392
+      }
+    ]
+  },
+  "elementos": {
+    "tablas_html": [],
+    "faqs_visibles": [],
+    "faqs_schema": []
+  },
+  "schema": {
+    "tipos": [],
+    "json_ld": []
+  },
+  "rendimiento_basico": {
+    "load_ms": 2328,
+    "html_bytes": 27456
+  },
+  "renderizado_js": true,
+  "validacion_contenido": {
+    "http_200": true,
+    "contenido_valido": true,
+    "contenido_insuficiente": false,
+    "clasificacion": "valido",
+    "motivos": [
+      "Se usó un contenedor principal alternativo (sin <main>/<article>)."
+    ]
+  },
+  "archivos_evidencia": {
+    "html": "04_cosmonauta_mx.html",
+    "captura": "04_cosmonauta_mx.png"
+  }
+}

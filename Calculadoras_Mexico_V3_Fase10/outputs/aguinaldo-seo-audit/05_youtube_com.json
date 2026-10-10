@@ -1,0 +1,59 @@
+{
+  "keyword": "calculadora de aguinaldo",
+  "posicion": 4,
+  "es_url_propia": false,
+  "url": "https://www.youtube.com/watch?v=nclvhf8Ax3Q",
+  "dominio": "youtube.com",
+  "estado_http": 200,
+  "fecha_scrape": "2026-10-10T05:31:51.949416+00:00",
+  "seo": {
+    "title": "YouTube",
+    "meta_description": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+    "canonical": "https://www.youtube.com/undefined"
+  },
+  "encabezados": {
+    "h1": [
+      "",
+      ""
+    ],
+    "h2": [],
+    "h3": []
+  },
+  "contenido": {
+    "texto_principal": "Este video ya no está disponible VOLVER A LA PÁGINA PRINCIPAL Video no disponible Este video no está disponible. NaN / NaN Mostrar más",
+    "numero_palabras": 23,
+    "contenedor_principal_detectado": true,
+    "secciones": [
+      {
+        "nivel": "INTRODUCCION",
+        "encabezado": "Introducción",
+        "texto": "Este video ya no está disponible VOLVER A LA PÁGINA PRINCIPAL Video no disponible Este video no está disponible. VideonodisponibleEstevideonoestádisponible. NaN / NaN Mostrar más",
+        "palabras": 24
+      }
+    ]
+  },
+  "elementos": {
+    "tablas_html": [],
+    "faqs_visibles": [],
+    "faqs_schema": []
+  },
+  "schema": {
+    "tipos": [],
+    "json_ld": []
+  },
+  "rendimiento_basico": {
+    "load_ms": 1801,
+    "html_bytes": 1053180
+  },
+  "renderizado_js": true,
+  "validacion_contenido": {
+    "http_200": true,
+    "contenido_valido": false,
+    "contenido_insuficiente": true,
+    "clasificacion": "revisar",
+    "motivos": [
+      "Sólo se extrajeron 23 palabras; requiere revisión y no entra a competidores válidos."
+    ]
+  },
+  "archivos_evidencia": {}
+}

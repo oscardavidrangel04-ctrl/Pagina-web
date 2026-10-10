@@ -1,0 +1,203 @@
+{
+  "keyword": "calculadora de aguinaldo",
+  "posicion": 5,
+  "es_url_propia": false,
+  "url": "https://mexicanpeoplehr.com/calculadora/aguinaldo",
+  "dominio": "mexicanpeoplehr.com",
+  "estado_http": 200,
+  "fecha_scrape": "2026-10-10T05:31:57.783167+00:00",
+  "seo": {
+    "title": "Agencia de Reclutamiento #1 en México | Mexican People HR",
+    "meta_description": "Calcula tu aguinaldo proporcional con la parte exenta de 30 UMA y el ISR sobre la parte gravable. Conforme a la LFT y al SAT 2026.",
+    "canonical": "https://mexicanpeoplehr.com/calculadora/aguinaldo"
+  },
+  "encabezados": {
+    "h1": [
+      "Calculadora de Aguinaldo 2026"
+    ],
+    "h2": [],
+    "h3": [
+      "Detalle del cálculo"
+    ]
+  },
+  "contenido": {
+    "texto_principal": "Herramienta gratuita Calculadora de Aguinaldo 2026 Calcula tu aguinaldo proporcional con la parte exenta de 30 UMA y el ISR aplicable sobre la parte gravable. Nómina Finiquito Aguinaldo Calcula tu aguinaldo proporcional con la parte exenta de 30 UMA y el ISR aplicable sobre la parte gravable. Calcular Bruto → Neto Neto → Bruto Fecha inicial * Fecha final * Período * Diario Semanal Decenal Quincenal Mensual Sueldo bruto mensual (MXN) * $ Régimen de pago * Sueldos y salarios Asimilados a salarios Honorarios Incluir IMSS Incluir subsidio al empleo Calcular nómina Fecha de ingreso * Fecha de baja * Sueldo bruto mensual (MXN) * $ Días de aguinaldo * Prima vacacional (%) * Incluir 3 meses (despido injustificado) Incluir prima de antigüedad (15+ años) Calcular finiquito Fecha de ingreso * Año de cálculo * 2026 2025 Sueldo bruto mensual (MXN) * $ Días de aguinaldo * Calcular aguinaldo Detalle del cálculo Sueldo bruto mensual $ 0.00 MXN Límite inferior ⓘ $ 0.00 MXN Excedente del límite inferior $ 0.00 MXN % sobre el excedente $ 0.00 MXN Impuesto marginal $ 0.00 MXN Cuota fija del impuesto $ 0.00 MXN ISR de la tarifa $ 0.00 MXN Subsidio al empleo aplicado $ 0.00 MXN ISR neto $ 0.00 MXN IMSS (cuota obrera) $ 0.00 MXN Salario diario $ 0.00 MXN Días trabajados no pagados $ 0.00 MXN Vacaciones proporcionales $ 0.00 MXN Prima vacacional $ 0.00 MXN Aguinaldo proporcional $ 0.00 MXN 3 meses de salario $ 0.00 MXN Prima de antigüedad $ 0.00 MXN ISR retenido $ 0.00 MXN Salario diario $ 0.00 MXN Días de aguinaldo 0 Días trabajados en el año 0 Aguinaldo bruto $ 0.00 MXN Parte exenta (30 UMA) ⓘ $ 0.00 MXN Parte gravable $ 0.00 MXN ISR retenido $ 0.00 MXN Total $ 0.00 MXN Aviso: Esta calculadora utiliza las tablas de ISR 2026 y UMA vigentes para 2026 ($117.31). Los resultados son orientativos. Para cálculos oficiales consulta con un contador o RH certificado. ¿Necesitas administración de nómina profesional? Conoce nuestro servicio de Staffing .",
+    "numero_palabras": 319,
+    "contenedor_principal_detectado": true,
+    "secciones": [
+      {
+        "nivel": "INTRODUCCION",
+        "encabezado": "Introducción",
+        "texto": "Herramienta gratuita Calculadora de Aguinaldo 2026 Calcula tu aguinaldo proporcional con la parte exenta de 30 UMA y el ISR aplicable sobre la parte gravable. Nómina Finiquito Aguinaldo Calcular Bruto → Neto Neto → Bruto Fecha inicial * Fecha final * Período * Diario Semanal Decenal Quincenal Mensual Sueldo bruto mensual (MXN) * $ Régimen de pago * Sueldos y salarios Asimilados a salarios Honorarios Incluir IMSS Incluir subsidio al empleo Calcular nómina Fecha de ingreso * Fecha de baja * Sueldo bruto mensual (MXN) * $ Días de aguinaldo * Prima vacacional (%) * Incluir 3 meses (despido injustificado) Incluir prima de antigüedad (15+ años) Calcular finiquito Fecha de ingreso * Año de cálculo * 2026 2025 Sueldo bruto mensual (MXN) * $ Días de aguinaldo * Calcular aguinaldo Detalle del cálculo",
+        "palabras": 113
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "Detalle del cálculo",
+        "texto": "$ 0.00 MXN Sueldo bruto mensual Límite inferior ⓘ Excedente del límite inferior % sobre el excedente Impuesto marginal Cuota fija del impuesto ISR de la tarifa Subsidio al empleo aplicado ISR neto IMSS (cuota obrera) Salario diario Días trabajados no pagados Vacaciones proporcionales Prima vacacional Aguinaldo proporcional 3 meses de salario Prima de antigüedad ISR retenido Días de aguinaldo Días trabajados en el año Aguinaldo bruto Parte exenta (30 UMA) ⓘ Parte gravable Total $ 0.00 MXN Aviso: Esta calculadora utiliza las tablas de ISR 2026 y UMA vigentes para 2026 ($117.31). Los resultados son orientativos. Para cálculos oficiales consulta con un contador o RH certificado. ¿Necesitas administración de nómina profesional? Conoce nuestro servicio de Staffing .",
+        "palabras": 115
+      }
+    ]
+  },
+  "elementos": {
+    "tablas_html": [],
+    "faqs_visibles": [],
+    "faqs_schema": []
+  },
+  "schema": {
+    "tipos": [
+      "AggregateRating",
+      "BreadcrumbList",
+      "EmploymentAgency",
+      "ListItem",
+      "Offer",
+      "OfferCatalog",
+      "PostalAddress",
+      "QuantitativeValue",
+      "WebApplication"
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "EmploymentAgency",
+        "@id": "https://mexicanpeoplehr.com#organization",
+        "name": "Mexican People Human Resources",
+        "legalName": "Conecta al Campo, S.A. de C.V.",
+        "alternateName": [
+          "MPHR",
+          "Mexican People HR"
+        ],
+        "url": "https://mexicanpeoplehr.com",
+        "logo": "https://mexicanpeoplehr.com/logo_mphr/mphr_logo_dark.svg",
+        "image": "https://mexicanpeoplehr.com/favicon/og-share.png",
+        "description": "Agencia líder en reclutamiento permanente, staffing, headhunting y selección de talento en México y Latinoamérica con más de 16 años de experiencia.",
+        "telephone": "+52-55-1199-2987",
+        "email": "contacto@mexicanpeoplehr.com",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "MX",
+          "addressLocality": "Ciudad de México"
+        },
+        "areaServed": [
+          "MX",
+          "CO",
+          "GT",
+          "EC",
+          "SV",
+          "PE",
+          "US"
+        ],
+        "foundingDate": "2008",
+        "numberOfEmployees": {
+          "@type": "QuantitativeValue",
+          "value": 150
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "312",
+          "bestRating": "5"
+        },
+        "sameAs": [
+          "https://www.linkedin.com/company/mexican-people-hr/",
+          "https://www.facebook.com/MexicanPeopleHR/",
+          "https://www.instagram.com/mexicanpeoplehr/"
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Servicios de Reclutamiento",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "name": "Reclutamiento Permanente",
+              "url": "https://mexicanpeoplehr.com/agencia-de-reclutamiento"
+            },
+            {
+              "@type": "Offer",
+              "name": "Staffing Empresarial",
+              "url": "https://mexicanpeoplehr.com/staffing"
+            },
+            {
+              "@type": "Offer",
+              "name": "Reclutamiento Temporal",
+              "url": "https://mexicanpeoplehr.com/agencia-de-personal"
+            },
+            {
+              "@type": "Offer",
+              "name": "Promotoría",
+              "url": "https://mexicanpeoplehr.com/promotoria"
+            },
+            {
+              "@type": "Offer",
+              "name": "Capacitación de Personal",
+              "url": "https://mexicanpeoplehr.com/capacitacion-de-personal"
+            }
+          ]
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "@id": "https://mexicanpeoplehr.com/calculadora/aguinaldo#webapp",
+        "url": "https://mexicanpeoplehr.com/calculadora/aguinaldo",
+        "name": "Calculadora de Aguinaldo 2026",
+        "description": "Calcula tu aguinaldo proporcional con la parte exenta de 30 UMA y el ISR sobre la parte gravable. Conforme a la LFT y al SAT 2026.",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Any",
+        "inLanguage": "es-MX",
+        "isAccessibleForFree": true,
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "MXN"
+        },
+        "publisher": {
+          "@id": "https://mexicanpeoplehr.com#organization"
+        },
+        "dateModified": "2026-05-14T00:00:00-06:00"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://mexicanpeoplehr.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Calculadoras",
+            "item": "https://mexicanpeoplehr.com/calculadora/nomina"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Aguinaldo",
+            "item": "https://mexicanpeoplehr.com/calculadora/aguinaldo"
+          }
+        ]
+      }
+    ]
+  },
+  "rendimiento_basico": {
+    "load_ms": 1712,
+    "html_bytes": 178010
+  },
+  "renderizado_js": true,
+  "validacion_contenido": {
+    "http_200": true,
+    "contenido_valido": true,
+    "contenido_insuficiente": false,
+    "clasificacion": "valido",
+    "motivos": [
+      "HTTP 200 y contenido utilizable para el análisis."
+    ]
+  },
+  "archivos_evidencia": {
+    "html": "06_mexicanpeoplehr_com.html",
+    "captura": "06_mexicanpeoplehr_com.png"
+  }
+}

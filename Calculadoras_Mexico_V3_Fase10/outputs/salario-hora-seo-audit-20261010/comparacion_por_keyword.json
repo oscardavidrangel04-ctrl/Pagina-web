@@ -1,0 +1,457 @@
+{
+  "calcular salario por hora": {
+    "url_propia": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html",
+    "url_propia_valida": true,
+    "competidores_validos": 8,
+    "urls_competidoras": [
+      "https://es.talent.com/convert",
+      "https://joinotto.com/es/calculator/salary-to-hourly",
+      "http://cosmonauta.mx/toolbox/precioporhora.html",
+      "https://calculadora-sueldo.com/",
+      "https://i24app.com/mx/hourly-paycheck-calculator",
+      "https://i24app.com/mx/hourly-paycheck-calculator/estado_de_mexico",
+      "https://nominax.com/calculadora-de-sueldo-neto/",
+      "https://tools.softonic.com/salary-calculator"
+    ],
+    "matriz_temas": [
+      {
+        "tema": "Detalle de sueldo neto",
+        "competidores_que_lo_cubren": 4,
+        "promedio_palabras_competidores": 250,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Preguntas frecuentes sobre la calculadora de salario a hora",
+        "competidores_que_lo_cubren": 4,
+        "promedio_palabras_competidores": 212,
+        "mi_seccion": "Qué puedes calcular sobre salario por hora",
+        "mis_palabras": 53,
+        "recomendacion": "Ampliar sección"
+      },
+      {
+        "tema": "Cómo Funcionan el ISR, las Cuotas IMSS y el Costo Patronal en México",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 208,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Detalles que Sorprenden a los Patrones Extranjeros",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 438,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Estado",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 765,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Horas Extra Dobles y Triples: La Regla que Sorprende a Muchos Patrones",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 217,
+        "mi_seccion": "Horas extra",
+        "mis_palabras": 8,
+        "recomendacion": "Ampliar sección"
+      },
+      {
+        "tema": "Lo Que Realmente Cuesta un Trabajador: Cuotas Patronales, INFONAVIT, Aguinaldo y Prima Vacacional",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 130,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿3500 € mensual es cuánto a la hora?",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 454,
+        "mi_seccion": "Referencias de sueldo mensual a pago por hora",
+        "mis_palabras": 86,
+        "recomendacion": "Ampliar sección"
+      },
+      {
+        "tema": "¿Puedo convertir pago por hora a salario anual con esta calculadora?",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 24,
+        "mi_seccion": "Cómo usar la calculadora de salario por hora",
+        "mis_palabras": 16,
+        "recomendacion": "Ampliar sección"
+      },
+      {
+        "tema": "Calculadora UDI",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 14,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Calculadora de Fracciones",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 34,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Calculadora de edad",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 30,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Calculadora de finiquito o liquidación",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 10,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Compara los resultados",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 19,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Conoce nuestras calculadoras virtuales y realiza todos los cálculos que necesites para tu nómina",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 2,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Consejos",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 76,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Contador de dinero",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 37,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Convertidor de Días a Meses",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 25,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Convertidor de millas a kilómetros",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 23,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Cálculadora Infonavit",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 8,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Cálculo de cuota IMSS",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 4,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Cómo convertir entre periodos de pago",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 7,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Cómo funcionan realmente las conversiones de salario",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 249,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Datos de Referencia 2025",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 3,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Datos del empleado:",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 24,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Deducciones:",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 9,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Define tu jornada",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 28,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Elige una divisa",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 16,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Fuentes Oficiales",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 54,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Herramienta disponible en otros idiomas",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 53,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Herramientas relacionadas",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 215,
+        "mi_seccion": "Herramientas relacionadas con salario por hora",
+        "mis_palabras": 53,
+        "recomendacion": "Ampliar sección"
+      },
+      {
+        "tema": "Introduce el importe y su unidad",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 17,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Las fórmulas básicas",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 43,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Neto a pagar:",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 259,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "No olvides tomar en cuenta:",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 137,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Otras Calculadoras Financieras",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 41,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Percepciones:",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 8,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Quincenal frente a bimensual",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 38,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Responde 6 preguntas y descúbrelo.",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 392,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Salario Mínimo General",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 11,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Tope IMSS",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 6,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "UMA 2025",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 9,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Cómo calculo mi tarifa por hora a partir de mi salario?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 44,
+        "mi_seccion": "Cómo usar la calculadora de salario por hora",
+        "mis_palabras": 16,
+        "recomendacion": "Ampliar sección"
+      },
+      {
+        "tema": "¿Esta calculadora incluye horas extra o bonos?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 45,
+        "mi_seccion": "Horas extra",
+        "mis_palabras": 8,
+        "recomendacion": "Ampliar sección"
+      },
+      {
+        "tema": "¿La calculadora es gratis?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 28,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿La calculadora sirve para jornadas de medio tiempo?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 32,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Por qué es importante conocer tu pago por hora a partir del salario?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 40,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Qué tan precisos son los cálculos?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 38,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      }
+    ],
+    "comparacion_mi_url": {
+      "secciones_faltantes": [
+        "¿Por qué es importante conocer tu pago por hora a partir del salario?",
+        "¿La calculadora sirve para jornadas de medio tiempo?",
+        "¿La calculadora es gratis?",
+        "¿Qué tan precisos son los cálculos?",
+        "Responde 6 preguntas y descúbrelo.",
+        "Detalle de sueldo neto",
+        "Datos de Referencia 2025",
+        "Salario Mínimo General",
+        "UMA 2025",
+        "Tope IMSS",
+        "Fuentes Oficiales",
+        "Otras Calculadoras Financieras",
+        "Calculadora UDI",
+        "Estado",
+        "Cómo Funcionan el ISR, las Cuotas IMSS y el Costo Patronal en México",
+        "Lo Que Realmente Cuesta un Trabajador: Cuotas Patronales, INFONAVIT, Aguinaldo y Prima Vacacional",
+        "Detalles que Sorprenden a los Patrones Extranjeros",
+        "Datos del empleado:",
+        "Deducciones:",
+        "Percepciones:",
+        "Neto a pagar:",
+        "No olvides tomar en cuenta:",
+        "Conoce nuestras calculadoras virtuales y realiza todos los cálculos que necesites para tu nómina",
+        "Cálculadora Infonavit",
+        "Calculadora de finiquito o liquidación",
+        "Cálculo de cuota IMSS",
+        "Cómo convertir entre periodos de pago",
+        "Introduce el importe y su unidad",
+        "Define tu jornada",
+        "Elige una divisa",
+        "Compara los resultados",
+        "Cómo funcionan realmente las conversiones de salario",
+        "Las fórmulas básicas",
+        "Quincenal frente a bimensual",
+        "Consejos",
+        "Convertidor de millas a kilómetros",
+        "Convertidor de Días a Meses",
+        "Calculadora de edad",
+        "Calculadora de Fracciones",
+        "Contador de dinero",
+        "Herramienta disponible en otros idiomas"
+      ],
+      "secciones_cortas": [
+        "¿3500 € mensual es cuánto a la hora?",
+        "Preguntas frecuentes sobre la calculadora de salario a hora",
+        "¿Cómo calculo mi tarifa por hora a partir de mi salario?",
+        "¿Puedo convertir pago por hora a salario anual con esta calculadora?",
+        "¿Esta calculadora incluye horas extra o bonos?",
+        "Horas Extra Dobles y Triples: La Regla que Sorprende a Muchos Patrones",
+        "Herramientas relacionadas"
+      ]
+    }
+  }
+}

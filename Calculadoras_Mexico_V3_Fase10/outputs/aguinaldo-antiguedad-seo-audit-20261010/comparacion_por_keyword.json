@@ -1,0 +1,563 @@
+{
+  "cuánto me toca de aguinaldo": {
+    "url_propia": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-antiguedad.html",
+    "url_propia_valida": true,
+    "competidores_validos": 7,
+    "urls_competidoras": [
+      "https://nominax.com/calculadora-de-aguinaldo/",
+      "https://www.bbva.mx/educacion-financiera/blog/como-se-calcula-el-aguinaldo.html",
+      "https://novacard.mx/blog/calculadora-de-aguinaldo",
+      "https://vozlaboral.mx/blog/aguinaldo/",
+      "https://www.bbva.mx/educacion-financiera/temporalidad/aguinaldo/cuanto-me-toca-de-aguinaldo-segun-mi-antiguedad.html",
+      "https://mx.indeed.com/orientacion-profesional/pago-salario/como-calcular-el-aguinaldo",
+      "https://www.buk.mx/recursos/calculadora/calculadora-de-aguinaldo"
+    ],
+    "matriz_temas": [
+      {
+        "tema": "¿En qué consiste el cálculo de aguinaldo ?",
+        "competidores_que_lo_cubren": 7,
+        "promedio_palabras_competidores": 235,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Conoce cómo utilizar la Calculadora de aguinaldo",
+        "competidores_que_lo_cubren": 5,
+        "promedio_palabras_competidores": 166,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Calcula tu aguinaldo",
+        "competidores_que_lo_cubren": 4,
+        "promedio_palabras_competidores": 67,
+        "mi_seccion": "Calcula tu aguinaldo con los días que realmente te corresponden",
+        "mis_palabras": 24,
+        "recomendacion": "Ampliar sección"
+      },
+      {
+        "tema": "¿Cuánto te corresponde de aguinaldo?",
+        "competidores_que_lo_cubren": 4,
+        "promedio_palabras_competidores": 170,
+        "mi_seccion": "¿Cuánto me toca de aguinaldo por un año?",
+        "mis_palabras": 21,
+        "recomendacion": "Ampliar sección"
+      },
+      {
+        "tema": "Consejos para aprovechar tu aguinaldo",
+        "competidores_que_lo_cubren": 3,
+        "promedio_palabras_competidores": 389,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Cuándo se paga el aguinaldo en México?",
+        "competidores_que_lo_cubren": 3,
+        "promedio_palabras_competidores": 24,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Artículos relacionados",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 7,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Qué hacer si tu aguinaldo llega incompleto o tarde",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 220,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Qué son los beneficios sociales",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 16,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Cómo calcular el aguinaldo proporcional?",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 80,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Los trabajadores del sector público reciben aguinaldo igual que en el sector privado?",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 92,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Los trabajadores eventuales o por honorarios tienen derecho a aguinaldo?",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 356,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Qué es un contracargo y cómo funciona?",
+        "competidores_que_lo_cubren": 2,
+        "promedio_palabras_competidores": 36,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "ASPECTOS CLAVE:",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 102,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Aguinaldo de los empleados públicos",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 36,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Avanza iniciativa de aumento a 30 días de aguinaldo",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 27,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Calculadora de finiquito o liquidación",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 6,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Calculadora de presupuesto anual",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 12,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Conoce nuestras calculadoras virtuales y realiza todos los cálculos que necesites para tu nómina",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 4,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Consolidar deudas en México: guía completa 2026",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 101,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Crea un lugar de trabajo más feliz",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 4,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Cuánto se paga",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 13,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Cálculadora de sueldo neto",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 10,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Cálculo de cuota IMSS",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 8,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Cómo hablar del salario en una entrevista laboral",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 100,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Cómo sacar una tarjeta de débito en México: guía paso a paso",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 9,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Datos del empleado:",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 49,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Descarga tu Guía Anti-Deudas + Kit de Control",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 124,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Ejemplo:",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 252,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "En esta página",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 26,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Explorar más artículos",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 97,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Fecha límite de pago de aguinaldo y qué hacer si no lo recibes",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 49,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Inversiones a plazo",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 16,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Los montos de tu aguinaldo son:",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 85,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Más Publicaciones",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 28,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Preguntas frecuentes",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 189,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Prestaciones de Ley en México: todo lo que debes saber",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 32,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Publicaciones relacionadas",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 84,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Te podría interesar",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 90,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Te puede interesar",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 93,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "Tu presupuesto 70/20/10 está listo.",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 29,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¡Ahora tenemos un regalo para ti!",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 412,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¡Beneficios laborales de fin de año!",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 21,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¡Conoce más sobre tus derechos laborales dando clic en los siguientes enlaces!",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 23,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¡Que tu dinero ahorrado no se estanque!",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 20,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Cuántos días de salario me tocan de aguinaldo por ley en México?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 21,
+        "mi_seccion": "¿Cuántos días de aguinaldo me corresponden por año?",
+        "mis_palabras": 24,
+        "recomendacion": "Cobertura suficiente"
+      },
+      {
+        "tema": "¿Cuántos impuestos genera?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 88,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Cómo hacer rendir tu dinero con un mejor control de gastos?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 44,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Cómo sé si mi aguinaldo está bien calculado?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 21,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿El aguinaldo es el mismo si tengo salario fijo o variable?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 19,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿El aguinaldo paga ISR? Monto exento y gravado",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 157,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Hasta qué fecha deben pagar el aguinaldo en México?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 14,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Para qué sirve una tarjeta de débito? 7 usos reales en México",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 14,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Quién tiene derecho a recibir aguinaldo?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 15,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Qué es el aguinaldo y quién debe recibirlo en México?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 110,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Qué es un plan de ahorro y cómo implementarlo?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 62,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Qué hacer si la empresa no paga el aguinaldo?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 20,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Qué pasa si no me dan aguinaldo?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 243,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Qué tipos de salarios existen?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 5,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      },
+      {
+        "tema": "¿Tengo derecho a aguinaldo si renuncié o me despidieron antes de diciembre?",
+        "competidores_que_lo_cubren": 1,
+        "promedio_palabras_competidores": 67,
+        "mi_seccion": null,
+        "mis_palabras": 0,
+        "recomendacion": "Añadir sección"
+      }
+    ],
+    "comparacion_mi_url": {
+      "secciones_faltantes": [
+        "¿En qué consiste el cálculo de aguinaldo ?",
+        "Conoce cómo utilizar la Calculadora de aguinaldo",
+        "Datos del empleado:",
+        "Conoce nuestras calculadoras virtuales y realiza todos los cálculos que necesites para tu nómina",
+        "Cálculadora de sueldo neto",
+        "Cálculo de cuota IMSS",
+        "Calculadora de presupuesto anual",
+        "Calculadora de finiquito o liquidación",
+        "Tu presupuesto 70/20/10 está listo.",
+        "Consejos para aprovechar tu aguinaldo",
+        "¿Cómo calcular el aguinaldo proporcional?",
+        "Preguntas frecuentes",
+        "¿Cuándo se paga el aguinaldo en México?",
+        "¿Qué pasa si no me dan aguinaldo?",
+        "Te podría interesar",
+        "¿Qué es un plan de ahorro y cómo implementarlo?",
+        "¿Cómo hacer rendir tu dinero con un mejor control de gastos?",
+        "Inversiones a plazo",
+        "¿Qué es el aguinaldo y quién debe recibirlo en México?",
+        "¿El aguinaldo paga ISR? Monto exento y gravado",
+        "Qué hacer si tu aguinaldo llega incompleto o tarde",
+        "¿Los trabajadores del sector público reciben aguinaldo igual que en el sector privado?",
+        "¿Tengo derecho a aguinaldo si renuncié o me despidieron antes de diciembre?",
+        "¿Los trabajadores eventuales o por honorarios tienen derecho a aguinaldo?",
+        "Artículos relacionados",
+        "¿Qué es un contracargo y cómo funciona?",
+        "¿Para qué sirve una tarjeta de débito? 7 usos reales en México",
+        "Cómo sacar una tarjeta de débito en México: guía paso a paso",
+        "Consolidar deudas en México: guía completa 2026",
+        "Descarga tu Guía Anti-Deudas + Kit de Control",
+        "¿Quién tiene derecho a recibir aguinaldo?",
+        "Ejemplo:",
+        "¿Cuántos impuestos genera?",
+        "¡Conoce más sobre tus derechos laborales dando clic en los siguientes enlaces!",
+        "Más Publicaciones",
+        "Te puede interesar",
+        "Fecha límite de pago de aguinaldo y qué hacer si no lo recibes",
+        "¡Que tu dinero ahorrado no se estanque!",
+        "En esta página",
+        "ASPECTOS CLAVE:",
+        "Cuánto se paga",
+        "Aguinaldo de los empleados públicos",
+        "¿Qué tipos de salarios existen?",
+        "Qué son los beneficios sociales",
+        "Cómo hablar del salario en una entrevista laboral",
+        "Explorar más artículos",
+        "Los montos de tu aguinaldo son:",
+        "¡Ahora tenemos un regalo para ti!",
+        "¿Hasta qué fecha deben pagar el aguinaldo en México?",
+        "¿Qué hacer si la empresa no paga el aguinaldo?",
+        "¿Cómo sé si mi aguinaldo está bien calculado?",
+        "¿El aguinaldo es el mismo si tengo salario fijo o variable?",
+        "Publicaciones relacionadas",
+        "Avanza iniciativa de aumento a 30 días de aguinaldo",
+        "Prestaciones de Ley en México: todo lo que debes saber",
+        "¡Beneficios laborales de fin de año!",
+        "Crea un lugar de trabajo más feliz"
+      ],
+      "secciones_cortas": [
+        "¿Cuánto te corresponde de aguinaldo?",
+        "Calcula tu aguinaldo"
+      ]
+    }
+  }
+}

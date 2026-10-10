@@ -1,0 +1,290 @@
+{
+  "keyword": "calcular salario por hora",
+  "posicion": 2,
+  "es_url_propia": false,
+  "url": "https://joinotto.com/es/calculator/salary-to-hourly",
+  "dominio": "joinotto.com",
+  "estado_http": 200,
+  "fecha_scrape": "2026-10-10T05:58:08.635178+00:00",
+  "seo": {
+    "title": "Calculadora de Salario a Hora | Convierte sueldo anual a pago por hora",
+    "meta_description": "Usa la calculadora de salario a hora de Otto AI para convertir sueldo anual, mensual o semanal en pago por hora. Ideal para comparar ofertas, presupuestar y planificar ingresos.",
+    "canonical": "https://joinotto.com/es/calculator/salary-to-hourly"
+  },
+  "encabezados": {
+    "h1": [
+      "Convertidor anual / mensual / semanal / por hora"
+    ],
+    "h2": [
+      "Preguntas frecuentes sobre la calculadora de salario a hora"
+    ],
+    "h3": [
+      "¿Qué hace una calculadora de salario a hora?",
+      "¿Cómo calculo mi tarifa por hora a partir de mi salario?",
+      "¿Puedo convertir pago por hora a salario anual con esta calculadora?",
+      "¿Esta calculadora incluye horas extra o bonos?",
+      "¿Por qué es importante conocer tu pago por hora a partir del salario?",
+      "¿La calculadora sirve para jornadas de medio tiempo?",
+      "¿La calculadora es gratis?",
+      "¿Qué tan precisos son los cálculos?"
+    ]
+  },
+  "contenido": {
+    "texto_principal": "Preguntas frecuentes sobre la calculadora de salario a hora ¿Qué hace una calculadora de salario a hora?  Una calculadora de salario a hora convierte tu salario anual, mensual o semanal en un pago por hora, o viceversa, para que entiendas tus ingresos reales según las horas trabajadas. ¿Cómo calculo mi tarifa por hora a partir de mi salario?  Solo ingresa tu salario anual o mensual y el promedio de horas que trabajas por semana. La calculadora mostrará de inmediato tu pago por hora para ayudarte a comparar ofertas o definir tarifas. ¿Puedo convertir pago por hora a salario anual con esta calculadora?  Sí. La calculadora de Otto AI también funciona al revés. Ingresa tu tarifa por hora y las horas trabajadas por semana para estimar tu salario anual, mensual o semanal. ¿Esta calculadora incluye horas extra o bonos?  No. La calculadora estima tu salario base o tarifa por hora. Las horas extra, bonos, comisiones u otros pagos variables deben calcularse por separado para tener una visión completa de tus ingresos. ¿Por qué es importante conocer tu pago por hora a partir del salario?  Conocer tu pago por hora te ayuda a planificar tu presupuesto, negociar una compensación justa y tomar mejores decisiones sobre ofertas laborales o proyectos freelance al entender cuánto vale realmente tu tiempo. ¿La calculadora sirve para jornadas de medio tiempo?  Sí. La calculadora es flexible y permite ingresar cualquier cantidad de horas semanales, ya sea jornada completa, medio tiempo o un horario variable, para obtener una estimación precisa. ¿La calculadora es gratis?  Sí. La calculadora de Otto AI es completamente gratuita, no requiere registro y la puedes usar cuantas veces quieras desde cualquier dispositivo. ¿Qué tan precisos son los cálculos?  La calculadora usa un año laboral estándar de 52 semanas y las horas que ingresas para hacer conversiones confiables. Aun así, considera factores como vacaciones pagadas, permisos sin sueldo o horarios irregulares si necesitas un presupuesto más preciso.",
+    "numero_palabras": 321,
+    "contenedor_principal_detectado": false,
+    "secciones": [
+      {
+        "nivel": "INTRODUCCION",
+        "encabezado": "Introducción",
+        "texto": "Preguntas frecuentes sobre la calculadora de salario a hora",
+        "palabras": 9
+      },
+      {
+        "nivel": "H2",
+        "encabezado": "Preguntas frecuentes sobre la calculadora de salario a hora",
+        "texto": "¿Qué hace una calculadora de salario a hora?",
+        "palabras": 8
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "¿Qué hace una calculadora de salario a hora?",
+        "texto": " Una calculadora de salario a hora convierte tu salario anual, mensual o semanal en un pago por hora, o viceversa, para que entiendas tus ingresos reales según las horas trabajadas. ¿Cómo calculo mi tarifa por hora a partir de mi salario?",
+        "palabras": 41
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "¿Cómo calculo mi tarifa por hora a partir de mi salario?",
+        "texto": " Solo ingresa tu salario anual o mensual y el promedio de horas que trabajas por semana. La calculadora mostrará de inmediato tu pago por hora para ayudarte a comparar ofertas o definir tarifas. ¿Puedo convertir pago por hora a salario anual con esta calculadora?",
+        "palabras": 44
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "¿Puedo convertir pago por hora a salario anual con esta calculadora?",
+        "texto": " Sí. La calculadora de Otto AI también funciona al revés. Ingresa tu tarifa por hora y las horas trabajadas por semana para estimar tu salario anual, mensual o semanal. ¿Esta calculadora incluye horas extra o bonos?",
+        "palabras": 36
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "¿Esta calculadora incluye horas extra o bonos?",
+        "texto": " No. La calculadora estima tu salario base o tarifa por hora. Las horas extra, bonos, comisiones u otros pagos variables deben calcularse por separado para tener una visión completa de tus ingresos. ¿Por qué es importante conocer tu pago por hora a partir del salario?",
+        "palabras": 45
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "¿Por qué es importante conocer tu pago por hora a partir del salario?",
+        "texto": " Conocer tu pago por hora te ayuda a planificar tu presupuesto, negociar una compensación justa y tomar mejores decisiones sobre ofertas laborales o proyectos freelance al entender cuánto vale realmente tu tiempo. ¿La calculadora sirve para jornadas de medio tiempo?",
+        "palabras": 40
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "¿La calculadora sirve para jornadas de medio tiempo?",
+        "texto": " Sí. La calculadora es flexible y permite ingresar cualquier cantidad de horas semanales, ya sea jornada completa, medio tiempo o un horario variable, para obtener una estimación precisa. ¿La calculadora es gratis?",
+        "palabras": 32
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "¿La calculadora es gratis?",
+        "texto": " Sí. La calculadora de Otto AI es completamente gratuita, no requiere registro y la puedes usar cuantas veces quieras desde cualquier dispositivo. ¿Qué tan precisos son los cálculos?",
+        "palabras": 28
+      },
+      {
+        "nivel": "H3",
+        "encabezado": "¿Qué tan precisos son los cálculos?",
+        "texto": " La calculadora usa un año laboral estándar de 52 semanas y las horas que ingresas para hacer conversiones confiables. Aun así, considera factores como vacaciones pagadas, permisos sin sueldo o horarios irregulares si necesitas un presupuesto más preciso.",
+        "palabras": 38
+      }
+    ]
+  },
+  "elementos": {
+    "tablas_html": [],
+    "faqs_visibles": [],
+    "faqs_schema": [
+      {
+        "pregunta": "¿Qué hace una calculadora de salario a hora?",
+        "respuesta": "Una calculadora de salario a hora convierte tu salario anual, mensual o semanal en un pago por hora, o viceversa, para que entiendas tus ingresos reales según las horas trabajadas."
+      },
+      {
+        "pregunta": "¿Cómo calculo mi tarifa por hora a partir de mi salario?",
+        "respuesta": "Solo ingresa tu salario anual o mensual y el promedio de horas que trabajas por semana. La calculadora mostrará de inmediato tu pago por hora para ayudarte a comparar ofertas o definir tarifas."
+      },
+      {
+        "pregunta": "¿Puedo convertir pago por hora a salario anual con esta calculadora?",
+        "respuesta": "Sí. La calculadora de Otto AI también funciona al revés. Ingresa tu tarifa por hora y las horas trabajadas por semana para estimar tu salario anual, mensual o semanal."
+      },
+      {
+        "pregunta": "¿Esta calculadora incluye horas extra o bonos?",
+        "respuesta": "No. La calculadora estima tu salario base o tarifa por hora. Las horas extra, bonos, comisiones u otros pagos variables deben calcularse por separado para tener una visión completa de tus ingresos."
+      },
+      {
+        "pregunta": "¿Por qué es importante conocer tu pago por hora a partir del salario?",
+        "respuesta": "Conocer tu pago por hora te ayuda a planificar tu presupuesto, negociar una compensación justa y tomar mejores decisiones sobre ofertas laborales o proyectos freelance al entender cuánto vale realmente tu tiempo."
+      },
+      {
+        "pregunta": "¿La calculadora sirve para jornadas de medio tiempo?",
+        "respuesta": "Sí. La calculadora es flexible y permite ingresar cualquier cantidad de horas semanales, ya sea jornada completa, medio tiempo o un horario variable, para obtener una estimación precisa."
+      },
+      {
+        "pregunta": "¿La calculadora es gratis?",
+        "respuesta": "Sí. La calculadora de Otto AI es completamente gratuita, no requiere registro y la puedes usar cuantas veces quieras desde cualquier dispositivo."
+      },
+      {
+        "pregunta": "¿Qué tan precisos son los cálculos?",
+        "respuesta": "La calculadora usa un año laboral estándar de 52 semanas y las horas que ingresas para hacer conversiones confiables. Aun así, considera factores como vacaciones pagadas, permisos sin sueldo o horarios irregulares si necesitas un presupuesto más preciso."
+      }
+    ]
+  },
+  "schema": {
+    "tipos": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "ImageObject",
+      "ListItem",
+      "Offer",
+      "Organization",
+      "Question",
+      "WebApplication"
+    ],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "@id": "https://joinotto.com/es/calculator/salary-to-hourly",
+        "url": "https://joinotto.com/es/calculator/salary-to-hourly",
+        "name": "Calculadora de Salario a Hora",
+        "description": "Convierte sueldo anual a pago por hora con la calculadora de salario a hora de Otto AI. Es gratis, fácil de usar y te ayuda a planificar tu presupuesto y negociar tu compensación.",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "price": "0.00",
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock"
+        },
+        "applicationCategory": "Business",
+        "softwareVersion": "1.0",
+        "operatingSystem": "All",
+        "author": {
+          "@type": "Organization",
+          "name": "Otto AI",
+          "url": "https://joinotto.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://assets.joinotto.com/logo.png"
+          }
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "https://joinotto.com/es"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Calculadora de Salario a Hora",
+            "item": "https://joinotto.com/es/calculator/salary-to-hourly"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "¿Qué hace una calculadora de salario a hora?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Una calculadora de salario a hora convierte tu salario anual, mensual o semanal en un pago por hora, o viceversa, para que entiendas tus ingresos reales según las horas trabajadas."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿Cómo calculo mi tarifa por hora a partir de mi salario?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Solo ingresa tu salario anual o mensual y el promedio de horas que trabajas por semana. La calculadora mostrará de inmediato tu pago por hora para ayudarte a comparar ofertas o definir tarifas."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿Puedo convertir pago por hora a salario anual con esta calculadora?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Sí. La calculadora de Otto AI también funciona al revés. Ingresa tu tarifa por hora y las horas trabajadas por semana para estimar tu salario anual, mensual o semanal."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿Esta calculadora incluye horas extra o bonos?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "No. La calculadora estima tu salario base o tarifa por hora. Las horas extra, bonos, comisiones u otros pagos variables deben calcularse por separado para tener una visión completa de tus ingresos."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿Por qué es importante conocer tu pago por hora a partir del salario?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Conocer tu pago por hora te ayuda a planificar tu presupuesto, negociar una compensación justa y tomar mejores decisiones sobre ofertas laborales o proyectos freelance al entender cuánto vale realmente tu tiempo."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿La calculadora sirve para jornadas de medio tiempo?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Sí. La calculadora es flexible y permite ingresar cualquier cantidad de horas semanales, ya sea jornada completa, medio tiempo o un horario variable, para obtener una estimación precisa."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿La calculadora es gratis?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Sí. La calculadora de Otto AI es completamente gratuita, no requiere registro y la puedes usar cuantas veces quieras desde cualquier dispositivo."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "¿Qué tan precisos son los cálculos?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "La calculadora usa un año laboral estándar de 52 semanas y las horas que ingresas para hacer conversiones confiables. Aun así, considera factores como vacaciones pagadas, permisos sin sueldo o horarios irregulares si necesitas un presupuesto más preciso."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "rendimiento_basico": {
+    "load_ms": 5394,
+    "html_bytes": 198408
+  },
+  "renderizado_js": true,
+  "validacion_contenido": {
+    "http_200": true,
+    "contenido_valido": true,
+    "contenido_insuficiente": false,
+    "clasificacion": "valido",
+    "motivos": [
+      "Se usó un contenedor principal alternativo (sin <main>/<article>)."
+    ]
+  },
+  "archivos_evidencia": {
+    "html": "02_joinotto_com.html",
+    "captura": "02_joinotto_com.png"
+  }
+}
