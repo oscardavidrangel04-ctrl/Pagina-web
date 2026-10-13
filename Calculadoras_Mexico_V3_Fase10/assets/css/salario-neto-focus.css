@@ -1,4 +1,10 @@
 /* Only salary-net page; preserve shared calculator behavior. */
+.sn-deposit{margin-top:20px}
+.sn-receipt-check{margin-top:18px;padding:18px;border-left:4px solid var(--primary);border-radius:10px;background:var(--surface-2);color:var(--text);line-height:1.75}
+.sn-receipt-check[hidden]{display:none}
+body[data-calc="salario-neto"] .calc-controls{display:grid;grid-template-columns:minmax(0,1fr) auto}
+body[data-calc="salario-neto"] .calc-controls button{min-width:0;white-space:nowrap}
+@media(max-width:420px){body[data-calc="salario-neto"] .calc-controls{grid-template-columns:1fr}}
 body[data-calc="salario-neto"]{--sn-blue:#1e63d5;--sn-line:#d7e3f3;--sn-soft:#f0f6ff}
 body[data-calc="salario-neto"] .page-wrap{max-width:1160px}
 body[data-calc="salario-neto"] .page-head{padding-bottom:26px}

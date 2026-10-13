@@ -106,5 +106,5 @@
       if (!w.hasAttribute('aria-label')) w.setAttribute('aria-label','Tabla de datos; desplaza horizontalmente si es necesario');
     });
   };
-  if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', start); else start();
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start); else start();
 })();

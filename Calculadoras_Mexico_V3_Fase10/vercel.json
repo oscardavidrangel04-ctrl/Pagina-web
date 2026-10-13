@@ -2,6 +2,22 @@
   "cleanUrls": false,
   "headers": [
     {
+      "source": "/outputs/(.*)",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }]
+    },
+    {
+      "source": "/auditoria-arquitectura/(.*)",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }]
+    },
+    {
+      "source": "/scripts/(.*)",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }]
+    },
+    {
+      "source": "/google80edc2d8c5006b4e.html",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }]
+    },
+    {
       "source": "/articulos/cuando-tengo-derecho-aguinaldo.html",
       "headers": [
         {

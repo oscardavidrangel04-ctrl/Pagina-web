@@ -17,8 +17,27 @@ TOPICS={
  'retiro':('AFORE, pensión y seguridad social','Ubica las guías sobre ahorro para el retiro, pensiones e incapacidades según el trámite y la institución.'),
  'negocios':('Precios y finanzas del negocio','Analiza costos, precio de venta, margen y punto de equilibrio sin confundir ingresos con utilidad.'),
  'herramientas':('Cálculos cotidianos','Resuelve porcentajes, fechas, propinas y conversiones con herramientas y explicaciones específicas.')}
+# Explicit editorial exceptions take precedence over substring heuristics.
+# "nominal" is not "nómina" and "es seguro" is not an insurance topic.
+TOPIC_OVERRIDES = {
+ 'gat-nominal-vs-gat-real': ('inversion','Plazos, tasas y rendimientos'),
+ 'es-seguro-invertir-en-cetes': ('inversion','CETES'),
+ 'diferencia-clabe-numero-tarjeta-cuenta': ('transferencias','Datos, estados y seguimiento'),
+ 'aumento-salarial': ('nomina','Salario y recibo'),
+ 'factor-integracion-sdi': ('nomina','Salario y recibo'),
+ 'como-sacar-constancia-situacion-fiscal': ('impuestos','Declaración y facturación'),
+ 'para-que-sirve-constancia-situacion-fiscal': ('impuestos','Declaración y facturación'),
+ 'declaracion-anual-asalariados-2026': ('impuestos','Declaración y facturación'),
+ 'fecha-corte-vs-fecha-pago': ('credito','Pagos y saldos de tarjetas'),
+ 'pago-minimo-vs-pago-no-generar-intereses': ('credito','Pagos y saldos de tarjetas'),
+ 'que-pasa-si-pago-antes-fecha-corte': ('credito','Pagos y saldos de tarjetas'),
+ 'que-pasa-si-pago-despues-fecha-limite': ('credito','Pagos y saldos de tarjetas'),
+ 'saldo-actual-vs-saldo-al-corte': ('credito','Pagos y saldos de tarjetas'),
+}
+
 def classify(path):
  s=path.rsplit('/',1)[-1].replace('.html','')
+ if s in TOPIC_OVERRIDES:return TOPIC_OVERRIDES[s]
  if re.search('finiquito|liquidacion|despido|renuncia|indemnizacion|prima-antiguedad',s):
   if re.search('carta|formato|firmar|descontar|pagar|cuando',s):return 'prestaciones','Cobro y documentos de terminación'
   if re.search('jubilacion|pension|incapacidad',s):return 'prestaciones','Terminación y seguridad social'

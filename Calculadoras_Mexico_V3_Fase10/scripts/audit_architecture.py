@@ -34,6 +34,7 @@ def audit():
     cfg=json.loads((ROOT/'vercel.json').read_text(encoding='utf-8-sig'))
     rewrites={x['source']:x['destination'] for x in cfg.get('rewrites',[]) if ':' not in x['source']}
     redirects={x['source']:x['destination'] for x in cfg.get('redirects',[]) if ':' not in x['source']}
+    header_noindex={x['source'] for x in cfg.get('headers',[]) if any(h.get('key','').lower()=='x-robots-tag' and 'noindex' in h.get('value','').lower() for h in x.get('headers',[]))}
     physical={}
     for f in list(ROOT.glob('*.html'))+list((ROOT/'articulos').glob('*.html'))+list((ROOT/'calculadoras').glob('*.html'))+list((ROOT/'temas').glob('*.html')):
         path='/'+f.relative_to(ROOT).as_posix(); path='/' if path=='/index.html' else path
@@ -46,7 +47,7 @@ def audit():
         effective=physical.get(rewrites.get(path,''),file)
         p=Page(effective.read_text(encoding='utf-8-sig'))
         canon=norm(p.canonical,path) if p.canonical else None
-        indexable='noindex' not in p.robots.lower() and path not in redirects and (canon is None or canon==path) and path not in ('/404.html','/offline.html')
+        indexable='noindex' not in p.robots.lower() and path not in header_noindex and path not in redirects and (canon is None or canon==path) and path not in ('/404.html','/offline.html')
         pages[path]={'url':BASE+path,'file':str(file.relative_to(ROOT)),'served_file':str(effective.relative_to(ROOT)),'title':p.title,'canonical':p.canonical,'robots':p.robots.strip(),'indexable':indexable,'expected_http':302 if path in redirects else 200,'sitemap':maps.get(path,[]),'links':p.links,'inlinks':[]}
     broken=[]; redlinks=[]; edges={}
     for path,p in pages.items():
