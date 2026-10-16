@@ -1,0 +1,14 @@
+calculadora de sueldo | https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html
+sueldo neto | https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html
+sueldo bruto | https://calculadora-isr-mexico.vercel.app/calculadoras/salario-bruto.html
+calculadora de ISR | https://calculadora-isr-mexico.vercel.app/calculadoras/isr.html
+pago quincenal | https://calculadora-isr-mexico.vercel.app/calculadoras/pago-quincenal.html
+salario diario | https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html
+salario por hora | https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html
+aguinaldo | https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo.html
+calculadora de aguinaldo | https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo.html
+aguinaldo proporcional | https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo-proporcional.html
+finiquito | https://calculadora-isr-mexico.vercel.app/calculadoras/finiquito.html
+calculadora de finiquito | https://calculadora-isr-mexico.vercel.app/calculadoras/finiquito.html
+vacaciones | https://calculadora-isr-mexico.vercel.app/calculadoras/vacaciones.html
+prima vacacional | https://calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html

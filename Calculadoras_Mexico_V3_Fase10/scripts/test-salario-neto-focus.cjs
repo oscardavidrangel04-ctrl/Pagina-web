@@ -16,9 +16,10 @@ const {chromium} = require('C:/Users/Casa/.cache/codex-runtimes/codex-primary-ru
  });
  await page.goto('http://local.test/calculadoras/salario-neto.html');
  if(await page.locator('h1').count()!==1)throw Error('H1');
- if(!await page.title().then(t=>t.includes('sueldo neto 2026')))throw Error('SEO title');
+ // CTR revision uses an evergreen title: this tool takes manual deductions, not a year's tax table.
+ if(!await page.title().then(t=>t.includes('sueldo neto')&&t.includes('bruto a neto')&&t.includes('México')))throw Error('SEO title');
  const description=await page.locator('meta[name="description"]').getAttribute('content');
- if(!description||!description.includes('salario bruto'))throw Error('Meta description');
+ if(!description||!description.includes('sueldo neto')||!description.includes('Deducciones manuales'))throw Error('Meta description must disclose manual deductions');
  const schemas=await page.evaluate(()=>Array.from(document.querySelectorAll('script[type="application/ld+json"]')).map(e=>JSON.parse(e.textContent)));
  if(!JSON.stringify(schemas).includes('WebApplication'))throw Error('WebApplication schema');
  await page.locator('#salario').fill('20000');
