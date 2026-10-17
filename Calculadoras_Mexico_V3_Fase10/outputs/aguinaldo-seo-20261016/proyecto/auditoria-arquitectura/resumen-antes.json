@@ -1,0 +1,23 @@
+{
+  "physical_pages": 393,
+  "indexable": 365,
+  "zero_inlinks": 35,
+  "one_inlink": 62,
+  "unreachable": 45,
+  "depth": {
+    "0": 1,
+    "1": 52,
+    "2": 141,
+    "3": 6,
+    "4": 52,
+    "5": 54,
+    "6": 13,
+    "7": 1,
+    "None": 45
+  },
+  "broken_links": 0,
+  "redirect_links": 0,
+  "sitemap_missing_pages": [],
+  "sitemap_nonindexable": [],
+  "indexable_not_sitemap": []
+}

@@ -1,0 +1,9 @@
+V5.6.37 — Aguinaldo Cluster / Keyword Strategy
+
+Mejoras principales:
+- Optimización de calculadora principal para cómo calcular/cuánto me toca.
+- Optimización de calculadora proporcional para keyword transaccional.
+- Ampliación de artículo de aguinaldo proporcional.
+- Refuerzo de fecha límite, derecho, fórmula, salario, antigüedad y 3 meses.
+- Nueva URL /articulos/dias-de-aguinaldo.html para búsquedas sobre días de aguinaldo por ley.
+- Sitemap, hub, enlazado interno, fallback, rewrite y service worker actualizados.

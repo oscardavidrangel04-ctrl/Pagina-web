@@ -1,0 +1,24 @@
+Se conservaron 15 bloques contextuales con 60 enlaces internos nuevos.
+
+Clúster ISR y nómina:
+- articulos/leer-recibo-nomina.html
+- articulos/descuentos-nomina-isr-imss.html
+- articulos/como-calcular-isr-sueldo.html
+- articulos/asimilados-a-salarios-isr.html
+- articulos/isr-semanal-quincenal-mensual.html
+- calculadoras/isr.html
+
+Clúster salario:
+- articulos/salario-bruto-neto.html
+- calculadoras/salario-neto.html
+- calculadoras/salario-bruto.html
+- calculadoras/salario-diario.html
+- calculadoras/salario-hora.html
+- calculadoras/pago-quincenal.html
+
+Clúster finiquito:
+- articulos/con-que-salario-se-calcula-finiquito.html
+- articulos/ejemplo-calculo-finiquito.html
+
+Clúster horas extra:
+- calculadoras/horas-extra.html

@@ -1,0 +1,32 @@
+{
+  "version": "5.10.0",
+  "date": "2026-09-11",
+  "status": "PASS",
+  "project_integrity": {
+    "html_pages_checked": 135,
+    "sitemap_urls_checked": 107,
+    "broken_internal_links": 0,
+    "invalid_json_ld_blocks": 0,
+    "duplicate_primary_canonicals": 0,
+    "new_urls_in_sitemap": 2,
+    "new_urls_lastmod_correct": true,
+    "robots_txt_correct": true,
+    "www_references_detected": 0
+  },
+  "functional_protection": {
+    "assets_js_sha256_unchanged": true,
+    "ptu_inline_scripts_identical_to_v5_9_1": true,
+    "ptu_form_controls_identical_to_v5_9_1": true,
+    "javascript_syntax_node_check": "PASS"
+  },
+  "content": {
+    "cuando_se_pagan_utilidades_words": 743,
+    "como_calcular_ptu_words": 784,
+    "new_pages_h1_count": 1,
+    "new_pages_unique_canonical": true,
+    "new_pages_schema_types": ["WebPage", "BlogPosting", "BreadcrumbList", "FAQPage"]
+  },
+  "known_inherited_conditions": [
+    "Las páginas fallback históricas comparten canonical con su página primaria; se conservaron sin cambios."
+  ]
+}

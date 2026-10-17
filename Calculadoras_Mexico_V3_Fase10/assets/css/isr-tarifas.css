@@ -1,0 +1,9 @@
+/* Tablas legibles sin desbordar el documento en pantallas pequeñas. */
+#tablas-isr-2026 { min-width: 0; }
+#tablas-isr-2026 h3 { scroll-margin-top: 6rem; }
+.isr-tariff-scroll { max-width: 100%; overflow-x: auto; margin: 1rem 0 2rem; }
+.isr-tariff-scroll:focus-visible { outline: 3px solid currentColor; outline-offset: 3px; }
+.isr-tariff-scroll table { width: 100%; min-width: 470px; font-variant-numeric: tabular-nums; }
+.isr-tariff-scroll td { white-space: nowrap; text-align: right; }
+.isr-tariff-scroll th, .isr-tariff-scroll td { padding: .65rem .6rem; }
+.isr-tariff-scroll caption { text-align: left; padding: .75rem 0; }

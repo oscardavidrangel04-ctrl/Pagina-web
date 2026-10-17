@@ -1,0 +1,72 @@
+[
+  {
+    "url": "/",
+    "width": 390,
+    "status": "PASS"
+  },
+  {
+    "url": "/temas/nomina.html",
+    "width": 390,
+    "status": "PASS"
+  },
+  {
+    "url": "/temas/impuestos.html",
+    "width": 390,
+    "status": "PASS"
+  },
+  {
+    "url": "/calculadoras/pago-quincenal.html",
+    "width": 390,
+    "status": "PASS"
+  },
+  {
+    "url": "/articulos/isr-semanal-quincenal-mensual.html",
+    "width": 390,
+    "status": "PASS"
+  },
+  {
+    "url": "/articulos/que-es-propina.html",
+    "width": 390,
+    "status": "PASS"
+  },
+  {
+    "url": "/articulos/propina-obligatoria-mexico.html",
+    "width": 390,
+    "status": "PASS"
+  },
+  {
+    "url": "/",
+    "width": 1440,
+    "status": "PASS"
+  },
+  {
+    "url": "/temas/nomina.html",
+    "width": 1440,
+    "status": "PASS"
+  },
+  {
+    "url": "/temas/impuestos.html",
+    "width": 1440,
+    "status": "PASS"
+  },
+  {
+    "url": "/calculadoras/pago-quincenal.html",
+    "width": 1440,
+    "status": "PASS"
+  },
+  {
+    "url": "/articulos/isr-semanal-quincenal-mensual.html",
+    "width": 1440,
+    "status": "PASS"
+  },
+  {
+    "url": "/articulos/que-es-propina.html",
+    "width": 1440,
+    "status": "PASS"
+  },
+  {
+    "url": "/articulos/propina-obligatoria-mexico.html",
+    "width": 1440,
+    "status": "PASS"
+  }
+]

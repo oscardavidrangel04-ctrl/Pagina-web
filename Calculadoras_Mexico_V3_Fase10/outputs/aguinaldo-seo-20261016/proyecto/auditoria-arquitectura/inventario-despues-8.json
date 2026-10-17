@@ -1,0 +1,730 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-en-dolares.html",
+    "file": "articulos\\cuenta-ahorro-en-dolares.html",
+    "served_file": "articulos\\cuenta-ahorro-en-dolares.html",
+    "title": "Cuenta de ahorro en dólares: riesgos y costos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-en-dolares.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/cuenta-ahorro-en-dolares.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cuenta de ahorro en dólares: qué debes considerar",
+      "Cuenta en dólares"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-de-ahorro.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-en-pareja.html",
+    "file": "articulos\\cuenta-ahorro-en-pareja.html",
+    "served_file": "articulos\\cuenta-ahorro-en-pareja.html",
+    "title": "Cuenta de ahorro en pareja: acuerdos y seguridad",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-en-pareja.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/cuenta-ahorro-en-pareja.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cuenta de ahorro en pareja: cómo organizarla",
+      "Cuenta en pareja"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-de-ahorro.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-para-ninos.html",
+    "file": "articulos\\cuenta-ahorro-para-ninos.html",
+    "served_file": "articulos\\cuenta-ahorro-para-ninos.html",
+    "title": "Cuenta de ahorro para niños: qué revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-para-ninos.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/cuenta-ahorro-para-ninos.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Cuenta de ahorro para niños: cómo elegir",
+      "Cuenta para niños",
+      "cómo comparar cuentas de ahorro infantiles"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-ensenar-ahorrar-ninos.html",
+      "/articulos/cuenta-de-ahorro.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-para-retiro.html",
+    "file": "articulos\\cuenta-ahorro-para-retiro.html",
+    "served_file": "articulos\\cuenta-ahorro-para-retiro.html",
+    "title": "Cuenta de ahorro para el retiro: cómo planear",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-para-retiro.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/cuenta-ahorro-para-retiro.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Ahorro para el retiro",
+      "Cuenta de ahorro para el retiro: puntos clave"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-de-ahorro.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-tradicional.html",
+    "file": "articulos\\cuenta-ahorro-tradicional.html",
+    "served_file": "articulos\\cuenta-ahorro-tradicional.html",
+    "title": "Cuenta de ahorro tradicional: ventajas y límites",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-tradicional.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/cuenta-ahorro-tradicional.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cuenta de ahorro tradicional: ventajas y límites",
+      "Cuenta tradicional"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-de-ahorro.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-vs-cuenta-corriente.html",
+    "file": "articulos\\cuenta-ahorro-vs-cuenta-corriente.html",
+    "served_file": "articulos\\cuenta-ahorro-vs-cuenta-corriente.html",
+    "title": "Cuenta de ahorro vs cuenta corriente",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-vs-cuenta-corriente.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/cuenta-ahorro-vs-cuenta-corriente.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Ahorro vs cuenta corriente",
+      "Diferencia entre cuenta de ahorro y cuenta corriente"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-de-ahorro.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-vs-pagare-bancario.html",
+    "file": "articulos\\cuenta-ahorro-vs-pagare-bancario.html",
+    "served_file": "articulos\\cuenta-ahorro-vs-pagare-bancario.html",
+    "title": "Cuenta de ahorro vs pagaré bancario: cómo elegir",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-vs-pagare-bancario.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/cuenta-ahorro-vs-pagare-bancario.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Cuenta de ahorro o pagaré bancario",
+      "Cuenta de ahorro vs pagaré bancario"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-de-ahorro.html",
+      "/articulos/pagare-bancario-como-funciona.html",
+      "/temas/inversion.html"
+    ],
+    "cluster": "inversion",
+    "subtopic": "Plazos, tasas y rendimientos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-de-ahorro.html",
+    "file": "articulos\\cuenta-de-ahorro.html",
+    "served_file": "articulos\\cuenta-de-ahorro.html",
+    "title": "Cuenta de ahorro: qué es, cómo funciona y cómo elegirla",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-de-ahorro.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 21,
+    "path": "/articulos/cuenta-de-ahorro.html",
+    "depth": 2,
+    "unique_inlinks": 22,
+    "anchors": [
+      "Cuenta de ahorro: qué es y cómo funciona",
+      "Cuentas",
+      "Cuentas de ahorro",
+      "cuenta de ahorro",
+      "cómo funcionan las cuentas de ahorro",
+      "guía de cuentas de ahorro",
+      "la guía de cuentas de ahorro"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos/apartados-cuenta-ahorro.html",
+      "/articulos/como-abrir-cuenta-de-ahorro.html",
+      "/articulos/como-elegir-cuenta-ahorro.html",
+      "/articulos/cuenta-ahorro-alto-rendimiento.html",
+      "/articulos/cuenta-ahorro-digital.html",
+      "/articulos/cuenta-ahorro-en-dolares.html",
+      "/articulos/cuenta-ahorro-en-pareja.html",
+      "/articulos/cuenta-ahorro-para-ninos.html",
+      "/articulos/cuenta-ahorro-para-retiro.html",
+      "/articulos/cuenta-ahorro-tradicional.html",
+      "/articulos/cuenta-ahorro-vs-cuenta-corriente.html",
+      "/articulos/cuenta-ahorro-vs-pagare-bancario.html",
+      "/articulos/cuentas-ahorro-sin-comisiones.html",
+      "/articulos/donde-ahorrar-dinero-y-ganar-intereses.html",
+      "/articulos/donde-guardar-fondo-emergencia.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/gat-nominal-vs-gat-real.html",
+      "/articulos/rendimiento-diario-cuenta-ahorro.html",
+      "/articulos/saldo-minimo-cuenta-ahorro.html",
+      "/articulos/tasa-promocional-cuenta-ahorro.html",
+      "/calculadoras/comparador-cuentas-ahorro.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuentas-ahorro-sin-comisiones.html",
+    "file": "articulos\\cuentas-ahorro-sin-comisiones.html",
+    "served_file": "articulos\\cuentas-ahorro-sin-comisiones.html",
+    "title": "Cuentas de ahorro sin comisiones: qué revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/cuentas-ahorro-sin-comisiones.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/cuentas-ahorro-sin-comisiones.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Cuentas de ahorro sin comisiones: cómo verificarlo",
+      "Cómo verificar las comisiones",
+      "comisiones",
+      "cómo comparar cuentas sin comisiones",
+      "cómo revisar comisiones"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-abrir-cuenta-de-ahorro.html",
+      "/articulos/cuenta-de-ahorro.html",
+      "/articulos/saldo-minimo-cuenta-ahorro.html",
+      "/calculadoras/comparador-cuentas-ahorro.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/dashboard-finanzas-personales.html",
+    "file": "articulos\\dashboard-finanzas-personales.html",
+    "served_file": "articulos\\dashboard-finanzas-personales.html",
+    "title": "Dashboard de finanzas personales: qué debe incluir",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/dashboard-finanzas-personales.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 9,
+    "path": "/articulos/dashboard-finanzas-personales.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Dashboard de finanzas personales",
+      "dashboard personal",
+      "los indicadores de un dashboard personal",
+      "qué incluir en tu dashboard",
+      "qué medir en tu dashboard"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/balance-finanzas-personales.html",
+      "/articulos/como-cuidar-finanzas-personales.html",
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/declaracion-anual-asalariados-2026.html",
+    "file": "articulos\\declaracion-anual-asalariados-2026.html",
+    "served_file": "articulos\\declaracion-anual-asalariados-2026.html",
+    "title": "Declaración anual 2026 para asalariados: guía",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/declaracion-anual-asalariados-2026.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 11,
+    "path": "/articulos/declaracion-anual-asalariados-2026.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Declaración anual 2026 para asalariados: cómo prepararte",
+      "Preparar declaración anual para asalariados",
+      "declaración anual de asalariados",
+      "preparación de la declaración anual"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/deducciones-personales-2026.html",
+      "/articulos/impuestos-rendimientos-inversiones-mexico.html",
+      "/articulos/isr-a-cargo-asalariado.html",
+      "/temas/herramientas.html"
+    ],
+    "cluster": "herramientas",
+    "subtopic": "Porcentajes, fechas y otros cálculos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/declaracion-mensual-sat.html",
+    "file": "articulos\\declaracion-mensual-sat.html",
+    "served_file": "articulos\\declaracion-mensual-sat.html",
+    "title": "Declaración mensual SAT: cómo presentarla y qué revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/declaracion-mensual-sat.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/declaracion-mensual-sat.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Abrir herramienta o guía principal",
+      "Abrir recurso relacionado",
+      "Declaración mensual SAT: cómo presentarla y qué revisar",
+      "Leer guía →"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/persona-fisica-actividad-empresarial.html",
+      "/temas/impuestos.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/deducciones-personales-2026.html",
+    "file": "articulos\\deducciones-personales-2026.html",
+    "served_file": "articulos\\deducciones-personales-2026.html",
+    "title": "Deducciones personales 2026: qué facturas revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/deducciones-personales-2026.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/deducciones-personales-2026.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Abrir recurso principal",
+      "Abrir recurso relacionado",
+      "Deducciones personales 2026: cómo organizar tus facturas",
+      "deducciones personales",
+      "deducciones personales 2026"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos/declaracion-anual-asalariados-2026.html",
+      "/articulos/isr-a-cargo-asalariado.html",
+      "/articulos/visor-deducciones-personales-sat.html",
+      "/temas/impuestos.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/deducible-vs-coaseguro.html",
+    "file": "articulos\\deducible-vs-coaseguro.html",
+    "served_file": "articulos\\deducible-vs-coaseguro.html",
+    "title": "Deducible y coaseguro: diferencias y ejemplo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/deducible-vs-coaseguro.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 12,
+    "path": "/articulos/deducible-vs-coaseguro.html",
+    "depth": 2,
+    "unique_inlinks": 8,
+    "anchors": [
+      "Deducible y coaseguro: diferencias y ejemplo",
+      "Diferencias entre deducible y coaseguro",
+      "Leer guía →",
+      "deducible frente a coaseguro",
+      "la diferencia entre deducible y coaseguro"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-leer-poliza-gastos-medicos.html",
+      "/articulos/cuanto-cuesta-seguro-gastos-medicos-mayores.html",
+      "/articulos/que-cubre-seguro-gastos-medicos-mayores.html",
+      "/articulos/que-es-seguro-gastos-medicos-mayores.html",
+      "/articulos/seguro-medico-familiar.html",
+      "/calculadoras/deducible-coaseguro.html",
+      "/temas/seguros.html"
+    ],
+    "cluster": "seguros",
+    "subtopic": "Coberturas y costos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/demanda-despido-injustificado.html",
+    "file": "articulos\\demanda-despido-injustificado.html",
+    "served_file": "articulos\\demanda-despido-injustificado.html",
+    "title": "Demanda por despido injustificado: plazo y documentos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/demanda-despido-injustificado.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/demanda-despido-injustificado.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Demanda por despido injustificado: plazo y documentos"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/cuanto-toca-despido-injustificado.html",
+      "/articulos/despido-indemnizacion-liquidacion.html",
+      "/articulos/que-es-despido-injustificado.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Despido e indemnización"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/derecho-ptu-si-renuncio.html",
+    "file": "articulos\\derecho-ptu-si-renuncio.html",
+    "served_file": "articulos\\derecho-ptu-si-renuncio.html",
+    "title": "PTU si renuncio: quién tiene derecho y tiempo trabajado",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/derecho-ptu-si-renuncio.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 21,
+    "path": "/articulos/derecho-ptu-si-renuncio.html",
+    "depth": 2,
+    "unique_inlinks": 11,
+    "anchors": [
+      "Derecho a PTU al salir del empleo",
+      "Derecho a utilidades y renuncia",
+      "PTU después de renunciar",
+      "PTU para quien renunció o ya no trabaja con el patrón",
+      "PTU si renuncio",
+      "PTU si renuncio o soy exempleado",
+      "PTU si renuncio: quién tiene derecho y tiempo trabajado",
+      "Revisar PTU pendiente aunque ya no trabajes en la empresa",
+      "quién tiene derecho a PTU después de renunciar",
+      "quién tiene derecho a PTU y qué pasa si renuncia",
+      "tu derecho a utilidades después de renunciar"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-calcular-ptu.html",
+      "/articulos/cuando-se-pagan-utilidades.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/limite-ptu-tres-meses.html",
+      "/articulos/ptu-exenta-isr.html",
+      "/articulos/que-es-ptu.html",
+      "/articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/ptu.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Reparto de utilidades"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/descuentos-nomina-isr-imss.html",
+    "file": "articulos\\descuentos-nomina-isr-imss.html",
+    "served_file": "articulos\\descuentos-nomina-isr-imss.html",
+    "title": "Descuentos de nómina: ISR, IMSS y sueldo neto | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/descuentos-nomina-isr-imss.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 24,
+    "path": "/articulos/descuentos-nomina-isr-imss.html",
+    "depth": 2,
+    "unique_inlinks": 10,
+    "anchors": [
+      "Descuentos de nómina: ISR, IMSS y sueldo neto",
+      "Entender los descuentos de nómina",
+      "descuentos de nómina"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/bonos-salario-base-cotizacion.html",
+      "/articulos/como-calcular-isr-sueldo.html",
+      "/articulos/isr-semanal-quincenal-mensual.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/salario-bruto-neto.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-neto.html",
+      "/temas/impuestos.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "ISR y nómina"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/desde-que-dia-paga-imss-incapacidad.html",
+    "file": "articulos\\desde-que-dia-paga-imss-incapacidad.html",
+    "served_file": "articulos\\desde-que-dia-paga-imss-incapacidad.html",
+    "title": "Desde qué día paga el IMSS una incapacidad",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/desde-que-dia-paga-imss-incapacidad.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 9,
+    "path": "/articulos/desde-que-dia-paga-imss-incapacidad.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Desde qué día paga el IMSS una incapacidad"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-cobrar-incapacidad-imss.html",
+      "/articulos/pago-incapacidad-imss.html",
+      "/calculadoras/incapacidad-imss.html",
+      "/temas/retiro.html"
+    ],
+    "cluster": "retiro",
+    "subtopic": "Incapacidades y seguridad social"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/despido-indemnizacion-liquidacion.html",
+    "file": "articulos\\despido-indemnizacion-liquidacion.html",
+    "served_file": "articulos\\despido-indemnizacion-liquidacion.html",
+    "title": "Indemnización por despido: qué revisar en la liquidación",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/despido-indemnizacion-liquidacion.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 23,
+    "path": "/articulos/despido-indemnizacion-liquidacion.html",
+    "depth": 2,
+    "unique_inlinks": 9,
+    "anchors": [
+      "Base y partidas de una indemnización",
+      "Despido, tres meses y veinte días por año",
+      "Indemnización por despido: partidas y condiciones",
+      "Indemnización por despido: qué revisar en la liquidación",
+      "Por qué separar el ISR de una indemnización",
+      "Revisar por separado una indemnización por despido",
+      "Separar prestaciones e impuestos en el pago de salida",
+      "indemnización por despido",
+      "qué revisar en una liquidación por despido"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/ejemplo-calculo-finiquito.html",
+      "/articulos/finiquito-por-despido.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/que-es-el-isr.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/liquidacion.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Despido e indemnización"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/despido-justificado-cuanto-me-toca.html",
+    "file": "articulos\\despido-justificado-cuanto-me-toca.html",
+    "served_file": "articulos\\despido-justificado-cuanto-me-toca.html",
+    "title": "Despido justificado: cuánto me toca y qué revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/despido-justificado-cuanto-me-toca.html",
+    "robots": "index,follow,max-image-preview:large",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 10,
+    "path": "/articulos/despido-justificado-cuanto-me-toca.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Despido justificado: cuánto me toca y qué revisar",
+      "qué conceptos revisar en un despido justificado"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/despido-indemnizacion-liquidacion.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Despido e indemnización"
+  }
+]

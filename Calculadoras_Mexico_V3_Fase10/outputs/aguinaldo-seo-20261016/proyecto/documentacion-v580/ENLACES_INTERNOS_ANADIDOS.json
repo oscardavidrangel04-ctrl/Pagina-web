@@ -1,0 +1,3032 @@
+[
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "#guias-ptu",
+    "anchor": "PTU"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "#guias-sdi",
+    "anchor": "SDI"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "#guias-salario",
+    "anchor": "Salario"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "#guias-isr",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "#guias-liquidacion",
+    "anchor": "Liquidación"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-ptu.html",
+    "anchor": "Qué es PTU: reparto de utilidades, fechas y cálculo"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "PTU si renuncio: quién tiene derecho y tiempo trabajado"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/limite-ptu-tres-meses.html",
+    "anchor": "Límite de PTU: tres meses o promedio de tres años"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "PTU exenta de ISR: parte gravada y recibo de utilidades"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Qué es el SDI y cómo se distingue del salario diario"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/factor-integracion-sdi.html",
+    "anchor": "Factor de integración del SDI: fórmula y ejemplos"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/calculadoras/salario-neto.html",
+    "anchor": "Abrir la calculadora principal de Salario"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/convertir-salario-mensual-diario-hora.html",
+    "anchor": "Salario mensual a quincenal, diario y por hora: ejemplos"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "ISR semanal, quincenal y mensual: qué tarifa usar"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/asimilados-a-salarios-isr.html",
+    "anchor": "Asimilados a salarios: qué son y cómo revisar el ISR"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/calculadoras/liquidacion.html",
+    "anchor": "Abrir la calculadora principal de Liquidación"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Indemnización por despido: qué revisar en la liquidación"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/finiquito-renuncia-voluntaria.html",
+    "anchor": "Leer guía →"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-el-isr.html",
+    "anchor": "Leer artículo →"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/leer-recibo-nomina.html",
+    "anchor": "Leer artículo →"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/calculadoras/ptu.html",
+    "anchor": "PTU / reparto de utilidadesAbrir recurso relacionado →"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/calculadoras/salario-diario-integrado.html",
+    "anchor": "Salario diario integradoAbrir recurso relacionado →"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/aguinaldo-isr-2026.html",
+    "anchor": "Aguinaldo e ISRParte exenta, gravada e impuesto."
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/aguinaldo-isr-2026.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "Cómo separar la exención de las utilidades"
+  },
+  {
+    "archivo": "articulos/aguinaldo-isr-2026.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "Tarifas para el sueldo ordinario"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#contenido",
+    "anchor": "Saltar al contenido"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "CalculadorasMéxico"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Calculadoras"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "Simuladores"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "Abrir calculadora de ISR"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#supuestos",
+    "anchor": "Qué ingresos pueden ser asimilados"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#retencion",
+    "anchor": "Cómo se relacionan con la retención de ISR"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#ejemplo",
+    "anchor": "Ejemplo de revisión de un pago"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#laboral",
+    "anchor": "Tratamiento fiscal y relación laboral son preguntas distintas"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#preguntas",
+    "anchor": "Qué preguntar a quien realiza el pago"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#preguntas-frecuentes",
+    "anchor": "Preguntas frecuentes"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#fuentes",
+    "anchor": "Fuentes"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "calculadora de ISR por periodo"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "cómo elegir el periodo de la tarifa"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/leer-recibo-nomina.html",
+    "anchor": "cómo leer un recibo de nómina"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "salario integrado y SBC"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "diferencia entre bruto y neto"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "ISR semanal, quincenal y mensual: qué tarifa usar"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html#guias-isr",
+    "anchor": "Ver el grupo de guías"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "⌂Inicio"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "▦Calculadoras"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "⇄Comparar"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "▤Artículos"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/finiquito.html",
+    "anchor": "Finiquito"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/iva.html",
+    "anchor": "IVA"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Ver todas"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Todos los artículos"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/privacidad.html",
+    "anchor": "Privacidad"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/terminos.html",
+    "anchor": "Términos"
+  },
+  {
+    "archivo": "articulos/asimilados-a-salarios-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/como-calcular-prima-vacacional.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/factor-integracion-sdi.html",
+    "anchor": "Cómo influye la prima en el factor de integración"
+  },
+  {
+    "archivo": "articulos/con-que-salario-se-calcula-finiquito.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Qué integra el salario y cuándo revisar el SDI"
+  },
+  {
+    "archivo": "articulos/con-que-salario-se-calcula-finiquito.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Base y partidas de una indemnización"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "#contenido",
+    "anchor": "Saltar al contenido"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "CalculadorasMéxico"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Calculadoras"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "Simuladores"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/salario-diario.html",
+    "anchor": "Abrir calculadora de salario diario"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "#ejemplo",
+    "anchor": "¿Cuánto gano por día y por hora si cobro $15,000 al mes?"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "#quincena",
+    "anchor": "Salario mensual a quincenal: no es lo mismo que catorcenal"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "#anual",
+    "anchor": "Salario anual a mensual: separa el sueldo de la compensación total"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "#hora",
+    "anchor": "Valor por hora frente a horas realmente trabajadas"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "#aumento",
+    "anchor": "Comparar un aumento en el mismo periodo"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "#preguntas-frecuentes",
+    "anchor": "Preguntas frecuentes"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "#fuentes",
+    "anchor": "Fuentes"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/salario-diario.html",
+    "anchor": "calculadora de salario por día"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/salario-hora.html",
+    "anchor": "salario por hora"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/pago-quincenal.html",
+    "anchor": "calculadora de pago quincenal"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "sueldo bruto frente a neto"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/salario-neto.html",
+    "anchor": "estimación de salario neto"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/horas-extra.html",
+    "anchor": "herramienta de horas extra"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/aumento-salarial.html",
+    "anchor": "calculadora de aumento salarial"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/leer-recibo-nomina.html",
+    "anchor": "Leer el recibo de nómina"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html#guias-salario",
+    "anchor": "Ver el grupo de guías"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "⌂Inicio"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "▦Calculadoras"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "⇄Comparar"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "▤Artículos"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/finiquito.html",
+    "anchor": "Finiquito"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/iva.html",
+    "anchor": "IVA"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Ver todas"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Todos los artículos"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/privacidad.html",
+    "anchor": "Privacidad"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/terminos.html",
+    "anchor": "Términos"
+  },
+  {
+    "archivo": "articulos/convertir-salario-mensual-diario-hora.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "#contenido",
+    "anchor": "Saltar al contenido"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "CalculadorasMéxico"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Calculadoras"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "Simuladores"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/ptu.html",
+    "anchor": "Abrir calculadora de PTU"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "#tiempo",
+    "anchor": "¿Cuánto tiempo debo trabajar para recibir PTU?"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "#personas",
+    "anchor": "Quién participa y quién está excluido"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "#renuncia",
+    "anchor": "Ejemplo: trabajé el año pasado y renuncié antes de mayo"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "#documentos",
+    "anchor": "Qué guardar y qué pedir al empleador"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "#finiquito",
+    "anchor": "¿Las utilidades deben venir dentro del finiquito?"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "#preguntas-frecuentes",
+    "anchor": "Preguntas frecuentes"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "#fuentes",
+    "anchor": "Fuentes"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/que-es-ptu.html#fechas",
+    "anchor": "cuándo se pagan las utilidades"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/ptu.html",
+    "anchor": "simular la distribución de tu PTU"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-renuncia-voluntaria.html",
+    "anchor": "finiquito por renuncia voluntaria"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/limite-ptu-tres-meses.html",
+    "anchor": "tope individual de PTU"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "tratamiento de ISR"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/que-es-ptu.html",
+    "anchor": "Qué es PTU: reparto de utilidades, fechas y cálculo"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/limite-ptu-tres-meses.html",
+    "anchor": "Límite de PTU: tres meses o promedio de tres años"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "PTU exenta de ISR: parte gravada y recibo de utilidades"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html#guias-ptu",
+    "anchor": "Ver el grupo de guías"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "⌂Inicio"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "▦Calculadoras"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "⇄Comparar"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "▤Artículos"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/finiquito.html",
+    "anchor": "Finiquito"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/iva.html",
+    "anchor": "IVA"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Ver todas"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Todos los artículos"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/privacidad.html",
+    "anchor": "Privacidad"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/terminos.html",
+    "anchor": "Términos"
+  },
+  {
+    "archivo": "articulos/derecho-ptu-si-renuncio.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "#contenido",
+    "anchor": "Saltar al contenido"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "CalculadorasMéxico"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Calculadoras"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "Simuladores"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/liquidacion.html",
+    "anchor": "Abrir calculadora de liquidación"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "#separar",
+    "anchor": "Finiquito e indemnización: dos partes diferentes"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "#tres-meses",
+    "anchor": "¿Cuándo se habla de tres meses de salario?"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "#veinte-dias",
+    "anchor": "¿Siempre corresponden veinte días por año?"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "#ejemplo",
+    "anchor": "Ejemplo de escenario, no de derecho automático"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "#salario",
+    "anchor": "Qué salario y fechas necesitas"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "#isr-separacion",
+    "anchor": "ISR en liquidación y finiquito: separar conceptos"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "#preguntas-frecuentes",
+    "anchor": "Preguntas frecuentes"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "#fuentes",
+    "anchor": "Fuentes"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-renuncia-voluntaria.html",
+    "anchor": "qué corresponde al renunciar"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/liquidacion.html",
+    "anchor": "calculadora de liquidación laboral"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/finiquito.html",
+    "anchor": "calculadora de finiquito"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "qué significa integrar el salario"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/aguinaldo-isr-2026.html",
+    "anchor": "ISR del aguinaldo"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "calculadora de ISR"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Diferencias entre finiquito y liquidación"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-renuncia-voluntaria.html",
+    "anchor": "Finiquito por renuncia"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html#guias-liquidacion",
+    "anchor": "Ver el grupo de guías"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "⌂Inicio"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "▦Calculadoras"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "⇄Comparar"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "▤Artículos"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/finiquito.html",
+    "anchor": "Finiquito"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/iva.html",
+    "anchor": "IVA"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Ver todas"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Todos los artículos"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/privacidad.html",
+    "anchor": "Privacidad"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/terminos.html",
+    "anchor": "Términos"
+  },
+  {
+    "archivo": "articulos/despido-indemnizacion-liquidacion.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "#contenido",
+    "anchor": "Saltar al contenido"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "CalculadorasMéxico"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Calculadoras"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "Simuladores"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/salario-diario-integrado.html",
+    "anchor": "Abrir calculadora de SDI"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "#formula",
+    "anchor": "Fórmula del factor de integración"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "#basicas",
+    "anchor": "Ejemplo con 15 días de aguinaldo y prima de 25%"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "#superiores",
+    "anchor": "SDI con prestaciones superiores: comparación"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "#errores",
+    "anchor": "Errores que cambian el resultado"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "#actualizar",
+    "anchor": "Cuándo revisar el factor y sus límites"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "#preguntas-frecuentes",
+    "anchor": "Preguntas frecuentes"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "#fuentes",
+    "anchor": "Fuentes"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "qué es el salario diario integrado"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/vacaciones.html",
+    "anchor": "calculadora de días de vacaciones"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/salario-diario-integrado.html",
+    "anchor": "herramienta para calcular el factor y el SDI"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/aumento-salarial.html",
+    "anchor": "calculadora de aumento salarial"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/como-calcular-prima-vacacional.html",
+    "anchor": "guía de prima vacacional"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Qué es el SDI y cómo se distingue del salario diario"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html#guias-sdi",
+    "anchor": "Ver el grupo de guías"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "⌂Inicio"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "▦Calculadoras"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "⇄Comparar"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "▤Artículos"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/finiquito.html",
+    "anchor": "Finiquito"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/iva.html",
+    "anchor": "IVA"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Ver todas"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Todos los artículos"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/privacidad.html",
+    "anchor": "Privacidad"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/terminos.html",
+    "anchor": "Términos"
+  },
+  {
+    "archivo": "articulos/factor-integracion-sdi.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/finiquito-renuncia-voluntaria.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "Revisar PTU pendiente aunque ya no trabajes en la empresa"
+  },
+  {
+    "archivo": "articulos/finiquito-vs-liquidacion.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Despido, tres meses y veinte días por año"
+  },
+  {
+    "archivo": "articulos/finiquito-vs-liquidacion.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/despido-indemnizacion-liquidacion.html#isr-separacion",
+    "anchor": "Separar prestaciones e impuestos en el pago de salida"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "#contenido",
+    "anchor": "Saltar al contenido"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "CalculadorasMéxico"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Calculadoras"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "Simuladores"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "Abrir calculadora de ISR"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "#elegir",
+    "anchor": "Qué tabla corresponde a tu nómina"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "#pasos",
+    "anchor": "Cómo calcular el ISR de sueldo con la tarifa"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "#ejemplo",
+    "anchor": "Ejemplo mensual: base gravada de $20,000"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "#comparar",
+    "anchor": "Por qué no conviene dividir el ISR mensual entre dos o cuatro"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "#especiales",
+    "anchor": "Pagos que necesitan otra revisión"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "#preguntas-frecuentes",
+    "anchor": "Preguntas frecuentes"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "#fuentes",
+    "anchor": "Fuentes"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "calculadora principal de ISR"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/que-es-el-isr.html#tabla-isr-2026",
+    "anchor": "tablas ISR 2026 y lectura de rangos"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "salario antes y después de impuestos"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/aguinaldo-isr-2026.html",
+    "anchor": "ISR sobre aguinaldo"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "PTU exenta y gravada"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/asimilados-a-salarios-isr.html",
+    "anchor": "el alcance de asimilados a salarios"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/leer-recibo-nomina.html",
+    "anchor": "guía de deducciones de nómina"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/asimilados-a-salarios-isr.html",
+    "anchor": "Asimilados a salarios: qué son y cómo revisar el ISR"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html#guias-isr",
+    "anchor": "Ver el grupo de guías"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "⌂Inicio"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "▦Calculadoras"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "⇄Comparar"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "▤Artículos"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/finiquito.html",
+    "anchor": "Finiquito"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/iva.html",
+    "anchor": "IVA"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Ver todas"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Todos los artículos"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/privacidad.html",
+    "anchor": "Privacidad"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/terminos.html",
+    "anchor": "Términos"
+  },
+  {
+    "archivo": "articulos/isr-semanal-quincenal-mensual.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/leer-recibo-nomina.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "la tarifa por periodo"
+  },
+  {
+    "archivo": "articulos/leer-recibo-nomina.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-salario-diario-integrado.html#imss",
+    "anchor": "SDI y SBC ante el IMSS"
+  },
+  {
+    "archivo": "articulos/leer-recibo-nomina.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "PTU exenta y gravada"
+  },
+  {
+    "archivo": "articulos/leer-recibo-nomina.html",
+    "tipo": "pagina existente",
+    "destino": "/calculadoras/salario-neto.html",
+    "anchor": "Salario netoEstima sueldo después de retenciones."
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "#contenido",
+    "anchor": "Saltar al contenido"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "CalculadorasMéxico"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Calculadoras"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "Simuladores"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/ptu.html",
+    "anchor": "Abrir calculadora de PTU"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "#orden",
+    "anchor": "Primero se calcula la participación; después se revisa el límite"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "#ejemplos",
+    "anchor": "Dos ejemplos para no confundir el tope con el pago"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "#promedio",
+    "anchor": "Cómo revisar el promedio de los últimos tres años"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "#calculadora",
+    "anchor": "Qué muestra la calculadora del sitio"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "#preguntas-frecuentes",
+    "anchor": "Preguntas frecuentes"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "#fuentes",
+    "anchor": "Fuentes"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/ptu.html",
+    "anchor": "calculadora de PTU"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/que-es-ptu.html#calculo",
+    "anchor": "cómo se distribuye la PTU"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "retención sobre la parte gravada"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "tu derecho a utilidades después de renunciar"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/que-es-ptu.html",
+    "anchor": "Qué es PTU: reparto de utilidades, fechas y cálculo"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "PTU si renuncio: quién tiene derecho y tiempo trabajado"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "PTU exenta de ISR: parte gravada y recibo de utilidades"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html#guias-ptu",
+    "anchor": "Ver el grupo de guías"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "⌂Inicio"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "▦Calculadoras"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "⇄Comparar"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "▤Artículos"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/finiquito.html",
+    "anchor": "Finiquito"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/iva.html",
+    "anchor": "IVA"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Ver todas"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Todos los artículos"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/privacidad.html",
+    "anchor": "Privacidad"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/terminos.html",
+    "anchor": "Términos"
+  },
+  {
+    "archivo": "articulos/limite-ptu-tres-meses.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#contenido",
+    "anchor": "Saltar al contenido"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "CalculadorasMéxico"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Calculadoras"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "Simuladores"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/ptu.html",
+    "anchor": "Abrir calculadora de PTU"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#exencion",
+    "anchor": "¿Cuánta PTU está exenta de ISR?"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#ejemplo",
+    "anchor": "Ejemplo para separar exento y gravado"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#retencion",
+    "anchor": "¿Qué porcentaje de ISR descuentan de las utilidades?"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#recibo",
+    "anchor": "Qué debe quedar claro en tu desglose"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#limites",
+    "anchor": "El límite de PTU no es la exención de ISR"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#preguntas-frecuentes",
+    "anchor": "Preguntas frecuentes"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "#fuentes",
+    "anchor": "Fuentes"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "calculadora de ISR de salarios"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/que-es-el-isr.html",
+    "anchor": "qué es el ISR retenido"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/leer-recibo-nomina.html",
+    "anchor": "guía para revisar deducciones del recibo"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/limite-ptu-tres-meses.html",
+    "anchor": "límite de tres meses o promedio de tres años"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/ptu.html",
+    "anchor": "estimación del reparto de utilidades"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/que-es-ptu.html",
+    "anchor": "Qué es PTU: reparto de utilidades, fechas y cálculo"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "PTU si renuncio: quién tiene derecho y tiempo trabajado"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/limite-ptu-tres-meses.html",
+    "anchor": "Límite de PTU: tres meses o promedio de tres años"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html#guias-ptu",
+    "anchor": "Ver el grupo de guías"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "⌂Inicio"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "▦Calculadoras"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "⇄Comparar"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "▤Artículos"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/finiquito.html",
+    "anchor": "Finiquito"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/iva.html",
+    "anchor": "IVA"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Ver todas"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Todos los artículos"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/privacidad.html",
+    "anchor": "Privacidad"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/terminos.html",
+    "anchor": "Términos"
+  },
+  {
+    "archivo": "articulos/ptu-exenta-isr.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/que-es-el-isr.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "ISR semanal y quincenal: elegir la tarifa"
+  },
+  {
+    "archivo": "articulos/que-es-el-isr.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/asimilados-a-salarios-isr.html",
+    "anchor": "Ingresos asimilados a salarios"
+  },
+  {
+    "archivo": "articulos/que-es-el-isr.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "Exención de ISR en las utilidades"
+  },
+  {
+    "archivo": "articulos/que-es-el-isr.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/despido-indemnizacion-liquidacion.html#isr-separacion",
+    "anchor": "Por qué separar el ISR de una indemnización"
+  },
+  {
+    "archivo": "articulos/que-es-el-isr.html",
+    "tipo": "pagina existente",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "#contenido",
+    "anchor": "Saltar al contenido"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "CalculadorasMéxico"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Calculadoras"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "Simuladores"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/ptu.html",
+    "anchor": "Abrir calculadora de PTU"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "#obligados",
+    "anchor": "¿Qué empresas están obligadas a repartir utilidades?"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "#fechas",
+    "anchor": "¿Cuándo se pagan las utilidades?"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "#calculo",
+    "anchor": "Cómo calcular PTU: las dos partes del reparto"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "#revision",
+    "anchor": "Qué revisar antes de dar por definitivo el resultado"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "#preguntas-frecuentes",
+    "anchor": "Preguntas frecuentes"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "#fuentes",
+    "anchor": "Fuentes"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "quién tiene derecho a PTU y qué pasa si renuncia"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/ptu.html",
+    "anchor": "calculadora de reparto de utilidades"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/limite-ptu-tres-meses.html",
+    "anchor": "límite de tres meses o promedio de tres años"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "parte de PTU exenta de ISR"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "PTU si renuncio: quién tiene derecho y tiempo trabajado"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/limite-ptu-tres-meses.html",
+    "anchor": "Límite de PTU: tres meses o promedio de tres años"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "PTU exenta de ISR: parte gravada y recibo de utilidades"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html#guias-ptu",
+    "anchor": "Ver el grupo de guías"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "⌂Inicio"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "▦Calculadoras"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "⇄Comparar"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "▤Artículos"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/finiquito.html",
+    "anchor": "Finiquito"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/iva.html",
+    "anchor": "IVA"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Ver todas"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Todos los artículos"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/privacidad.html",
+    "anchor": "Privacidad"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/terminos.html",
+    "anchor": "Términos"
+  },
+  {
+    "archivo": "articulos/que-es-ptu.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "#contenido",
+    "anchor": "Saltar al contenido"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "CalculadorasMéxico"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Calculadoras"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "Simuladores"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "Inicio"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Artículos"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/salario-diario-integrado.html",
+    "anchor": "Abrir calculadora de SDI"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "#diferencias",
+    "anchor": "Salario diario, SDI y SBC: qué cambia"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "#conceptos",
+    "anchor": "Qué conceptos integran el SDI"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "#ejemplo",
+    "anchor": "Ejemplo de SDI con prestaciones conocidas"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "#imss",
+    "anchor": "SDI para IMSS: cuándo debes revisar el SBC"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "#prestaciones",
+    "anchor": "Relación con aguinaldo, vacaciones y terminación laboral"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "#preguntas-frecuentes",
+    "anchor": "Preguntas frecuentes"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "#fuentes",
+    "anchor": "Fuentes"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/salario-diario.html",
+    "anchor": "salario diario"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/salario-diario-integrado.html",
+    "anchor": "calculadora de SDI"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/factor-integracion-sdi.html",
+    "anchor": "factor de integración con prestaciones superiores"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/aguinaldo.html",
+    "anchor": "aguinaldo pactado"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/vacaciones.html",
+    "anchor": "vacaciones por antigüedad"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/con-que-salario-se-calcula-finiquito.html",
+    "anchor": "con qué salario se calcula cada concepto del finiquito"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/factor-integracion-sdi.html",
+    "anchor": "Factor de integración del SDI: fórmula y ejemplos"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html#guias-sdi",
+    "anchor": "Ver el grupo de guías"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/",
+    "anchor": "⌂Inicio"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "▦Calculadoras"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/simuladores.html",
+    "anchor": "⇄Comparar"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "▤Artículos"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/isr.html",
+    "anchor": "ISR"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/finiquito.html",
+    "anchor": "Finiquito"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras/iva.html",
+    "anchor": "IVA"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/calculadoras.html",
+    "anchor": "Ver todas"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos.html",
+    "anchor": "Todos los artículos"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/acerca-de.html",
+    "anchor": "Acerca de"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/privacidad.html",
+    "anchor": "Privacidad"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/terminos.html",
+    "anchor": "Términos"
+  },
+  {
+    "archivo": "articulos/que-es-salario-diario-integrado.html",
+    "tipo": "pagina nueva",
+    "destino": "/contacto.html",
+    "anchor": "Contacto"
+  },
+  {
+    "archivo": "articulos/salario-bruto-neto.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/convertir-salario-mensual-diario-hora.html",
+    "anchor": "Pasar el sueldo mensual a quincenal, diario o por hora"
+  },
+  {
+    "archivo": "articulos/salario-bruto-neto.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Distinguir sueldo base y salario diario integrado"
+  },
+  {
+    "archivo": "calculadoras.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos.html#guias-ptu",
+    "anchor": "PTU: derecho, cálculo y reparto"
+  },
+  {
+    "archivo": "calculadoras.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos.html#guias-sdi",
+    "anchor": "SDI y prestaciones integradas"
+  },
+  {
+    "archivo": "calculadoras.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos.html#guias-salario",
+    "anchor": "Salario y deducciones"
+  },
+  {
+    "archivo": "calculadoras.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos.html#guias-isr",
+    "anchor": "ISR y tipos de pago"
+  },
+  {
+    "archivo": "calculadoras.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos.html#guias-liquidacion",
+    "anchor": "Liquidación e indemnizaciones"
+  },
+  {
+    "archivo": "calculadoras/aumento-salarial.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/convertir-salario-mensual-diario-hora.html#aumento",
+    "anchor": "Comparar el aumento en el mismo periodo"
+  },
+  {
+    "archivo": "calculadoras/aumento-salarial.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/factor-integracion-sdi.html#actualizar",
+    "anchor": "Cuándo cambia el SDI o su factor"
+  },
+  {
+    "archivo": "calculadoras/aumento-salarial.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "calculadoras/finiquito.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "Derecho a PTU al salir del empleo"
+  },
+  {
+    "archivo": "calculadoras/finiquito.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Revisar por separado una indemnización por despido"
+  },
+  {
+    "archivo": "calculadoras/isr.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "Elegir la tarifa semanal, quincenal o mensual"
+  },
+  {
+    "archivo": "calculadoras/isr.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-el-isr.html#tabla-isr-2026",
+    "anchor": "Entender las tablas ISR 2026"
+  },
+  {
+    "archivo": "calculadoras/isr.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/asimilados-a-salarios-isr.html",
+    "anchor": "Asimilados a salarios: alcance de la estimación"
+  },
+  {
+    "archivo": "calculadoras/isr.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "Separar PTU exenta y gravada"
+  },
+  {
+    "archivo": "calculadoras/liquidacion.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Indemnización por despido: partidas y condiciones"
+  },
+  {
+    "archivo": "calculadoras/liquidacion.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Revisar la base salarial integrada"
+  },
+  {
+    "archivo": "calculadoras/liquidacion.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs. liquidaciónConsultar →"
+  },
+  {
+    "archivo": "calculadoras/pago-quincenal.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/convertir-salario-mensual-diario-hora.html#quincena",
+    "anchor": "Quincena frente a catorcena"
+  },
+  {
+    "archivo": "calculadoras/pago-quincenal.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "Qué tarifa corresponde al pago quincenal"
+  },
+  {
+    "archivo": "calculadoras/ptu.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-ptu.html",
+    "anchor": "Qué es PTU, fechas y datos del reparto"
+  },
+  {
+    "archivo": "calculadoras/ptu.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "Derecho a utilidades y renuncia"
+  },
+  {
+    "archivo": "calculadoras/ptu.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/limite-ptu-tres-meses.html",
+    "anchor": "Cómo revisar el límite individual"
+  },
+  {
+    "archivo": "calculadoras/ptu.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "PTU exenta, gravada y pago neto"
+  },
+  {
+    "archivo": "calculadoras/salario-bruto.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/leer-recibo-nomina.html#descuentos-nomina",
+    "anchor": "Deducciones que pueden cambiar el neto"
+  },
+  {
+    "archivo": "calculadoras/salario-bruto.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "calculadoras/salario-diario-integrado.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Salario diario, SDI y SBC ante el IMSS"
+  },
+  {
+    "archivo": "calculadoras/salario-diario-integrado.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/factor-integracion-sdi.html",
+    "anchor": "Factor de integración y prestaciones superiores"
+  },
+  {
+    "archivo": "calculadoras/salario-diario-integrado.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/con-que-salario-se-calcula-finiquito.html",
+    "anchor": "Qué salario corresponde a cada concepto de salida"
+  },
+  {
+    "archivo": "calculadoras/salario-diario.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/convertir-salario-mensual-diario-hora.html",
+    "anchor": "Conversiones de sueldo con ejemplos"
+  },
+  {
+    "archivo": "calculadoras/salario-diario.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Diferencia entre cuota diaria y SDI"
+  },
+  {
+    "archivo": "calculadoras/salario-hora.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/convertir-salario-mensual-diario-hora.html#hora",
+    "anchor": "Valor por hora y horas realmente trabajadas"
+  },
+  {
+    "archivo": "calculadoras/salario-hora.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/horas-extra-2026.html",
+    "anchor": "Guía de horas extraRevisa reglas y ejemplos."
+  },
+  {
+    "archivo": "calculadoras/salario-neto.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/leer-recibo-nomina.html#descuentos-nomina",
+    "anchor": "Revisar descuentos y comparar el recibo"
+  },
+  {
+    "archivo": "calculadoras/salario-neto.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "Usar el mismo periodo para la retención"
+  },
+  {
+    "archivo": "calculadoras/salario-neto.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto"
+  },
+  {
+    "archivo": "fallback-aguinaldo-isr-2026.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/ptu-exenta-isr.html",
+    "anchor": "Cómo separar la exención de las utilidades"
+  },
+  {
+    "archivo": "fallback-aguinaldo-isr-2026.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "Tarifas para el sueldo ordinario"
+  },
+  {
+    "archivo": "fallback-como-calcular-prima-vacacional.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/factor-integracion-sdi.html",
+    "anchor": "Cómo influye la prima en el factor de integración"
+  },
+  {
+    "archivo": "fallback-con-que-salario-se-calcula-finiquito.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Qué integra el salario y cuándo revisar el SDI"
+  },
+  {
+    "archivo": "fallback-con-que-salario-se-calcula-finiquito.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Base y partidas de una indemnización"
+  },
+  {
+    "archivo": "fallback-finiquito-renuncia-voluntaria.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "Revisar PTU pendiente aunque ya no trabajes en la empresa"
+  },
+  {
+    "archivo": "index.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos.html#guias-ptu",
+    "anchor": "PTU: derecho, cálculo y reparto"
+  },
+  {
+    "archivo": "index.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos.html#guias-sdi",
+    "anchor": "SDI y prestaciones integradas"
+  },
+  {
+    "archivo": "index.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos.html#guias-salario",
+    "anchor": "Salario y deducciones"
+  },
+  {
+    "archivo": "index.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos.html#guias-isr",
+    "anchor": "ISR y tipos de pago"
+  },
+  {
+    "archivo": "index.html",
+    "tipo": "pagina existente",
+    "destino": "/articulos.html#guias-liquidacion",
+    "anchor": "Liquidación e indemnizaciones"
+  }
+]

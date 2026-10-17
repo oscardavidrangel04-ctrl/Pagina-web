@@ -42,3 +42,15 @@ body[data-calc="salario-neto"] .faq-section details[open]{background:var(--sn-so
 @media(max-width:850px){body[data-calc="salario-neto"] .side-box{position:static}}
 @media(max-width:600px){.sn-formula{grid-template-columns:1fr;padding:22px}.sn-formula>span{grid-row:auto}.sn-formula>strong{font-size:18px}body[data-calc="salario-neto"] .sn-fields{grid-template-columns:1fr}body[data-calc="salario-neto"] .result-row.total{flex-wrap:wrap;gap:8px}}
 
+
+.sn-example-actions{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 10px}
+.sn-example-actions>span{flex-basis:100%;font-size:.9rem}
+.salario-neto-page [data-sn-example]{border:1px solid var(--sn-line);border-radius:10px;padding:10px 14px;background:var(--sn-soft);color:var(--text);font:inherit;cursor:pointer;line-height:1.4}
+.salario-neto-page [data-sn-example]:hover{border-color:var(--primary)}
+.salario-neto-page [data-sn-example]:focus-visible{outline:3px solid var(--primary);outline-offset:3px}
+.salario-neto-page #calculadora{scroll-margin-top:90px}
+.salario-neto-page .search-cases table{min-width:600px}
+.salario-neto-page .search-cases caption{text-align:left;padding:12px 0;font-size:.9rem;color:var(--muted)}
+.salario-neto-page .sn-calculation-steps li{margin-bottom:10px}
+@media(max-width:600px){body[data-calc="salario-neto"] .page-head h1{font-size:30px}body[data-calc="salario-neto"] .page-head>p{font-size:16px;line-height:1.55}.sn-formula{padding:16px;margin-bottom:18px}.sn-example-actions button{width:100%;text-align:left}}
+

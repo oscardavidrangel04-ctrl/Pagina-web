@@ -264,3 +264,8 @@ body.aguinaldo-page {
     font-size: clamp(1.45rem, 7vw, 1.85rem);
   }
 }
+
+/* Original proportional formula: reserved dimensions avoid image layout shifts. */
+.aguinaldo-formula-visual{max-width:640px;margin:24px auto;}
+.aguinaldo-formula-visual img{display:block;width:100%;height:auto;border-radius:20px;}
+.aguinaldo-formula-visual figcaption{font-size:.9rem;line-height:1.6;margin-top:12px;}

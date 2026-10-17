@@ -1,0 +1,639 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/calendario-para-ahorrar-dinero.html",
+    "file": "articulos\\calendario-para-ahorrar-dinero.html",
+    "served_file": "articulos\\calendario-para-ahorrar-dinero.html",
+    "title": "Calendario para ahorrar dinero cada mes",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/calendario-para-ahorrar-dinero.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/calendario-para-ahorrar-dinero.html",
+    "depth": null,
+    "unique_inlinks": 1,
+    "anchors": [
+      "calendario de ahorro"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-ahorrar-dinero-en-un-ano.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/carta-finiquito-laboral.html",
+    "file": "articulos\\carta-finiquito-laboral.html",
+    "served_file": "articulos\\carta-finiquito-laboral.html",
+    "title": "Carta de finiquito laboral: qué revisar antes de firmar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/carta-finiquito-laboral.html",
+    "robots": "index,follow,max-image-preview:large",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml",
+      "sitemap.xml"
+    ],
+    "outlinks": 9,
+    "path": "/articulos/carta-finiquito-laboral.html",
+    "depth": 2,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Carta de finiquito: datos y declaraciones que debes comprobar",
+      "Leer guía →"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Cobro y documentos de terminación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/carta-pago-deuda.html",
+    "file": "articulos\\carta-pago-deuda.html",
+    "served_file": "articulos\\carta-pago-deuda.html",
+    "title": "Carta de pago de deuda: qué incluir y cómo solicitarla",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/carta-pago-deuda.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/carta-pago-deuda.html",
+    "depth": 5,
+    "unique_inlinks": 2,
+    "anchors": [
+      "cómo documentar la liquidación",
+      "qué debe incluir la carta finiquito"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/liquidar-prestamo-antes-de-tiempo.html",
+      "/articulos/que-pasa-si-no-pago-tarjeta-credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Préstamos y pagos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/carta-poder-cobrar-finiquito.html",
+    "file": "articulos\\carta-poder-cobrar-finiquito.html",
+    "served_file": "articulos\\carta-poder-cobrar-finiquito.html",
+    "title": "Carta poder para cobrar finiquito: qué revisar en México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/carta-poder-cobrar-finiquito.html",
+    "robots": "index,follow,max-image-preview:large",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 9,
+    "path": "/articulos/carta-poder-cobrar-finiquito.html",
+    "depth": null,
+    "unique_inlinks": 0,
+    "anchors": [],
+    "link_contexts": [],
+    "inlink_sources": [],
+    "cluster": "prestaciones",
+    "subtopic": "Cobro y documentos de terminación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/categorias-finanzas-personales.html",
+    "file": "articulos\\categorias-finanzas-personales.html",
+    "served_file": "articulos\\categorias-finanzas-personales.html",
+    "title": "Categorías de finanzas personales para tu presupuesto",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/categorias-finanzas-personales.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/categorias-finanzas-personales.html",
+    "depth": 4,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Elige categorías útiles para el presupuesto",
+      "categorías de tu presupuesto",
+      "organizar categorías del presupuesto"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/articulos/gastos-anuales-en-presupuesto-mensual.html",
+      "/articulos/gastos-hormiga-ejemplos.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cep-spei-como-obtener.html",
+    "file": "articulos\\cep-spei-como-obtener.html",
+    "served_file": "articulos\\cep-spei-como-obtener.html",
+    "title": "Cómo obtener el CEP de una transferencia SPEI",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/cep-spei-como-obtener.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/cep-spei-como-obtener.html",
+    "depth": 5,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Cómo obtener el CEP de un SPEI",
+      "obtener el CEP de SPEI",
+      "obtener el CEP oficial",
+      "obtener y revisar el CEP"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/clave-rastreo-spei-donde-encontrarla.html",
+      "/articulos/como-hacer-transferencia-spei.html",
+      "/articulos/que-es-transferencia-spei.html",
+      "/articulos/spei-liquidado-pero-no-recibido.html"
+    ],
+    "cluster": "transferencias",
+    "subtopic": "Datos, estados y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cetes-28-vs-91-dias.html",
+    "file": "articulos\\cetes-28-vs-91-dias.html",
+    "served_file": "articulos\\cetes-28-vs-91-dias.html",
+    "title": "CETES a 28 vs 91 días: diferencias",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/cetes-28-vs-91-dias.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/cetes-28-vs-91-dias.html",
+    "depth": 5,
+    "unique_inlinks": 3,
+    "anchors": [
+      "28 contra 91 días",
+      "CETES a 28 frente a 91 días",
+      "CETES de 28 frente a 91 días"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-ahorrar-en-cetes.html",
+      "/articulos/cuanto-invertir-cetes-ganar-1000.html",
+      "/articulos/tasa-rendimiento-cetes.html"
+    ],
+    "cluster": "inversion",
+    "subtopic": "CETES"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/clave-rastreo-spei-donde-encontrarla.html",
+    "file": "articulos\\clave-rastreo-spei-donde-encontrarla.html",
+    "served_file": "articulos\\clave-rastreo-spei-donde-encontrarla.html",
+    "title": "Clave de rastreo SPEI: dónde encontrarla y usarla",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/clave-rastreo-spei-donde-encontrarla.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/clave-rastreo-spei-donde-encontrarla.html",
+    "depth": 5,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Dónde encontrar la clave de rastreo",
+      "dónde encontrar la clave de rastreo",
+      "dónde encontrar la clave de rastreo SPEI",
+      "localizar la clave de rastreo"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/cep-spei-como-obtener.html",
+      "/articulos/como-hacer-transferencia-spei.html",
+      "/articulos/que-es-transferencia-spei.html",
+      "/articulos/referencia-spei-vs-clave-rastreo.html"
+    ],
+    "cluster": "transferencias",
+    "subtopic": "Datos, estados y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-abonar-capital-infonavit.html",
+    "file": "articulos\\como-abonar-capital-infonavit.html",
+    "served_file": "articulos\\como-abonar-capital-infonavit.html",
+    "title": "Cómo abonar a capital en Infonavit: pagos extra",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-abonar-capital-infonavit.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/como-abonar-capital-infonavit.html",
+    "depth": 4,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Conoce los pagos extra de un crédito Infonavit"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Vivienda e Infonavit"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-abrir-cuenta-de-ahorro.html",
+    "file": "articulos\\como-abrir-cuenta-de-ahorro.html",
+    "served_file": "articulos\\como-abrir-cuenta-de-ahorro.html",
+    "title": "Cómo abrir una cuenta de ahorro",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-abrir-cuenta-de-ahorro.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/como-abrir-cuenta-de-ahorro.html",
+    "depth": 5,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo abrir una cuenta de ahorro",
+      "cómo abrir una cuenta de ahorro"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-elegir-cuenta-ahorro.html",
+      "/articulos/cuenta-de-ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-afecta-inflacion-ahorro.html",
+    "file": "articulos\\como-afecta-inflacion-ahorro.html",
+    "served_file": "articulos\\como-afecta-inflacion-ahorro.html",
+    "title": "Cómo afecta la inflación al ahorro",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-afecta-inflacion-ahorro.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/como-afecta-inflacion-ahorro.html",
+    "depth": 6,
+    "unique_inlinks": 2,
+    "anchors": [
+      "cómo afecta la inflación al ahorro"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/inflacion-personal-como-calcularla.html",
+      "/articulos/interes-compuesto.html"
+    ],
+    "cluster": "inversion",
+    "subtopic": "Plazos, tasas y rendimientos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-dinero-en-un-ano.html",
+    "file": "articulos\\como-ahorrar-dinero-en-un-ano.html",
+    "served_file": "articulos\\como-ahorrar-dinero-en-un-ano.html",
+    "title": "Cómo ahorrar dinero en un año",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-dinero-en-un-ano.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/como-ahorrar-dinero-en-un-ano.html",
+    "depth": null,
+    "unique_inlinks": 1,
+    "anchors": [
+      "plan de ahorro anual"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/calendario-para-ahorrar-dinero.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-dinero-si-gano-poco.html",
+    "file": "articulos\\como-ahorrar-dinero-si-gano-poco.html",
+    "served_file": "articulos\\como-ahorrar-dinero-si-gano-poco.html",
+    "title": "Cómo ahorrar dinero si gano poco",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-dinero-si-gano-poco.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/como-ahorrar-dinero-si-gano-poco.html",
+    "depth": null,
+    "unique_inlinks": 1,
+    "anchors": [
+      "cómo ahorrar con ingresos bajos"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/calculadoras/reto-ahorro-semanal.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-en-cetes.html",
+    "file": "articulos\\como-ahorrar-en-cetes.html",
+    "served_file": "articulos\\como-ahorrar-en-cetes.html",
+    "title": "Cómo ahorrar en CETES con aportaciones periódicas",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-en-cetes.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/como-ahorrar-en-cetes.html",
+    "depth": 4,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Ahorrar en CETES",
+      "cómo ahorrar en CETES"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/ahorro-recurrente-cetes.html",
+      "/articulos/cetes-28-vs-91-dias.html",
+      "/articulos/finanzas-personales.html"
+    ],
+    "cluster": "inversion",
+    "subtopic": "CETES"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-para-comprar-auto.html",
+    "file": "articulos\\como-ahorrar-para-comprar-auto.html",
+    "served_file": "articulos\\como-ahorrar-para-comprar-auto.html",
+    "title": "Cómo ahorrar para comprar un auto",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-para-comprar-auto.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/como-ahorrar-para-comprar-auto.html",
+    "depth": null,
+    "unique_inlinks": 0,
+    "anchors": [],
+    "link_contexts": [],
+    "inlink_sources": [],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-para-comprar-casa.html",
+    "file": "articulos\\como-ahorrar-para-comprar-casa.html",
+    "served_file": "articulos\\como-ahorrar-para-comprar-casa.html",
+    "title": "Cómo ahorrar para comprar una casa",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-para-comprar-casa.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/como-ahorrar-para-comprar-casa.html",
+    "depth": null,
+    "unique_inlinks": 0,
+    "anchors": [],
+    "link_contexts": [],
+    "inlink_sources": [],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-para-un-viaje.html",
+    "file": "articulos\\como-ahorrar-para-un-viaje.html",
+    "served_file": "articulos\\como-ahorrar-para-un-viaje.html",
+    "title": "Cómo ahorrar para un viaje",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-para-un-viaje.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/como-ahorrar-para-un-viaje.html",
+    "depth": 4,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Planea cuánto ahorrar para un viaje"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-aguinaldo.html",
+    "file": "articulos\\como-calcular-aguinaldo.html",
+    "served_file": "fallback-como-calcular-aguinaldo.html",
+    "title": "Cómo calcular el aguinaldo en México: fórmula y ejemplo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-aguinaldo.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 24,
+    "path": "/articulos/como-calcular-aguinaldo.html",
+    "depth": 2,
+    "unique_inlinks": 40,
+    "anchors": [
+      "Cómo calcular el aguinaldo",
+      "Cómo calcular el aguinaldo\nFórmula, pasos y ejemplos para México.",
+      "Cómo calcular el aguinaldoFórmula general y ejemplos paso a paso.",
+      "Cómo calcular el aguinaldoFórmula y ejemplo →",
+      "Cómo calcular el aguinaldoFórmula, pasos y ejemplos para México.",
+      "Cómo calcular el aguinaldoFórmula, pasos y ejemplos.",
+      "Leer guía →"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-6-meses.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/aguinaldo-por-antiguedad.html",
+      "/articulos/aguinaldo-por-meses.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/como-calcular-prima-vacacional.html",
+      "/articulos/como-se-cuentan-dias-vacaciones.html",
+      "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-se-pagan-vacaciones.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/dias-de-aguinaldo.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/horas-extra-2026.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/me-pueden-negar-vacaciones.html",
+      "/articulos/que-es-el-aguinaldo.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/que-incluye-finiquito.html",
+      "/articulos/salario-bruto-neto.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/aguinaldo.html",
+      "/calculadoras/bono.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/ptu.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-neto.html",
+      "/calculadoras/vacaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-intereses-tarjeta-credito.html",
+    "file": "articulos\\como-calcular-intereses-tarjeta-credito.html",
+    "served_file": "articulos\\como-calcular-intereses-tarjeta-credito.html",
+    "title": "Cómo calcular intereses de una tarjeta de crédito",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-intereses-tarjeta-credito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/como-calcular-intereses-tarjeta-credito.html",
+    "depth": 5,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Cómo calcular intereses",
+      "cómo calcular intereses paso a paso",
+      "estimar los intereses"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-funciona-pago-minimo-tarjeta.html",
+      "/articulos/tarjetas-credito.html",
+      "/calculadoras/intereses-tarjeta-credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Pagos y saldos de tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-isr-sueldo.html",
+    "file": "articulos\\como-calcular-isr-sueldo.html",
+    "served_file": "articulos\\como-calcular-isr-sueldo.html",
+    "title": "Cómo calcular el ISR de tu sueldo en México | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-isr-sueldo.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 20,
+    "path": "/articulos/como-calcular-isr-sueldo.html",
+    "depth": 2,
+    "unique_inlinks": 14,
+    "anchors": [
+      "Cómo calcular el ISR de tu sueldo en México",
+      "Ver el procedimiento con ejemplo",
+      "cómo calcular ISR de sueldo",
+      "cómo calcular el ISR del sueldo"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/asimilados-a-salarios-isr.html",
+      "/articulos/descuentos-nomina-isr-imss.html",
+      "/articulos/isr-semanal-quincenal-mensual.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/salario-bruto-neto.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/salario-neto.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "ISR y nómina"
+  }
+]

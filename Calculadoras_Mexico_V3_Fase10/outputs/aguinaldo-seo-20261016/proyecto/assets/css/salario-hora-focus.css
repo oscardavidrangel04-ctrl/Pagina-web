@@ -1,0 +1,37 @@
+.salario-hora-page .page-head{background:linear-gradient(145deg,#fff 0%,#f5f3ff 55%,#eff6ff 100%);border:1px solid #e9e5ff;box-shadow:0 18px 50px rgba(51,42,116,.08)}
+.salario-hora-page .calc-layout{align-items:start}
+.salario-hora-page .calc-box{border:1px solid #ddd7ff;box-shadow:0 20px 55px rgba(46,35,112,.11)}
+.salary-hour-kicker{display:inline-flex;align-items:center;gap:.35rem;color:#5b43c5;font-size:.78rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+.salary-hour-presets{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:.7rem}
+.salary-hour-presets button{border:1px solid #d9d2f8;border-radius:999px;background:#fff;color:#4c3e91;font:inherit;font-size:.82rem;font-weight:700;padding:.42rem .8rem;cursor:pointer}
+.salary-hour-presets button:hover,.salary-hour-presets button:focus-visible,.salary-hour-presets button.is-active{background:#5b43c5;border-color:#5b43c5;color:#fff}
+.salario-hora-page .calc-controls{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:.65rem}
+.salario-hora-page .calc-controls .calc-button{width:100%;min-width:0;white-space:nowrap}
+.salario-hora-page .calc-controls .reset-button{width:auto;white-space:nowrap}
+.salary-hour-benefits{display:grid;gap:.7rem;margin:1rem 0;padding:0;list-style:none}
+.salary-hour-benefits li{display:flex;align-items:center;gap:.55rem;color:#2f2c4d;font-weight:700}
+.salary-hour-benefits li:before{content:'✓';display:grid;place-items:center;width:1.45rem;height:1.45rem;border-radius:50%;background:#eeeaff;color:#5b43c5;font-size:.8rem}
+.salary-hour-answer{position:relative;overflow:hidden;border:1px solid #ded8ff;background:linear-gradient(135deg,#fff 0%,#f8f6ff 100%)}
+.salary-hour-answer:after{content:'÷';position:absolute;right:2rem;top:.25rem;color:#ece8ff;font-size:8rem;font-weight:900;line-height:1;z-index:0}
+.salary-hour-answer>*{position:relative;z-index:1}
+.salary-hour-formula{display:grid;grid-template-columns:minmax(150px,auto) auto minmax(150px,auto);align-items:center;gap:.65rem;width:max-content;max-width:100%;margin:1.15rem 0;padding:1rem 1.2rem;border-radius:16px;background:#211b4f;color:#fff;box-shadow:0 14px 30px rgba(33,27,79,.18)}
+.salary-hour-formula span{font-weight:750}.salary-hour-formula strong:last-child{grid-column:1/-1;color:#cfc6ff}
+.salary-hour-steps ol{display:grid;grid-template-columns:repeat(3,1fr);gap:.8rem;counter-reset:steps;list-style:none;padding:0}
+.salary-hour-steps li{position:relative;padding:3rem 1rem 1rem;border:1px solid #e8e5f5;border-radius:15px;background:#fff;counter-increment:steps}
+.salary-hour-steps li:before{content:counter(steps);position:absolute;left:1rem;top:.8rem;display:grid;place-items:center;width:1.65rem;height:1.65rem;border-radius:50%;background:#5b43c5;color:#fff;font-weight:800}
+.salario-hora-page .result.has-result{padding:0!important;overflow:hidden;border:1px solid #5b43c5!important;border-radius:16px!important;background:var(--surface)!important;text-align:left}
+.salary-hour-result-head{display:flex;justify-content:space-between;align-items:end;gap:1rem;padding:1.25rem;background:linear-gradient(135deg,#211b4f,#654ee0);color:#fff}
+.salary-hour-result-head span{font-size:.84rem;font-weight:700}.salary-hour-result-head>strong{font-size:clamp(1.55rem,4vw,2.3rem);line-height:1}.salary-hour-result-head small{font-size:.8rem;font-weight:600}
+.salary-hour-result-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:#e7e4f4}
+.salary-hour-result-grid div{display:grid;gap:.28rem;padding:1rem;background:var(--surface)}.salary-hour-result-grid span{color:var(--muted);font-size:.78rem}.salary-hour-result-grid strong{color:var(--text);font-size:1.05rem}
+.salary-hour-result-note{margin:0;padding:.85rem 1rem;background:#f7f5ff;color:#5b5770;font-size:.76rem;line-height:1.5}
+.salary-hour-error{display:grid;gap:.25rem;padding:1rem;border-left:4px solid #c2413a;background:#fff5f4;color:#872f2b;text-align:left}
+.salary-hour-explain-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}.salary-hour-explain-grid>div{padding:1rem;border:1px solid #e7e3f5;border-radius:15px;background:#faf9ff}.salary-hour-explain-grid h3{margin-top:0}
+.salary-hour-sources{display:grid;gap:.55rem;padding-left:1.2rem}.salary-hour-sources a{font-weight:700}
+.salario-hora-page .faq-section details{border:1px solid #e7e3f5;border-radius:13px;background:#fff;margin:.65rem 0;padding:.1rem 1rem}.salario-hora-page .faq-section summary{cursor:pointer;font-weight:750;padding:1rem 1.8rem 1rem 0}.salario-hora-page .faq-section details[open]{background:#faf9ff;border-color:#cfc6ff}
+@media(max-width:760px){.salary-hour-steps ol,.salary-hour-explain-grid{grid-template-columns:1fr}.salary-hour-formula{grid-template-columns:1fr;text-align:center;width:auto}.salary-hour-formula strong:last-child{grid-column:auto}.salary-hour-result-head{align-items:flex-start;flex-direction:column}.salary-hour-answer:after{right:-1rem;font-size:6rem}}
+@media(max-width:420px){.salary-hour-result-grid{grid-template-columns:1fr}.salary-hour-presets button{flex:1}.salary-hour-formula{padding:.9rem}.salario-hora-page .calc-box{padding-inline:1rem}.salario-hora-page .calc-controls{grid-template-columns:1fr}.salario-hora-page .calc-controls .reset-button{width:100%}}
+@media(prefers-reduced-motion:reduce){.salary-hour-presets button{transition:none}}
+html[data-theme="dark"] .salario-hora-page .page-head{background:linear-gradient(145deg,#111c31,#191739)}
+html[data-theme="dark"] .salary-hour-presets button,html[data-theme="dark"] .salary-hour-explain-grid>div,html[data-theme="dark"] .salario-hora-page .faq-section details{background:var(--surface);color:var(--text)}
+html[data-theme="dark"] .salary-hour-result-note{background:var(--surface-2);color:var(--muted)}

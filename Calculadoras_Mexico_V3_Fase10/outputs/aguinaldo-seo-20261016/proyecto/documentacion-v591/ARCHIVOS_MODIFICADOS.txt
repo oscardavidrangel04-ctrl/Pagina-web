@@ -1,0 +1,16 @@
+articulos/asimilados-a-salarios-isr.html
+articulos/como-calcular-isr-sueldo.html
+articulos/con-que-salario-se-calcula-finiquito.html
+articulos/descuentos-nomina-isr-imss.html
+articulos/ejemplo-calculo-finiquito.html
+articulos/isr-semanal-quincenal-mensual.html
+articulos/leer-recibo-nomina.html
+articulos/salario-bruto-neto.html
+calculadoras/horas-extra.html
+calculadoras/isr.html
+calculadoras/pago-quincenal.html
+calculadoras/salario-bruto.html
+calculadoras/salario-diario.html
+calculadoras/salario-hora.html
+calculadoras/salario-neto.html
+

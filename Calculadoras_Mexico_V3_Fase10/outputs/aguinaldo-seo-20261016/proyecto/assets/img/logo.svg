@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" role="img" aria-labelledby="title desc">
+<title id="title">Calculadoras México</title>
+<desc id="desc">Calculadora azul con gráfica verde ascendente</desc>
+<g fill="none" fill-rule="evenodd">
+  <rect x="6" y="6" width="108" height="108" rx="24" fill="#ffffff" opacity=".98"/>
+  <rect x="18" y="18" width="84" height="84" rx="18" fill="#2563eb"/>
+  <rect x="30" y="30" width="60" height="34" rx="8" fill="#eff6ff"/>
+  <path d="M38 57l13-12 10 8 17-18" stroke="#22c55e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M72 35h7v7" stroke="#22c55e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#ffffff">
+    <rect x="30" y="72" width="14" height="10" rx="3"/>
+    <rect x="53" y="72" width="14" height="10" rx="3"/>
+    <rect x="76" y="72" width="14" height="10" rx="3"/>
+    <rect x="30" y="87" width="14" height="10" rx="3"/>
+    <rect x="53" y="87" width="14" height="10" rx="3"/>
+    <rect x="76" y="87" width="14" height="10" rx="3"/>
+  </g>
+  <text x="138" y="52" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" fill="#ffffff">Calculadoras</text>
+  <text x="138" y="94" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" fill="#86efac">México</text>
+</g>
+</svg>

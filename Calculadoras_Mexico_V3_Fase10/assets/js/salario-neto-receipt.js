@@ -33,6 +33,25 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     display(message);
   }, true);
+  document.addEventListener('click', event => {
+    const example = event.target.closest('[data-sn-example]');
+    if (!example) return;
+    const [periodValue, ...amounts] = example.dataset.snExample.split(',');
+    if (!['mensual', 'quincenal', 'semanal'].includes(periodValue) ||
+        amounts.length !== fields.length || amounts.some(value => !Number.isFinite(Number(value)))) return;
+    period.value = periodValue;
+    fields.forEach((field, index) => {
+      field.value = amounts[index];
+      field.dispatchEvent(new Event('input', {bubbles:true}));
+    });
+    deposit.value = '';
+    document.getElementById('snExampleState').textContent =
+      'Ejemplo cargado con descuentos hipotéticos. Puedes editar todos los importes para comprobar tu recibo.';
+    period.dispatchEvent(new Event('change', {bubbles:true}));
+    box.querySelector('.calc-button').click();
+    box.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});
+    fields[0].focus({preventScroll:true});
+  });
   box.addEventListener('input', () => { output.hidden = true; });
   period.addEventListener('change', () => { output.hidden = true; });
   box.querySelector('[data-form-reset]').addEventListener('click', () => { output.hidden = true; deposit.value = ''; });

@@ -1,0 +1,26 @@
+{
+  "version": "5.12.0",
+  "fecha": "2026-09-12",
+  "html_archivos": 137,
+  "sitemap_urls": 109,
+  "errores_html_enlaces_schema_canonical": 0,
+  "javascript_archivos": 20,
+  "javascript_identico_v5_11_0": true,
+  "calculadoras_con_markup_funcional_preservado": [
+    "calculadoras/salario-diario.html",
+    "calculadoras/propina.html",
+    "calculadoras/reparto-cuenta.html",
+    "calculadoras/finiquito.html"
+  ],
+  "inlinks_despues": {
+    "articulos/como-calcular-salario-diario-integrado.html": 10,
+    "articulos/que-es-salario-base-cotizacion.html": 10,
+    "articulos/que-es-propina.html": 9,
+    "articulos/ejemplo-calculo-finiquito.html": 8,
+    "articulos/finiquito-por-antiguedad.html": 8
+  },
+  "advertencias": [
+    "Los fallback históricos conservan canonicals compartidos de forma intencional.",
+    "Las APIs de PageSpeed y accesibilidad no estaban ejecutadas en los CSV de Screaming Frog."
+  ]
+}

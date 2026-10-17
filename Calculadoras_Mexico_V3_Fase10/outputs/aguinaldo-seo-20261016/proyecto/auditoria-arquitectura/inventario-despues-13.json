@@ -1,0 +1,701 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pensionados-viudez-reciben-aguinaldo.html",
+    "file": "articulos\\pensionados-viudez-reciben-aguinaldo.html",
+    "served_file": "articulos\\pensionados-viudez-reciben-aguinaldo.html",
+    "title": "¿Los pensionados por viudez reciben aguinaldo?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/pensionados-viudez-reciben-aguinaldo.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/pensionados-viudez-reciben-aguinaldo.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "¿Los pensionados por viudez reciben aguinaldo?"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-pensionados-imss.html",
+      "/articulos/aguinaldo-pensionados-issste.html",
+      "/articulos/incapacidades-afectan-aguinaldo.html",
+      "/articulos/que-es-el-aguinaldo.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/persona-fisica-actividad-empresarial.html",
+    "file": "articulos\\persona-fisica-actividad-empresarial.html",
+    "served_file": "articulos\\persona-fisica-actividad-empresarial.html",
+    "title": "Persona física con actividad empresarial: impuestos y obligaciones",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/persona-fisica-actividad-empresarial.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/persona-fisica-actividad-empresarial.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Abrir herramienta o guía principal",
+      "Abrir recurso relacionado",
+      "Leer guía →",
+      "Persona física con actividad empresarial: impuestos y obligaciones"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/declaracion-mensual-sat.html",
+      "/temas/impuestos.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/plan-para-ahorrar-dinero.html",
+    "file": "articulos\\plan-para-ahorrar-dinero.html",
+    "served_file": "articulos\\plan-para-ahorrar-dinero.html",
+    "title": "Plan para ahorrar dinero paso a paso",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/plan-para-ahorrar-dinero.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/plan-para-ahorrar-dinero.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Plan para ahorrar dinero paso a paso",
+      "plan para ahorrar dinero"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/calculadoras/ahorro-meta.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/plantilla-gratis-finanzas-personales.html",
+    "file": "articulos\\plantilla-gratis-finanzas-personales.html",
+    "served_file": "articulos\\plantilla-gratis-finanzas-personales.html",
+    "title": "Plantilla gratis de finanzas personales: estructura",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/plantilla-gratis-finanzas-personales.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/plantilla-gratis-finanzas-personales.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Plantilla gratis para finanzas personales",
+      "plantilla de finanzas",
+      "plantilla de finanzas personales"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/aplicaciones-para-ahorrar-dinero.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/metodo-kakebo-ahorrar-dinero.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/plantilla-para-ahorrar-dinero.html",
+    "file": "articulos\\plantilla-para-ahorrar-dinero.html",
+    "served_file": "articulos\\plantilla-para-ahorrar-dinero.html",
+    "title": "Plantilla para ahorrar dinero mensual | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/plantilla-para-ahorrar-dinero.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/plantilla-para-ahorrar-dinero.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Plantilla para ahorrar dinero cada mes",
+      "cómo organizar el ahorro",
+      "plantilla de ahorro",
+      "plantilla mensual de ahorro"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuanto-ahorrar-cada-quincena.html",
+      "/articulos/donde-ahorrar-dinero-y-ganar-intereses.html",
+      "/articulos/fondo-de-emergencia.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/plazo-solicitar-factura.html",
+    "file": "articulos\\plazo-solicitar-factura.html",
+    "served_file": "articulos\\plazo-solicitar-factura.html",
+    "title": "¿Cuánto tiempo tengo para solicitar una factura?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/plazo-solicitar-factura.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/plazo-solicitar-factura.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Leer guía →",
+      "¿Cuánto tiempo tengo para solicitar una factura?"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/xml-factura-electronica.html",
+      "/temas/impuestos.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/por-que-no-puedo-pagar-con-tarjeta-credito.html",
+    "file": "articulos\\por-que-no-puedo-pagar-con-tarjeta-credito.html",
+    "served_file": "articulos\\por-que-no-puedo-pagar-con-tarjeta-credito.html",
+    "title": "Por qué no puedo pagar con mi tarjeta de crédito",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/por-que-no-puedo-pagar-con-tarjeta-credito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/por-que-no-puedo-pagar-con-tarjeta-credito.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "causas de pagos rechazados",
+      "¿Por qué no puedo pagar con mi tarjeta de crédito?"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/que-pasa-si-no-pago-tarjeta-credito.html",
+      "/articulos/tarjeta-credito-digital.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Pagos y saldos de tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/prestamo-para-pagar-deudas.html",
+    "file": "articulos\\prestamo-para-pagar-deudas.html",
+    "served_file": "articulos\\prestamo-para-pagar-deudas.html",
+    "title": "Préstamo para pagar deudas: cuándo conviene",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/prestamo-para-pagar-deudas.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 10,
+    "path": "/articulos/prestamo-para-pagar-deudas.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "Préstamo para pagar deudas: ¿cuándo conviene?",
+      "comparar consolidación y reestructura",
+      "cuándo conviene consolidar deudas",
+      "cuándo conviene un préstamo para consolidar deudas"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-salir-de-deudas-con-poco-dinero.html",
+      "/articulos/metodo-avalancha-pagar-deudas.html",
+      "/articulos/metodo-bola-nieve-pagar-deudas.html",
+      "/articulos/pagar-deudas-o-invertir.html",
+      "/articulos/reestructurar-deuda-que-revisar.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Préstamos y pagos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-con-ingresos-variables.html",
+    "file": "articulos\\presupuesto-con-ingresos-variables.html",
+    "served_file": "articulos\\presupuesto-con-ingresos-variables.html",
+    "title": "Presupuesto con ingresos variables: método práctico",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-con-ingresos-variables.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/presupuesto-con-ingresos-variables.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Cómo hacer un presupuesto con ingresos variables",
+      "Presupuesto con ingresos variables",
+      "hacer presupuesto con ingresos cambiantes"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/articulos/separar-finanzas-personales-negocio.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Presupuesto por periodo y objetivo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-con-pago-quincenal.html",
+    "file": "articulos\\presupuesto-con-pago-quincenal.html",
+    "served_file": "articulos\\presupuesto-con-pago-quincenal.html",
+    "title": "Presupuesto con pago quincenal: fechas y apartados",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-con-pago-quincenal.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/presupuesto-con-pago-quincenal.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Cómo organizar un presupuesto quincenal",
+      "Ordena pagos por quincena",
+      "presupuesto con pago quincenal"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuanto-ahorrar-cada-quincena.html",
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Presupuesto por periodo y objetivo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-familiar-compartido.html",
+    "file": "articulos\\presupuesto-familiar-compartido.html",
+    "served_file": "articulos\\presupuesto-familiar-compartido.html",
+    "title": "Presupuesto familiar compartido: cómo organizarlo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-familiar-compartido.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/presupuesto-familiar-compartido.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Cómo hacer un presupuesto familiar compartido",
+      "Presupuesto familiar compartido",
+      "integrar gastos al presupuesto familiar"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/articulos/presupuesto-para-mascota.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Presupuesto por periodo y objetivo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-para-boda.html",
+    "file": "articulos\\presupuesto-para-boda.html",
+    "served_file": "articulos\\presupuesto-para-boda.html",
+    "title": "Presupuesto para boda: prioridades y control de pagos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-para-boda.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/presupuesto-para-boda.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Controla el presupuesto de una boda",
+      "Cómo hacer un presupuesto para una boda"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Presupuesto por periodo y objetivo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-para-mascota.html",
+    "file": "articulos\\presupuesto-para-mascota.html",
+    "served_file": "articulos\\presupuesto-para-mascota.html",
+    "title": "Presupuesto para mascota: gastos mensuales y anuales",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-para-mascota.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/presupuesto-para-mascota.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo hacer un presupuesto para tu mascota",
+      "Incluye una mascota en el presupuesto"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Presupuesto por periodo y objetivo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-para-mudanza.html",
+    "file": "articulos\\presupuesto-para-mudanza.html",
+    "served_file": "articulos\\presupuesto-para-mudanza.html",
+    "title": "Presupuesto para una mudanza: gastos y ejemplo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-para-mudanza.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/presupuesto-para-mudanza.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo hacer un presupuesto para una mudanza",
+      "Planea una mudanza"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Presupuesto por periodo y objetivo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-personal.html",
+    "file": "articulos\\presupuesto-personal.html",
+    "served_file": "articulos\\presupuesto-personal.html",
+    "title": "Presupuesto personal: cómo hacerlo con un ejemplo mensual",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-personal.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/presupuesto-personal.html",
+    "depth": 2,
+    "unique_inlinks": 9,
+    "anchors": [
+      "Presupuesto personal: cómo hacerlo con tus ingresos reales",
+      "presupuesto",
+      "presupuesto personal",
+      "qué debe incluir un presupuesto personal"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/aplicaciones-para-ahorrar-dinero.html",
+      "/articulos/balance-finanzas-personales.html",
+      "/articulos/como-ahorrar-dinero-si-gano-poco.html",
+      "/articulos/como-hacer-presupuesto-personal.html",
+      "/articulos/como-manejar-finanzas-personales.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/finanzas-sanas-personales.html",
+      "/articulos/gastos-hormiga-ejemplos.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Presupuesto por periodo y objetivo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-si-cobro-semanal.html",
+    "file": "articulos\\presupuesto-si-cobro-semanal.html",
+    "served_file": "articulos\\presupuesto-si-cobro-semanal.html",
+    "title": "Presupuesto si cobro semanal: cómo organizar pagos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-si-cobro-semanal.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/presupuesto-si-cobro-semanal.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo hacer presupuesto si cobras semanalmente",
+      "Presupuesta si cobras cada semana"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Presupuesto por periodo y objetivo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/prima-antiguedad-cuando-aplica.html",
+    "file": "articulos\\prima-antiguedad-cuando-aplica.html",
+    "served_file": "articulos\\prima-antiguedad-cuando-aplica.html",
+    "title": "Cuándo se paga la prima de antigüedad y cómo se calcula",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/prima-antiguedad-cuando-aplica.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/prima-antiguedad-cuando-aplica.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "Cuándo se paga la prima de antigüedad y cómo se calcula",
+      "Prima de antigüedad: cuándo aplica y qué condiciones revisar",
+      "cuándo corresponde",
+      "guía sobre cuándo aplica la prima de antigüedad"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/que-es-salario-diario-integrado.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/prima-antiguedad.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Cobro y documentos de terminación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/propina-obligatoria-mexico.html",
+    "file": "articulos\\propina-obligatoria-mexico.html",
+    "served_file": "fallback-propina-obligatoria-mexico.html",
+    "title": "¿La propina es obligatoria en México? | Profeco y ley",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/propina-obligatoria-mexico.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 15,
+    "path": "/articulos/propina-obligatoria-mexico.html",
+    "depth": 2,
+    "unique_inlinks": 10,
+    "anchors": [
+      "Leer guía →",
+      "si la propina es obligatoria",
+      "si la propina es obligatoria en México",
+      "¿La propina es obligatoria en México?",
+      "¿La propina es obligatoria?",
+      "¿La propina es obligatoria?Leer →",
+      "¿La propina es obligatoria?Profeco, restaurantes y cobros sin consentimiento."
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "footer",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-calcular-iva.html",
+      "/articulos/cuanto-se-deja-propina-mexico.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/que-es-propina.html",
+      "/calculadoras/iva.html",
+      "/calculadoras/porcentaje.html",
+      "/calculadoras/propina.html",
+      "/calculadoras/reparto-cuenta.html",
+      "/temas/herramientas.html"
+    ],
+    "cluster": "herramientas",
+    "subtopic": "Propinas y cuentas compartidas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/ptu-exenta-isr.html",
+    "file": "articulos\\ptu-exenta-isr.html",
+    "served_file": "articulos\\ptu-exenta-isr.html",
+    "title": "PTU exenta de ISR: parte gravada y recibo de utilidades",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/ptu-exenta-isr.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 22,
+    "path": "/articulos/ptu-exenta-isr.html",
+    "depth": 2,
+    "unique_inlinks": 13,
+    "anchors": [
+      "Cómo separar la exención de las utilidades",
+      "Exención de ISR en las utilidades",
+      "PTU exenta de ISR: parte gravada y recibo de utilidades",
+      "PTU exenta y gravada",
+      "PTU exenta y gravada de ISR",
+      "PTU exenta, gravada y pago neto",
+      "Separar PTU exenta y gravada",
+      "parte de PTU exenta de ISR",
+      "parte exenta y gravada de ISR",
+      "retención sobre la parte gravada",
+      "tratamiento de ISR"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/como-calcular-ptu.html",
+      "/articulos/cuando-se-pagan-utilidades.html",
+      "/articulos/derecho-ptu-si-renuncio.html",
+      "/articulos/isr-semanal-quincenal-mensual.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/limite-ptu-tres-meses.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/que-es-ptu.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/ptu.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Reparto de utilidades"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/puntos-credito-infonavit.html",
+    "file": "articulos\\puntos-credito-infonavit.html",
+    "served_file": "articulos\\puntos-credito-infonavit.html",
+    "title": "Cuántos puntos necesito para un crédito Infonavit",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/puntos-credito-infonavit.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 10,
+    "path": "/articulos/puntos-credito-infonavit.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Cuántos puntos necesito para un crédito Infonavit"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/credito-infonavit-desempleo.html",
+      "/articulos/credito-infonavit-terreno.html",
+      "/articulos/termine-pagar-credito-infonavit.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Vivienda e Infonavit"
+  }
+]

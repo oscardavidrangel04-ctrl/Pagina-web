@@ -1,0 +1,797 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-mejorar-score-crediticio.html",
+    "file": "articulos\\como-mejorar-score-crediticio.html",
+    "served_file": "articulos\\como-mejorar-score-crediticio.html",
+    "title": "Cómo mejorar mi score crediticio en México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-mejorar-score-crediticio.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/como-mejorar-score-crediticio.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Cómo mejorar tu score crediticio",
+      "cómo mejorar tu comportamiento crediticio",
+      "cómo mejorar tu score crediticio"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-saber-si-estoy-en-buro-credito.html",
+      "/articulos/cuanto-usar-linea-credito.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Historial y capacidad de crédito"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-organizar-finanzas-personales-excel.html",
+    "file": "articulos\\como-organizar-finanzas-personales-excel.html",
+    "served_file": "articulos\\como-organizar-finanzas-personales-excel.html",
+    "title": "Cómo organizar tus finanzas personales en Excel paso a paso",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-organizar-finanzas-personales-excel.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/como-organizar-finanzas-personales-excel.html",
+    "depth": 2,
+    "unique_inlinks": 7,
+    "anchors": [
+      "Cómo organizar tus finanzas personales en Excel paso a paso",
+      "Organizarlas en Excel",
+      "cómo organizar tus finanzas personales en Excel",
+      "esta guía de Excel"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-cuidar-finanzas-personales.html",
+      "/articulos/como-manejar-finanzas-personales.html",
+      "/articulos/dashboard-finanzas-personales.html",
+      "/articulos/finanzas-personales-excel.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/plantilla-gratis-finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-organizar-primer-sueldo.html",
+    "file": "articulos\\como-organizar-primer-sueldo.html",
+    "served_file": "articulos\\como-organizar-primer-sueldo.html",
+    "title": "Cómo organizar tu primer sueldo: pasos y ejemplo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-organizar-primer-sueldo.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/como-organizar-primer-sueldo.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo organizar tu primer sueldo",
+      "Organiza tu primer sueldo"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-saber-en-que-afore-estoy.html",
+    "file": "articulos\\como-saber-en-que-afore-estoy.html",
+    "served_file": "articulos\\como-saber-en-que-afore-estoy.html",
+    "title": "Cómo saber en qué AFORE estoy: consulta con CURP o NSS | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-saber-en-que-afore-estoy.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/como-saber-en-que-afore-estoy.html",
+    "depth": 2,
+    "unique_inlinks": 9,
+    "anchors": [
+      "Cómo saber en qué AFORE estoy: consulta con CURP o NSS",
+      "Localizar tu AFORE"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aportaciones-voluntarias-afore.html",
+      "/articulos/como-cambiar-de-afore.html",
+      "/articulos/cuenta-ahorro-para-retiro.html",
+      "/articulos/negativa-pension-imss.html",
+      "/articulos/pension-imss-ley-73.html",
+      "/articulos/retiro-por-desempleo-afore.html",
+      "/articulos/semanas-cotizadas-pension-imss.html",
+      "/temas/retiro.html"
+    ],
+    "cluster": "retiro",
+    "subtopic": "AFORE y pensiones"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-saber-saldo-favor-sat.html",
+    "file": "articulos\\como-saber-saldo-favor-sat.html",
+    "served_file": "articulos\\como-saber-saldo-favor-sat.html",
+    "title": "Cómo saber si tengo saldo a favor en el SAT",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-saber-saldo-favor-sat.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/como-saber-saldo-favor-sat.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "Abrir herramienta o guía principal",
+      "Abrir recurso relacionado",
+      "Cómo saber si tengo saldo a favor en el SAT",
+      "Leer guía →"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/cuanto-tarda-sat-devolver-saldo-favor.html",
+      "/articulos/declaracion-anual-asalariados-2026.html",
+      "/articulos/deducciones-personales-2026.html",
+      "/articulos/devolucion-impuestos-sat.html",
+      "/temas/impuestos.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-saber-si-estoy-en-buro-credito.html",
+    "file": "articulos\\como-saber-si-estoy-en-buro-credito.html",
+    "served_file": "articulos\\como-saber-si-estoy-en-buro-credito.html",
+    "title": "Cómo saber si estoy en Buró de Crédito gratis",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-saber-si-estoy-en-buro-credito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/como-saber-si-estoy-en-buro-credito.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo saber si estoy en Buró de Crédito",
+      "cómo consultar tu reporte"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-mejorar-score-crediticio.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Historial y capacidad de crédito"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-sacar-constancia-situacion-fiscal.html",
+    "file": "articulos\\como-sacar-constancia-situacion-fiscal.html",
+    "served_file": "articulos\\como-sacar-constancia-situacion-fiscal.html",
+    "title": "Cómo sacar la Constancia de Situación Fiscal del SAT",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-sacar-constancia-situacion-fiscal.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/como-sacar-constancia-situacion-fiscal.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Abrir herramienta o guía principal",
+      "Abrir recurso relacionado",
+      "Cómo sacar la Constancia de Situación Fiscal del SAT",
+      "Leer guía →"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/para-que-sirve-constancia-situacion-fiscal.html",
+      "/temas/herramientas.html"
+    ],
+    "cluster": "herramientas",
+    "subtopic": "Porcentajes, fechas y otros cálculos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-salir-de-deuda-tarjeta-credito.html",
+    "file": "articulos\\como-salir-de-deuda-tarjeta-credito.html",
+    "served_file": "articulos\\como-salir-de-deuda-tarjeta-credito.html",
+    "title": "Cómo salir de una deuda de tarjeta de crédito",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-salir-de-deuda-tarjeta-credito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/como-salir-de-deuda-tarjeta-credito.html",
+    "depth": 2,
+    "unique_inlinks": 10,
+    "anchors": [
+      "Cómo salir de la deuda",
+      "Cómo salir de una deuda de tarjeta de crédito",
+      "cómo crear un plan para salir de la deuda",
+      "cómo reducir la deuda",
+      "cómo salir de la deuda de tarjeta"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-cancelar-tarjeta-credito.html",
+      "/articulos/como-elegir-tarjeta-credito-sin-anualidad.html",
+      "/articulos/como-funciona-una-tarjeta-de-credito.html",
+      "/articulos/cuanto-usar-linea-credito.html",
+      "/articulos/diferencia-tarjeta-credito-debito.html",
+      "/articulos/pagar-tarjeta-credito-con-otra.html",
+      "/articulos/que-pasa-si-no-pago-tarjeta-credito.html",
+      "/articulos/tarjeta-credito-para-estudiantes.html",
+      "/articulos/tarjetas-credito.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Elegir y utilizar tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-salir-de-deudas-con-poco-dinero.html",
+    "file": "articulos\\como-salir-de-deudas-con-poco-dinero.html",
+    "served_file": "articulos\\como-salir-de-deudas-con-poco-dinero.html",
+    "title": "Cómo salir de deudas con poco dinero",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-salir-de-deudas-con-poco-dinero.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/como-salir-de-deudas-con-poco-dinero.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Cómo salir de deudas con poco dinero",
+      "Plan para salir de deudas",
+      "Salir de deudas con poco dinero",
+      "el plan para salir de deudas",
+      "guía para ordenar tus deudas",
+      "plan para salir de deudas con poco dinero"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/articulos/finanzas-sanas-personales.html",
+      "/articulos/prestamo-para-pagar-deudas.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Préstamos y pagos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-se-cuentan-dias-vacaciones.html",
+    "file": "articulos\\como-se-cuentan-dias-vacaciones.html",
+    "served_file": "fallback-como-se-cuentan-dias-vacaciones.html",
+    "title": "Días de vacaciones por ley en México: cómo contarlos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-se-cuentan-dias-vacaciones.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 28,
+    "path": "/articulos/como-se-cuentan-dias-vacaciones.html",
+    "depth": 2,
+    "unique_inlinks": 11,
+    "anchors": [
+      "Cómo se cuentan los días de vacaciones por ley en México",
+      "Cómo se cuentan los días de vacaciones por ley en MéxicoLeer →",
+      "Cómo se cuentan los díasDías laborables y periodo.",
+      "Leer guía →",
+      "cómo contar los días",
+      "cómo se cuentan los días"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-calcular-pago-vacaciones.html",
+      "/articulos/como-calcular-prima-vacacional.html",
+      "/articulos/cuando-se-pagan-vacaciones.html",
+      "/articulos/isr-prima-vacacional.html",
+      "/articulos/me-pueden-negar-vacaciones.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Vacaciones y descanso"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-se-paga-una-tarjeta-de-credito.html",
+    "file": "articulos\\como-se-paga-una-tarjeta-de-credito.html",
+    "served_file": "articulos\\como-se-paga-una-tarjeta-de-credito.html",
+    "title": "Cómo se paga una tarjeta de crédito correctamente",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-se-paga-una-tarjeta-de-credito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/como-se-paga-una-tarjeta-de-credito.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo se paga una tarjeta de crédito correctamente",
+      "cómo pagar una tarjeta de crédito"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/pagar-tarjeta-credito-en-oxxo.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Elegir y utilizar tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-tener-buenas-finanzas-personales.html",
+    "file": "articulos\\como-tener-buenas-finanzas-personales.html",
+    "served_file": "articulos\\como-tener-buenas-finanzas-personales.html",
+    "title": "Cómo tener buenas finanzas personales: hábitos clave",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-tener-buenas-finanzas-personales.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/como-tener-buenas-finanzas-personales.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo tener buenas finanzas personales"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-aguinaldo.html",
+    "file": "articulos\\con-que-salario-se-calcula-aguinaldo.html",
+    "served_file": "fallback-con-que-salario-se-calcula-aguinaldo.html",
+    "title": "¿Con qué salario se calcula el aguinaldo en México?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-aguinaldo.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 26,
+    "path": "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+    "depth": 2,
+    "unique_inlinks": 47,
+    "anchors": [
+      "Con qué salario se calcula",
+      "Con qué salario se calculaRevisar base →",
+      "Leer guía →",
+      "Qué salario usarRevisar base →",
+      "Revisa qué salario debes utilizar",
+      "Salario para calcular aguinaldo\nAclara qué sueldo usar en el cálculo.",
+      "Salario para calcular aguinaldoAclara qué sueldo usar en el cálculo.",
+      "Salario para calcularloQué sueldo usar en la fórmula.",
+      "con qué salario se calcula el aguinaldo",
+      "¿Con qué salario se calcula el aguinaldo?"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-6-meses.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/aguinaldo-por-antiguedad.html",
+      "/articulos/aguinaldo-por-meses.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/asimilados-a-salarios-isr.html",
+      "/articulos/como-calcular-aguinaldo.html",
+      "/articulos/como-calcular-isr-sueldo.html",
+      "/articulos/como-calcular-pago-vacaciones.html",
+      "/articulos/como-calcular-prima-vacacional.html",
+      "/articulos/como-se-cuentan-dias-vacaciones.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-se-pagan-vacaciones.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/descuentos-nomina-isr-imss.html",
+      "/articulos/dias-de-aguinaldo.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/horas-extra-2026.html",
+      "/articulos/isr-prima-vacacional.html",
+      "/articulos/isr-semanal-quincenal-mensual.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/que-es-el-aguinaldo.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/que-incluye-finiquito.html",
+      "/articulos/salario-bruto-neto.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/aguinaldo.html",
+      "/calculadoras/bono.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/ptu.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/salario-neto.html",
+      "/calculadoras/vacaciones.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-finiquito.html",
+    "file": "articulos\\con-que-salario-se-calcula-finiquito.html",
+    "served_file": "fallback-con-que-salario-se-calcula-finiquito.html",
+    "title": "¿Con qué salario se calcula el finiquito?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-finiquito.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 29,
+    "path": "/articulos/con-que-salario-se-calcula-finiquito.html",
+    "depth": 2,
+    "unique_inlinks": 24,
+    "anchors": [
+      "Leer guía →",
+      "Qué salario corresponde a cada concepto de salida",
+      "Salario para calcularloLeer →",
+      "Salario para finiquitoQué salario usar para estimarlo.",
+      "con qué salario se calcula",
+      "con qué salario se calcula cada concepto del finiquito",
+      "¿Con qué salario se calcula el finiquito?"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/asimilados-a-salarios-isr.html",
+      "/articulos/como-calcular-isr-sueldo.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/descuentos-nomina-isr-imss.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/isr-semanal-quincenal-mensual.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/que-es-salario-diario-integrado.html",
+      "/articulos/que-incluye-finiquito.html",
+      "/articulos/salario-bruto-neto.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/salario-neto.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Finiquito y renuncia"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/conservacion-derechos-imss-ley-73.html",
+    "file": "articulos\\conservacion-derechos-imss-ley-73.html",
+    "served_file": "articulos\\conservacion-derechos-imss-ley-73.html",
+    "title": "Conservación de derechos IMSS Ley 73: periodo y constancia | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/conservacion-derechos-imss-ley-73.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 9,
+    "path": "/articulos/conservacion-derechos-imss-ley-73.html",
+    "depth": 2,
+    "unique_inlinks": 8,
+    "anchors": [
+      "Conservación de derechos IMSS Ley 73: periodo y constancia",
+      "Conservación de derechos Ley 73"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/cuenta-ahorro-para-retiro.html",
+      "/articulos/diferencia-ley-73-ley-97.html",
+      "/articulos/modalidad-40-imss.html",
+      "/articulos/pension-imss-ley-73.html",
+      "/articulos/pension-imss-ley-97.html",
+      "/articulos/semanas-cotizadas-pension-imss.html",
+      "/temas/retiro.html"
+    ],
+    "cluster": "retiro",
+    "subtopic": "AFORE y pensiones"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/convertir-salario-mensual-diario-hora.html",
+    "file": "articulos\\convertir-salario-mensual-diario-hora.html",
+    "served_file": "articulos\\convertir-salario-mensual-diario-hora.html",
+    "title": "Convertir salario mensual a diario, quincenal y por hora",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/convertir-salario-mensual-diario-hora.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 24,
+    "path": "/articulos/convertir-salario-mensual-diario-hora.html",
+    "depth": 2,
+    "unique_inlinks": 20,
+    "anchors": [
+      "Comparar el aumento en el mismo periodo",
+      "Conversiones de sueldo con ejemplos",
+      "Convertir salario mensual a diario, quincenal y por hora",
+      "Pasar el sueldo mensual a quincenal, diario o por hora",
+      "Quincena frente a catorcena",
+      "Salario mensual a quincenal, diario y por hora: ejemplos",
+      "Valor por hora y horas realmente trabajadas"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/asimilados-a-salarios-isr.html",
+      "/articulos/como-calcular-isr-sueldo.html",
+      "/articulos/como-calcular-salario-diario-integrado.html",
+      "/articulos/descuentos-nomina-isr-imss.html",
+      "/articulos/isr-semanal-quincenal-mensual.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/que-es-salario-diario-integrado.html",
+      "/articulos/salario-bruto-neto.html",
+      "/articulos/salario-minimo-diario-mensual-2026.html",
+      "/calculadoras/aumento-salarial.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/salario-neto.html",
+      "/temas/nomina.html"
+    ],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/costo-total-prestamo-como-calcular.html",
+    "file": "articulos\\costo-total-prestamo-como-calcular.html",
+    "served_file": "articulos\\costo-total-prestamo-como-calcular.html",
+    "title": "Costo total de un préstamo: cómo calcularlo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/costo-total-prestamo-como-calcular.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/costo-total-prestamo-como-calcular.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Calcula el costo total del préstamo",
+      "Cómo calcular el costo total de un préstamo",
+      "calcular el costo de un préstamo",
+      "calcular el costo total del préstamo",
+      "el costo total de un préstamo"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/credito-revolvente-vs-prestamo-personal.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/presupuesto-para-boda.html",
+      "/articulos/seguro-asociado-prestamo-que-revisar.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Préstamos y pagos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/credito-infonavit-desempleo.html",
+    "file": "articulos\\credito-infonavit-desempleo.html",
+    "served_file": "articulos\\credito-infonavit-desempleo.html",
+    "title": "Me quedé sin trabajo: cómo pagar mi crédito Infonavit",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/credito-infonavit-desempleo.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 10,
+    "path": "/articulos/credito-infonavit-desempleo.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Me quedé sin trabajo: cómo pagar mi crédito Infonavit"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/credito-infonavit-terreno.html",
+      "/articulos/puntos-credito-infonavit.html",
+      "/articulos/termine-pagar-credito-infonavit.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Vivienda e Infonavit"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/credito-infonavit-terreno.html",
+    "file": "articulos\\credito-infonavit-terreno.html",
+    "served_file": "articulos\\credito-infonavit-terreno.html",
+    "title": "Crédito Infonavit para terreno: requisitos y qué revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/credito-infonavit-terreno.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 10,
+    "path": "/articulos/credito-infonavit-terreno.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Crédito Infonavit para terreno: requisitos y qué revisar"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/credito-infonavit-desempleo.html",
+      "/articulos/puntos-credito-infonavit.html",
+      "/articulos/termine-pagar-credito-infonavit.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Vivienda e Infonavit"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/credito-revolvente-vs-prestamo-personal.html",
+    "file": "articulos\\credito-revolvente-vs-prestamo-personal.html",
+    "served_file": "articulos\\credito-revolvente-vs-prestamo-personal.html",
+    "title": "Crédito revolvente vs préstamo personal: diferencias",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/credito-revolvente-vs-prestamo-personal.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/credito-revolvente-vs-prestamo-personal.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Crédito revolvente frente a préstamo personal",
+      "Crédito revolvente vs préstamo personal"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/tarjetas-credito.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Préstamos y pagos"
+  }
+]

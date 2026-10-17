@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<title>Salario por hora: convierte tu sueldo y compara jornadas</title>
+<meta content="Convierte sueldo mensual, semanal o anual a pago por hora y viceversa. Ajusta tus horas por semana y compara importes. Gratis, sin registro." name="description">
+<meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots">
+<link href="https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html" rel="canonical">
+<link href="/assets/img/favicon.svg" rel="icon" type="image/svg+xml">
+<link href="/manifest.webmanifest" rel="manifest">
+<meta content="Calculadoras México" name="application-name">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="Calculadoras MX" name="apple-mobile-web-app-title">
+<meta content="#5542b5" name="theme-color">
+<meta content="es_MX" property="og:locale">
+<meta content="website" property="og:type">
+<meta content="Salario por hora: convierte tu sueldo y compara jornadas" property="og:title">
+<meta content="Convierte sueldo mensual, semanal o anual a pago por hora y viceversa. Ajusta tus horas por semana y compara importes. Gratis, sin registro." property="og:description">
+<meta content="https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html" property="og:url">
+<meta content="Calculadoras México" property="og:site_name">
+<meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" property="og:image">
+<meta content="summary_large_image" name="twitter:card">
+<meta content="Salario por hora: convierte tu sueldo y compara jornadas" name="twitter:title">
+<meta content="Convierte sueldo mensual, semanal o anual a pago por hora y viceversa. Ajusta tus horas por semana y compara importes. Gratis, sin registro." name="twitter:description">
+<meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" name="twitter:image">
+<link href="/styles-v5628.css?v=5.6.28" rel="stylesheet">
+<script>try{document.documentElement.dataset.theme=localStorage.getItem('cm-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script>
+<link href="/assets/css/interface-v570.css?v=5.7.0" rel="stylesheet">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610" crossorigin="anonymous">
+</script>
+<link rel="stylesheet" href="/assets/css/affiliate-block.css">
+<link rel="stylesheet" href="/assets/css/salario-hora-focus.css?v=20261010"></head>
+<body class="ziro-site cm-ui salario-hora-page" data-calc="salario-hora-v2">
+<a class="skip" href="#contenido">Saltar al contenido</a>
+<header class="site-header">
+<div class="header-inner">
+<a aria-label="Ir al inicio" class="brand" href="/">
+<img src="/assets/img/logo-mark.svg" alt="" width="40" height="40" class="cm-logo-mark">
+<span class="cm-wordmark">Calculadoras<strong>México</strong>
+</span>
+</a>
+<nav aria-label="Navegación principal" class="main-nav" id="main-navigation">
+<a class="" href="/">Inicio</a>
+<a class="active" href="/calculadoras.html" aria-current="page">Calculadoras</a>
+<a href="/simuladores.html">Simuladores</a>
+<a class="" href="/articulos.html">Artículos</a>
+<a href="/acerca-de.html">Acerca de</a>
+<a href="/contacto.html">Contacto</a>
+</nav>
+<div class="header-actions">
+<button aria-label="Abrir buscador" class="icon-button" data-search-open="" title="Buscar (Ctrl+K)" type="button">⌕</button>
+<button aria-label="Cambiar tema" class="icon-button" data-theme-toggle="" type="button">
+<span data-theme-icon="">🌙</span>
+</button>
+<button aria-expanded="false" aria-label="Abrir menú" class="icon-button menu-toggle" data-menu-toggle="" type="button" aria-controls="main-navigation">☰</button>
+</div>
+</div>
+</header>
+<main id="contenido">
+<nav class="breadcrumb" aria-label="Ruta de navegación">
+<a href="/">Inicio</a>
+<span>›</span>
+<a href="/calculadoras.html">Calculadoras</a>
+<span>›</span>
+<span>Salario por hora</span>
+</nav>
+<div class="page-wrap">
+<header class="page-head">
+<span class="category-hero-icon">⏰</span>
+<span class="badge">Nómina</span>
+<h1>Calculadora de salario por hora en México</h1>
+<p>Descubre cuánto equivale tu sueldo por hora o qué sueldo mensual corresponde a una tarifa. Ajusta tus horas semanales y compara los periodos en un solo resultado. La conversión conserva la base bruta o neta del importe que captures.</p>
+<button aria-pressed="false" class="favorite-page" data-favorite="salario-hora" type="button">
+<span data-favorite-icon="">☆</span> <span data-favorite-label="">Guardar</span>
+</button>
+<nav class="cm-page-shortcuts" aria-label="En esta página">
+<a href="#calculadora">Calcular ahora</a>
+<a href="#guia-del-calculo">Guía y referencias</a>
+</nav>
+</header>
+<div class="calc-layout">
+<section aria-label="Formulario de cálculo" class="calc-box" id="calculadora">
+<span class="salary-hour-kicker">Conversión en ambos sentidos</span>
+<h2 class="cm-form-title">Calcula tu salario por hora</h2>
+<p class="cm-form-note">Selecciona el periodo del importe que conoces y captura tus horas semanales habituales.</p>
+<div class="form-group">
+<label for="periodoSalarioHora">¿Qué importe conoces?</label>
+<select id="periodoSalarioHora" aria-describedby="periodoSalarioHora-ayuda">
+<option value="mensual" selected>Sueldo mensual</option>
+<option value="quincenal">Sueldo quincenal</option>
+<option value="semanal">Sueldo semanal</option>
+<option value="anual">Sueldo anual</option>
+<option value="hora">Pago por hora</option>
+</select>
+<small id="periodoSalarioHora-ayuda">La herramienta convertirá este importe a todos los periodos.</small>
+</div>
+<div class="form-group">
+<label for="salario" data-salary-hour-amount-label>Importe mensual</label>
+<input id="salario" inputmode="decimal" min="0.01" step="0.01" type="number" value="15000">
+</div>
+<div class="form-group">
+<label for="horasSemana">Horas trabajadas por semana</label>
+<input id="horasSemana" inputmode="decimal" min="1" max="168" step="0.5" type="number" value="48" aria-describedby="horasSemana-ayuda">
+<small id="horasSemana-ayuda">Usa las horas ordinarias habituales. No sumes horas extra si quieres conocer la tarifa ordinaria equivalente.</small>
+<div class="salary-hour-presets" aria-label="Horas semanales frecuentes">
+<button type="button" data-hours-week="20">20 h</button>
+<button type="button" data-hours-week="40">40 h</button>
+<button type="button" data-hours-week="48" class="is-active">48 h</button>
+</div>
+</div>
+<div class="calc-controls">
+<button class="calc-button" type="button">Calcular</button>
+<button class="reset-button" data-form-reset="" type="button">Limpiar</button>
+</div>
+<small class="form-state" data-form-state="">Los datos se guardan automáticamente en este dispositivo.</small>
+<div aria-live="polite" class="result" id="resultado" tabindex="-1" aria-label="Resultado del cálculo">
+<span>Completa los datos y presiona Calcular.</span>
+</div>
+</section>
+<aside class="side-box">
+<span class="salary-hour-kicker">Resultado completo</span>
+<h2>Compara todos los periodos</h2>
+<ul class="salary-hour-benefits">
+<li>Pago por hora</li>
+<li>Sueldo semanal y quincenal</li>
+<li>Sueldo mensual y anual</li>
+<li>Fórmula utilizada</li>
+</ul>
+<p class="privacy-note">🔒 Los datos se procesan en tu navegador y no se envían a un servidor.</p>
+</aside>
+</div>
+<section class="content-box salary-hour-answer" data-seo-intent="true" id="guia-del-calculo">
+<span class="badge">Respuesta rápida</span>
+<h2>Cómo convertir sueldo mensual a salario por hora</h2>
+<p>Multiplica tus horas semanales por 52 para obtener las horas anuales. Después multiplica el sueldo mensual por 12 y divide el sueldo anual entre las horas anuales.</p>
+<div class="salary-hour-formula" aria-label="Fórmula de salario por hora">
+<span>Sueldo mensual × 12</span>
+<strong>÷</strong>
+<span>Horas semanales × 52</span>
+<strong>= salario por hora</strong>
+</div>
+<p>Ejemplo: $15,000 mensuales y 48 horas semanales equivalen a aproximadamente <strong>$72.12 por hora</strong>. La cifra es una conversión bruta y no descuenta ISR o IMSS.</p>
+<div data-ctr-review="20261015"><h3>Compara ofertas con jornadas diferentes</h3><p>Dos ofertas con el mismo sueldo mensual no necesariamente pagan lo mismo por hora. Con la equivalencia de 52 semanas al año, $18,000 mensuales representan aproximadamente <strong>$103.85 por hora a 40 horas semanales</strong>, frente a <strong>$86.54 a 48 horas</strong>.</p><p>Para comparar, mantén la misma base en ambas ofertas: bruto con bruto o neto con neto. Después revisa prestaciones, descansos y condiciones por separado. Esta conversión no determina si una jornada es legal ni calcula recargos por horas extraordinarias.</p><p>Si conoces la tarifa, selecciona “Pago por hora” y conserva tus horas semanales: la herramienta hace la conversión inversa. Para un pago extraordinario, usa la <a href="/calculadoras/horas-extra.html">calculadora de horas extra</a>.</p></div></section>
+<section aria-label="Publicidad" class="ad-slot ad-slot-banner">
+<span class="ad-label">Publicidad</span>
+<div class="ad-banner-inner">
+<script>atOptions={'key':'94dbe87812d642e0600cc58986b093c2','format':'iframe','height':250,'width':300,'params':{}};</script>
+<script src="https://bleatbehind.com/94dbe87812d642e0600cc58986b093c2/invoke.js">
+</script>
+</div>
+</section>
+<section class="content-box salary-hour-steps">
+<h2>Cómo usar la calculadora de salario por hora</h2>
+<ol>
+<li>Elige si conoces tu sueldo mensual, quincenal, semanal, anual o tu pago por hora.</li>
+<li>Captura el importe antes de deducciones y tus horas ordinarias por semana.</li>
+<li>Pulsa <strong>Calcular</strong> para comparar las equivalencias por hora, semana, quincena, mes y año.</li>
+</ol>
+<p>Para jornadas de medio tiempo o variables, introduce el promedio semanal que represente el mismo periodo del salario. Separa las horas extraordinarias de la jornada ordinaria.</p>
+</section>
+<section class="content-box seo-guide">
+<aside aria-label="Ficha de confianza del contenido" class="trust-record">
+<div>
+<span>Última revisión</span>
+<strong>10 de octubre de 2026</strong>
+</div>
+<div>
+<span>Metodología</span>
+<strong>Fórmula y desglose visibles</strong>
+</div>
+<div>
+<span>Referencia</span>
+<a href="https://www.profedet.gob.mx/" rel="noopener noreferrer">PROFEDET · Derechos laborales ↗</a>
+</div>
+</aside>
+<p class="updated-note">Contenido revisado el 12 de octubre de 2026</p>
+<h2>Cómo se calcula salario por hora</h2>
+<p>La calculadora convierte primero el importe capturado a una equivalencia anual. Después divide ese total entre las horas ordinarias estimadas del año. Así puedes comparar periodos distintos con una misma base.</p>
+<h3>Fórmula y procedimiento</h3>
+<p><strong>Horas anuales = horas semanales × 52.</strong> Para un sueldo mensual, el salario por hora se obtiene con: <strong>(sueldo mensual × 12) ÷ horas anuales</strong>. Para una tarifa por hora, la operación se invierte para estimar semana, quincena, mes y año.</p>
+<h3>Ejemplo práctico</h3>
+<p>Con $18,000 mensuales y 48 horas semanales, el sueldo anual equivalente es $216,000 y las horas anuales estimadas son 2,496. La operación $216,000 ÷ 2,496 produce <strong>$86.54 por hora</strong>.</p>
+<h3>Tabla de sueldo mensual a pago por hora</h3>
+<div class="cm-table-scroll" tabindex="0" role="region" aria-label="Ejemplos de conversión de sueldo mensual a pago por hora">
+<table>
+<thead>
+<tr>
+<th>Sueldo mensual</th>
+<th>Sueldo semanal equivalente</th>
+<th>Pago por hora (48 h/semana)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>$12,000</td>
+<td>$2,769.23</td>
+<td>$57.69 por hora</td>
+</tr>
+<tr>
+<td>$18,000</td>
+<td>$4,153.85</td>
+<td>$86.54 por hora</td>
+</tr>
+<tr>
+<td>$24,000</td>
+<td>$5,538.46</td>
+<td>$115.38 por hora</td>
+</tr>
+<tr>
+<td>$30,000</td>
+<td>$6,923.08</td>
+<td>$144.23 por hora</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Los ejemplos usan 48 horas semanales durante 52 semanas como supuesto matemático editable. No representan una jornada obligatoria para todas las personas ni incluyen horas extra, prestaciones, ISR o IMSS.</p>
+<!-- KEYWORD_RESEARCH: salario y sueldo por hora 2026-10-09 -->
+<h3>Cómo calcular el sueldo por hora en Excel</h3>
+<p>Coloca el sueldo mensual en A2 y las horas semanales en B2. Escribe <code>=(A2*12)/(B2*52)</code> en C2. Con 18000 y 48 obtendrás aproximadamente $86.54 por hora.</p>
+<p>Usa valores positivos y aplica formato monetario al resultado. Conserva todos los decimales durante la operación y redondea únicamente la cifra final.</p>
+<h3>Jornadas parciales o con distinta duración</h3>
+<p>Si trabajas medio tiempo, captura las horas semanales reales. Si la duración cambia cada semana, calcula un promedio representativo del mismo periodo salarial. No mezcles horas extraordinarias con la jornada ordinaria: su pago puede seguir reglas diferentes.</p>
+<h3>Cómo interpretar el resultado</h3>
+<p>Usa el resultado como punto de comparación y modifica los datos para probar escenarios. Revisa tanto la cifra principal como las filas del desglose: entender la base, la tasa, el plazo o la proporción empleada es más útil que quedarse únicamente con el total.</p>
+<h3>Salario bruto, neto y horas extra</h3>
+<p>Si capturas un sueldo bruto, todas las equivalencias son brutas. La herramienta no descuenta ISR o cuotas del IMSS ni calcula salario diario integrado. Tampoco determina el pago legal de horas extra; para ese escenario utiliza la <a href="/calculadoras/horas-extra.html">calculadora de horas extra</a>.</p>
+<aside class="source-note">
+<strong>Referencia oficial:</strong> <a href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf" rel="noopener noreferrer">Ley Federal del Trabajo, Cámara de Diputados</a>. <span>Consulta la norma vigente y las condiciones de tu caso.</span>
+</aside>
+</section>
+<section class="content-box" id="elegir-conversion-hora">
+<h2>¿Buscas el valor de una hora o tu salario diario?</h2>
+<p>Para estimar cuánto ganas por hora con esta herramienta, utiliza el periodo del sueldo y tus horas semanales habituales. Mantén esos datos iguales al comparar dos empleos: una oferta con mayor sueldo puede exigir más horas.</p>
+<p>Si necesitas la referencia diaria de nómina, abre la <a href="/calculadoras/salario-diario.html">calculadora de salario diario</a>. Si solo quieres convertir el sueldo mensual en dos pagos al mes, utiliza <a href="/calculadoras/pago-quincenal.html">pago quincenal</a>. Son conversiones con supuestos distintos; el divisor de 30 días no equivale al número de jornadas efectivamente trabajadas.</p>
+</section>
+<section class="content-box faq-section">
+<h2>Preguntas frecuentes sobre salario por hora</h2>
+<details class="faq-item"><summary>¿Cómo calcular mi sueldo por hora?</summary><p>Convierte tu ingreso a sueldo anual y divídelo entre tus horas anuales. Si conoces el sueldo mensual, usa: (sueldo mensual × 12) ÷ (horas semanales × 52).</p></details>
+<details class="faq-item"><summary>¿Cómo convertir sueldo mensual a salario por hora?</summary><p>Multiplica el sueldo mensual por 12 y las horas semanales por 52. Después divide el primer resultado entre el segundo. Por ejemplo, $15,000 mensuales con 48 horas semanales equivalen a $72.12 por hora.</p></details>
+<details class="faq-item"><summary>¿Cómo convertir salario anual a pago por hora?</summary><p>Divide el salario anual entre las horas semanales multiplicadas por 52. Un salario anual de $240,000 con 40 horas por semana equivale a $115.38 por hora.</p></details>
+<details class="faq-item"><summary>¿Puedo convertir pago por hora a sueldo mensual y anual?</summary><p>Sí. Elige Pago por hora, captura la tarifa y tus horas semanales. La calculadora mostrará las equivalencias semanal, quincenal, mensual y anual.</p></details>
+<details class="faq-item"><summary>¿Cuántas horas trabajadas tiene un mes?</summary><p>Depende de la jornada. Para comparar periodos, la calculadora usa el promedio mensual: horas semanales × 52 ÷ 12. Con 48 horas semanales son 208 horas mensuales en promedio.</p></details>
+<details class="faq-item"><summary>¿Sirve para una jornada de medio tiempo?</summary><p>Sí. Captura las horas semanales reales, por ejemplo 20 o 24. Si tu jornada cambia, usa un promedio que represente el mismo periodo del salario.</p></details>
+<details class="faq-item"><summary>¿El resultado es bruto o neto?</summary><p>El resultado conserva la naturaleza del importe capturado. Si ingresas sueldo bruto, las equivalencias son brutas; la herramienta no descuenta ISR ni cuotas del IMSS.</p></details>
+<details class="faq-item"><summary>¿La calculadora incluye horas extra?</summary><p>No. Usa solamente horas ordinarias. El pago de horas extra puede tener reglas diferentes; para ese caso utiliza la calculadora de horas extra.</p></details>
+<details class="faq-item"><summary>¿Qué tan preciso es el cálculo?</summary><p>La operación es exacta para los datos capturados. La equivalencia usa 52 semanas por año, por lo que una jornada variable debe representarse con un promedio semanal razonable.</p></details>
+<details class="faq-item"><summary>¿Se guardan mis datos en un servidor?</summary><p>No. El cálculo se ejecuta localmente en tu navegador y no envía tus datos salariales a un servidor.</p></details>
+</section>
+<section aria-label="Publicidad" class="ad-slot ad-slot-native">
+<span class="ad-label">Publicidad</span>
+<script async="async" data-cfasync="false" src="https://bleatbehind.com/409e3950cb7b10082bb628969be6611a/invoke.js">
+</script>
+<div id="container-409e3950cb7b10082bb628969be6611a">
+</div>
+</section>
+<section class="portal-related">
+<div class="section-title compact">
+<span class="badge">Continúa calculando</span>
+<h2>Herramientas relacionadas con salario por hora</h2>
+<p>Recomendaciones elegidas por categoría y tema.</p>
+</div>
+<div class="grid" data-related-list="salario-hora">
+<article class="card calculator-card" data-search="horas extra calcula una referencia de pago doble y triple. nómina jornada pago hora">
+<button aria-label="Guardar Horas extra" aria-pressed="false" class="favorite-mini" data-favorite="horas-extra" type="button">
+<span data-favorite-icon="">☆</span>
+</button>
+<div aria-hidden="true" class="icon">⏱️</div>
+<span class="card-kicker">Nómina</span>
+<h3>Horas extra</h3>
+<p>Calcula una referencia de pago doble y triple.</p>
+<a class="card-link" href="/calculadoras/horas-extra.html">Abrir calculadora →</a>
+</article>
+<article class="card calculator-card" data-search="bono calcula bono bruto y total con salario. nómina bonificación porcentaje sueldo">
+<button aria-label="Guardar Bono" aria-pressed="false" class="favorite-mini" data-favorite="bono" type="button">
+<span data-favorite-icon="">☆</span>
+</button>
+<div aria-hidden="true" class="icon">🎁</div>
+<span class="card-kicker">Nómina</span>
+<span class="new-badge">Nueva</span>
+<h3>Bono</h3>
+<p>Calcula bono bruto y total con salario.</p>
+<a class="card-link" href="/calculadoras/bono.html">Abrir calculadora →</a>
+</article>
+<article class="card calculator-card" data-search="pago quincenal convierte salario mensual a quincenal y diario. nómina salario sueldo quincena nómina">
+<button aria-label="Guardar Pago quincenal" aria-pressed="false" class="favorite-mini" data-favorite="pago-quincenal" type="button">
+<span data-favorite-icon="">☆</span>
+</button>
+<div aria-hidden="true" class="icon">📆</div>
+<span class="card-kicker">Nómina</span>
+<span class="new-badge">Nueva</span>
+<h3>Pago quincenal</h3>
+<p>Convierte salario mensual a quincenal y diario.</p>
+<a class="card-link" href="/calculadoras/pago-quincenal.html">Abrir calculadora →</a>
+</article>
+<article class="card calculator-card" data-search="prima dominical calcula una referencia por trabajar en domingo. nómina domingo salario prima">
+<button aria-label="Guardar Prima dominical" aria-pressed="false" class="favorite-mini" data-favorite="prima-dominical" type="button">
+<span data-favorite-icon="">☆</span>
+</button>
+<div aria-hidden="true" class="icon">🌞</div>
+<span class="card-kicker">Nómina</span>
+<h3>Prima dominical</h3>
+<p>Calcula una referencia por trabajar en domingo.</p>
+<a class="card-link" href="/calculadoras/prima-dominical.html">Abrir calculadora →</a>
+</article>
+</div>
+</section>
+</div>
+<!-- ONPAGE_FINO_2026_SALARIO_HORA -->
+<section class="content-box salary-hour-interpretation">
+<h2>Cómo interpretar y usar tu pago por hora</h2>
+<div class="salary-hour-explain-grid">
+<div><h3>Por qué cambia con la jornada</h3><p>El mismo sueldo se reparte entre más o menos horas. $15,000 mensuales equivalen a $72.12 por hora con 48 horas semanales y a $86.54 con 40 horas.</p></div>
+<div><h3>Para comparar ofertas</h3><p>Convierte cada propuesta con sus propias horas semanales y compara sueldo, tiempo y prestaciones. Una tarifa más alta no siempre significa un mejor ingreso total.</p></div>
+<div><h3>Para calcular desde una tarifa</h3><p>Selecciona <strong>Pago por hora</strong> para estimar sueldo semanal, quincenal, mensual y anual con la misma jornada.</p></div>
+</div>
+</section>
+<section class="content-box salary-hour-methodology">
+<h2>Metodología y referencias laborales</h2>
+<p>La herramienta hace una conversión matemática con 52 semanas por año. No determina el salario mínimo legal, el salario diario integrado ni sustituye el contrato o el recibo de nómina.</p>
+<p>La Ley Federal del Trabajo distingue jornadas diurna, nocturna y mixta. Para pagos extraordinarios consulta también la guía oficial de PROFEDET: las primeras nueve horas extra semanales se pagan al doble y el excedente al triple.</p>
+<ul class="salary-hour-sources">
+<li><a href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf" target="_blank" rel="noopener noreferrer">Ley Federal del Trabajo vigente — Cámara de Diputados ↗</a></li>
+<li><a href="https://profedet.gob.mx/micrositio/index.php/horas-extras-u-horas-de-trabajo-extraordinario" target="_blank" rel="noopener noreferrer">Horas extra — PROFEDET ↗</a></li>
+</ul>
+</section>
+<!-- ARCHITECTURE: contextual routes 2026-10-09 --><section class="content-box architecture-related" aria-label="Tema y lecturas relacionadas"><h2>Continúa según tu objetivo</h2><p>Para encontrar herramientas y explicaciones de este tema, consulta <a href="/temas/nomina.html">Salario y nómina</a>.</p></section></main>
+<nav aria-label="Navegación móvil" class="mobile-dock">
+<a href="/">
+<span>⌂</span>Inicio</a>
+<a href="/calculadoras.html">
+<span>▦</span>Calculadoras</a>
+<a href="/simuladores.html">
+<span>⇄</span>Comparar</a>
+<button data-search-open="" type="button">
+<span>⌕</span>Buscar</button>
+<a href="/articulos.html">
+<span>▤</span>Artículos</a>
+</nav>
+<aside class="cm-affiliate" aria-label="Publicidad: AliExpress"><div class="cm-affiliate__inner"><div class="cm-affiliate__content"><p class="cm-affiliate__label">Publicidad · AliExpress</p><a class="cm-affiliate__button" href="https://rzekl.com/g/1e8d114494934a2368b316525dc3e8/" target="_blank" rel="sponsored nofollow noopener" aria-describedby="aliexpress-affiliate-disclosure"><svg aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 7h12l1 14H5L6 7Z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg><span>Ver ofertas en AliExpress</span><span class="cm-affiliate__new-tab">↗<span class="cm-affiliate__sr-only"> (se abre en una nueva pestaña)</span></span></a></div><p class="cm-affiliate__disclosure" id="aliexpress-affiliate-disclosure">Enlace de afiliado. Podemos recibir una comisión si realizas una compra, sin costo adicional para ti.</p></div></aside><footer class="footer">
+<div class="footer-grid">
+<div>
+<h3>Calculadoras México</h3>
+<p>Herramientas gratuitas y guías claras. Tus favoritos e historial permanecen en tu dispositivo.</p>
+</div>
+<div>
+<h3>Calculadoras</h3>
+<a href="/calculadoras/isr.html">ISR</a>
+<a href="/calculadoras/aguinaldo.html">Aguinaldo</a>
+<a href="/calculadoras/iva.html">IVA</a>
+<a href="/calculadoras.html">Ver todas</a>
+</div>
+<div>
+<h3>Aprende</h3>
+<a href="/articulos.html">Todos los artículos</a>
+<a href="/articulos/que-es-el-isr.html">¿Qué es el ISR?</a>
+<a href="/articulos/salario-bruto-neto.html">Salario bruto y neto</a>
+</div>
+<div>
+<h3>Información</h3>
+<a href="/acerca-de.html">Acerca de</a>
+<a href="/privacidad.html">Privacidad</a>
+<a href="/terminos.html">Términos</a>
+<a href="/contacto.html">Contacto</a>
+</div>
+</div>
+<div class="footer-bottom">© 2026 Calculadoras México.<span>Resultados informativos; no sustituyen asesoría profesional.</span>
+</div>
+</footer>
+<div aria-hidden="true" aria-label="Buscador" aria-modal="true" class="search-dialog" role="dialog">
+<div class="search-panel">
+<div class="search-head">
+<input aria-label="Buscar en el sitio" class="global-search" placeholder="Busca ISR, finiquito, IVA..." type="search">
+<button aria-label="Cerrar" class="icon-button modal-close" data-search-close="" type="button">✕</button>
+</div>
+<div class="search-results">
+</div>
+</div>
+</div>
+<script defer src="/assets/js/catalog.js?v=5.1.0">
+</script>
+<script defer src="/assets/js/common.js?v=5.7.0">
+</script>
+<script defer src="/_vercel/insights/script.js">
+</script>
+<script defer src="/assets/js/calculators.js?v=5.5.5">
+</script>
+<script defer src="/assets/js/salario-hora-focus.js?v=20261010"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Salario por hora: convierte tu sueldo y compara jornadas","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html","description":"Convierte sueldo mensual, semanal o anual a pago por hora y viceversa. Ajusta tus horas por semana y compara importes. Gratis, sin registro.","dateModified":"2026-10-15","@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html#webpage","inLanguage":"es-MX","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"}},{"@type":"WebApplication","name":"Salario por hora: convierte tu sueldo y compara jornadas","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html","applicationCategory":"FinanceApplication","operatingSystem":"Cualquier sistema con navegador web","inLanguage":"es-MX","isAccessibleForFree":true,"featureList":["Convertir sueldo mensual a salario por hora","Convertir sueldo semanal, quincenal y anual","Convertir pago por hora a sueldo mensual y anual","Comparar jornadas semanales"],"description":"Convierte sueldo mensual, semanal o anual a pago por hora y viceversa. Ajusta tus horas por semana y compara importes. Gratis, sin registro."},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"Salario por hora","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html"}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cómo calcular mi sueldo por hora?","acceptedAnswer":{"@type":"Answer","text":"Convierte tu ingreso a sueldo anual y divídelo entre tus horas anuales. Si conoces el sueldo mensual, usa: (sueldo mensual × 12) ÷ (horas semanales × 52)."}},{"@type":"Question","name":"¿Cómo convertir sueldo mensual a salario por hora?","acceptedAnswer":{"@type":"Answer","text":"Multiplica el sueldo mensual por 12 y las horas semanales por 52. Después divide el primer resultado entre el segundo. Por ejemplo, $15,000 mensuales con 48 horas semanales equivalen a $72.12 por hora."}},{"@type":"Question","name":"¿Cómo convertir salario anual a pago por hora?","acceptedAnswer":{"@type":"Answer","text":"Divide el salario anual entre las horas semanales multiplicadas por 52. Un salario anual de $240,000 con 40 horas por semana equivale a $115.38 por hora."}},{"@type":"Question","name":"¿Puedo convertir pago por hora a sueldo mensual y anual?","acceptedAnswer":{"@type":"Answer","text":"Sí. Elige Pago por hora, captura la tarifa y tus horas semanales. La calculadora mostrará las equivalencias semanal, quincenal, mensual y anual."}},{"@type":"Question","name":"¿Cuántas horas trabajadas tiene un mes?","acceptedAnswer":{"@type":"Answer","text":"Depende de la jornada. Para comparar periodos, la calculadora usa el promedio mensual: horas semanales × 52 ÷ 12. Con 48 horas semanales son 208 horas mensuales en promedio."}},{"@type":"Question","name":"¿Sirve para una jornada de medio tiempo?","acceptedAnswer":{"@type":"Answer","text":"Sí. Captura las horas semanales reales, por ejemplo 20 o 24. Si tu jornada cambia, usa un promedio que represente el mismo periodo del salario."}},{"@type":"Question","name":"¿El resultado es bruto o neto?","acceptedAnswer":{"@type":"Answer","text":"El resultado conserva la naturaleza del importe capturado. Si ingresas sueldo bruto, las equivalencias son brutas; la herramienta no descuenta ISR ni cuotas del IMSS."}},{"@type":"Question","name":"¿La calculadora incluye horas extra?","acceptedAnswer":{"@type":"Answer","text":"No. Usa solamente horas ordinarias. El pago de horas extra puede tener reglas diferentes; para ese caso utiliza la calculadora de horas extra."}},{"@type":"Question","name":"¿Qué tan preciso es el cálculo?","acceptedAnswer":{"@type":"Answer","text":"La operación es exacta para los datos capturados. La equivalencia usa 52 semanas por año, por lo que una jornada variable debe representarse con un promedio semanal razonable."}},{"@type":"Question","name":"¿Se guardan mis datos en un servidor?","acceptedAnswer":{"@type":"Answer","text":"No. El cálculo se ejecuta localmente en tu navegador y no envía tus datos salariales a un servidor."}}]}</script>
+<script defer src="/assets/js/interface-v570.js?v=5.7.0">
+</script>
+</body>
+</html>

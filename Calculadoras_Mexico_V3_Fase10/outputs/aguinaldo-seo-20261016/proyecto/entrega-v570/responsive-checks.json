@@ -1,0 +1,21 @@
+{
+  "version": "5.7.0",
+  "total_views": 146,
+  "failures": [],
+  "previous_session": {
+    "confirmed_views": 132,
+    "failures": [],
+    "source": "Resultado del navegador conservado en la conversación: count 132, failures []"
+  },
+  "final_session": {
+    "views": 14,
+    "failures": []
+  },
+  "coverage": {
+    "320": 119,
+    "390": 9,
+    "768": 9,
+    "1280": 9
+  },
+  "method": "Iframe responsive con medición de clientWidth y scrollWidth; scripts de terceros aislados durante QA. No sustituye revisión visual exhaustiva."
+}

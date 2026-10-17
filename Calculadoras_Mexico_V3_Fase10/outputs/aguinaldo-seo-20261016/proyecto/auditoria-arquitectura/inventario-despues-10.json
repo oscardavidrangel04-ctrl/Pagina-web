@@ -1,0 +1,858 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-personales.html",
+    "file": "articulos\\finanzas-personales.html",
+    "served_file": "articulos\\finanzas-personales.html",
+    "title": "Finanzas personales: guía para organizar tu dinero",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-personales.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 61,
+    "path": "/articulos/finanzas-personales.html",
+    "depth": 2,
+    "unique_inlinks": 67,
+    "anchors": [
+      "Finanzas",
+      "Finanzas personales",
+      "Finanzas personales: organiza, ahorra y decide mejor",
+      "finanzas personales"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos/abonar-capital-vs-reducir-plazo.html",
+      "/articulos/abono-capital-vs-adelantar-mensualidades.html",
+      "/articulos/ahorro-automatico-quincenal.html",
+      "/articulos/ahorro-para-estudios-hijos.html",
+      "/articulos/aplicaciones-para-ahorrar-dinero.html",
+      "/articulos/calendario-para-ahorrar-dinero.html",
+      "/articulos/como-abonar-capital-infonavit.html",
+      "/articulos/como-ahorrar-dinero-en-un-ano.html",
+      "/articulos/como-ahorrar-dinero-si-gano-poco.html",
+      "/articulos/como-ahorrar-para-comprar-auto.html",
+      "/articulos/como-ahorrar-para-comprar-casa.html",
+      "/articulos/como-ahorrar-para-un-viaje.html",
+      "/articulos/como-ensenar-ahorrar-ninos.html",
+      "/articulos/como-manejar-finanzas-personales.html",
+      "/articulos/como-mejorar-score-crediticio.html",
+      "/articulos/como-organizar-primer-sueldo.html",
+      "/articulos/como-saber-si-estoy-en-buro-credito.html",
+      "/articulos/como-salir-de-deudas-con-poco-dinero.html",
+      "/articulos/como-tener-buenas-finanzas-personales.html",
+      "/articulos/costo-total-prestamo-como-calcular.html",
+      "/articulos/cuanto-ahorrar-cada-quincena.html",
+      "/articulos/cuanto-tarda-transferencia-spei.html",
+      "/articulos/cuenta-de-ahorro.html",
+      "/articulos/diferencia-clabe-numero-tarjeta-cuenta.html",
+      "/articulos/diversificar-inversiones-principiantes.html",
+      "/articulos/finanzas-personales-para-principiantes.html",
+      "/articulos/fondo-emergencia-vs-ahorro-meta.html",
+      "/articulos/fondo-mantenimiento-hogar.html",
+      "/articulos/gastos-anuales-en-presupuesto-mensual.html",
+      "/articulos/gastos-hormiga-ejemplos.html",
+      "/articulos/gat-nominal-vs-gat-real.html",
+      "/articulos/horizonte-inversion-como-elegir.html",
+      "/articulos/impuestos-rendimientos-inversiones-mexico.html",
+      "/articulos/inflacion-personal-como-calcularla.html",
+      "/articulos/liquidar-prestamo-antes-de-tiempo.html",
+      "/articulos/liquidez-inversion-que-significa.html",
+      "/articulos/metodo-avalancha-pagar-deudas.html",
+      "/articulos/metodo-bola-nieve-pagar-deudas.html",
+      "/articulos/metodo-kakebo-ahorrar-dinero.html",
+      "/articulos/metodo-sobres-ahorrar-dinero.html",
+      "/articulos/pagar-deudas-o-invertir.html",
+      "/articulos/pagare-bancario-como-funciona.html",
+      "/articulos/pago-minimo-vs-pago-no-generar-intereses.html",
+      "/articulos/plan-para-ahorrar-dinero.html",
+      "/articulos/plantilla-gratis-finanzas-personales.html",
+      "/articulos/presupuesto-con-ingresos-variables.html",
+      "/articulos/presupuesto-con-pago-quincenal.html",
+      "/articulos/presupuesto-familiar-compartido.html",
+      "/articulos/presupuesto-para-boda.html",
+      "/articulos/presupuesto-para-mascota.html",
+      "/articulos/presupuesto-para-mudanza.html",
+      "/articulos/presupuesto-si-cobro-semanal.html",
+      "/articulos/que-es-transferencia-spei.html",
+      "/articulos/que-hacer-con-aumento-de-sueldo.html",
+      "/articulos/que-hacer-con-dinero-ahorrado.html",
+      "/articulos/reinvertir-rendimientos-o-retirarlos.html",
+      "/articulos/rendimiento-total-vs-tasa-anual.html",
+      "/articulos/seguro-asociado-prestamo-que-revisar.html",
+      "/articulos/separar-finanzas-personales-negocio.html",
+      "/articulos/tabla-amortizacion-prestamo-como-leerla.html",
+      "/articulos/tabla-para-ahorrar-dinero-semanal.html",
+      "/articulos/tarjetas-credito.html",
+      "/articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+      "/articulos/transferencia-spei-cuenta-equivocada.html",
+      "/articulos/vale-la-pena-tarjeta-con-anualidad.html",
+      "/calculadoras/capacidad-endeudamiento.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-sanas-personales.html",
+    "file": "articulos\\finanzas-sanas-personales.html",
+    "served_file": "articulos\\finanzas-sanas-personales.html",
+    "title": "Finanzas personales sanas: 7 hábitos prácticos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-sanas-personales.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 11,
+    "path": "/articulos/finanzas-sanas-personales.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo tener finanzas personales sanas",
+      "Revisa hábitos de finanzas sanas"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-incapacidad-permanente-parcial.html",
+    "file": "articulos\\finiquito-incapacidad-permanente-parcial.html",
+    "served_file": "articulos\\finiquito-incapacidad-permanente-parcial.html",
+    "title": "Finiquito por incapacidad permanente parcial: qué revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-incapacidad-permanente-parcial.html",
+    "robots": "index,follow,max-image-preview:large",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 10,
+    "path": "/articulos/finiquito-incapacidad-permanente-parcial.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Finiquito por incapacidad permanente parcial: qué revisar",
+      "finiquito e incapacidad permanente parcial"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/pago-incapacidad-imss.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Terminación y seguridad social"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-jubilacion-issste.html",
+    "file": "articulos\\finiquito-jubilacion-issste.html",
+    "served_file": "articulos\\finiquito-jubilacion-issste.html",
+    "title": "Finiquito por jubilación ISSSTE: qué revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-jubilacion-issste.html",
+    "robots": "index,follow,max-image-preview:large",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 11,
+    "path": "/articulos/finiquito-jubilacion-issste.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Finiquito por jubilación ISSSTE: qué revisar"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finiquito-por-jubilacion.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Terminación y seguridad social"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-pension-invalidez-temporal.html",
+    "file": "articulos\\finiquito-pension-invalidez-temporal.html",
+    "served_file": "articulos\\finiquito-pension-invalidez-temporal.html",
+    "title": "Finiquito y pensión por invalidez temporal: diferencias",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-pension-invalidez-temporal.html",
+    "robots": "index,follow,max-image-preview:large",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 10,
+    "path": "/articulos/finiquito-pension-invalidez-temporal.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Finiquito y pensión por invalidez temporal: diferencias",
+      "finiquito y la pensión por invalidez temporal"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finiquito-por-despido.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Terminación y seguridad social"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-antiguedad.html",
+    "file": "articulos\\finiquito-por-antiguedad.html",
+    "served_file": "articulos\\finiquito-por-antiguedad.html",
+    "title": "Finiquito por antigüedad: qué cambia | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-antiguedad.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 16,
+    "path": "/articulos/finiquito-por-antiguedad.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "Finiquito por antigüedad y años trabajados",
+      "Finiquito por antigüedad: qué cambia con los años trabajados",
+      "qué cambia según la antigüedad laboral"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/ejemplo-calculo-finiquito.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/calculadoras/finiquito.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Finiquito y renuncia"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-despido.html",
+    "file": "articulos\\finiquito-por-despido.html",
+    "served_file": "articulos\\finiquito-por-despido.html",
+    "title": "Finiquito por despido en México: qué incluye y cómo revisarlo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-despido.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 18,
+    "path": "/articulos/finiquito-por-despido.html",
+    "depth": 2,
+    "unique_inlinks": 3,
+    "anchors": [
+      "Finiquito por despido en México: qué incluye y cómo revisarlo",
+      "Finiquito por despido: qué incluye y cómo revisarlo",
+      "guía de finiquito por despido"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/que-es-el-finiquito.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Despido e indemnización"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-jubilacion.html",
+    "file": "articulos\\finiquito-por-jubilacion.html",
+    "served_file": "articulos\\finiquito-por-jubilacion.html",
+    "title": "Finiquito por jubilación y Ley Federal del Trabajo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-jubilacion.html",
+    "robots": "index,follow,max-image-preview:large",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 11,
+    "path": "/articulos/finiquito-por-jubilacion.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Finiquito por jubilación y Ley Federal del Trabajo"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finiquito-jubilacion-issste.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Terminación y seguridad social"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-renuncia-voluntaria.html",
+    "file": "articulos\\finiquito-renuncia-voluntaria.html",
+    "served_file": "fallback-finiquito-renuncia-voluntaria.html",
+    "title": "Finiquito por renuncia voluntaria: ¿cuánto te corresponde?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-renuncia-voluntaria.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 31,
+    "path": "/articulos/finiquito-renuncia-voluntaria.html",
+    "depth": 2,
+    "unique_inlinks": 26,
+    "anchors": [
+      "Finiquito por renuncia",
+      "Finiquito por renuncia voluntaria",
+      "Finiquito por renuncia voluntaria: ¿cuánto te corresponde?",
+      "Finiquito por renunciaComparar escenario →",
+      "Finiquito por renunciaLeer →",
+      "Finiquito por renunciaQué considerar si renuncias.",
+      "Leer guía →",
+      "Renuncia voluntaria",
+      "Renuncia voluntariaVer derechos generales →",
+      "finiquito por renuncia",
+      "finiquito por renuncia voluntaria",
+      "qué corresponde al renunciar"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "footer",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/carta-poder-cobrar-finiquito.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/cuanto-finiquito-un-ano-renuncia.html",
+      "/articulos/derecho-ptu-si-renuncio.html",
+      "/articulos/despido-indemnizacion-liquidacion.html",
+      "/articulos/despido-justificado-cuanto-me-toca.html",
+      "/articulos/ejemplo-calculo-finiquito.html",
+      "/articulos/finiquito-incapacidad-permanente-parcial.html",
+      "/articulos/finiquito-jubilacion-issste.html",
+      "/articulos/finiquito-pension-invalidez-temporal.html",
+      "/articulos/finiquito-por-antiguedad.html",
+      "/articulos/finiquito-por-despido.html",
+      "/articulos/finiquito-por-jubilacion.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/firmar-renuncia-antes-de-finiquito.html",
+      "/articulos/formato-finiquito-laboral.html",
+      "/articulos/liquidacion-por-cierre-de-empresa.html",
+      "/articulos/no-me-quieren-pagar-finiquito.html",
+      "/articulos/que-es-indemnizacion-constitucional.html",
+      "/articulos/que-incluye-finiquito.html",
+      "/calculadoras/finiquito.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Finiquito y renuncia"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-vs-liquidacion.html",
+    "file": "articulos\\finiquito-vs-liquidacion.html",
+    "served_file": "articulos\\finiquito-vs-liquidacion.html",
+    "title": "Diferencia entre finiquito y liquidación en México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-vs-liquidacion.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 31,
+    "path": "/articulos/finiquito-vs-liquidacion.html",
+    "depth": 1,
+    "unique_inlinks": 63,
+    "anchors": [
+      "Diferencia entre finiquito y liquidación en México",
+      "Diferencias entre finiquito y liquidación",
+      "Distinguir liquidación de finiquito",
+      "Finiquito vs liquidación",
+      "Finiquito vs liquidaciónDiferencias entre ambos conceptos.",
+      "Finiquito vs liquidaciónEntender la diferencia →",
+      "Finiquito vs liquidaciónLeer →",
+      "Finiquito vs. liquidación",
+      "Finiquito vs. liquidaciónAbrir herramienta o guía →",
+      "Finiquito vs. liquidaciónConsultar →",
+      "Finiquito y liquidaciónVer diferencias →",
+      "LaboralFiniquito vs. liquidaciónConoce diferencias frecuentes al terminar una relación laboral.",
+      "Leer artículo →",
+      "Leer guía →",
+      "Ver diferencias",
+      "Ver diferencias entre finiquito y liquidaciónAbrir herramienta o guía →",
+      "finiquito o liquidación",
+      "finiquito vs liquidación",
+      "finiquito vs. liquidación",
+      "finiquito y la liquidación",
+      "finiquito y liquidación",
+      "prima de antigüedad y diferencias"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "footer",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/",
+      "/acerca-de.html",
+      "/articulos.html",
+      "/articulos/aguinaldo-3-meses.html",
+      "/articulos/aguinaldo-6-meses.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/aguinaldo-por-antiguedad.html",
+      "/articulos/aguinaldo-por-meses.html",
+      "/articulos/aguinaldo-proporcional.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/asimilados-a-salarios-isr.html",
+      "/articulos/carta-finiquito-laboral.html",
+      "/articulos/carta-poder-cobrar-finiquito.html",
+      "/articulos/como-calcular-aguinaldo.html",
+      "/articulos/como-calcular-isr-sueldo.html",
+      "/articulos/como-calcular-iva.html",
+      "/articulos/como-calcular-ptu.html",
+      "/articulos/como-calcular-salario-diario-integrado.html",
+      "/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/convertir-salario-mensual-diario-hora.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-se-paga-aguinaldo.html",
+      "/articulos/cuando-se-pagan-utilidades.html",
+      "/articulos/cuando-tengo-derecho-aguinaldo.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/cuanto-finiquito-un-ano-renuncia.html",
+      "/articulos/derecho-ptu-si-renuncio.html",
+      "/articulos/descuentos-nomina-isr-imss.html",
+      "/articulos/despido-indemnizacion-liquidacion.html",
+      "/articulos/despido-justificado-cuanto-me-toca.html",
+      "/articulos/dias-de-aguinaldo.html",
+      "/articulos/ejemplo-calculo-finiquito.html",
+      "/articulos/factor-integracion-sdi.html",
+      "/articulos/finiquito-incapacidad-permanente-parcial.html",
+      "/articulos/finiquito-jubilacion-issste.html",
+      "/articulos/finiquito-pension-invalidez-temporal.html",
+      "/articulos/finiquito-por-antiguedad.html",
+      "/articulos/finiquito-por-despido.html",
+      "/articulos/finiquito-por-jubilacion.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/firmar-renuncia-antes-de-finiquito.html",
+      "/articulos/formato-finiquito-laboral.html",
+      "/articulos/horas-extra-2026.html",
+      "/articulos/isr-semanal-quincenal-mensual.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/limite-ptu-tres-meses.html",
+      "/articulos/liquidacion-por-cierre-de-empresa.html",
+      "/articulos/no-me-quieren-pagar-finiquito.html",
+      "/articulos/prima-antiguedad-cuando-aplica.html",
+      "/articulos/ptu-exenta-isr.html",
+      "/articulos/que-es-el-isr.html",
+      "/articulos/que-es-indemnizacion-constitucional.html",
+      "/articulos/que-es-ptu.html",
+      "/articulos/que-es-salario-base-cotizacion.html",
+      "/articulos/que-es-salario-diario-integrado.html",
+      "/articulos/que-incluye-finiquito.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/prima-antiguedad.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Despido e indemnización"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/firmar-renuncia-antes-de-finiquito.html",
+    "file": "articulos\\firmar-renuncia-antes-de-finiquito.html",
+    "served_file": "articulos\\firmar-renuncia-antes-de-finiquito.html",
+    "title": "Firmar renuncia antes de finiquito: qué revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/firmar-renuncia-antes-de-finiquito.html",
+    "robots": "index,follow,max-image-preview:large",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 10,
+    "path": "/articulos/firmar-renuncia-antes-de-finiquito.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Firmar renuncia antes de finiquito: qué revisar",
+      "qué revisar si te piden firmar la renuncia antes del finiquito"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/no-me-quieren-pagar-finiquito.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Cobro y documentos de terminación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-de-emergencia.html",
+    "file": "articulos\\fondo-de-emergencia.html",
+    "served_file": "articulos\\fondo-de-emergencia.html",
+    "title": "Qué es un fondo de emergencia y cuánto necesitas",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-de-emergencia.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/fondo-de-emergencia.html",
+    "depth": 2,
+    "unique_inlinks": 10,
+    "anchors": [
+      "Fondo de emergencia",
+      "Qué es un fondo de emergencia",
+      "fondo de emergencia",
+      "la guía general del fondo de emergencia",
+      "planear un fondo de emergencia",
+      "qué es un fondo de emergencia"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/apartados-cuenta-ahorro.html",
+      "/articulos/calcular-fondo-emergencia.html",
+      "/articulos/como-ahorrar-para-un-viaje.html",
+      "/articulos/cuenta-ahorro-tradicional.html",
+      "/articulos/donde-guardar-fondo-emergencia.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/fondo-emergencia-ingresos-variables.html",
+      "/articulos/fondo-emergencia-vs-ahorro-meta.html",
+      "/calculadoras/fondo-emergencia.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Reservas para imprevistos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-emergencia-ingresos-variables.html",
+    "file": "articulos\\fondo-emergencia-ingresos-variables.html",
+    "served_file": "articulos\\fondo-emergencia-ingresos-variables.html",
+    "title": "Fondo de emergencia con ingresos variables",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-emergencia-ingresos-variables.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/fondo-emergencia-ingresos-variables.html",
+    "depth": 2,
+    "unique_inlinks": 7,
+    "anchors": [
+      "Adapta tu fondo de emergencia",
+      "Fondo de emergencia si tienes ingresos variables",
+      "adaptar tu fondo de emergencia",
+      "guía para ingresos variables"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/calcular-fondo-emergencia.html",
+      "/articulos/donde-guardar-fondo-emergencia.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/fondo-de-emergencia.html",
+      "/articulos/presupuesto-con-ingresos-variables.html",
+      "/calculadoras/fondo-emergencia.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Reservas para imprevistos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-emergencia-vs-ahorro-meta.html",
+    "file": "articulos\\fondo-emergencia-vs-ahorro-meta.html",
+    "served_file": "articulos\\fondo-emergencia-vs-ahorro-meta.html",
+    "title": "Fondo de emergencia vs ahorro para metas",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-emergencia-vs-ahorro-meta.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 11,
+    "path": "/articulos/fondo-emergencia-vs-ahorro-meta.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "Fondo de emergencia vs ahorro para una meta",
+      "Separar emergencias de metas"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/calcular-fondo-emergencia.html",
+      "/articulos/donde-guardar-fondo-emergencia.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/fondo-emergencia-ingresos-variables.html",
+      "/calculadoras/fondo-emergencia.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Reservas para imprevistos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-mantenimiento-hogar.html",
+    "file": "articulos\\fondo-mantenimiento-hogar.html",
+    "served_file": "articulos\\fondo-mantenimiento-hogar.html",
+    "title": "Fondo para mantenimiento del hogar: cómo calcularlo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-mantenimiento-hogar.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/fondo-mantenimiento-hogar.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Crea un fondo de mantenimiento del hogar",
+      "Cómo crear un fondo para mantenimiento del hogar"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Reservas para imprevistos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/formato-finiquito-laboral.html",
+    "file": "articulos\\formato-finiquito-laboral.html",
+    "served_file": "articulos\\formato-finiquito-laboral.html",
+    "title": "Carta de finiquito laboral en México: formato y revisión",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/formato-finiquito-laboral.html",
+    "robots": "index,follow,max-image-preview:large",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 11,
+    "path": "/articulos/formato-finiquito-laboral.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Carta de finiquito laboral en México: formato y qué revisar",
+      "Consultar un formato orientativo",
+      "Leer guía →",
+      "formato de finiquito laboral",
+      "formato orientativo de finiquito"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/carta-finiquito-laboral.html",
+      "/articulos/que-es-el-finiquito.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Cobro y documentos de terminación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/gastos-anuales-en-presupuesto-mensual.html",
+    "file": "articulos\\gastos-anuales-en-presupuesto-mensual.html",
+    "served_file": "articulos\\gastos-anuales-en-presupuesto-mensual.html",
+    "title": "Gastos anuales en el presupuesto mensual: cómo apartarlos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/gastos-anuales-en-presupuesto-mensual.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/gastos-anuales-en-presupuesto-mensual.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Apartar gastos anuales cada mes",
+      "Cómo incluir gastos anuales en tu presupuesto mensual",
+      "apartar gastos no mensuales",
+      "integrar gastos anuales al presupuesto",
+      "preparar los gastos anuales del hogar"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/articulos/fondo-mantenimiento-hogar.html",
+      "/articulos/presupuesto-familiar-compartido.html",
+      "/articulos/presupuesto-si-cobro-semanal.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Presupuesto por periodo y objetivo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/gastos-hormiga-ejemplos.html",
+    "file": "articulos\\gastos-hormiga-ejemplos.html",
+    "served_file": "articulos\\gastos-hormiga-ejemplos.html",
+    "title": "Gastos hormiga: ejemplos y cómo reducirlos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/gastos-hormiga-ejemplos.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/gastos-hormiga-ejemplos.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Detecta gastos hormiga",
+      "Gastos hormiga: ejemplos y cómo reducirlos"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/gat-nominal-vs-gat-real.html",
+    "file": "articulos\\gat-nominal-vs-gat-real.html",
+    "served_file": "articulos\\gat-nominal-vs-gat-real.html",
+    "title": "GAT nominal vs GAT real: diferencia y ejemplo",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/gat-nominal-vs-gat-real.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/gat-nominal-vs-gat-real.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "GAT nominal vs GAT real: ¿cuál es la diferencia?",
+      "GAT nominal y real",
+      "diferencia entre GAT nominal y GAT real",
+      "entender GAT nominal y real",
+      "entender la GAT"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-ahorro-alto-rendimiento.html",
+      "/articulos/cuenta-de-ahorro.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/rendimiento-diario-cuenta-ahorro.html",
+      "/articulos/rendimiento-total-vs-tasa-anual.html",
+      "/temas/nomina.html"
+    ],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/horario-transferencias-spei.html",
+    "file": "articulos\\horario-transferencias-spei.html",
+    "served_file": "articulos\\horario-transferencias-spei.html",
+    "title": "Horario de transferencias SPEI: noche, sábados y festivos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/horario-transferencias-spei.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/horario-transferencias-spei.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Horario de transferencias SPEI: ¿funciona de noche y en fin de semana?",
+      "horario de SPEI",
+      "horario de transferencias",
+      "horario de transferencias SPEI",
+      "los horarios de SPEI"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuanto-tarda-transferencia-spei.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/que-es-transferencia-spei.html",
+      "/temas/transferencias.html"
+    ],
+    "cluster": "transferencias",
+    "subtopic": "Datos, estados y seguimiento"
+  }
+]

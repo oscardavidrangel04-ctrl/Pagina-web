@@ -1,0 +1,40 @@
+{
+  "archivos": {
+    "calculadoras/aguinaldo.html": {
+      "original_sha256": "3842cd0e831aa1528a0a88f797abc29774f14c959377e81c0010175e6c02dd9c",
+      "nuevo_sha256": "327c5a9956d758fbc3b64fadccc9dad7cd061a45fb681f4c76d57d0d5c032b43",
+      "bytes": 62480
+    },
+    "assets/js/aguinaldo-premium.js": {
+      "original_sha256": "967a75a5d1600feba7c8fff04495ea109b11f0d04ec4a178ba41fef57404e716",
+      "nuevo_sha256": "e16c05b20980010b74c40db44eff2a84d792e45959197cde2ee03e1be2dd2b32",
+      "bytes": 30660
+    },
+    "assets/css/aguinaldo-focus.css": {
+      "original_sha256": "9fecb911263c881795a2ac0bb52a0dd8f8075da76b0aa27e1608ed8e6c8c90ea",
+      "nuevo_sha256": "f10c4158b0cb7657293a7ef42854f09168544bd7b888025c7e1a396bd8c7d6a5",
+      "bytes": 6931
+    },
+    "assets/img/aguinaldo-proporcional-pasos.svg": {
+      "original_sha256": null,
+      "nuevo_sha256": "0dcd9dd55434f4249dbb559363c1722a76b388d9ec4277acd9a7a091b5b774e1",
+      "bytes": 2159
+    },
+    "sitemap.xml": {
+      "original_sha256": "4bec4fba72830578b499310848686d40983d9391a797460cad919782c4e868ee",
+      "nuevo_sha256": "4d2c3f6a003146bd1e82ca54c5b55c3816a284ab8534d03700f04b5a3abd3229",
+      "bytes": 19188
+    },
+    "scripts/test-aguinaldo-focus.cjs": {
+      "original_sha256": "7b208af951bfff3afb37d2dcddd66c0dca2d3921bc9b510ce9777f5a0858fce4",
+      "nuevo_sha256": "4bdf63a954085345f98acea0130b83f63a07a2790ed0734bc55e2fc6b8db4a4e",
+      "bytes": 10879
+    }
+  },
+  "validacion": {
+    "enlaces_y_recursos_locales_faltantes": [],
+    "ids_unicos": 39,
+    "sitemap_xml": "OK",
+    "svg_xml": "OK"
+  }
+}

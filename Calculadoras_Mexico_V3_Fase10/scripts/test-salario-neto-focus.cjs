@@ -19,7 +19,8 @@ const {chromium} = require('C:/Users/Casa/.cache/codex-runtimes/codex-primary-ru
  // CTR revision uses an evergreen title: this tool takes manual deductions, not a year's tax table.
  if(!await page.title().then(t=>t.includes('sueldo neto')&&t.includes('bruto a neto')&&t.includes('México')))throw Error('SEO title');
  const description=await page.locator('meta[name="description"]').getAttribute('content');
- if(!description||!description.includes('sueldo neto')||!description.includes('Deducciones manuales'))throw Error('Meta description must disclose manual deductions');
+ if(!description||!description.includes('sueldo neto')||!description.includes('Captura'))throw Error('Meta description must describe entered deductions');
+ if(!(await page.locator('.cm-form-note').innerText()).includes('no calcula ISR ni IMSS automáticamente'))throw Error('Missing calculator scope');
  const schemas=await page.evaluate(()=>Array.from(document.querySelectorAll('script[type="application/ld+json"]')).map(e=>JSON.parse(e.textContent)));
  if(!JSON.stringify(schemas).includes('WebApplication'))throw Error('WebApplication schema');
  await page.locator('#salario').fill('20000');
@@ -45,6 +46,15 @@ const {chromium} = require('C:/Users/Casa/.cache/codex-runtimes/codex-primary-ru
  const faq=schemas.find(x=>x['@type']==='FAQPage');
  const visible=await page.locator('.faq-section details').evaluateAll(nodes=>nodes.map(n=>({q:n.querySelector('summary').textContent,a:n.querySelector('p').textContent})));
  if(JSON.stringify(visible)!==JSON.stringify(faq.mainEntity.map(x=>({q:x.name,a:x.acceptedAnswer.text}))))throw Error('FAQ mismatch');
+ await page.locator('[data-sn-example="quincenal,10000,1100,250,400"]').click();
+ if(!(await page.locator('#resultado').innerText()).includes('8,250'))throw Error('Quarter-month example failed');
+ if(await page.locator('#snPeriodo').inputValue()!=='quincenal')throw Error('Example period not set');
+ if(await page.locator('#snDeposito').inputValue()!=='')throw Error('Old deposit retained in example');
+ await page.locator('[data-sn-example="semanal,5000,450,120,80"]').click();
+ if(!(await page.locator('#resultado').innerText()).includes('4,350'))throw Error('Weekly example failed');
+ await page.locator('[data-sn-example="mensual,15000,1600,400,0"]').focus();
+ await page.keyboard.press('Enter');
+ if(!(await page.locator('#resultado').innerText()).includes('13,000'))throw Error('Keyboard example failed');
  await page.evaluate(()=>window.scrollTo(0,0));
  await page.screenshot({path:path.join(root,'outputs/salario-neto-desktop.png'),fullPage:false});
  await page.setViewportSize({width:390,height:844});
@@ -58,6 +68,8 @@ const {chromium} = require('C:/Users/Casa/.cache/codex-runtimes/codex-primary-ru
  await page.screenshot({path:path.join(root,'outputs/salario-neto-faq-mobile.png'),fullPage:false});
  await page.evaluate(()=>document.documentElement.dataset.theme='dark');
  if(await page.evaluate(()=>document.documentElement.scrollWidth>window.innerWidth))throw Error('Dark overflow');
+ await page.setViewportSize({width:320,height:780});
+ if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth))throw Error('320px overflow');
  if(errors.length)throw Error(errors.join('\n'));
  console.log('Desktop/mobile, calculation, SEO schema, FAQ and browser errors: OK');
  await browser.close();

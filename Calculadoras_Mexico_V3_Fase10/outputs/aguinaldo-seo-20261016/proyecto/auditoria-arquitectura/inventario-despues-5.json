@@ -1,0 +1,820 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-iva.html",
+    "file": "articulos\\como-calcular-iva.html",
+    "served_file": "articulos\\como-calcular-iva.html",
+    "title": "Cómo calcular IVA 16%: agregar, quitar y desglosar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-iva.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 20,
+    "path": "/articulos/como-calcular-iva.html",
+    "depth": 1,
+    "unique_inlinks": 7,
+    "anchors": [
+      "Cómo calcular IVA",
+      "Cómo calcular IVAConsulta la explicación paso a paso.",
+      "Cómo calcular el IVA en México: agregar, quitar y desglosar 16%",
+      "Guía: cómo calcular IVA\nConsultar →",
+      "IVACómo agregar, quitar y separar IVAAprende por qué quitar IVA no es simplemente restar 16%.",
+      "Leer artículo →",
+      "Leer guía →",
+      "cómo calcular IVA paso a paso",
+      "cómo separar el IVA de un total",
+      "diferencia entre desglosar y retener IVA",
+      "guía para calcular IVA",
+      "las fórmulas de IVA 16%"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "footer",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/",
+      "/articulos.html",
+      "/calculadoras.html",
+      "/calculadoras/iva-incluido.html",
+      "/calculadoras/iva.html",
+      "/calculadoras/retencion-iva.html",
+      "/temas/impuestos.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-pago-vacaciones.html",
+    "file": "articulos\\como-calcular-pago-vacaciones.html",
+    "served_file": "fallback-como-calcular-pago-vacaciones.html",
+    "title": "Cómo calcular el pago de vacaciones en México | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-pago-vacaciones.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 28,
+    "path": "/articulos/como-calcular-pago-vacaciones.html",
+    "depth": 2,
+    "unique_inlinks": 11,
+    "anchors": [
+      "Cómo calcular el pago de vacaciones en México",
+      "Cómo calcular el pago de vacaciones en MéxicoLeer →",
+      "Leer guía →",
+      "Pago de vacacionesCalcula salario y prima del periodo.",
+      "cómo calcular el pago"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-calcular-prima-vacacional.html",
+      "/articulos/como-se-cuentan-dias-vacaciones.html",
+      "/articulos/cuando-se-pagan-vacaciones.html",
+      "/articulos/isr-prima-vacacional.html",
+      "/articulos/me-pueden-negar-vacaciones.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Vacaciones y descanso"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-prima-vacacional.html",
+    "file": "articulos\\como-calcular-prima-vacacional.html",
+    "served_file": "fallback-como-calcular-prima-vacacional.html",
+    "title": "Cómo se calcula la prima vacacional en México | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-prima-vacacional.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 29,
+    "path": "/articulos/como-calcular-prima-vacacional.html",
+    "depth": 2,
+    "unique_inlinks": 12,
+    "anchors": [
+      "Cómo calcular prima vacacionalFórmula y ejemplos.",
+      "Cómo se calcula la prima vacacional en México",
+      "Cómo se calcula la prima vacacional en MéxicoLeer →",
+      "Cómo se calcula la prima vacacional paso a paso",
+      "Leer guía →",
+      "Prima vacacional",
+      "Ver fórmula y ejemplos",
+      "cómo calcular prima vacacional",
+      "guía de prima vacacional"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "footer",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-calcular-pago-vacaciones.html",
+      "/articulos/como-se-cuentan-dias-vacaciones.html",
+      "/articulos/cuando-se-pagan-vacaciones.html",
+      "/articulos/factor-integracion-sdi.html",
+      "/articulos/isr-prima-vacacional.html",
+      "/articulos/me-pueden-negar-vacaciones.html",
+      "/articulos/vacaciones-mexico.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Vacaciones y descanso"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-ptu.html",
+    "file": "articulos\\como-calcular-ptu.html",
+    "served_file": "articulos\\como-calcular-ptu.html",
+    "title": "Cómo calcular la PTU: fórmula y ejemplo paso a paso",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-ptu.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 20,
+    "path": "/articulos/como-calcular-ptu.html",
+    "depth": 2,
+    "unique_inlinks": 8,
+    "anchors": [
+      "Cómo calcular PTU con fórmula y ejemplo",
+      "Cómo calcular PTU paso a paso",
+      "Cómo calcular PTU: fórmula y ejemplo",
+      "Cómo calcular la PTU paso a paso",
+      "Fórmula y ejemplo de cálculo de PTU",
+      "cómo se calcula la PTU",
+      "fórmula de PTU y el ejemplo paso a paso"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/cuando-se-pagan-utilidades.html",
+      "/articulos/derecho-ptu-si-renuncio.html",
+      "/articulos/limite-ptu-tres-meses.html",
+      "/articulos/ptu-exenta-isr.html",
+      "/articulos/que-es-ptu.html",
+      "/calculadoras/ptu.html",
+      "/temas/prestaciones.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Reparto de utilidades"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-salario-diario-integrado.html",
+    "file": "articulos\\como-calcular-salario-diario-integrado.html",
+    "served_file": "articulos\\como-calcular-salario-diario-integrado.html",
+    "title": "Salario diario integrado 2026: fórmula y cálculo del SDI",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-salario-diario-integrado.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 21,
+    "path": "/articulos/como-calcular-salario-diario-integrado.html",
+    "depth": 2,
+    "unique_inlinks": 12,
+    "anchors": [
+      "Cómo calcular el SDI con fórmula y ejemplo",
+      "Cómo calcular el SDI paso a paso",
+      "Cómo calcular el SDI: fórmula y ejemplo",
+      "Salario diario integrado 2026: cómo calcular el SDI",
+      "Ver la fórmula del SDI",
+      "calcular el SDI paso a paso",
+      "cálculo del salario diario integrado",
+      "cómo calcular el SDI",
+      "cómo calcular el SDI paso a paso",
+      "cómo calcular el salario diario integrado",
+      "cómo obtener el salario diario integrado",
+      "cómo se calcula el salario diario integrado"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/convertir-salario-mensual-diario-hora.html",
+      "/articulos/descuentos-nomina-isr-imss.html",
+      "/articulos/factor-integracion-sdi.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/que-es-salario-base-cotizacion.html",
+      "/articulos/que-es-salario-diario-integrado.html",
+      "/articulos/salario-bruto-neto.html",
+      "/articulos/salario-minimo-diario-mensual-2026.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/temas/nomina.html"
+    ],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-cambiar-de-afore.html",
+    "file": "articulos\\como-cambiar-de-afore.html",
+    "served_file": "articulos\\como-cambiar-de-afore.html",
+    "title": "Cómo cambiar de AFORE: trámite y qué comparar antes | Calculadoras México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-cambiar-de-afore.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/como-cambiar-de-afore.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Cómo cambiar de AFORE: trámite y qué comparar antes"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aportaciones-voluntarias-afore.html",
+      "/articulos/como-saber-en-que-afore-estoy.html",
+      "/temas/retiro.html"
+    ],
+    "cluster": "retiro",
+    "subtopic": "AFORE y pensiones"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-cancelar-tarjeta-credito.html",
+    "file": "articulos\\como-cancelar-tarjeta-credito.html",
+    "served_file": "articulos\\como-cancelar-tarjeta-credito.html",
+    "title": "Cómo cancelar una tarjeta de crédito correctamente",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-cancelar-tarjeta-credito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/como-cancelar-tarjeta-credito.html",
+    "depth": 2,
+    "unique_inlinks": 12,
+    "anchors": [
+      "Cómo cancelar una tarjeta de crédito correctamente"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-elegir-tarjeta-credito-sin-anualidad.html",
+      "/articulos/como-funciona-una-tarjeta-de-credito.html",
+      "/articulos/como-salir-de-deuda-tarjeta-credito.html",
+      "/articulos/como-se-paga-una-tarjeta-de-credito.html",
+      "/articulos/diferencia-tarjeta-credito-debito.html",
+      "/articulos/disposicion-efectivo-tarjeta-credito.html",
+      "/articulos/que-es-el-cat-en-tarjeta-de-credito.html",
+      "/articulos/se-puede-transferir-dinero-tarjeta-credito.html",
+      "/articulos/tarjeta-credito-digital.html",
+      "/articulos/tarjeta-credito-empresarial.html",
+      "/articulos/tarjeta-credito-para-estudiantes.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Elegir y utilizar tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-cobrar-incapacidad-imss.html",
+    "file": "articulos\\como-cobrar-incapacidad-imss.html",
+    "served_file": "articulos\\como-cobrar-incapacidad-imss.html",
+    "title": "Cómo cobrar una incapacidad del IMSS: pasos y documentos",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-cobrar-incapacidad-imss.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 9,
+    "path": "/articulos/como-cobrar-incapacidad-imss.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Cómo cobrar una incapacidad del IMSS: pasos y documentos"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/desde-que-dia-paga-imss-incapacidad.html",
+      "/articulos/pago-incapacidad-imss.html",
+      "/calculadoras/incapacidad-imss.html",
+      "/temas/retiro.html"
+    ],
+    "cluster": "retiro",
+    "subtopic": "Incapacidades y seguridad social"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-cuidar-finanzas-personales.html",
+    "file": "articulos\\como-cuidar-finanzas-personales.html",
+    "served_file": "articulos\\como-cuidar-finanzas-personales.html",
+    "title": "Cómo cuidar tus finanzas personales cada mes",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-cuidar-finanzas-personales.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/como-cuidar-finanzas-personales.html",
+    "depth": 2,
+    "unique_inlinks": 13,
+    "anchors": [
+      "Cómo cuidar tus finanzas personales",
+      "Revisa cargos, deudas y seguridad cada mes",
+      "cómo cuidar tus finanzas",
+      "la rutina para cuidar tus finanzas"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/balance-finanzas-personales.html",
+      "/articulos/categorias-finanzas-personales.html",
+      "/articulos/como-manejar-finanzas-personales.html",
+      "/articulos/como-organizar-finanzas-personales-excel.html",
+      "/articulos/como-tener-buenas-finanzas-personales.html",
+      "/articulos/dashboard-finanzas-personales.html",
+      "/articulos/finanzas-personales-excel.html",
+      "/articulos/finanzas-personales-para-principiantes.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/finanzas-sanas-personales.html",
+      "/articulos/plantilla-gratis-finanzas-personales.html",
+      "/articulos/separar-finanzas-personales-negocio.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-elegir-cuenta-ahorro.html",
+    "file": "articulos\\como-elegir-cuenta-ahorro.html",
+    "served_file": "articulos\\como-elegir-cuenta-ahorro.html",
+    "title": "Cómo elegir la mejor cuenta de ahorro para ti",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-elegir-cuenta-ahorro.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/como-elegir-cuenta-ahorro.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Cómo elegir la mejor cuenta de ahorro para ti",
+      "Cómo elegir la mejor opción para ti",
+      "cómo elegir una cuenta de ahorro",
+      "elegir una cuenta de ahorro"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-de-ahorro.html",
+      "/articulos/gat-nominal-vs-gat-real.html",
+      "/articulos/tasa-promocional-cuenta-ahorro.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Elegir y usar una cuenta"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-elegir-tarjeta-credito-sin-anualidad.html",
+    "file": "articulos\\como-elegir-tarjeta-credito-sin-anualidad.html",
+    "served_file": "articulos\\como-elegir-tarjeta-credito-sin-anualidad.html",
+    "title": "Cómo elegir una tarjeta de crédito sin anualidad",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-elegir-tarjeta-credito-sin-anualidad.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 9,
+    "path": "/articulos/como-elegir-tarjeta-credito-sin-anualidad.html",
+    "depth": 2,
+    "unique_inlinks": 14,
+    "anchors": [
+      "Cómo elegir una tarjeta de crédito sin anualidad",
+      "Cómo elegir una tarjeta sin anualidad"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-cancelar-tarjeta-credito.html",
+      "/articulos/como-funciona-una-tarjeta-de-credito.html",
+      "/articulos/como-salir-de-deuda-tarjeta-credito.html",
+      "/articulos/como-se-paga-una-tarjeta-de-credito.html",
+      "/articulos/diferencia-tarjeta-credito-debito.html",
+      "/articulos/disposicion-efectivo-tarjeta-credito.html",
+      "/articulos/que-es-el-cat-en-tarjeta-de-credito.html",
+      "/articulos/se-puede-transferir-dinero-tarjeta-credito.html",
+      "/articulos/tarjeta-credito-digital.html",
+      "/articulos/tarjeta-credito-empresarial.html",
+      "/articulos/tarjeta-credito-para-estudiantes.html",
+      "/articulos/tarjetas-credito.html",
+      "/articulos/vale-la-pena-tarjeta-con-anualidad.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Elegir y utilizar tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ensenar-ahorrar-ninos.html",
+    "file": "articulos\\como-ensenar-ahorrar-ninos.html",
+    "served_file": "articulos\\como-ensenar-ahorrar-ninos.html",
+    "title": "Cómo enseñar a ahorrar a los niños",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-ensenar-ahorrar-ninos.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/como-ensenar-ahorrar-ninos.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo enseñar a ahorrar a los niños",
+      "cómo enseñar a ahorrar"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuenta-ahorro-para-ninos.html",
+      "/temas/ahorro.html"
+    ],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-funciona-pago-minimo-tarjeta.html",
+    "file": "articulos\\como-funciona-pago-minimo-tarjeta.html",
+    "served_file": "articulos\\como-funciona-pago-minimo-tarjeta.html",
+    "title": "Cómo funciona el pago mínimo de una tarjeta",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-funciona-pago-minimo-tarjeta.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/como-funciona-pago-minimo-tarjeta.html",
+    "depth": 2,
+    "unique_inlinks": 2,
+    "anchors": [
+      "Cómo funciona el pago mínimo de una tarjeta de crédito",
+      "cómo funciona el pago mínimo"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-funciona-una-tarjeta-de-credito.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Pagos y saldos de tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-funciona-una-tarjeta-de-credito.html",
+    "file": "articulos\\como-funciona-una-tarjeta-de-credito.html",
+    "served_file": "articulos\\como-funciona-una-tarjeta-de-credito.html",
+    "title": "Cómo funciona una tarjeta de crédito",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-funciona-una-tarjeta-de-credito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/como-funciona-una-tarjeta-de-credito.html",
+    "depth": 2,
+    "unique_inlinks": 12,
+    "anchors": [
+      "Cómo funciona una tarjeta de crédito",
+      "cómo funciona el crédito",
+      "cómo funciona una tarjeta"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-cancelar-tarjeta-credito.html",
+      "/articulos/como-elegir-tarjeta-credito-sin-anualidad.html",
+      "/articulos/como-salir-de-deuda-tarjeta-credito.html",
+      "/articulos/como-se-paga-una-tarjeta-de-credito.html",
+      "/articulos/diferencia-tarjeta-credito-debito.html",
+      "/articulos/disposicion-efectivo-tarjeta-credito.html",
+      "/articulos/que-es-el-cat-en-tarjeta-de-credito.html",
+      "/articulos/se-puede-transferir-dinero-tarjeta-credito.html",
+      "/articulos/tarjeta-credito-digital.html",
+      "/articulos/tarjeta-credito-empresarial.html",
+      "/articulos/tarjeta-credito-para-estudiantes.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Elegir y utilizar tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-hacer-presupuesto-personal.html",
+    "file": "articulos\\como-hacer-presupuesto-personal.html",
+    "served_file": "articulos\\como-hacer-presupuesto-personal.html",
+    "title": "Cómo hacer un presupuesto personal paso a paso",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-hacer-presupuesto-personal.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/como-hacer-presupuesto-personal.html",
+    "depth": 2,
+    "unique_inlinks": 15,
+    "anchors": [
+      "Cómo hacer un presupuesto personal paso a paso",
+      "Haz un presupuesto paso a paso",
+      "cómo hacer el presupuesto",
+      "cómo hacer el presupuesto paso a paso",
+      "guía paso a paso del presupuesto",
+      "hacer un presupuesto personal",
+      "la guía de presupuesto paso a paso",
+      "los pasos del presupuesto",
+      "presupuesto personal",
+      "un presupuesto personal"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/ahorro-automatico-quincenal.html",
+      "/articulos/categorias-finanzas-personales.html",
+      "/articulos/como-manejar-finanzas-personales.html",
+      "/articulos/cuanto-ahorrar-cada-quincena.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/finanzas-sanas-personales.html",
+      "/articulos/fondo-emergencia-vs-ahorro-meta.html",
+      "/articulos/gastos-anuales-en-presupuesto-mensual.html",
+      "/articulos/gastos-hormiga-ejemplos.html",
+      "/articulos/metodo-sobres-ahorrar-dinero.html",
+      "/articulos/pagar-servicios-con-tarjeta-credito.html",
+      "/articulos/presupuesto-con-ingresos-variables.html",
+      "/articulos/presupuesto-familiar-compartido.html",
+      "/articulos/presupuesto-personal.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Presupuesto por periodo y objetivo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-hacer-transferencia-spei.html",
+    "file": "articulos\\como-hacer-transferencia-spei.html",
+    "served_file": "articulos\\como-hacer-transferencia-spei.html",
+    "title": "Cómo hacer una transferencia SPEI paso a paso",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-hacer-transferencia-spei.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/como-hacer-transferencia-spei.html",
+    "depth": 2,
+    "unique_inlinks": 7,
+    "anchors": [
+      "Cómo hacer una transferencia SPEI",
+      "cómo hacer un SPEI",
+      "cómo hacer una transferencia SPEI",
+      "guía para hacer una transferencia",
+      "los pasos para hacer la transferencia",
+      "pasos para enviar un SPEI",
+      "pasos para hacer una transferencia SPEI"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/cuanto-tarda-transferencia-spei.html",
+      "/articulos/diferencia-clabe-numero-tarjeta-cuenta.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/horario-transferencias-spei.html",
+      "/articulos/que-es-transferencia-spei.html",
+      "/articulos/transferencia-spei-cuenta-equivocada.html",
+      "/temas/transferencias.html"
+    ],
+    "cluster": "transferencias",
+    "subtopic": "Datos, estados y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-invertir-en-cetes.html",
+    "file": "articulos\\como-invertir-en-cetes.html",
+    "served_file": "articulos\\como-invertir-en-cetes.html",
+    "title": "Cómo invertir en CETES en México: guía paso a paso",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-invertir-en-cetes.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/como-invertir-en-cetes.html",
+    "depth": 2,
+    "unique_inlinks": 7,
+    "anchors": [
+      "CETES",
+      "Cómo invertir en CETES en México",
+      "cómo invertir en CETES",
+      "cómo invertir en CETES paso a paso"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/ahorro-recurrente-cetes.html",
+      "/articulos/cetes-28-vs-91-dias.html",
+      "/articulos/como-ahorrar-en-cetes.html",
+      "/articulos/cuanto-invertir-cetes-ganar-1000.html",
+      "/articulos/que-son-los-cetes-y-como-funcionan.html",
+      "/articulos/tasa-rendimiento-cetes.html",
+      "/temas/inversion.html"
+    ],
+    "cluster": "inversion",
+    "subtopic": "CETES"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-leer-estado-cuenta-tarjeta.html",
+    "file": "articulos\\como-leer-estado-cuenta-tarjeta.html",
+    "served_file": "articulos\\como-leer-estado-cuenta-tarjeta.html",
+    "title": "Cómo leer el estado de cuenta de una tarjeta",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-leer-estado-cuenta-tarjeta.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 4,
+    "path": "/articulos/como-leer-estado-cuenta-tarjeta.html",
+    "depth": 2,
+    "unique_inlinks": 9,
+    "anchors": [
+      "Cómo leer el estado de cuenta",
+      "Cómo leer el estado de cuenta de una tarjeta de crédito",
+      "cómo leer el estado de cuenta",
+      "cómo leer tu estado de cuenta",
+      "esta guía",
+      "estado de cuenta",
+      "leer el estado de cuenta"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/como-elegir-tarjeta-credito-sin-anualidad.html",
+      "/articulos/como-funciona-una-tarjeta-de-credito.html",
+      "/articulos/saldo-a-favor-tarjeta-credito.html",
+      "/articulos/saldo-actual-vs-saldo-al-corte.html",
+      "/articulos/tarjeta-credito-empresarial.html",
+      "/articulos/tarjetas-credito.html",
+      "/articulos/tarjetas-departamentales-como-funcionan.html",
+      "/calculadoras/intereses-tarjeta-credito.html",
+      "/temas/credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Elegir y utilizar tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-leer-poliza-gastos-medicos.html",
+    "file": "articulos\\como-leer-poliza-gastos-medicos.html",
+    "served_file": "articulos\\como-leer-poliza-gastos-medicos.html",
+    "title": "Cómo leer una póliza de gastos médicos mayores",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-leer-poliza-gastos-medicos.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 11,
+    "path": "/articulos/como-leer-poliza-gastos-medicos.html",
+    "depth": 2,
+    "unique_inlinks": 10,
+    "anchors": [
+      "Abrir herramienta",
+      "Abrir recurso relacionado",
+      "Cómo leer la póliza",
+      "Cómo leer una póliza de gastos médicos mayores",
+      "Leer guía →"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/cuanto-cuesta-seguro-gastos-medicos-mayores.html",
+      "/articulos/deducible-vs-coaseguro.html",
+      "/articulos/que-cubre-seguro-gastos-medicos-mayores.html",
+      "/articulos/que-es-seguro-gastos-medicos-mayores.html",
+      "/articulos/seguro-medico-familiar.html",
+      "/articulos/seguro-para-mascotas.html",
+      "/articulos/verificar-agente-seguros-cnsf.html",
+      "/calculadoras/deducible-coaseguro.html",
+      "/temas/seguros.html"
+    ],
+    "cluster": "seguros",
+    "subtopic": "Coberturas y costos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-manejar-finanzas-personales.html",
+    "file": "articulos\\como-manejar-finanzas-personales.html",
+    "served_file": "articulos\\como-manejar-finanzas-personales.html",
+    "title": "Cómo manejar mis finanzas personales paso a paso",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/como-manejar-finanzas-personales.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 10,
+    "path": "/articulos/como-manejar-finanzas-personales.html",
+    "depth": 2,
+    "unique_inlinks": 7,
+    "anchors": [
+      "Crea un sistema para manejar tus finanzas",
+      "Cómo manejar mis finanzas personales",
+      "cómo manejar tus finanzas personales",
+      "organizar tus finanzas"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "hub"
+    ],
+    "inlink_sources": [
+      "/articulos/balance-finanzas-personales.html",
+      "/articulos/categorias-finanzas-personales.html",
+      "/articulos/como-cuidar-finanzas-personales.html",
+      "/articulos/como-tener-buenas-finanzas-personales.html",
+      "/articulos/dashboard-finanzas-personales.html",
+      "/articulos/finanzas-personales.html",
+      "/temas/presupuesto.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  }
+]

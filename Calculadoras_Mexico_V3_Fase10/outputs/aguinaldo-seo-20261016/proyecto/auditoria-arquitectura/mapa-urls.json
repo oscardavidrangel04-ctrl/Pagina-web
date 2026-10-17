@@ -1,0 +1,2837 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/404.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/acerca-de.html",
+    "type": "catalog_or_institutional",
+    "cluster": null,
+    "hub": null,
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/aguinaldo-3-meses-fallback.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos.html",
+    "type": "catalog_or_institutional",
+    "cluster": null,
+    "hub": null,
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras.html",
+    "type": "catalog_or_institutional",
+    "cluster": null,
+    "hub": null,
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/contacto.html",
+    "type": "catalog_or_institutional",
+    "cluster": null,
+    "hub": null,
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-aguinaldo-3-meses.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-aguinaldo-6-meses.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-aguinaldo-isr-2026.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-aguinaldo-por-antiguedad.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-aguinaldo-por-meses.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-aguinaldo-si-renuncio.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-como-calcular-aguinaldo.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-como-calcular-pago-vacaciones.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-como-calcular-prima-vacacional.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-como-se-cuentan-dias-vacaciones.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-con-que-salario-se-calcula-aguinaldo.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-con-que-salario-se-calcula-finiquito.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-cuando-pagan-finiquito.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-cuando-se-paga-aguinaldo.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-cuando-se-pagan-vacaciones.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-cuando-tengo-derecho-aguinaldo.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-cuando-tengo-derecho-finiquito.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-cuanto-se-deja-propina-mexico.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-dias-de-aguinaldo.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-finiquito-renuncia-voluntaria.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-isr-prima-vacacional.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-me-pueden-negar-vacaciones.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-propina-obligatoria-mexico.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-que-es-propina.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/fallback-que-incluye-finiquito.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/",
+    "type": "catalog_or_institutional",
+    "cluster": null,
+    "hub": null,
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/offline.html",
+    "type": "auxiliary_alias",
+    "cluster": null,
+    "hub": null,
+    "indexable": false
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/privacidad.html",
+    "type": "catalog_or_institutional",
+    "cluster": null,
+    "hub": null,
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/simuladores.html",
+    "type": "catalog_or_institutional",
+    "cluster": null,
+    "hub": null,
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/terminos.html",
+    "type": "catalog_or_institutional",
+    "cluster": null,
+    "hub": null,
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/a-quien-retencion-iva.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/abonar-capital-vs-reducir-plazo.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/abono-capital-vs-adelantar-mensualidades.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-3-meses.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-30-dias-aprobado-vigencia.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-6-meses.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-isr-2026.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-pensionados-imss.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-pensionados-issste.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-antiguedad.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-meses.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-proporcional.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-si-renuncio.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/ahorro-automatico-quincenal.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/ahorro-para-estudios-hijos.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/ahorro-recurrente-cetes.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/apartados-cuenta-ahorro.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aplicaciones-para-ahorrar-dinero.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aportaciones-voluntarias-afore.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/asimilados-a-salarios-isr.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/balance-finanzas-personales.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/bonos-salario-base-cotizacion.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/calcular-fondo-emergencia.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/calculo-retencion-isr.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/calendario-para-ahorrar-dinero.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/carta-finiquito-laboral.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/carta-pago-deuda.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/carta-poder-cobrar-finiquito.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/categorias-finanzas-personales.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cep-spei-como-obtener.html",
+    "type": "article",
+    "cluster": "transferencias",
+    "hub": "/temas/transferencias.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cetes-28-vs-91-dias.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/clave-rastreo-spei-donde-encontrarla.html",
+    "type": "article",
+    "cluster": "transferencias",
+    "hub": "/temas/transferencias.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-abonar-capital-infonavit.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-abrir-cuenta-de-ahorro.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-afecta-inflacion-ahorro.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-dinero-en-un-ano.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-dinero-si-gano-poco.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-en-cetes.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-para-comprar-auto.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-para-comprar-casa.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-para-un-viaje.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-aguinaldo.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-intereses-tarjeta-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-isr-sueldo.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-iva.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-pago-vacaciones.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-prima-vacacional.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-ptu.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-salario-diario-integrado.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-cambiar-de-afore.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-cancelar-tarjeta-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-cobrar-incapacidad-imss.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-cuidar-finanzas-personales.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-elegir-cuenta-ahorro.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-elegir-tarjeta-credito-sin-anualidad.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ensenar-ahorrar-ninos.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-funciona-pago-minimo-tarjeta.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-funciona-una-tarjeta-de-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-hacer-presupuesto-personal.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-hacer-transferencia-spei.html",
+    "type": "article",
+    "cluster": "transferencias",
+    "hub": "/temas/transferencias.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-invertir-en-cetes.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-leer-estado-cuenta-tarjeta.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-leer-poliza-gastos-medicos.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-manejar-finanzas-personales.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-mejorar-score-crediticio.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-organizar-finanzas-personales-excel.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-organizar-primer-sueldo.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-saber-en-que-afore-estoy.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-saber-saldo-favor-sat.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-saber-si-estoy-en-buro-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-sacar-constancia-situacion-fiscal.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-salir-de-deuda-tarjeta-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-salir-de-deudas-con-poco-dinero.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-se-cuentan-dias-vacaciones.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-se-paga-una-tarjeta-de-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-tener-buenas-finanzas-personales.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-aguinaldo.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-finiquito.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/conservacion-derechos-imss-ley-73.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/convertir-salario-mensual-diario-hora.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/costo-total-prestamo-como-calcular.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/credito-infonavit-desempleo.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/credito-infonavit-terreno.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/credito-revolvente-vs-prestamo-personal.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuando-pagan-finiquito.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuando-se-paga-aguinaldo.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuando-se-pagan-utilidades.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuando-se-pagan-vacaciones.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuando-tengo-derecho-aguinaldo.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuando-tengo-derecho-finiquito.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuantas-horas-extra-semana.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-ahorrar-cada-quincena.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-cuesta-modalidad-40.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-cuesta-seguro-gastos-medicos-mayores.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-finiquito-un-ano-renuncia.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-invertir-cetes-ganar-1000.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-quitan-isr-sueldo.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-se-deja-propina-mexico.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-tarda-sat-devolver-saldo-favor.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-tarda-transferencia-spei.html",
+    "type": "article",
+    "cluster": "transferencias",
+    "hub": "/temas/transferencias.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-toca-despido-injustificado.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-usar-linea-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-alto-rendimiento.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-digital.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-en-dolares.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-en-pareja.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-para-ninos.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-para-retiro.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-tradicional.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-vs-cuenta-corriente.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-vs-pagare-bancario.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-de-ahorro.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuentas-ahorro-sin-comisiones.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/dashboard-finanzas-personales.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/declaracion-anual-asalariados-2026.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/declaracion-mensual-sat.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/deducciones-personales-2026.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/deducible-vs-coaseguro.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/demanda-despido-injustificado.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/derecho-ptu-si-renuncio.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/descuentos-nomina-isr-imss.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/desde-que-dia-paga-imss-incapacidad.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/despido-indemnizacion-liquidacion.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/despido-justificado-cuanto-me-toca.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/devolucion-impuestos-sat.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/dias-de-aguinaldo.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/dias-festivos-obligatorios-2026.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/dias-vacaciones-por-antiguedad-2026.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/diferencia-clabe-numero-tarjeta-cuenta.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/diferencia-ley-73-ley-97.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/diferencia-tarjeta-credito-debito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/disposicion-efectivo-tarjeta-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/diversificar-inversiones-principiantes.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/donde-ahorrar-dinero-y-ganar-intereses.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/donde-guardar-fondo-emergencia.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/ejemplo-calculo-finiquito.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/es-legal-pago-nomina-dos-partes.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/es-obligatorio-reparto-utilidades.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/es-seguro-invertir-en-cetes.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/factor-integracion-sdi.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/faltas-afectan-aguinaldo.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/fecha-corte-vs-fecha-pago.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-personales-excel.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-personales-para-principiantes.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-personales.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-sanas-personales.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-incapacidad-permanente-parcial.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-jubilacion-issste.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-pension-invalidez-temporal.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-antiguedad.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-despido.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-jubilacion.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-renuncia-voluntaria.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-vs-liquidacion.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/firmar-renuncia-antes-de-finiquito.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-de-emergencia.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-emergencia-ingresos-variables.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-emergencia-vs-ahorro-meta.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/fondo-mantenimiento-hogar.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/formato-finiquito-laboral.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/gastos-anuales-en-presupuesto-mensual.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/gastos-hormiga-ejemplos.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/gat-nominal-vs-gat-real.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/horario-transferencias-spei.html",
+    "type": "article",
+    "cluster": "transferencias",
+    "hub": "/temas/transferencias.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-2026.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-dobles-triples.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/horizonte-inversion-como-elegir.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/impuestos-rendimientos-inversiones-mexico.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/incapacidades-afectan-aguinaldo.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/inflacion-personal-como-calcularla.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/interes-compuesto.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/isr-a-cargo-asalariado.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/isr-prima-vacacional.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/isr-semanal-quincenal-mensual.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/leer-recibo-nomina.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/limite-credito-vs-saldo-disponible.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/limite-ptu-tres-meses.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/liquidacion-por-cierre-de-empresa.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/liquidar-prestamo-antes-de-tiempo.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/liquidez-inversion-que-significa.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/maneras-ahorrar-dinero-mes.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/me-pueden-descontar-finiquito.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/me-pueden-negar-vacaciones.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/me-pueden-obligar-horas-extra.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/meses-sin-intereses-como-funcionan.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/meses-sin-intereses-vs-pago-contado.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/metodo-avalancha-pagar-deudas.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/metodo-bola-nieve-pagar-deudas.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/metodo-kakebo-ahorrar-dinero.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/metodo-sobres-ahorrar-dinero.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/modalidad-40-imss.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/negativa-pension-imss.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/no-me-quieren-pagar-finiquito.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pagar-deudas-o-invertir.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pagar-impuestos-con-tarjeta-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pagar-servicios-con-tarjeta-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pagar-tarjeta-credito-con-otra.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pagar-tarjeta-credito-en-oxxo.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pagare-bancario-como-funciona.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pago-incapacidad-imss.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pago-minimo-vs-pago-no-generar-intereses.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/para-que-sirve-constancia-situacion-fiscal.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pension-imss-ley-73.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pension-imss-ley-97.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/pensionados-viudez-reciben-aguinaldo.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/persona-fisica-actividad-empresarial.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/plan-para-ahorrar-dinero.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/plantilla-gratis-finanzas-personales.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/plantilla-para-ahorrar-dinero.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/plazo-solicitar-factura.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/por-que-no-puedo-pagar-con-tarjeta-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/prestamo-para-pagar-deudas.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-con-ingresos-variables.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-con-pago-quincenal.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-familiar-compartido.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-para-boda.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-para-mascota.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-para-mudanza.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-personal.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-si-cobro-semanal.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/prima-antiguedad-cuando-aplica.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/propina-obligatoria-mexico.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/ptu-exenta-isr.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/puntos-credito-infonavit.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-cubre-seguro-gastos-medicos-mayores.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-despido-injustificado.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-aguinaldo.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-cat-en-tarjeta-de-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-finiquito.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-isr.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-indemnizacion-constitucional.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-propina.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-ptu.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-resico.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-salario-base-cotizacion.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-salario-diario-integrado.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-seguro-gastos-medicos-mayores.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-transferencia-spei.html",
+    "type": "article",
+    "cluster": "transferencias",
+    "hub": "/temas/transferencias.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-hacer-con-aumento-de-sueldo.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-hacer-con-dinero-ahorrado.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-incluye-finiquito.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-pasa-si-no-pago-tarjeta-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-pasa-si-pago-antes-fecha-corte.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-pasa-si-pago-despues-fecha-limite.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-son-honorarios.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-son-los-cetes-y-como-funcionan.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/quienes-pueden-resico.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/recibo-de-aguinaldo.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/recibo-honorarios.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/reestructurar-deuda-que-revisar.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/referencia-spei-vs-clave-rastreo.html",
+    "type": "article",
+    "cluster": "transferencias",
+    "hub": "/temas/transferencias.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/reinvertir-rendimientos-o-retirarlos.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/rendimiento-diario-cuenta-ahorro.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/rendimiento-total-vs-tasa-anual.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/retencion-isr-resico.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/retencion-iva-dos-terceras-partes.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/retiro-por-desempleo-afore.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-bruto-neto.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-2026.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-diario-mensual-2026.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-frontera-norte-2026.html",
+    "type": "article",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/saldo-a-favor-tarjeta-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/saldo-actual-vs-saldo-al-corte.html",
+    "type": "article",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/saldo-minimo-cuenta-ahorro.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/se-puede-transferir-dinero-tarjeta-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/seguro-asociado-prestamo-que-revisar.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/seguro-dotal.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/seguro-medico-familiar.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/seguro-para-mascotas.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/seguro-vida-temporal.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/semanas-cotizadas-pension-imss.html",
+    "type": "article",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/separar-finanzas-personales-negocio.html",
+    "type": "article",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/simulador-credito-automotriz.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/spei-devuelto-que-hacer.html",
+    "type": "article",
+    "cluster": "transferencias",
+    "hub": "/temas/transferencias.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/spei-liquidado-pero-no-recibido.html",
+    "type": "article",
+    "cluster": "transferencias",
+    "hub": "/temas/transferencias.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/subsidio-empleo-2026.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tabla-amortizacion-prestamo-como-leerla.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tabla-isr-2026.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tabla-para-ahorrar-dinero-semanal.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tarjeta-credito-digital.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tarjeta-credito-empresarial.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tarjeta-credito-para-estudiantes.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tarjetas-credito.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tarjetas-departamentales-como-funcionan.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tasa-promocional-cuenta-ahorro.html",
+    "type": "article",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/tasa-rendimiento-cetes.html",
+    "type": "article",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/termine-pagar-credito-infonavit.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/transferencia-spei-cuenta-equivocada.html",
+    "type": "article",
+    "cluster": "transferencias",
+    "hub": "/temas/transferencias.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/vacaciones-mexico.html",
+    "type": "article",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/vale-la-pena-tarjeta-con-anualidad.html",
+    "type": "article",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/verificar-agente-seguros-cnsf.html",
+    "type": "article",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/visor-deducciones-personales-sat.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/xml-factura-electronica.html",
+    "type": "article",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/abono-capital-prestamo.html",
+    "type": "calculator",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo-proporcional.html",
+    "type": "calculator",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo.html",
+    "type": "calculator",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/ahorro-mensual.html",
+    "type": "calculator",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/ahorro-meta.html",
+    "type": "calculator",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/aumento-salarial.html",
+    "type": "calculator",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html",
+    "type": "calculator",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/capacidad-endeudamiento.html",
+    "type": "calculator",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/cetes.html",
+    "type": "calculator",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/cobertura-seguro-vida.html",
+    "type": "calculator",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/comision.html",
+    "type": "calculator",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/comparador-cuentas-ahorro.html",
+    "type": "calculator",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/conversion-longitud.html",
+    "type": "calculator",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/costo-combustible.html",
+    "type": "calculator",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/costo-unidad.html",
+    "type": "calculator",
+    "cluster": "negocios",
+    "hub": "/temas/negocios.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/credito-automotriz.html",
+    "type": "calculator",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/deducible-coaseguro.html",
+    "type": "calculator",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/descuento.html",
+    "type": "calculator",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/diferencia-fechas.html",
+    "type": "calculator",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/edad.html",
+    "type": "calculator",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/finiquito.html",
+    "type": "calculator",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/fondo-emergencia.html",
+    "type": "calculator",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/hipoteca.html",
+    "type": "calculator",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/horas-extra.html",
+    "type": "calculator",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/incapacidad-imss.html",
+    "type": "calculator",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/inflacion.html",
+    "type": "calculator",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/interes-compuesto.html",
+    "type": "calculator",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/interes-simple.html",
+    "type": "calculator",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/intereses-tarjeta-credito.html",
+    "type": "calculator",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/isr.html",
+    "type": "calculator",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html",
+    "type": "calculator",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html",
+    "type": "calculator",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/liquidacion.html",
+    "type": "calculator",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/margen-ganancia.html",
+    "type": "calculator",
+    "cluster": "negocios",
+    "hub": "/temas/negocios.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/pago-quincenal.html",
+    "type": "calculator",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/porcentaje.html",
+    "type": "calculator",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/precio-sin-descuento.html",
+    "type": "calculator",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html",
+    "type": "calculator",
+    "cluster": "negocios",
+    "hub": "/temas/negocios.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/prestamo.html",
+    "type": "calculator",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/prima-antiguedad.html",
+    "type": "calculator",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/prima-dominical.html",
+    "type": "calculator",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html",
+    "type": "calculator",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/propina.html",
+    "type": "calculator",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/ptu.html",
+    "type": "calculator",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/punto-equilibrio.html",
+    "type": "calculator",
+    "cluster": "negocios",
+    "hub": "/temas/negocios.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/regla-tres.html",
+    "type": "calculator",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/rendimiento-anualizado.html",
+    "type": "calculator",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/reparto-cuenta.html",
+    "type": "calculator",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/retencion-iva.html",
+    "type": "calculator",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/retenciones-isr-iva-honorarios.html",
+    "type": "calculator",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/reto-ahorro-semanal.html",
+    "type": "calculator",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/roi.html",
+    "type": "calculator",
+    "cluster": "negocios",
+    "hub": "/temas/negocios.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-bruto.html",
+    "type": "calculator",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario-integrado.html",
+    "type": "calculator",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html",
+    "type": "calculator",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html",
+    "type": "calculator",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html",
+    "type": "calculator",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/subsidio-empleo.html",
+    "type": "calculator",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/tasa-efectiva.html",
+    "type": "calculator",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/tiempo-ahorro.html",
+    "type": "calculator",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/vacaciones-proporcionales.html",
+    "type": "calculator",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/vacaciones.html",
+    "type": "calculator",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/ahorro.html",
+    "type": "hub",
+    "cluster": "ahorro",
+    "hub": "/temas/ahorro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/credito.html",
+    "type": "hub",
+    "cluster": "credito",
+    "hub": "/temas/credito.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/herramientas.html",
+    "type": "hub",
+    "cluster": "herramientas",
+    "hub": "/temas/herramientas.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/impuestos.html",
+    "type": "hub",
+    "cluster": "impuestos",
+    "hub": "/temas/impuestos.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/inversion.html",
+    "type": "hub",
+    "cluster": "inversion",
+    "hub": "/temas/inversion.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/negocios.html",
+    "type": "hub",
+    "cluster": "negocios",
+    "hub": "/temas/negocios.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/nomina.html",
+    "type": "hub",
+    "cluster": "nomina",
+    "hub": "/temas/nomina.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/prestaciones.html",
+    "type": "hub",
+    "cluster": "prestaciones",
+    "hub": "/temas/prestaciones.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/presupuesto.html",
+    "type": "hub",
+    "cluster": "presupuesto",
+    "hub": "/temas/presupuesto.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/retiro.html",
+    "type": "hub",
+    "cluster": "retiro",
+    "hub": "/temas/retiro.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/seguros.html",
+    "type": "hub",
+    "cluster": "seguros",
+    "hub": "/temas/seguros.html",
+    "indexable": true
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/temas/transferencias.html",
+    "type": "hub",
+    "cluster": "transferencias",
+    "hub": "/temas/transferencias.html",
+    "indexable": true
+  }
+]

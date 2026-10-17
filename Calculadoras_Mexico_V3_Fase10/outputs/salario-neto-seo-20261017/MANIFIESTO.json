@@ -1,0 +1,26 @@
+{
+  "recursos_locales_faltantes": [],
+  "ids_unicos": 18,
+  "archivos": {
+    "calculadoras/salario-neto.html": {
+      "antes": "f1675e698ebc32df89a111319e055d3195b53c2ad8fa96b8f1a89ce6612895e5",
+      "despues": "376a3732195b647616bed5d4a97991a740565d9ba2a10c5bcceaaa8e4f0f258a"
+    },
+    "assets/css/salario-neto-focus.css": {
+      "antes": "12eb832c5e24bb115bdc9ee759de259500d4d1238ace760d288af755906a56d8",
+      "despues": "438f2a3fdb06f193ee5aad5110d5630e93424abdf8e662c623da99d7e3486a2d"
+    },
+    "assets/js/salario-neto-receipt.js": {
+      "antes": "66f6f62421132b2e3f6573ca56e2a598408673e1db84ee68e25a1f10d8a4cc6c",
+      "despues": "c9a4a8017b7fb3edea328e3fb313c33efc2efaf977e782549ec475761475a82f"
+    },
+    "sitemap.xml": {
+      "antes": "4d2c3f6a003146bd1e82ca54c5b55c3816a284ab8534d03700f04b5a3abd3229",
+      "despues": "b8a5326eb1e5e6a96a854a9b1af309be1473efc2272207b08ef5684b55a32d34"
+    },
+    "scripts/test-salario-neto-focus.cjs": {
+      "antes": "2db58f2c9fbb83d0ecf812e518c4607047a6902ec9c214fa4f12b3b246771e03",
+      "despues": "53893ac3b9e3674bd90a8616d4e163ad44ba72ea052c6aab6547a42b0e15a822"
+    }
+  }
+}

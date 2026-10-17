@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="es-MX"><head><meta charset="utf-8"><meta content="width=device-width,initial-scale=1" name="viewport"><title>Calculadora de propina: porcentaje y pago por persona</title><meta content="Calcula propina de 10%, 15%, 20% o cualquier porcentaje. Obtén el total y el pago por persona, compara una cantidad fija y revisa cargos ya incluidos." name="description"><meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots"><link href="https://calculadora-isr-mexico.vercel.app/calculadoras/propina.html" rel="canonical"><link href="/assets/img/favicon.svg" rel="icon" type="image/svg+xml"><link href="/manifest.webmanifest" rel="manifest"><meta content="Calculadoras México" name="application-name"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="Calculadoras MX" name="apple-mobile-web-app-title"><meta content="#5542b5" name="theme-color"><meta content="es_MX" property="og:locale"><meta content="website" property="og:type"><meta content="Calculadora de propina: porcentaje y pago por persona" property="og:title"><meta content="Calcula propina de 10%, 15%, 20% o cualquier porcentaje. Obtén el total y el pago por persona, compara una cantidad fija y revisa cargos ya incluidos." property="og:description"><meta content="https://calculadora-isr-mexico.vercel.app/calculadoras/propina.html" property="og:url"><meta content="Calculadoras México" property="og:site_name"><meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" property="og:image"><meta content="summary_large_image" name="twitter:card"><meta content="Calculadora de propina: porcentaje y pago por persona" name="twitter:title"><meta content="Calcula propina de 10%, 15%, 20% o cualquier porcentaje. Obtén el total y el pago por persona, compara una cantidad fija y revisa cargos ya incluidos." name="twitter:description"><meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" name="twitter:image"><link href="/styles-v5628.css?v=5.6.28" rel="stylesheet"><script>try{document.documentElement.dataset.theme=localStorage.getItem('cm-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script><link href="/assets/css/interface-v570.css?v=5.7.0" rel="stylesheet"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610" crossorigin="anonymous"></script>
+</head><body class="ziro-site cm-ui" data-calc="propina"><a class="skip" href="#contenido">Saltar al contenido</a><header class="site-header"><div class="header-inner"><a aria-label="Ir al inicio" class="brand" href="/"><img src="/assets/img/logo-mark.svg" alt="" width="40" height="40" class="cm-logo-mark"><span class="cm-wordmark">Calculadoras<strong>México</strong></span></a><nav aria-label="Navegación principal" class="main-nav" id="main-navigation"><a class="" href="/">Inicio</a><a class="active" href="/calculadoras.html" aria-current="page">Calculadoras</a><a href="/simuladores.html">Simuladores</a><a class="" href="/articulos.html">Artículos</a><a href="/acerca-de.html">Acerca de</a><a href="/contacto.html">Contacto</a></nav><div class="header-actions"><button aria-label="Abrir buscador" class="icon-button" data-search-open="" title="Buscar (Ctrl+K)" type="button">⌕</button><button aria-label="Cambiar tema" class="icon-button" data-theme-toggle="" type="button"><span data-theme-icon="">🌙</span></button><button aria-expanded="false" aria-label="Abrir menú" class="icon-button menu-toggle" data-menu-toggle="" type="button" aria-controls="main-navigation">☰</button></div></div></header><main id="contenido"><nav class="breadcrumb" aria-label="Ruta de navegación"><a href="/">Inicio</a><span>›</span><a href="/calculadoras.html">Calculadoras</a><span>›</span><span>Propina</span></nav><div class="page-wrap"><header class="page-head"><span class="category-hero-icon">🧾</span><span class="badge">Herramientas</span><h1>Calculadora de propina en México</h1><p>Introduce la cuenta, el porcentaje que elijas y el número de personas. Obtén la propina, el total y cuánto paga cada una. En México la propina es voluntaria; puedes elegir otro porcentaje o no dejarla.</p><button aria-pressed="false" class="favorite-page" data-favorite="propina" type="button"><span data-favorite-icon="">☆</span> <span data-favorite-label="">Guardar</span></button><nav class="cm-page-shortcuts" aria-label="En esta página"><a href="#calculadora">Ir a la calculadora</a><a href="#casos-propina">Guía y referencias</a></nav></header><div class="calc-layout"><section aria-label="Formulario de cálculo" class="calc-box" id="calculadora"><h2 class="cm-form-title">Datos para el cálculo</h2><p class="cm-form-note">Revisa los datos y pulsa Calcular para ver el desglose.</p><div class="form-group"><label for="cuenta">Total de la cuenta antes de propina</label><input id="cuenta" inputmode="decimal" min="0.01" step="0.01" type="number" value="800"></div><div aria-label="Modo de cálculo" class="tip-mode-switch" id="tipCalcMode">
+<span>Quiero calcular</span>
+<div aria-label="Tipo de cálculo" role="group">
+<button class="is-active" data-tip-mode="percent" type="button">Propina por porcentaje</button>
+<button data-tip-mode="amount" type="button">Propina en pesos</button>
+<button data-tip-mode="target" type="button">Total final deseado</button>
+</div>
+</div><div aria-label="Porcentajes rápidos de propina" class="tip-presets">
+<span>Porcentaje rápido</span>
+<div>
+<button data-tip-preset="0" type="button">0%</button>
+<button class="is-active" data-tip-preset="10" type="button">10%</button>
+<button data-tip-preset="15" type="button">15%</button>
+<button data-tip-preset="20" type="button">20%</button>
+<button data-tip-preset="25" type="button">25%</button>
+</div>
+</div><div class="form-group"><label for="propinaPct">Propina (%)</label><input id="propinaPct" inputmode="decimal" max="100" min="0" step="0.01" type="number" value="10"></div><div class="tip-inverse-fields">
+<div class="form-group" data-tip-mode-field="amount" hidden="">
+<label for="tipAmountInput">Propina en pesos</label>
+<input id="tipAmountInput" inputmode="decimal" min="0" placeholder="Ej. 120" step="0.01" type="number" aria-describedby="tipAmountInput-help-0">
+<small id="tipAmountInput-help-0">Calcularemos qué porcentaje representa.</small>
+</div>
+<div class="form-group" data-tip-mode-field="target" hidden="">
+<label for="tipTargetInput">Total final deseado</label>
+<input id="tipTargetInput" inputmode="decimal" min="0" placeholder="Ej. 1000" step="0.01" type="number" aria-describedby="tipTargetInput-help-0">
+<small id="tipTargetInput-help-0">Calcularemos cuánto sería la propina y su porcentaje.</small>
+</div>
+</div><div class="form-group"><label for="personas">Personas para dividir la cuenta</label><input id="personas" inputmode="numeric" min="1" step="1" type="number" value="2"></div><div class="form-group tip-split-mode">
+<label for="tipSplitMode">Cómo repartir el pago</label>
+<select id="tipSplitMode" aria-describedby="tipSplitMode-help-0">
+<option value="equal">Todos pagan partes iguales</option>
+<option value="one-tip">Una persona paga toda la propina</option>
+</select>
+<small id="tipSplitMode-help-0">En el segundo modo, las demás personas dividen solo la cuenta base.</small>
+</div><div class="form-group tip-rounding">
+<label for="tipRounding">Redondeo del pago por persona</label>
+<select id="tipRounding">
+<option value="exact">Sin redondear</option>
+<option value="1">Al peso más cercano</option>
+<option value="5">Al múltiplo de $5 más cercano</option>
+<option value="10">Al múltiplo de $10 más cercano</option>
+</select>
+</div><div class="tip-service-check">
+<label class="tip-check-row" for="tipServiceIncluded">
+<input id="tipServiceIncluded" type="checkbox">
+<span>
+<strong>Mi cuenta ya incluye propina o cargo por servicio</strong>
+<small>Úsalo para identificar cuánto representa ese cargo y evitar sumarlo dos veces.</small>
+</span>
+</label>
+<div class="form-group" hidden="" id="tipServiceGroup">
+<label for="tipServiceAmount">Cargo ya incluido</label>
+<input id="tipServiceAmount" inputmode="decimal" min="0" placeholder="Ej. 100" step="0.01" type="number">
+</div>
+</div><div class="calc-controls"><button class="calc-button" type="button">Calcular</button><button class="reset-button" data-form-reset="" type="button">Limpiar</button></div><div class="tip-quick-trust">
+<span>🔒 Cálculo en tu navegador</span>
+<span>✓ Sin registro</span>
+<span>En México, la propina es voluntaria</span>
+</div><small class="form-state" data-form-state="">Tus datos del formulario permanecen en este dispositivo para facilitar el uso de la calculadora.</small><div aria-live="polite" class="result" id="resultado" tabindex="-1" aria-label="Resultado del cálculo"><span>Completa los datos y presiona Calcular.</span></div><div aria-live="polite" class="tip-pro-result" hidden="" id="tipProResult"><p aria-live="polite" class="tip-live-status" id="tipLiveStatus">El resultado se actualiza automáticamente al cambiar los datos.</p>
+<div class="tip-summary-grid">
+<article><span>Propina</span><strong id="tipAmount">—</strong></article>
+<article><span>Total con propina</span><strong id="tipTotal">—</strong></article>
+<article><span>Propina por persona</span><strong id="tipPerPerson">—</strong></article>
+<article class="is-primary"><span>Total por persona</span><strong id="tipTotalPerPerson">—</strong></article>
+</div><div class="tip-split-details" id="tipSplitDetails"></div>
+<div class="tip-context" id="tipContext"></div>
+<div class="tip-compare">
+<div class="tip-compare-head">
+<strong>Compara porcentajes</strong>
+<span>Con la misma cuenta</span>
+</div>
+<div class="tip-compare-grid" id="tipCompareGrid"></div>
+</div>
+<div class="tip-verify" id="tipVerify">
+<strong>Comprobación del resultado</strong>
+<div id="tipVerifyFormula"></div>
+</div><div class="tip-result-actions">
+<button id="tipCopySummary" type="button">Copiar resumen</button>
+<button id="tipShareSummary" type="button">Compartir resultado</button>
+<span aria-live="polite" id="tipCopyStatus"></span>
+</div></div></section><aside class="side-box">
+<h2>Respuesta rápida</h2>
+<p>Para calcular una propina, multiplica el total de la cuenta por el porcentaje elegido.</p>
+<div class="tip-formula-box">
+<code>propina = cuenta × porcentaje ÷ 100</code>
+</div>
+<p>Ejemplo: una cuenta de $800 al 10% genera $80 de propina y un total de $880.</p>
+<p class="privacy-note">🔒 Los datos se procesan en tu navegador y no se envían a un servidor.</p>
+</aside></div><section class="content-box semantic-intent" data-seo-intent="true">
+<h2>Calcula propina al 10%, 15%, 20% o cualquier porcentaje</h2><figure class="content-illustration" style="margin:1.25rem 0;text-align:center"><img src="/assets/img/propina-porcentaje-guia.png" alt="Proceso para calcular propina: cuenta, porcentaje de propina y total a pagar" width="2048" height="1024" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:16px"><figcaption style="margin-top:.5rem;color:var(--muted,#667085);font-size:.92rem">El porcentaje elegido se aplica al total de la cuenta para obtener el importe adicional y el total final.</figcaption></figure>
+<p>Introduce el total de la cuenta, elige el porcentaje de propina y, si vas con más personas, indica cuántas dividirán el pago. La calculadora muestra la propina, el total con propina y el importe por persona.</p>
+<div class="tip-intent-links">
+<a href="#como-calcular-propina">Cómo sacar propina</a>
+<a href="#propina-mexico">Porcentaje de propina en México</a>
+<a href="/calculadoras/reparto-cuenta.html">Dividir una cuenta entre varias personas</a>
+</div>
+</section><section aria-label="Publicidad" class="ad-slot ad-slot-banner"><span class="ad-label">Publicidad</span><div class="ad-banner-inner"><script>atOptions={'key':'94dbe87812d642e0600cc58986b093c2','format':'iframe','height':250,'width':300,'params':{}};</script><script src="https://bleatbehind.com/94dbe87812d642e0600cc58986b093c2/invoke.js"></script></div></section><section class="content-box">
+<h2>Cómo usar la herramienta</h2>
+<ol class="tip-steps">
+<li>Escribe el <strong>total de la cuenta antes de la propina</strong>.</li>
+<li>Elige 10%, 15%, 20%, 25% o captura otro porcentaje.</li>
+<li>Indica cuántas personas dividirán la cuenta.</li>
+<li>Presiona <strong>Calcular</strong> para comprobar el resultado: propina, total con propina, propina por persona y total por persona.</li>
+</ol>
+<p>Si cada persona consumió importes diferentes, una división en partes iguales puede no ser la opción adecuada. En ese caso usa la <a href="/calculadoras/reparto-cuenta.html">calculadora para repartir la cuenta</a>.</p>
+</section><section class="content-box seo-guide">
+<aside aria-label="Ficha de confianza del contenido" class="trust-record">
+<div><span>Última revisión</span><strong>6 de septiembre de 2026</strong></div>
+<div><span>Metodología</span><strong>Operación aritmética visible</strong></div>
+<div><span>Fuente de derechos del consumidor</span><a href="https://www.gob.mx/profeco/prensa/la-propina-es-obligatoria-profeco-te-responde" rel="noopener noreferrer">PROFECO ↗</a></div>
+</aside>
+<span id="casos-propina"></span>
+<h2 id="como-calcular-propina">Cómo sacar propina y calcular el porcentaje</h2>
+<p>Para calcular propina, multiplica el total de la cuenta por el porcentaje elegido y divide entre 100. Esta calculadora de propina hace la operación automáticamente. Si quieres saber cómo sacar el porcentaje de una propina fija, divide la propina entre la cuenta y multiplica por 100.</p>
+<div class="tip-formulas">
+<div><strong>Propina</strong><code>cuenta × porcentaje ÷ 100</code></div>
+<div><strong>Total con propina</strong><code>cuenta + propina</code></div>
+<div><strong>Total por persona</strong><code>total con propina ÷ personas</code></div>
+</div>
+<h3>Ejemplo: cuenta de $800</h3>
+<div class="tip-example-table">
+<div><span>10%</span><strong>$80</strong><small>Total: $880</small></div>
+<div><span>15%</span><strong>$120</strong><small>Total: $920</small></div>
+<div><span>20%</span><strong>$160</strong><small>Total: $960</small></div>
+</div>
+<h3>Tabla rápida de propina: 10%, 15% y 20%</h3>
+<div class="tip-table-wrap">
+<div class="cm-table-scroll" tabindex="0" role="region" aria-label="Tabla de datos; desplaza horizontalmente si es necesario"><table class="tip-reference-table">
+<thead><tr><th>Cuenta</th><th>10%</th><th>15%</th><th>20%</th></tr></thead>
+<tbody>
+<tr><th scope="row">$100</th><td>$10</td><td>$15</td><td>$20</td></tr>
+<tr><th scope="row">$200</th><td>$20</td><td>$30</td><td>$40</td></tr>
+<tr><th scope="row">$500</th><td>$50</td><td>$75</td><td>$100</td></tr>
+<tr><th scope="row">$800</th><td>$80</td><td>$120</td><td>$160</td></tr>
+<tr><th scope="row">$1,000</th><td>$100</td><td>$150</td><td>$200</td></tr>
+</tbody>
+</table>
+</div></div>
+<h2 id="propina-mexico">¿Cuánto se deja de propina en un restaurante en México?</h2>
+<p>No existe un porcentaje de propina obligatorio en México. PROFECO señala que la propina es una gratificación voluntaria y que los establecimientos no pueden exigirla ni incluirla en la cuenta sin el consentimiento de la persona consumidora.</p>
+<p>Si quieres saber cuánto se da o cuánto se debe dejar de propina, puedes usar 10%, 15% o 20% como referencias para comparar el resultado, pero la cantidad final la decides tú. La calculadora también permite usar 0%, 25% o cualquier otro porcentaje.</p>
+<div class="tip-official-note">
+<strong>Fuente oficial</strong>
+<span>PROFECO · Derechos de las personas consumidoras en restaurantes y bares.</span>
+<a href="https://www.gob.mx/profeco/prensa/profeco-recuerda-a-la-poblacion-consumidora-sus-derechos-en-restaurantes-y-bares?state=published" rel="noopener noreferrer">Consultar referencia oficial ↗</a>
+</div>
+<h2>Cómo dividir la cuenta y la propina entre varias personas</h2><figure class="content-illustration" style="margin:1.25rem 0;text-align:center"><img src="/assets/img/propina-cuenta-compartida-guia.png" alt="Ejemplo visual para dividir una cuenta compartida y la propina entre varias personas" width="2048" height="1024" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:16px"><figcaption style="margin-top:.5rem;color:var(--muted,#667085);font-size:.92rem">Para una cuenta compartida, suma la propina al total y divide el resultado entre el número de personas.</figcaption></figure>
+<p><strong>Propina</strong> es el importe adicional calculado con el porcentaje elegido. <strong>Total con propina</strong> suma ese importe a la cuenta original. Si indicas varias personas, la herramienta divide el total y también muestra la propina por persona. Para una cuenta compartida en partes iguales, basta con dividir el total final entre el número de personas.</p>
+<p>La división supone que todas las personas pagarán partes iguales. Si no es así, conviene repartir cada consumo por separado.</p>
+<h2 id="tip-avanzado">Opciones avanzadas para dividir y redondear la cuenta</h2><p>Además del porcentaje, puedes escribir una propina fija en pesos o indicar cuánto quieres pagar en total. También puedes hacer que una sola persona cubra la propina y redondear el pago por persona.</p><ul class="tip-advanced-list">
+<li><strong>Propina en pesos:</strong> convierte automáticamente ese importe a porcentaje. Si entregas la propina en efectivo, puedes capturar la cantidad exacta para conocer qué porcentaje representa.</li>
+<li><strong>Total final deseado:</strong> calcula qué propina necesitas para llegar a esa cifra.</li>
+<li><strong>Una persona paga la propina:</strong> separa el reparto de la cuenta base y la gratificación.</li>
+<li><strong>Redondeo:</strong> aproxima el pago por persona al peso, $5 o $10 más cercano.</li>
+</ul><section aria-labelledby="cargo-incluido" class="tip-service-info">
+<h2 id="cargo-incluido">Si tu cuenta ya incluye propina o cargo por servicio</h2>
+<p>Activa la opción correspondiente e introduce el cargo que aparece en el ticket. La herramienta calcula qué porcentaje representa sobre la cuenta base y lo muestra por separado, para que puedas decidir si quieres añadir una cantidad adicional o dejarla en $0.</p>
+</section></section><section class="content-box internal-hub-v5638" data-propina-cluster="v5642"><span class="badge">Guías de propina</span><h2>Guías para resolver cada intención de búsqueda</h2><p>La calculadora se centra en el cálculo. Estas guías responden dudas sobre cuánto dejar, si es obligatorio y qué significa la propina.</p><div class="v5621-link-grid"><a href="/articulos/cuanto-se-deja-propina-mexico.html"><strong>Cuánto se deja de propina en México</strong><span>Porcentajes, restaurante y propina sugerida.</span></a><a href="/articulos/propina-obligatoria-mexico.html"><strong>¿La propina es obligatoria?</strong><span>Profeco, restaurantes y cobros sin consentimiento.</span></a><a href="/articulos/que-es-propina.html"><strong>Qué es la propina</strong><span>Significado, fórmula y contexto en México.</span></a><a href="/calculadoras/reparto-cuenta.html"><strong>Repartir una cuenta</strong><span>Divide consumos cuando no todos pagan lo mismo.</span></a></div></section><section class="content-box faq-section">
+<h2>Preguntas frecuentes sobre el cálculo</h2>
+<article><h3>¿Qué significa propina?</h3><p>Es una cantidad adicional y voluntaria que una persona puede dejar como reconocimiento por un servicio. En México no sustituye el precio de los productos o servicios.</p></article>
+<details><summary>¿Cómo calcular el 10%, 15% o 20%?</summary><p>Multiplica el total de la cuenta por 0.10, 0.15 o 0.20. En una cuenta de $800, los importes son $80, $120 y $160.</p></details>
+<details><summary>¿Es obligatoria en México?</summary><p>No. La cantidad adicional es voluntaria y no debe incluirse en la cuenta sin consentimiento de la persona consumidora.</p></details>
+<details><summary>¿Cómo reparto el total entre varias personas?</summary><p>Suma la cantidad elegida al total de la cuenta y divide el resultado entre el número de personas. Si cada quien consumió algo distinto, conviene separar cada consumo primero.</p></details>
+<details><summary>¿Cómo obtengo el porcentaje de una cantidad fija?</summary><p>Divide la cantidad fija entre el total de la cuenta y multiplica por 100. Por ejemplo, $80 sobre $800 equivale a 10%.</p></details>
+<details><summary>¿Puedo indicar el total que quiero pagar?</summary><p>Sí. Resta la cuenta original al total deseado. La diferencia es la cantidad adicional necesaria; después puedes convertirla a porcentaje.</p></details>
+<details><summary>¿Se envían mis datos a un servidor?</summary><p>No. El cálculo se ejecuta localmente en tu navegador y los datos que decidas guardar permanecen en este dispositivo.</p></details>
+<details><summary>¿La herramienta acepta números negativos?</summary><p>No. La cuenta y las cantidades deben ser mayores que cero, porque representan importes de pago.</p></details>
+<!-- ONPAGE_FINO_2026_START --><details><summary>¿Por qué puede cambiar el total al redondear?</summary><p>La calculadora conserva el importe exacto y aplica la regla de redondeo elegida a cada pago por persona. La suma de esos pagos puede no coincidir exactamente con el total sin redondear; la diferencia depende de la regla seleccionada y del número de personas.</p></details><!-- ONPAGE_FINO_2026_END -->
+</section><section aria-label="Publicidad" class="ad-slot ad-slot-native"><span class="ad-label">Publicidad</span><script async="async" data-cfasync="false" src="https://bleatbehind.com/409e3950cb7b10082bb628969be6611a/invoke.js"></script><div id="container-409e3950cb7b10082bb628969be6611a"></div></section><section class="portal-related"><div class="section-title compact"><span class="badge">Continúa calculando</span><h2>Herramientas relacionadas</h2><p>Recomendaciones elegidas por categoría y tema.</p></div><p class="tip-cannibal-note">
+<strong>¿La cuenta no se divide en partes iguales?</strong>
+  Si cada persona consumió importes distintos, usa <a href="/calculadoras/reparto-cuenta.html">Repartir una cuenta</a>.
+  Esta página está enfocada en calcular y repartir la propina.
+</p><div class="tip-related-direct">
+<a href="/calculadoras/reparto-cuenta.html"><strong>Repartir una cuenta</strong><span>Divide gastos entre varias personas →</span></a>
+<a href="/calculadoras/porcentaje.html"><strong>Calculadora de porcentaje</strong><span>Calcula cualquier porcentaje de una cantidad →</span></a>
+<a href="/calculadoras/descuento.html"><strong>Calculadora de descuento</strong><span>Calcula descuentos y precio final →</span></a>
+</div><div class="grid" data-related-list="propina"><article class="card calculator-card" data-search="conversor de longitud convierte metros, kilómetros, pies y millas. herramientas unidades distancia conversión">
+<button aria-label="Guardar Conversor de longitud" aria-pressed="false" class="favorite-mini" data-favorite="conversion-longitud" type="button"><span data-favorite-icon="">☆</span></button>
+<div aria-hidden="true" class="icon">📏</div>
+<span class="card-kicker">Herramientas</span>
+<span class="new-badge">Nueva</span>
+<h3>Conversor de longitud</h3>
+<p>Convierte metros, kilómetros, pies y millas.</p>
+<a class="card-link" href="/calculadoras/conversion-longitud.html">Abrir calculadora →</a>
+</article><article class="card calculator-card" data-search="costo de combustible estima litros y costo de un recorrido. herramientas gasolina viaje distancia rendimiento">
+<button aria-label="Guardar Costo de combustible" aria-pressed="false" class="favorite-mini" data-favorite="costo-combustible" type="button"><span data-favorite-icon="">☆</span></button>
+<div aria-hidden="true" class="icon">⛽</div>
+<span class="card-kicker">Herramientas</span>
+<span class="new-badge">Nueva</span>
+<h3>Costo de combustible</h3>
+<p>Estima litros y costo de un recorrido.</p>
+<a class="card-link" href="/calculadoras/costo-combustible.html">Abrir calculadora →</a>
+</article><article class="card calculator-card" data-search="diferencia entre fechas obtén los días y semanas entre dos fechas. herramientas calendario plazo días semanas">
+<button aria-label="Guardar Diferencia entre fechas" aria-pressed="false" class="favorite-mini" data-favorite="diferencia-fechas" type="button"><span data-favorite-icon="">☆</span></button>
+<div aria-hidden="true" class="icon">📅</div>
+<span class="card-kicker">Herramientas</span>
+<span class="new-badge">Nueva</span>
+<h3>Diferencia entre fechas</h3>
+<p>Obtén los días y semanas entre dos fechas.</p>
+<a class="card-link" href="/calculadoras/diferencia-fechas.html">Abrir calculadora →</a>
+</article><article class="card calculator-card" data-search="dividir una cuenta divide un total entre varias personas. herramientas repartir cuenta personas partes">
+<button aria-label="Guardar Dividir una cuenta" aria-pressed="false" class="favorite-mini" data-favorite="reparto-cuenta" type="button"><span data-favorite-icon="">☆</span></button>
+<div aria-hidden="true" class="icon">👥</div>
+<span class="card-kicker">Herramientas</span>
+<span class="new-badge">Nueva</span>
+<h3>Dividir una cuenta</h3>
+<p>Divide un total entre varias personas.</p>
+<a class="card-link" href="/calculadoras/reparto-cuenta.html">Abrir calculadora →</a>
+</article></div></section></div><section class="content-box internal-hub-v5638" data-v5638="production-inlinks"><h2>Calculadoras relacionadas de porcentajes y precios</h2><p>Continúa con otra herramienta del mismo grupo de cálculo.</p><div class="v5621-link-grid"><a href="/calculadoras/porcentaje.html"><strong>Porcentajes</strong><span>Calcula porcentajes y variaciones.</span></a><a href="/calculadoras/regla-tres.html"><strong>Regla de tres</strong><span>Resuelve proporciones de forma directa.</span></a><a href="/calculadoras/descuento.html"><strong>Descuento</strong><span>Calcula precio final y ahorro.</span></a><a href="/calculadoras/precio-sin-descuento.html"><strong>Precio antes del descuento</strong><span>Recupera el precio original.</span></a><a href="/calculadoras/costo-unidad.html"><strong>Costo por unidad</strong><span>Compara costos unitarios.</span></a><a href="/calculadoras/precio-venta.html"><strong>Precio de venta</strong><span>Estima precio a partir del costo y margen.</span></a><a href="/calculadoras/margen-ganancia.html"><strong>Margen de ganancia</strong><span>Calcula margen y utilidad.</span></a><a href="/calculadoras/reparto-cuenta.html"><strong>Repartir cuenta</strong><span>Divide una cuenta entre varias personas.</span></a><a href="/calculadoras/comision.html"><strong>Comisión</strong><span>Calcula comisión por porcentaje.</span></a><a href="/calculadoras/punto-equilibrio.html"><strong>Punto de equilibrio</strong><span>Estima ventas necesarias para cubrir costos.</span></a><a href="/calculadoras/roi.html"><strong>ROI</strong><span>Calcula retorno sobre inversión.</span></a></div></section><!-- COMPETITOR_50_CALCULATORS_2026_START --><section class="content-box" data-seo-improvement="COMPETITOR_50_CALCULATORS_2026"><h2>Propina, total y cuenta compartida</h2><p>Primero se calcula la propina sobre el importe de la cuenta; después se suma para obtener el total y, si lo eliges, se divide entre el número de personas. Mantener los tres resultados separados evita confusiones al pagar.</p><div class="table-wrap"><table><caption>Ejemplo de una cuenta compartida</caption><thead><tr><th>Concepto</th><th>Cuenta de $800 con 15% y 4 personas</th></tr></thead><tbody><tr><td>Propina</td><td>$120</td></tr><tr><td>Total con propina</td><td>$920</td></tr><tr><td>Pago por persona</td><td>$230</td></tr></tbody></table></div><p>La propina es voluntaria. Revisa si ya aparece un cargo por servicio antes de agregar otra cantidad y elige el porcentaje según el servicio recibido.</p></section><!-- COMPETITOR_50_CALCULATORS_2026_END --><!-- ARCHITECTURE: contextual routes 2026-10-09 --><section class="content-box architecture-related" aria-label="Tema y lecturas relacionadas"><h2>Continúa según tu objetivo</h2><p>Para encontrar herramientas y explicaciones de este tema, consulta <a href="/temas/herramientas.html">Cálculos cotidianos</a>.</p></section></main><nav aria-label="Navegación móvil" class="mobile-dock"><a href="/"><span>⌂</span>Inicio</a><a href="/calculadoras.html"><span>▦</span>Calculadoras</a><a href="/simuladores.html"><span>⇄</span>Comparar</a><button data-search-open="" type="button"><span>⌕</span>Buscar</button><a href="/articulos.html"><span>▤</span>Artículos</a></nav><footer class="footer"><div class="footer-grid"><div><h3>Calculadoras México</h3><p>Herramientas gratuitas y guías claras. Tus favoritos e historial permanecen en tu dispositivo.</p></div><div><h3>Calculadoras</h3><a href="/calculadoras/isr.html">ISR</a><a href="/calculadoras/aguinaldo.html">Aguinaldo</a><a href="/calculadoras/iva.html">IVA</a><a href="/calculadoras.html">Ver todas</a></div><div><h3>Aprende</h3><a href="/articulos.html">Todos los artículos</a><a href="/articulos/que-es-el-isr.html">¿Qué es el ISR?</a><a href="/articulos/salario-bruto-neto.html">Salario bruto y neto</a></div><div><h3>Información</h3><a href="/acerca-de.html">Acerca de</a><a href="/privacidad.html">Privacidad</a><a href="/terminos.html">Términos</a><a href="/contacto.html">Contacto</a></div></div><div class="footer-bottom">© 2026 Calculadoras México.<span>Resultados informativos; no sustituyen asesoría profesional.</span></div></footer><div aria-hidden="true" aria-label="Buscador" aria-modal="true" class="search-dialog" role="dialog"><div class="search-panel"><div class="search-head"><input aria-label="Buscar en el sitio" class="global-search" placeholder="Busca ISR, finiquito, IVA..." type="search"><button aria-label="Cerrar" class="icon-button modal-close" data-search-close="" type="button">✕</button></div><div class="search-results"></div></div></div><script defer src="/assets/js/catalog.js?v=5.1.0"></script><script defer src="/assets/js/common.js?v=5.7.0"></script><script defer src="/_vercel/insights/script.js"></script><script defer src="/assets/js/calculators.js?v=5.5.5"></script><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://calculadora-isr-mexico.vercel.app/#org","name":"Calculadoras México","url":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"WebSite","@id":"https://calculadora-isr-mexico.vercel.app/#website","url":"https://calculadora-isr-mexico.vercel.app/","name":"Calculadoras México","inLanguage":"es-MX"},{"@type":"WebPage","@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/propina.html#webpage","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/propina.html","name":"Calculadora de propina: porcentaje y pago por persona","description":"Calcula propina de 10%, 15%, 20% o cualquier porcentaje. Obtén el total y el pago por persona, compara una cantidad fija y revisa cargos ya incluidos.","inLanguage":"es-MX","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"},"breadcrumb":{"@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/propina.html#breadcrumb"},"dateModified":"2026-10-12"},{"@type":"BreadcrumbList","@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/propina.html#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"Calculadora de propina","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/propina.html"}]}]}</script><script defer src="/assets/js/propina-pro.js?v=5.5.5"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cómo calcular el 10%, 15% o 20%?","acceptedAnswer":{"@type":"Answer","text":"Multiplica el total de la cuenta por 0.10, 0.15 o 0.20. En una cuenta de $800, los importes son $80, $120 y $160."}},{"@type":"Question","name":"¿Es obligatoria en México?","acceptedAnswer":{"@type":"Answer","text":"No. La cantidad adicional es voluntaria y no debe incluirse en la cuenta sin consentimiento de la persona consumidora."}},{"@type":"Question","name":"¿Cómo reparto el total entre varias personas?","acceptedAnswer":{"@type":"Answer","text":"Suma la cantidad elegida al total de la cuenta y divide el resultado entre el número de personas. Si cada quien consumió algo distinto, conviene separar cada consumo primero."}},{"@type":"Question","name":"¿Cómo obtengo el porcentaje de una cantidad fija?","acceptedAnswer":{"@type":"Answer","text":"Divide la cantidad fija entre el total de la cuenta y multiplica por 100. Por ejemplo, $80 sobre $800 equivale a 10%."}},{"@type":"Question","name":"¿Puedo indicar el total que quiero pagar?","acceptedAnswer":{"@type":"Answer","text":"Sí. Resta la cuenta original al total deseado. La diferencia es la cantidad adicional necesaria; después puedes convertirla a porcentaje."}},{"@type":"Question","name":"¿Se envían mis datos a un servidor?","acceptedAnswer":{"@type":"Answer","text":"No. El cálculo se ejecuta localmente en tu navegador y los datos que decidas guardar permanecen en este dispositivo."}},{"@type":"Question","name":"¿La herramienta acepta números negativos?","acceptedAnswer":{"@type":"Answer","text":"No. La cuenta y las cantidades deben ser mayores que cero, porque representan importes de pago."}}]}</script><script defer src="/assets/js/interface-v570.js?v=5.7.0"></script></body></html>

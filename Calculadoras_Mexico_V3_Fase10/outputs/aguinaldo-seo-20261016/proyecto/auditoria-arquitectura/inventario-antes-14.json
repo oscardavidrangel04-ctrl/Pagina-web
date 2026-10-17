@@ -1,0 +1,791 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-cubre-seguro-gastos-medicos-mayores.html",
+    "file": "articulos\\que-cubre-seguro-gastos-medicos-mayores.html",
+    "served_file": "articulos\\que-cubre-seguro-gastos-medicos-mayores.html",
+    "title": "Qué cubre un seguro de gastos médicos mayores",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-cubre-seguro-gastos-medicos-mayores.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 10,
+    "path": "/articulos/que-cubre-seguro-gastos-medicos-mayores.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "Abrir herramienta",
+      "Abrir recurso relacionado",
+      "Leer guía →",
+      "Qué cubre un seguro de gastos médicos mayores"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-leer-poliza-gastos-medicos.html",
+      "/articulos/cuanto-cuesta-seguro-gastos-medicos-mayores.html",
+      "/articulos/deducible-vs-coaseguro.html",
+      "/articulos/que-es-seguro-gastos-medicos-mayores.html",
+      "/articulos/seguro-medico-familiar.html"
+    ],
+    "cluster": "seguros",
+    "subtopic": "Coberturas y costos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-despido-injustificado.html",
+    "file": "articulos\\que-es-despido-injustificado.html",
+    "served_file": "articulos\\que-es-despido-injustificado.html",
+    "title": "Qué es un despido injustificado y qué derechos genera",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-despido-injustificado.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 8,
+    "path": "/articulos/que-es-despido-injustificado.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Abrir recurso principal",
+      "Abrir recurso relacionado",
+      "Qué es un despido injustificado y qué derechos genera"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/cuanto-toca-despido-injustificado.html",
+      "/articulos/demanda-despido-injustificado.html",
+      "/articulos/despido-indemnizacion-liquidacion.html",
+      "/calculadoras/liquidacion.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Despido e indemnización"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-aguinaldo.html",
+    "file": "articulos\\que-es-el-aguinaldo.html",
+    "served_file": "articulos\\que-es-el-aguinaldo.html",
+    "title": "Qué es el aguinaldo en México: derecho, cálculo y pago",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-aguinaldo.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 20,
+    "path": "/articulos/que-es-el-aguinaldo.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "Consulta qué es el aguinaldo y cómo funciona",
+      "Guía general de aguinaldo",
+      "Qué es el aguinaldo"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-30-dias-aprobado-vigencia.html",
+      "/articulos/aguinaldo-pensionados-imss.html",
+      "/articulos/aguinaldo-pensionados-issste.html",
+      "/articulos/incapacidades-afectan-aguinaldo.html",
+      "/articulos/pensionados-viudez-reciben-aguinaldo.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Aguinaldo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-cat-en-tarjeta-de-credito.html",
+    "file": "articulos\\que-es-el-cat-en-tarjeta-de-credito.html",
+    "served_file": "articulos\\que-es-el-cat-en-tarjeta-de-credito.html",
+    "title": "Qué es el CAT en una tarjeta de crédito",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-cat-en-tarjeta-de-credito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/que-es-el-cat-en-tarjeta-de-credito.html",
+    "depth": 5,
+    "unique_inlinks": 7,
+    "anchors": [
+      "CAT, tasa y comisiones",
+      "explicación del CAT",
+      "qué es el CAT"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/disposicion-efectivo-tarjeta-credito.html",
+      "/articulos/gat-nominal-vs-gat-real.html",
+      "/articulos/pago-minimo-vs-pago-no-generar-intereses.html",
+      "/articulos/tarjeta-credito-digital.html",
+      "/articulos/tarjeta-credito-empresarial.html",
+      "/articulos/tarjetas-credito.html",
+      "/calculadoras/intereses-tarjeta-credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Elegir y utilizar tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-finiquito.html",
+    "file": "articulos\\que-es-el-finiquito.html",
+    "served_file": "articulos\\que-es-el-finiquito.html",
+    "title": "¿Qué es el finiquito en México y cuándo corresponde?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-finiquito.html",
+    "robots": "index,follow,max-image-preview:large",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml",
+      "sitemap.xml"
+    ],
+    "outlinks": 11,
+    "path": "/articulos/que-es-el-finiquito.html",
+    "depth": 2,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Leer guía →",
+      "Qué es el finiquito y cómo distinguirlo de una liquidación"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Finiquito y renuncia"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-isr.html",
+    "file": "articulos\\que-es-el-isr.html",
+    "served_file": "articulos\\que-es-el-isr.html",
+    "title": "Qué es el ISR en México y cómo se calcula en 2026",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-isr.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 38,
+    "path": "/articulos/que-es-el-isr.html",
+    "depth": 1,
+    "unique_inlinks": 78,
+    "anchors": [
+      "Entender el ISR de tu recibo de nómina",
+      "Entender las tablas ISR 2026",
+      "Entender qué es el ISR →",
+      "Entender qué es el ISRConsulta la guía explicativa antes de interpretar el resultado.",
+      "ImpuestosQué es el ISR y cómo se calculaTarifa progresiva, cuota fija, excedente y tasa marginal.",
+      "Leer artículo →",
+      "Leer guía →",
+      "Qué es el ISR",
+      "Qué es el ISR y cómo funciona su tarifa",
+      "Qué es el ISR y tablas 2026",
+      "qué es ISR",
+      "qué es el ISR retenido",
+      "tablas ISR 2026 y lectura de rangos",
+      "¿Qué es el ISR?"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "footer"
+    ],
+    "inlink_sources": [
+      "/",
+      "/articulos.html",
+      "/articulos/aguinaldo-30-dias-aprobado-vigencia.html",
+      "/articulos/aguinaldo-isr-2026.html",
+      "/articulos/cuantas-horas-extra-semana.html",
+      "/articulos/cuanto-finiquito-un-ano-renuncia.html",
+      "/articulos/cuanto-quitan-isr-sueldo.html",
+      "/articulos/declaracion-anual-asalariados-2026.html",
+      "/articulos/dias-vacaciones-por-antiguedad-2026.html",
+      "/articulos/es-legal-pago-nomina-dos-partes.html",
+      "/articulos/es-obligatorio-reparto-utilidades.html",
+      "/articulos/horas-extra-dobles-triples.html",
+      "/articulos/isr-a-cargo-asalariado.html",
+      "/articulos/isr-semanal-quincenal-mensual.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/me-pueden-descontar-finiquito.html",
+      "/articulos/me-pueden-obligar-horas-extra.html",
+      "/articulos/ptu-exenta-isr.html",
+      "/articulos/salario-bruto-neto.html",
+      "/articulos/salario-minimo-diario-mensual-2026.html",
+      "/articulos/salario-minimo-frontera-norte-2026.html",
+      "/articulos/tabla-isr-2026.html",
+      "/articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+      "/calculadoras.html",
+      "/calculadoras/aguinaldo-proporcional.html",
+      "/calculadoras/aguinaldo.html",
+      "/calculadoras/ahorro-mensual.html",
+      "/calculadoras/ahorro-meta.html",
+      "/calculadoras/aumento-salarial.html",
+      "/calculadoras/bono.html",
+      "/calculadoras/cetes.html",
+      "/calculadoras/comision.html",
+      "/calculadoras/conversion-longitud.html",
+      "/calculadoras/costo-combustible.html",
+      "/calculadoras/costo-unidad.html",
+      "/calculadoras/credito-automotriz.html",
+      "/calculadoras/descuento.html",
+      "/calculadoras/diferencia-fechas.html",
+      "/calculadoras/edad.html",
+      "/calculadoras/finiquito.html",
+      "/calculadoras/hipoteca.html",
+      "/calculadoras/horas-extra.html",
+      "/calculadoras/inflacion.html",
+      "/calculadoras/interes-compuesto.html",
+      "/calculadoras/interes-simple.html",
+      "/calculadoras/isr.html",
+      "/calculadoras/iva-incluido.html",
+      "/calculadoras/iva.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/margen-ganancia.html",
+      "/calculadoras/pago-quincenal.html",
+      "/calculadoras/porcentaje.html",
+      "/calculadoras/precio-sin-descuento.html",
+      "/calculadoras/precio-venta.html",
+      "/calculadoras/prestamo.html",
+      "/calculadoras/prima-dominical.html",
+      "/calculadoras/prima-vacacional.html",
+      "/calculadoras/propina.html",
+      "/calculadoras/ptu.html",
+      "/calculadoras/punto-equilibrio.html",
+      "/calculadoras/regla-tres.html",
+      "/calculadoras/rendimiento-anualizado.html",
+      "/calculadoras/reparto-cuenta.html",
+      "/calculadoras/retencion-iva.html",
+      "/calculadoras/roi.html",
+      "/calculadoras/salario-bruto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html",
+      "/calculadoras/salario-hora.html",
+      "/calculadoras/salario-neto.html",
+      "/calculadoras/tasa-efectiva.html",
+      "/calculadoras/tiempo-ahorro.html",
+      "/calculadoras/vacaciones-proporcionales.html",
+      "/calculadoras/vacaciones.html",
+      "/contacto.html",
+      "/privacidad.html",
+      "/simuladores.html",
+      "/terminos.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "ISR y nómina"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-indemnizacion-constitucional.html",
+    "file": "articulos\\que-es-indemnizacion-constitucional.html",
+    "served_file": "articulos\\que-es-indemnizacion-constitucional.html",
+    "title": "Qué es la indemnización constitucional en materia laboral",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-indemnizacion-constitucional.html",
+    "robots": "index,follow,max-image-preview:large",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 9,
+    "path": "/articulos/que-es-indemnizacion-constitucional.html",
+    "depth": null,
+    "unique_inlinks": 0,
+    "anchors": [],
+    "link_contexts": [],
+    "inlink_sources": [],
+    "cluster": "prestaciones",
+    "subtopic": "Despido e indemnización"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-propina.html",
+    "file": "articulos\\que-es-propina.html",
+    "served_file": "fallback-que-es-propina.html",
+    "title": "Qué es la propina y qué significa | México",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-propina.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 14,
+    "path": "/articulos/que-es-propina.html",
+    "depth": 2,
+    "unique_inlinks": 5,
+    "anchors": [
+      "Leer guía →",
+      "Qué es la propinaLeer →",
+      "Qué es la propinaSignificado, fórmula y contexto en México.",
+      "Qué significa propina",
+      "qué es la propina y cómo se calcula",
+      "qué significa la propina y por qué es voluntaria en México"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/cuanto-se-deja-propina-mexico.html",
+      "/articulos/propina-obligatoria-mexico.html",
+      "/calculadoras/propina.html",
+      "/calculadoras/reparto-cuenta.html"
+    ],
+    "cluster": "herramientas",
+    "subtopic": "Propinas y cuentas compartidas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-ptu.html",
+    "file": "articulos\\que-es-ptu.html",
+    "served_file": "articulos\\que-es-ptu.html",
+    "title": "Qué es la PTU y quién tiene derecho a utilidades",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-ptu.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 21,
+    "path": "/articulos/que-es-ptu.html",
+    "depth": 2,
+    "unique_inlinks": 7,
+    "anchors": [
+      "Qué es PTU y quién está obligado a repartir",
+      "Qué es PTU, fechas y datos del reparto",
+      "Qué es PTU: reparto de utilidades, fechas y cálculo",
+      "cuándo se pagan las utilidades",
+      "cómo se distribuye la PTU",
+      "qué es la PTU y quién puede recibirla"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-calcular-ptu.html",
+      "/articulos/cuando-se-pagan-utilidades.html",
+      "/articulos/derecho-ptu-si-renuncio.html",
+      "/articulos/limite-ptu-tres-meses.html",
+      "/articulos/ptu-exenta-isr.html",
+      "/calculadoras/ptu.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Reparto de utilidades"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-resico.html",
+    "file": "articulos\\que-es-resico.html",
+    "served_file": "articulos\\que-es-resico.html",
+    "title": "RESICO: qué es, cómo funciona y qué revisar",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-resico.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 7,
+    "path": "/articulos/que-es-resico.html",
+    "depth": 2,
+    "unique_inlinks": 4,
+    "anchors": [
+      "Abrir herramienta o guía principal",
+      "Abrir recurso relacionado",
+      "Leer guía →",
+      "RESICO: qué es, cómo funciona y qué revisar"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/quienes-pueden-resico.html",
+      "/articulos/retencion-isr-resico.html",
+      "/calculadoras/isr.html"
+    ],
+    "cluster": "impuestos",
+    "subtopic": "Declaración y facturación"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-salario-base-cotizacion.html",
+    "file": "articulos\\que-es-salario-base-cotizacion.html",
+    "served_file": "articulos\\que-es-salario-base-cotizacion.html",
+    "title": "Qué es el SBC en nómina: salario base de cotización IMSS",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-salario-base-cotizacion.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 19,
+    "path": "/articulos/que-es-salario-base-cotizacion.html",
+    "depth": 2,
+    "unique_inlinks": 10,
+    "anchors": [
+      "Compararlo con el SBC",
+      "Qué es el SBC ante el IMSS",
+      "Qué es el SBC en nómina y ante el IMSS",
+      "Qué es el SBCEntender la base →",
+      "Qué significa SBC en nómina y ante el IMSS",
+      "qué es el salario base de cotización",
+      "qué integra el SBC",
+      "qué representa el SBC ante el IMSS",
+      "qué significa el SBC en nómina",
+      "salario base de cotización",
+      "salario base de cotización (SBC)",
+      "salario base de cotización ante el IMSS",
+      "salario base de cotización del IMSS"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/bonos-salario-base-cotizacion.html",
+      "/articulos/como-calcular-salario-diario-integrado.html",
+      "/articulos/descuentos-nomina-isr-imss.html",
+      "/articulos/factor-integracion-sdi.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/que-es-salario-diario-integrado.html",
+      "/articulos/salario-bruto-neto.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html"
+    ],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-salario-diario-integrado.html",
+    "file": "articulos\\que-es-salario-diario-integrado.html",
+    "served_file": "articulos\\que-es-salario-diario-integrado.html",
+    "title": "Salario diario integrado 2026: qué es, qué incluye y para qué sirve",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-salario-diario-integrado.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 22,
+    "path": "/articulos/que-es-salario-diario-integrado.html",
+    "depth": 2,
+    "unique_inlinks": 13,
+    "anchors": [
+      "Diferencia entre cuota diaria y SDI",
+      "Distinguir sueldo base y salario diario integrado",
+      "Qué es el SDI en nómina",
+      "Qué es el SDI y cómo se distingue del salario diario",
+      "Qué integra el salario y cuándo revisar el SDI",
+      "Revisar la base salarial integrada",
+      "SDI y SBC",
+      "SDI y SBC ante el IMSS",
+      "Salario diario, SDI y SBC ante el IMSS",
+      "qué es SDI en nómina",
+      "qué es el salario diario integrado",
+      "qué significa integrar el salario",
+      "salario integrado y SBC"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/asimilados-a-salarios-isr.html",
+      "/articulos/como-calcular-salario-diario-integrado.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/descuentos-nomina-isr-imss.html",
+      "/articulos/despido-indemnizacion-liquidacion.html",
+      "/articulos/factor-integracion-sdi.html",
+      "/articulos/leer-recibo-nomina.html",
+      "/articulos/que-es-salario-base-cotizacion.html",
+      "/articulos/salario-bruto-neto.html",
+      "/calculadoras/liquidacion.html",
+      "/calculadoras/salario-diario-integrado.html",
+      "/calculadoras/salario-diario.html"
+    ],
+    "cluster": "nomina",
+    "subtopic": "Salario y recibo"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-seguro-gastos-medicos-mayores.html",
+    "file": "articulos\\que-es-seguro-gastos-medicos-mayores.html",
+    "served_file": "articulos\\que-es-seguro-gastos-medicos-mayores.html",
+    "title": "Seguro de gastos médicos mayores: qué es y cómo funciona",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-seguro-gastos-medicos-mayores.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 11,
+    "path": "/articulos/que-es-seguro-gastos-medicos-mayores.html",
+    "depth": 2,
+    "unique_inlinks": 6,
+    "anchors": [
+      "Leer guía →",
+      "Seguro de gastos médicos mayores: qué es y cómo funciona"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/como-leer-poliza-gastos-medicos.html",
+      "/articulos/cuanto-cuesta-seguro-gastos-medicos-mayores.html",
+      "/articulos/deducible-vs-coaseguro.html",
+      "/articulos/que-cubre-seguro-gastos-medicos-mayores.html",
+      "/articulos/seguro-medico-familiar.html"
+    ],
+    "cluster": "seguros",
+    "subtopic": "Coberturas y costos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-transferencia-spei.html",
+    "file": "articulos\\que-es-transferencia-spei.html",
+    "served_file": "articulos\\que-es-transferencia-spei.html",
+    "title": "¿Qué es una transferencia SPEI y cómo funciona?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-transferencia-spei.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 11,
+    "path": "/articulos/que-es-transferencia-spei.html",
+    "depth": 4,
+    "unique_inlinks": 10,
+    "anchors": [
+      "Guía SPEI",
+      "Qué es SPEI",
+      "SPEI",
+      "qué es SPEI",
+      "qué es y cómo funciona SPEI"
+    ],
+    "link_contexts": [
+      "content_or_related",
+      "navigation"
+    ],
+    "inlink_sources": [
+      "/articulos/cep-spei-como-obtener.html",
+      "/articulos/clave-rastreo-spei-donde-encontrarla.html",
+      "/articulos/como-hacer-transferencia-spei.html",
+      "/articulos/diferencia-clabe-numero-tarjeta-cuenta.html",
+      "/articulos/finanzas-personales.html",
+      "/articulos/horario-transferencias-spei.html",
+      "/articulos/referencia-spei-vs-clave-rastreo.html",
+      "/articulos/spei-devuelto-que-hacer.html",
+      "/articulos/spei-liquidado-pero-no-recibido.html",
+      "/articulos/transferencia-spei-cuenta-equivocada.html"
+    ],
+    "cluster": "transferencias",
+    "subtopic": "Datos, estados y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-hacer-con-aumento-de-sueldo.html",
+    "file": "articulos\\que-hacer-con-aumento-de-sueldo.html",
+    "served_file": "articulos\\que-hacer-con-aumento-de-sueldo.html",
+    "title": "Qué hacer con un aumento de sueldo: plan práctico",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-hacer-con-aumento-de-sueldo.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 6,
+    "path": "/articulos/que-hacer-con-aumento-de-sueldo.html",
+    "depth": 4,
+    "unique_inlinks": 1,
+    "anchors": [
+      "Decide qué hacer con un aumento"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/finanzas-personales.html"
+    ],
+    "cluster": "presupuesto",
+    "subtopic": "Organización y seguimiento"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-hacer-con-dinero-ahorrado.html",
+    "file": "articulos\\que-hacer-con-dinero-ahorrado.html",
+    "served_file": "articulos\\que-hacer-con-dinero-ahorrado.html",
+    "title": "Qué hacer con el dinero ahorrado",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-hacer-con-dinero-ahorrado.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/que-hacer-con-dinero-ahorrado.html",
+    "depth": null,
+    "unique_inlinks": 0,
+    "anchors": [],
+    "link_contexts": [],
+    "inlink_sources": [],
+    "cluster": "ahorro",
+    "subtopic": "Hábitos y metas de ahorro"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-incluye-finiquito.html",
+    "file": "articulos\\que-incluye-finiquito.html",
+    "served_file": "fallback-que-incluye-finiquito.html",
+    "title": "¿Qué incluye un finiquito en México?",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-incluye-finiquito.html",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap.xml"
+    ],
+    "outlinks": 27,
+    "path": "/articulos/que-incluye-finiquito.html",
+    "depth": 2,
+    "unique_inlinks": 23,
+    "anchors": [
+      "Leer guía →",
+      "Qué incluye",
+      "Qué incluye el finiquito",
+      "Qué incluye el finiquitoLeer →",
+      "Qué incluye un finiquitoConceptos que pueden integrarlo.",
+      "Qué incluye un finiquitoRevisar conceptos →",
+      "Revisar los conceptos",
+      "qué incluye el finiquito",
+      "qué incluye un finiquito",
+      "¿Qué incluye un finiquito en México?"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos.html",
+      "/articulos/aguinaldo-si-renuncio.html",
+      "/articulos/carta-finiquito-laboral.html",
+      "/articulos/carta-poder-cobrar-finiquito.html",
+      "/articulos/con-que-salario-se-calcula-finiquito.html",
+      "/articulos/cuando-pagan-finiquito.html",
+      "/articulos/cuando-tengo-derecho-finiquito.html",
+      "/articulos/despido-justificado-cuanto-me-toca.html",
+      "/articulos/ejemplo-calculo-finiquito.html",
+      "/articulos/finiquito-incapacidad-permanente-parcial.html",
+      "/articulos/finiquito-jubilacion-issste.html",
+      "/articulos/finiquito-pension-invalidez-temporal.html",
+      "/articulos/finiquito-por-despido.html",
+      "/articulos/finiquito-por-jubilacion.html",
+      "/articulos/finiquito-renuncia-voluntaria.html",
+      "/articulos/finiquito-vs-liquidacion.html",
+      "/articulos/firmar-renuncia-antes-de-finiquito.html",
+      "/articulos/formato-finiquito-laboral.html",
+      "/articulos/liquidacion-por-cierre-de-empresa.html",
+      "/articulos/no-me-quieren-pagar-finiquito.html",
+      "/articulos/que-es-el-finiquito.html",
+      "/articulos/que-es-indemnizacion-constitucional.html",
+      "/calculadoras/finiquito.html"
+    ],
+    "cluster": "prestaciones",
+    "subtopic": "Finiquito y renuncia"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-pasa-si-no-pago-tarjeta-credito.html",
+    "file": "articulos\\que-pasa-si-no-pago-tarjeta-credito.html",
+    "served_file": "articulos\\que-pasa-si-no-pago-tarjeta-credito.html",
+    "title": "Qué pasa si no pago mi tarjeta de crédito",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-pasa-si-no-pago-tarjeta-credito.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 3,
+    "path": "/articulos/que-pasa-si-no-pago-tarjeta-credito.html",
+    "depth": 6,
+    "unique_inlinks": 1,
+    "anchors": [
+      "consecuencias del atraso"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/como-salir-de-deuda-tarjeta-credito.html"
+    ],
+    "cluster": "credito",
+    "subtopic": "Pagos y saldos de tarjetas"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-pasa-si-pago-antes-fecha-corte.html",
+    "file": "articulos\\que-pasa-si-pago-antes-fecha-corte.html",
+    "served_file": "articulos\\que-pasa-si-pago-antes-fecha-corte.html",
+    "title": "Qué pasa si pago antes de la fecha de corte",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-pasa-si-pago-antes-fecha-corte.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/que-pasa-si-pago-antes-fecha-corte.html",
+    "depth": 6,
+    "unique_inlinks": 1,
+    "anchors": [
+      "qué pasa si pagas antes del corte"
+    ],
+    "link_contexts": [
+      "content_or_related"
+    ],
+    "inlink_sources": [
+      "/articulos/fecha-corte-vs-fecha-pago.html"
+    ],
+    "cluster": "herramientas",
+    "subtopic": "Porcentajes, fechas y otros cálculos"
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-pasa-si-pago-despues-fecha-limite.html",
+    "file": "articulos\\que-pasa-si-pago-despues-fecha-limite.html",
+    "served_file": "articulos\\que-pasa-si-pago-despues-fecha-limite.html",
+    "title": "Qué pasa si pago después de la fecha límite",
+    "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/que-pasa-si-pago-despues-fecha-limite.html",
+    "robots": "",
+    "indexable": true,
+    "expected_http": 200,
+    "sitemap": [
+      "sitemap-seo-2026.xml"
+    ],
+    "outlinks": 2,
+    "path": "/articulos/que-pasa-si-pago-despues-fecha-limite.html",
+    "depth": null,
+    "unique_inlinks": 0,
+    "anchors": [],
+    "link_contexts": [],
+    "inlink_sources": [],
+    "cluster": "herramientas",
+    "subtopic": "Porcentajes, fechas y otros cálculos"
+  }
+]

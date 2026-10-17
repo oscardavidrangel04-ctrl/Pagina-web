@@ -1,0 +1,472 @@
+[
+  {
+    "source": "/fallback-como-calcular-prima-vacacional.html",
+    "target": "/articulos/factor-integracion-sdi.html",
+    "anchor": "Cómo influye la prima en el factor de integración"
+  },
+  {
+    "source": "/index.html",
+    "target": "/articulos.html#guias-ptu",
+    "anchor": "PTU: derecho, cálculo y reparto"
+  },
+  {
+    "source": "/index.html",
+    "target": "/articulos.html#guias-sdi",
+    "anchor": "SDI y prestaciones integradas"
+  },
+  {
+    "source": "/index.html",
+    "target": "/articulos.html#guias-salario",
+    "anchor": "Salario y deducciones"
+  },
+  {
+    "source": "/index.html",
+    "target": "/articulos.html#guias-isr",
+    "anchor": "ISR y tipos de pago"
+  },
+  {
+    "source": "/index.html",
+    "target": "/articulos.html#guias-liquidacion",
+    "anchor": "Liquidación e indemnizaciones"
+  },
+  {
+    "source": "/fallback-aguinaldo-isr-2026.html",
+    "target": "/articulos/ptu-exenta-isr.html",
+    "anchor": "Cómo separar la exención de las utilidades"
+  },
+  {
+    "source": "/fallback-aguinaldo-isr-2026.html",
+    "target": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "Tarifas para el sueldo ordinario"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "#guias-ptu",
+    "anchor": "PTU"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "#guias-sdi",
+    "anchor": "SDI"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "#guias-salario",
+    "anchor": "Salario"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "#guias-isr",
+    "anchor": "ISR"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "#guias-liquidacion",
+    "anchor": "Liquidación"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/calculadoras/ptu.html",
+    "anchor": "Abrir la calculadora principal de PTU"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/que-es-ptu.html",
+    "anchor": "Qué es PTU: reparto de utilidades, fechas y cálculo"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "PTU si renuncio: quién tiene derecho y tiempo trabajado"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/limite-ptu-tres-meses.html",
+    "anchor": "Límite de PTU: tres meses o promedio de tres años"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/ptu-exenta-isr.html",
+    "anchor": "PTU exenta de ISR: parte gravada y recibo de utilidades"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/calculadoras/salario-diario-integrado.html",
+    "anchor": "Abrir la calculadora principal de SDI"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Qué es el SDI y cómo se distingue del salario diario"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/factor-integracion-sdi.html",
+    "anchor": "Factor de integración del SDI: fórmula y ejemplos"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/calculadoras/salario-neto.html",
+    "anchor": "Abrir la calculadora principal de Salario"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/convertir-salario-mensual-diario-hora.html",
+    "anchor": "Salario mensual a quincenal, diario y por hora: ejemplos"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/salario-bruto-neto.html",
+    "anchor": "Salario bruto y neto: diferencias"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/leer-recibo-nomina.html",
+    "anchor": "Leer recibos y deducciones de nómina"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/calculadoras/isr.html",
+    "anchor": "Abrir la calculadora principal de ISR"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "ISR semanal, quincenal y mensual: qué tarifa usar"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/asimilados-a-salarios-isr.html",
+    "anchor": "Asimilados a salarios: qué son y cómo revisar el ISR"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/que-es-el-isr.html",
+    "anchor": "Qué es el ISR y tablas 2026"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/aguinaldo-isr-2026.html",
+    "anchor": "ISR sobre aguinaldo"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/calculadoras/liquidacion.html",
+    "anchor": "Abrir la calculadora principal de Liquidación"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Indemnización por despido: qué revisar en la liquidación"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Finiquito vs liquidación"
+  },
+  {
+    "source": "/articulos.html",
+    "target": "/articulos/finiquito-renuncia-voluntaria.html",
+    "anchor": "Finiquito por renuncia voluntaria"
+  },
+  {
+    "source": "/calculadoras.html",
+    "target": "/articulos.html#guias-ptu",
+    "anchor": "PTU: derecho, cálculo y reparto"
+  },
+  {
+    "source": "/calculadoras.html",
+    "target": "/articulos.html#guias-sdi",
+    "anchor": "SDI y prestaciones integradas"
+  },
+  {
+    "source": "/calculadoras.html",
+    "target": "/articulos.html#guias-salario",
+    "anchor": "Salario y deducciones"
+  },
+  {
+    "source": "/calculadoras.html",
+    "target": "/articulos.html#guias-isr",
+    "anchor": "ISR y tipos de pago"
+  },
+  {
+    "source": "/calculadoras.html",
+    "target": "/articulos.html#guias-liquidacion",
+    "anchor": "Liquidación e indemnizaciones"
+  },
+  {
+    "source": "/fallback-con-que-salario-se-calcula-finiquito.html",
+    "target": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Qué integra el salario y cuándo revisar el SDI"
+  },
+  {
+    "source": "/fallback-con-que-salario-se-calcula-finiquito.html",
+    "target": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Base y partidas de una indemnización"
+  },
+  {
+    "source": "/fallback-finiquito-renuncia-voluntaria.html",
+    "target": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "Revisar PTU pendiente aunque ya no trabajes en la empresa"
+  },
+  {
+    "source": "/articulos/finiquito-renuncia-voluntaria.html",
+    "target": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "Revisar PTU pendiente aunque ya no trabajes en la empresa"
+  },
+  {
+    "source": "/articulos/que-es-el-isr.html",
+    "target": "/calculadoras/isr.html",
+    "anchor": "Calcular ISR 2026 con mi sueldo"
+  },
+  {
+    "source": "/articulos/que-es-el-isr.html",
+    "target": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "ISR semanal y quincenal: elegir la tarifa"
+  },
+  {
+    "source": "/articulos/que-es-el-isr.html",
+    "target": "/articulos/asimilados-a-salarios-isr.html",
+    "anchor": "Ingresos asimilados a salarios"
+  },
+  {
+    "source": "/articulos/que-es-el-isr.html",
+    "target": "/articulos/ptu-exenta-isr.html",
+    "anchor": "Exención de ISR en las utilidades"
+  },
+  {
+    "source": "/articulos/que-es-el-isr.html",
+    "target": "/articulos/despido-indemnizacion-liquidacion.html#isr-separacion",
+    "anchor": "Por qué separar el ISR de una indemnización"
+  },
+  {
+    "source": "/articulos/como-calcular-prima-vacacional.html",
+    "target": "/articulos/factor-integracion-sdi.html",
+    "anchor": "Cómo influye la prima en el factor de integración"
+  },
+  {
+    "source": "/articulos/leer-recibo-nomina.html",
+    "target": "/calculadoras/salario-neto.html",
+    "anchor": "Estimar salario netoAbrir →"
+  },
+  {
+    "source": "/articulos/leer-recibo-nomina.html",
+    "target": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "la tarifa por periodo"
+  },
+  {
+    "source": "/articulos/leer-recibo-nomina.html",
+    "target": "/articulos/que-es-salario-diario-integrado.html#imss",
+    "anchor": "SDI y SBC ante el IMSS"
+  },
+  {
+    "source": "/articulos/leer-recibo-nomina.html",
+    "target": "/articulos/ptu-exenta-isr.html",
+    "anchor": "PTU exenta y gravada"
+  },
+  {
+    "source": "/articulos/leer-recibo-nomina.html",
+    "target": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+    "anchor": "LFT, artículo 110"
+  },
+  {
+    "source": "/articulos/leer-recibo-nomina.html",
+    "target": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
+    "anchor": "LISR, artículo 96"
+  },
+  {
+    "source": "/articulos/leer-recibo-nomina.html",
+    "target": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf",
+    "anchor": "LSS, artículos 27 y 30"
+  },
+  {
+    "source": "/articulos/aguinaldo-isr-2026.html",
+    "target": "/articulos/ptu-exenta-isr.html",
+    "anchor": "Cómo separar la exención de las utilidades"
+  },
+  {
+    "source": "/articulos/aguinaldo-isr-2026.html",
+    "target": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "Tarifas para el sueldo ordinario"
+  },
+  {
+    "source": "/articulos/finiquito-vs-liquidacion.html",
+    "target": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Despido, tres meses y veinte días por año"
+  },
+  {
+    "source": "/articulos/finiquito-vs-liquidacion.html",
+    "target": "/articulos/despido-indemnizacion-liquidacion.html#isr-separacion",
+    "anchor": "Separar prestaciones e impuestos en el pago de salida"
+  },
+  {
+    "source": "/articulos/salario-bruto-neto.html",
+    "target": "/articulos/convertir-salario-mensual-diario-hora.html",
+    "anchor": "Pasar el sueldo mensual a quincenal, diario o por hora"
+  },
+  {
+    "source": "/articulos/salario-bruto-neto.html",
+    "target": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Distinguir sueldo base y salario diario integrado"
+  },
+  {
+    "source": "/articulos/con-que-salario-se-calcula-finiquito.html",
+    "target": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Qué integra el salario y cuándo revisar el SDI"
+  },
+  {
+    "source": "/articulos/con-que-salario-se-calcula-finiquito.html",
+    "target": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Base y partidas de una indemnización"
+  },
+  {
+    "source": "/calculadoras/salario-bruto.html",
+    "target": "/articulos/salario-bruto-neto.html",
+    "anchor": "Comparar una oferta bruta con una neta"
+  },
+  {
+    "source": "/calculadoras/salario-bruto.html",
+    "target": "/articulos/leer-recibo-nomina.html#descuentos-nomina",
+    "anchor": "Deducciones que pueden cambiar el neto"
+  },
+  {
+    "source": "/calculadoras/liquidacion.html",
+    "target": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Indemnización por despido: partidas y condiciones"
+  },
+  {
+    "source": "/calculadoras/liquidacion.html",
+    "target": "/articulos/finiquito-vs-liquidacion.html",
+    "anchor": "Distinguir liquidación de finiquito"
+  },
+  {
+    "source": "/calculadoras/liquidacion.html",
+    "target": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Revisar la base salarial integrada"
+  },
+  {
+    "source": "/calculadoras/salario-hora.html",
+    "target": "/articulos/convertir-salario-mensual-diario-hora.html#hora",
+    "anchor": "Valor por hora y horas realmente trabajadas"
+  },
+  {
+    "source": "/calculadoras/salario-hora.html",
+    "target": "/articulos/horas-extra-2026.html",
+    "anchor": "Cómo distinguir salario por hora y tiempo extra"
+  },
+  {
+    "source": "/calculadoras/ptu.html",
+    "target": "/articulos/que-es-ptu.html",
+    "anchor": "Qué es PTU, fechas y datos del reparto"
+  },
+  {
+    "source": "/calculadoras/ptu.html",
+    "target": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "Derecho a utilidades y renuncia"
+  },
+  {
+    "source": "/calculadoras/ptu.html",
+    "target": "/articulos/limite-ptu-tres-meses.html",
+    "anchor": "Cómo revisar el límite individual"
+  },
+  {
+    "source": "/calculadoras/ptu.html",
+    "target": "/articulos/ptu-exenta-isr.html",
+    "anchor": "PTU exenta, gravada y pago neto"
+  },
+  {
+    "source": "/calculadoras/salario-neto.html",
+    "target": "/articulos/salario-bruto-neto.html",
+    "anchor": "Cómo pasar de bruto a neto"
+  },
+  {
+    "source": "/calculadoras/salario-neto.html",
+    "target": "/articulos/leer-recibo-nomina.html#descuentos-nomina",
+    "anchor": "Revisar descuentos y comparar el recibo"
+  },
+  {
+    "source": "/calculadoras/salario-neto.html",
+    "target": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "Usar el mismo periodo para la retención"
+  },
+  {
+    "source": "/calculadoras/aumento-salarial.html",
+    "target": "/articulos/convertir-salario-mensual-diario-hora.html#aumento",
+    "anchor": "Comparar el aumento en el mismo periodo"
+  },
+  {
+    "source": "/calculadoras/aumento-salarial.html",
+    "target": "/articulos/salario-bruto-neto.html",
+    "anchor": "Por qué bruto y neto no aumentan igual"
+  },
+  {
+    "source": "/calculadoras/aumento-salarial.html",
+    "target": "/articulos/factor-integracion-sdi.html#actualizar",
+    "anchor": "Cuándo cambia el SDI o su factor"
+  },
+  {
+    "source": "/calculadoras/pago-quincenal.html",
+    "target": "/articulos/convertir-salario-mensual-diario-hora.html#quincena",
+    "anchor": "Quincena frente a catorcena"
+  },
+  {
+    "source": "/calculadoras/pago-quincenal.html",
+    "target": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "Qué tarifa corresponde al pago quincenal"
+  },
+  {
+    "source": "/calculadoras/isr.html",
+    "target": "/articulos/isr-semanal-quincenal-mensual.html",
+    "anchor": "Elegir la tarifa semanal, quincenal o mensual"
+  },
+  {
+    "source": "/calculadoras/isr.html",
+    "target": "/articulos/que-es-el-isr.html#tabla-isr-2026",
+    "anchor": "Entender las tablas ISR 2026"
+  },
+  {
+    "source": "/calculadoras/isr.html",
+    "target": "/articulos/asimilados-a-salarios-isr.html",
+    "anchor": "Asimilados a salarios: alcance de la estimación"
+  },
+  {
+    "source": "/calculadoras/isr.html",
+    "target": "/articulos/ptu-exenta-isr.html",
+    "anchor": "Separar PTU exenta y gravada"
+  },
+  {
+    "source": "/calculadoras/salario-diario.html",
+    "target": "/articulos/convertir-salario-mensual-diario-hora.html",
+    "anchor": "Conversiones de sueldo con ejemplos"
+  },
+  {
+    "source": "/calculadoras/salario-diario.html",
+    "target": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Diferencia entre cuota diaria y SDI"
+  },
+  {
+    "source": "/calculadoras/salario-diario-integrado.html",
+    "target": "/articulos/que-es-salario-diario-integrado.html",
+    "anchor": "Salario diario, SDI y SBC ante el IMSS"
+  },
+  {
+    "source": "/calculadoras/salario-diario-integrado.html",
+    "target": "/articulos/factor-integracion-sdi.html",
+    "anchor": "Factor de integración y prestaciones superiores"
+  },
+  {
+    "source": "/calculadoras/salario-diario-integrado.html",
+    "target": "/articulos/con-que-salario-se-calcula-finiquito.html",
+    "anchor": "Qué salario corresponde a cada concepto de salida"
+  },
+  {
+    "source": "/calculadoras/finiquito.html",
+    "target": "/articulos/derecho-ptu-si-renuncio.html",
+    "anchor": "Derecho a PTU al salir del empleo"
+  },
+  {
+    "source": "/calculadoras/finiquito.html",
+    "target": "/articulos/despido-indemnizacion-liquidacion.html",
+    "anchor": "Revisar por separado una indemnización por despido"
+  }
+]
