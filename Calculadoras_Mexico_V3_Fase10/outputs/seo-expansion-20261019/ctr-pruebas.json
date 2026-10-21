@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "aguinaldo-por-antiguedad",
+    "width": 390,
+    "status": "PASS",
+    "title": "Aguinaldo por antigüedad: cuánto toca por 1, 2 o más años"
+  },
+  {
+    "slug": "aguinaldo-3-meses",
+    "width": 390,
+    "status": "PASS",
+    "title": "¿Cuánto me toca de aguinaldo por 3 meses? Fórmula y ejemplo"
+  },
+  {
+    "slug": "cuando-pagan-finiquito",
+    "width": 390,
+    "status": "PASS",
+    "title": "¿Cuándo pagan el finiquito? Plazo por renuncia en México"
+  },
+  {
+    "slug": "aguinaldo-por-antiguedad",
+    "width": 1440,
+    "status": "PASS",
+    "title": "Aguinaldo por antigüedad: cuánto toca por 1, 2 o más años"
+  },
+  {
+    "slug": "aguinaldo-3-meses",
+    "width": 1440,
+    "status": "PASS",
+    "title": "¿Cuánto me toca de aguinaldo por 3 meses? Fórmula y ejemplo"
+  },
+  {
+    "slug": "cuando-pagan-finiquito",
+    "width": 1440,
+    "status": "PASS",
+    "title": "¿Cuándo pagan el finiquito? Plazo por renuncia en México"
+  }
+]

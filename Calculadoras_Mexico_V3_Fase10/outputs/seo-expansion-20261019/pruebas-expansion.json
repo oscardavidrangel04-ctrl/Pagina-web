@@ -1,0 +1,215 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "one H1 /calculadoras/quincenas-a-meses.html 1440",
+      "pass": true
+    },
+    {
+      "name": "no horizontal overflow /calculadoras/quincenas-a-meses.html 1440",
+      "pass": true
+    },
+    {
+      "name": "anchors /calculadoras/quincenas-a-meses.html 1440",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "one H1 /calculadoras/quincenas-a-meses.html 390",
+      "pass": true
+    },
+    {
+      "name": "no horizontal overflow /calculadoras/quincenas-a-meses.html 390",
+      "pass": true
+    },
+    {
+      "name": "anchors /calculadoras/quincenas-a-meses.html 390",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "one H1 /articulos/aguinaldo-trabajadoras-hogar.html 1440",
+      "pass": true
+    },
+    {
+      "name": "no horizontal overflow /articulos/aguinaldo-trabajadoras-hogar.html 1440",
+      "pass": true
+    },
+    {
+      "name": "anchors /articulos/aguinaldo-trabajadoras-hogar.html 1440",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "one H1 /articulos/aguinaldo-trabajadoras-hogar.html 390",
+      "pass": true
+    },
+    {
+      "name": "no horizontal overflow /articulos/aguinaldo-trabajadoras-hogar.html 390",
+      "pass": true
+    },
+    {
+      "name": "anchors /articulos/aguinaldo-trabajadoras-hogar.html 390",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "one H1 /calculadoras/salario-diario-integrado.html 1440",
+      "pass": true
+    },
+    {
+      "name": "no horizontal overflow /calculadoras/salario-diario-integrado.html 1440",
+      "pass": true
+    },
+    {
+      "name": "anchors /calculadoras/salario-diario-integrado.html 1440",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "one H1 /calculadoras/salario-diario-integrado.html 390",
+      "pass": true
+    },
+    {
+      "name": "no horizontal overflow /calculadoras/salario-diario-integrado.html 390",
+      "pass": true
+    },
+    {
+      "name": "anchors /calculadoras/salario-diario-integrado.html 390",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "one H1 /articulos/factor-integracion-sdi.html 1440",
+      "pass": true
+    },
+    {
+      "name": "no horizontal overflow /articulos/factor-integracion-sdi.html 1440",
+      "pass": true
+    },
+    {
+      "name": "anchors /articulos/factor-integracion-sdi.html 1440",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "one H1 /articulos/factor-integracion-sdi.html 390",
+      "pass": true
+    },
+    {
+      "name": "no horizontal overflow /articulos/factor-integracion-sdi.html 390",
+      "pass": true
+    },
+    {
+      "name": "anchors /articulos/factor-integracion-sdi.html 390",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "convert 24",
+      "pass": true,
+      "detail": "Equivalencia de 24 quincenas\n\n12 meses · 1 año\n\n24 ÷ 2 = 12 meses. 24 ÷ 24 = 1 año. Valores mostrados con hasta seis decimales."
+    },
+    {
+      "name": "convert 48",
+      "pass": true,
+      "detail": "Equivalencia de 48 quincenas\n\n24 meses · 2 años\n\n48 ÷ 2 = 24 meses. 48 ÷ 24 = 2 años. Valores mostrados con hasta seis decimales."
+    },
+    {
+      "name": "convert 144",
+      "pass": true,
+      "detail": "Equivalencia de 144 quincenas\n\n72 meses · 6 años\n\n144 ÷ 2 = 72 meses. 144 ÷ 24 = 6 años. Valores mostrados con hasta seis decimales."
+    },
+    {
+      "name": "convert 275",
+      "pass": true,
+      "detail": "Equivalencia de 275 quincenas\n\n137.5 meses · 11.458333 años\n\n275 ÷ 2 = 137.5 meses. 275 ÷ 24 = 11.458333 años. Valores mostrados con hasta seis decimales."
+    },
+    {
+      "name": "convert 3",
+      "pass": true,
+      "detail": "Equivalencia de 3 quincenas\n\n1.5 meses · 0.125 años\n\n3 ÷ 2 = 1.5 meses. 3 ÷ 24 = 0.125 años. Valores mostrados con hasta seis decimales."
+    },
+    {
+      "name": "convert 0",
+      "pass": true,
+      "detail": "Equivalencia de 0 quincenas\n\n0 meses · 0 años\n\n0 ÷ 2 = 0 meses. 0 ÷ 24 = 0 años. Valores mostrados con hasta seis decimales."
+    },
+    {
+      "name": "reject \"\"",
+      "pass": true
+    },
+    {
+      "name": "clear stale result \"\"",
+      "pass": true
+    },
+    {
+      "name": "reject \"-1\"",
+      "pass": true
+    },
+    {
+      "name": "clear stale result \"-1\"",
+      "pass": true
+    },
+    {
+      "name": "reject \"1000000001\"",
+      "pass": true
+    },
+    {
+      "name": "clear stale result \"1000000001\"",
+      "pass": true
+    },
+    {
+      "name": "preset 144",
+      "pass": true
+    },
+    {
+      "name": "reset restores 48",
+      "pass": true
+    },
+    {
+      "name": "SDI basico",
+      "pass": true,
+      "detail": "Resultado\n20 oct 2026, 9:46 p.m.\nFactor de integración\n1.049315\nSalario diario\n$500.00\nSDI estimado\n$524.66\nNo incluye prestaciones adicionales ni topes aplicables.\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "SDI segundo",
+      "pass": true,
+      "detail": "Resultado\n20 oct 2026, 9:46 p.m.\nFactor de integración\n1.050685\nSalario diario\n$500.00\nSDI estimado\n$525.34\nNo incluye prestaciones adicionales ni topes aplicables.\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "SDI superior",
+      "pass": true,
+      "detail": "Resultado\n20 oct 2026, 9:46 p.m.\nFactor de integración\n1.109589\nSalario diario\n$500.00\nSDI estimado\n$554.79\nNo incluye prestaciones adicionales ni topes aplicables.\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "SDI blank focus",
+      "pass": true
+    },
+    {
+      "name": "SDI blank ready cleared",
+      "pass": true
+    },
+    {
+      "name": "SDI negative",
+      "pass": true
+    },
+    {
+      "name": "search fallback JSON finds new tool",
+      "pass": true
+    },
+    {
+      "name": "catalog card new tool",
+      "pass": true
+    },
+    {
+      "name": "no JavaScript errors",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "no-JS formula/table",
+      "pass": true
+    }
+  ]
+}

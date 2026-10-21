@@ -1,0 +1,13 @@
+.duration-page .duration-presets,.duration-page .duration-actions{display:flex;flex-wrap:wrap;gap:.6rem;margin:1rem 0}
+.duration-page .duration-actions [type="submit"]{background:#5542b5;color:#fff;border:1px solid #5542b5;min-height:44px;font:inherit;cursor:pointer}
+.duration-page .duration-actions [type="submit"]:hover{background:#443394}
+.duration-page .duration-presets button{min-height:44px;padding:.65rem .9rem;border:1px solid var(--line);border-radius:.7rem;background:var(--surface);color:var(--text);font:inherit;cursor:pointer}
+.duration-page button:focus-visible,.duration-page input:focus-visible{outline:3px solid #8873e8;outline-offset:3px}
+.duration-page .duration-result{padding:1.25rem;border:1px solid var(--line);border-radius:1rem;background:var(--surface-2);margin-top:1rem;overflow-wrap:anywhere}
+.duration-page .duration-result:empty{display:none}
+.duration-page .duration-total{font-size:clamp(1.3rem,3vw,2rem)}
+.duration-page #duration-error{color:#b72828;font-weight:600}
+.duration-page input[aria-invalid="true"]{border-color:#b72828}
+.duration-page .calc-layout>*{min-width:0}
+.duration-page .table-wrap{overflow-x:auto}
+@media(prefers-reduced-motion:reduce){.duration-page *{scroll-behavior:auto}}

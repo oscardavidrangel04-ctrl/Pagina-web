@@ -1,0 +1,9 @@
+.sdi-examples { margin: 1.25rem 0; padding: 1rem; border: 1px solid var(--border, #b9bed1); border-radius: 12px; }
+.sdi-examples p { margin: 0 0 .75rem; }
+.sdi-examples p:empty { display: none; }
+.sdi-example-actions { display: flex; flex-wrap: wrap; gap: .5rem; }
+.sdi-example-actions button { min-height: 44px; padding: .65rem .8rem; font: inherit; color: inherit; background: transparent; border: 1px solid currentColor; border-radius: 8px; cursor: pointer; }
+.sdi-example-actions button:hover { text-decoration: underline; }
+.sdi-example-actions button:focus-visible { outline: 3px solid currentColor; outline-offset: 3px; }
+#sdi-example-note { margin-top: .75rem; }
+[aria-invalid="true"] { outline: 2px solid #bb3030; outline-offset: 2px; }
