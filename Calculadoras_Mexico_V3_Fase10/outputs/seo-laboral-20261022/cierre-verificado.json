@@ -1,0 +1,713 @@
+{
+  "date": "2026-10-25",
+  "deployment_date": null,
+  "changed": [
+    "fallback-con-que-salario-se-calcula-aguinaldo.html",
+    "sitemap-seo-2026.xml",
+    "sitemap.xml",
+    "articulos/con-que-salario-se-calcula-aguinaldo.html",
+    "articulos/horas-extra-2026.html",
+    "articulos/horas-extra-dobles-triples.html",
+    "articulos/salario-bruto-neto.html",
+    "calculadoras/finiquito.html",
+    "calculadoras/horas-extra.html",
+    "calculadoras/liquidacion.html",
+    "calculadoras/prima-vacacional.html",
+    "calculadoras/ptu.html",
+    "calculadoras/salario-bruto.html",
+    "calculadoras/salario-neto.html",
+    "calculadoras/vacaciones.html",
+    "assets/css/interface-v570.css",
+    "assets/js/salario-neto-receipt.js"
+  ],
+  "new": [
+    ".vercelignore",
+    "assets/css/salario-bruto-focus.css",
+    "assets/js/laboral-ejemplos-20261023.js",
+    "assets/js/salario-bruto-focus.js"
+  ],
+  "deleted": [],
+  "html_files_changed": 13,
+  "canonical_urls_changed": 12,
+  "canonical_dates": {
+    "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-aguinaldo.html": "2026-10-23",
+    "https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-2026.html": "2026-10-23",
+    "https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-dobles-triples.html": "2026-10-23",
+    "https://calculadora-isr-mexico.vercel.app/articulos/salario-bruto-neto.html": "2026-10-23",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/finiquito.html": "2026-10-24",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/horas-extra.html": "2026-10-23",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/liquidacion.html": "2026-10-24",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html": "2026-10-24",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/ptu.html": "2026-10-23",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-bruto.html": "2026-10-23",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html": "2026-10-23",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/vacaciones.html": "2026-10-24"
+  },
+  "checks": [
+    {
+      "name": "unchanged calculadoras/pago-quincenal.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged calculadoras/salario-diario.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged calculadoras/bono.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged calculadoras/aguinaldo.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged articulos/aguinaldo-por-antiguedad.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged articulos/aguinaldo-3-meses.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged calculadoras/salario-diario-integrado.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "unchanged assets/js/calculators.js",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no deleted files",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "no duplicate FAQPage fallback-con-que-salario-se-calcula-aguinaldo.html",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "no duplicate FAQPage articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "canonical preserved articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no duplicate FAQPage articulos/horas-extra-2026.html",
+      "pass": true,
+      "detail": 0
+    },
+    {
+      "name": "canonical preserved articulos/horas-extra-2026.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no duplicate FAQPage articulos/horas-extra-dobles-triples.html",
+      "pass": true,
+      "detail": 1
+    },
+    {
+      "name": "FAQ visible articulos/horas-extra-dobles-triples.html ¿Las primeras nueve horas extra siempre son dobles?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible articulos/horas-extra-dobles-triples.html ¿Puedo juntar horas de varias semanas?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "canonical preserved articulos/horas-extra-dobles-triples.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no duplicate FAQPage articulos/salario-bruto-neto.html",
+      "pass": true,
+      "detail": 1
+    },
+    {
+      "name": "FAQ visible articulos/salario-bruto-neto.html ¿El salario bruto es lo que aparece en mi contrato?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible articulos/salario-bruto-neto.html ¿El salario neto es exactamente lo que depositan?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible articulos/salario-bruto-neto.html ¿Puedo convertir bruto a neto restando un porcentaje fijo?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible articulos/salario-bruto-neto.html ¿ISR e IMSS son lo mismo?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible articulos/salario-bruto-neto.html ¿Qué debo comparar entre ofertas?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible articulos/salario-bruto-neto.html ¿El salario bruto incluye bonos y prestaciones?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible articulos/salario-bruto-neto.html ¿Debo preguntar por sueldo bruto o neto en una oferta?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible articulos/salario-bruto-neto.html ¿Cómo calculo el bruto si solo conozco el neto deseado?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible articulos/salario-bruto-neto.html ¿Por qué dos personas con el mismo bruto pueden recibir un neto diferente?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "canonical preserved articulos/salario-bruto-neto.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no duplicate FAQPage calculadoras/finiquito.html",
+      "pass": true,
+      "detail": 1
+    },
+    {
+      "name": "FAQ visible calculadoras/finiquito.html ¿Cuánto me toca de finiquito por renuncia?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/finiquito.html ¿Qué incluye el finiquito de esta calculadora?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/finiquito.html ¿Finiquito y liquidación son iguales? ¿Incluye tres meses de sueldo?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/finiquito.html ¿Incluye ISR o prima de antigüedad?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/finiquito.html ¿Los días trabajados del año son mi antigüedad total?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/finiquito.html ¿Qué documentos conviene comparar con el resultado?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "canonical preserved calculadoras/finiquito.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no duplicate FAQPage calculadoras/horas-extra.html",
+      "pass": true,
+      "detail": 1
+    },
+    {
+      "name": "FAQ visible calculadoras/horas-extra.html ¿Cómo calcular las horas extra si gano por mes?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/horas-extra.html ¿Puedo poner las horas extra de toda la quincena?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/horas-extra.html ¿El resultado incluye mi sueldo normal o el ISR?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/horas-extra.html ¿Cómo calculo una hora y media extra?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/horas-extra.html ¿Pagar triple autoriza cualquier horario?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/horas-extra.html ¿Esta regla sirve para 2028 o 2030?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "canonical preserved calculadoras/horas-extra.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no duplicate FAQPage calculadoras/liquidacion.html",
+      "pass": true,
+      "detail": 1
+    },
+    {
+      "name": "FAQ visible calculadoras/liquidacion.html ¿Toda separación laboral genera liquidación?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/liquidacion.html ¿Cómo se calcula una liquidación por despido en esta herramienta?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/liquidacion.html ¿Siempre corresponden 20 días por año?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/liquidacion.html ¿La liquidación incluye finiquito?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/liquidacion.html ¿Qué salario debo capturar? ¿La calculadora obtiene el integrado?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/liquidacion.html ¿Puedo usar el resultado para firmar un convenio?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "canonical preserved calculadoras/liquidacion.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no duplicate FAQPage calculadoras/prima-vacacional.html",
+      "pass": true,
+      "detail": 1
+    },
+    {
+      "name": "FAQ visible calculadoras/prima-vacacional.html ¿Cuál es la fórmula para calcular la prima vacacional?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/prima-vacacional.html ¿La prima se calcula sobre el salario mensual completo?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/prima-vacacional.html ¿Cuál es el mínimo y puedo usar un porcentaje mayor?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/prima-vacacional.html ¿La prima vacacional sustituye el pago de vacaciones?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/prima-vacacional.html ¿Qué días de vacaciones debo capturar?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/prima-vacacional.html ¿El resultado de prima vacacional es antes de impuestos?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "canonical preserved calculadoras/prima-vacacional.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no duplicate FAQPage calculadoras/ptu.html",
+      "pass": true,
+      "detail": 1
+    },
+    {
+      "name": "FAQ visible calculadoras/ptu.html ¿Puedo calcular mis utilidades solo con mi sueldo mensual?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/ptu.html ¿Qué significa bolsa total de PTU?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/ptu.html ¿Qué salario debo capturar?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/ptu.html ¿La calculadora aplica el tope de tres meses?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/ptu.html ¿El resultado es neto o bruto?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/ptu.html ¿Por qué mis datos no pueden superar los totales?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "canonical preserved calculadoras/ptu.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no duplicate FAQPage calculadoras/salario-bruto.html",
+      "pass": true,
+      "detail": 1
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-bruto.html ¿Cómo pasar de salario neto a bruto?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-bruto.html ¿Es lo mismo que calcular ISR?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-bruto.html ¿Puedo usar un porcentaje de deducciones?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-bruto.html ¿Sirve para comparar una oferta?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-bruto.html ¿Puedo obtener el bruto si solo conozco el neto deseado?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "canonical preserved calculadoras/salario-bruto.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no duplicate FAQPage calculadoras/salario-neto.html",
+      "pass": true,
+      "detail": 1
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-neto.html ¿Bruto y neto son lo mismo?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-neto.html ¿Calcula ISR e IMSS automáticamente?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-neto.html ¿Cómo calculo mi sueldo neto quincenal?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-neto.html ¿Cómo calcular el sueldo neto a partir del bruto?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-neto.html ¿Cuánto son $15,000 brutos a netos?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-neto.html ¿Salario neto y salario líquido significan lo mismo?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-neto.html ¿Puedo incluir otras deducciones?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-neto.html ¿Cómo comparo dos ofertas de empleo?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-neto.html ¿Debo capturar ISR e IMSS por separado?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/salario-neto.html ¿Por qué mi neto real no coincide?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "canonical preserved calculadoras/salario-neto.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "no duplicate FAQPage calculadoras/vacaciones.html",
+      "pass": true,
+      "detail": 1
+    },
+    {
+      "name": "FAQ visible calculadoras/vacaciones.html ¿Cuántos días de vacaciones corresponden el primer año?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/vacaciones.html ¿Cuántos días corresponden de 6 a 10 años?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/vacaciones.html ¿Vacaciones y prima vacacional son lo mismo?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/vacaciones.html ¿La prima mínima es 25%? ¿Puedo usar una mayor?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/vacaciones.html ¿Qué pasa si no cumplí el año completo?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "FAQ visible calculadoras/vacaciones.html ¿El resultado es un recibo oficial o un importe neto?",
+      "pass": true,
+      "detail": {
+        "matches": 1
+      }
+    },
+    {
+      "name": "canonical preserved calculadoras/vacaciones.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap.xml https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap.xml https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-2026.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap.xml https://calculadora-isr-mexico.vercel.app/articulos/salario-bruto-neto.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap.xml https://calculadora-isr-mexico.vercel.app/calculadoras/finiquito.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap.xml https://calculadora-isr-mexico.vercel.app/calculadoras/horas-extra.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap.xml https://calculadora-isr-mexico.vercel.app/calculadoras/liquidacion.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap.xml https://calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap.xml https://calculadora-isr-mexico.vercel.app/calculadoras/ptu.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap.xml https://calculadora-isr-mexico.vercel.app/calculadoras/salario-bruto.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap.xml https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap.xml https://calculadora-isr-mexico.vercel.app/calculadoras/vacaciones.html",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "lastmod sitemap-seo-2026.xml https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-dobles-triples.html",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "status": "PASS"
+}

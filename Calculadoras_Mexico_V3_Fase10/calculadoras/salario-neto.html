@@ -111,6 +111,7 @@
 <div class="form-group">
 <label for="salario">Salario bruto del periodo (MXN)</label>
 <input id="salario" inputmode="decimal" min="0.01" step="0.01" type="number" value="20000">
+<small>Usa el total de percepciones del recibo que vas a comprobar, antes de descuentos.</small>
 </div>
 <div class="form-group">
 <label for="isrManual">ISR retenido (MXN)</label>
@@ -126,9 +127,9 @@
 </div>
 </div>
 <div class="form-group sn-deposit">
-<label for="snDeposito">Depósito recibido (opcional, MXN)</label>
+<label for="snDeposito">Depósito de este recibo (opcional, MXN)</label>
 <input id="snDeposito" type="number" min="0" step="0.01" inputmode="decimal" placeholder="Introduce el depósito para compararlo">
-<small>Usa el depósito que corresponde únicamente a este recibo.</small>
+<small>Si el recibo se pagó en varias transferencias, suma solo las que le corresponden. Separa reembolsos o pagos de otros periodos.</small>
 </div>
 <div class="calc-controls">
 <button class="calc-button" type="button">Calcular sueldo neto</button>
@@ -190,7 +191,7 @@
 <aside aria-label="Ficha de confianza del contenido" class="trust-record">
 <div>
 <span>Última revisión</span>
-<strong>17 de octubre de 2026</strong>
+<strong>23 de octubre de 2026</strong>
 </div>
 <div>
 <span>Metodología</span>
@@ -201,7 +202,7 @@
 <a href="https://www.profedet.gob.mx/" rel="noopener noreferrer">PROFEDET · Derechos laborales ↗</a>
 </div>
 </aside>
-<p class="updated-note">Contenido revisado el 17 de octubre de 2026</p>
+<p class="updated-note">Contenido revisado el 23 de octubre de 2026</p>
 <h2>¿Cómo calcular el sueldo neto a partir del bruto?</h2>
 <p>
 <strong>Para obtener el sueldo neto, resta al bruto el ISR, las cuotas de seguridad social y los demás descuentos del recibo.</strong> No existe un porcentaje único que convierta cualquier sueldo bruto a neto: necesitas conocer las deducciones del mismo periodo.</p>
@@ -244,7 +245,7 @@
 </tbody>
 </table>
 </div>
-<p class="table-note">No sumes dos veces un concepto. Si el IMSS ya está incluido dentro de otra cifra que vas a capturar, consérvalo en un solo campo.</p>
+<p class="table-note">No captures el total de deducciones en “Otras” si ya separaste ISR e IMSS: cuenta cada concepto una sola vez. El ISR retenido y el total de descuentos son cifras distintas.</p>
 <h3>Qué debes verificar</h3>
 <p>No determina automáticamente ISR ni cuotas de seguridad social. Tampoco conoce créditos, pensiones, ausencias, bonos o conceptos exentos. Estima primero el impuesto en la calculadora de ISR y copia el dato aquí.</p>
 <div class="deep-dive">
@@ -503,7 +504,7 @@
 </script>
 <script defer src="/assets/js/calculators.js?v=5.5.5">
 </script>
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Calculadora de sueldo neto en México: de bruto a neto","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html","description":"Calcula cuánto recibes de sueldo neto y compara tu depósito. Captura bruto, ISR, IMSS y otros descuentos del recibo. Gratis, con ejemplos y sin registro.","inLanguage":"es-MX","dateModified":"2026-10-17","isAccessibleForFree":true,"@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html#webpage","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"}},{"@type":"WebApplication","name":"Calculadora de sueldo neto en México: de bruto a neto","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html","description":"Calcula cuánto recibes de sueldo neto y compara tu depósito. Captura bruto, ISR, IMSS y otros descuentos del recibo. Gratis, con ejemplos y sin registro.","applicationCategory":"FinanceApplication","operatingSystem":"Web","browserRequirements":"JavaScript habilitado","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"MXN"},"featureList":["Cálculo de sueldo neto con deducciones capturadas","Comparación con depósito recibido","Ejemplos editables por periodo","Comparación de escenarios"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"Salario neto","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html"}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Calculadora de sueldo neto en México: de bruto a neto","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html","description":"Calcula cuánto recibes de sueldo neto y compara tu depósito. Captura bruto, ISR, IMSS y otros descuentos del recibo. Gratis, con ejemplos y sin registro.","inLanguage":"es-MX","dateModified":"2026-10-23","isAccessibleForFree":true,"@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html#webpage","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"}},{"@type":"WebApplication","name":"Calculadora de sueldo neto en México: de bruto a neto","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html","description":"Calcula cuánto recibes de sueldo neto y compara tu depósito. Captura bruto, ISR, IMSS y otros descuentos del recibo. Gratis, con ejemplos y sin registro.","applicationCategory":"FinanceApplication","operatingSystem":"Web","browserRequirements":"JavaScript habilitado","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"MXN"},"featureList":["Cálculo de sueldo neto con deducciones capturadas","Comparación con depósito recibido","Ejemplos editables por periodo","Comparación de escenarios"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"Salario neto","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html"}]}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Bruto y neto son lo mismo?","acceptedAnswer":{"@type":"Answer","text":"No. El bruto es anterior a deducciones y el neto es la cantidad restante."}},{"@type":"Question","name":"¿Calcula ISR e IMSS automáticamente?","acceptedAnswer":{"@type":"Answer","text":"No. Debes introducir los importes conocidos de ISR e IMSS del mismo periodo que el sueldo bruto. Si necesitas estimar ISR, usa la herramienta específica antes de copiar el resultado aquí."}},{"@type":"Question","name":"¿Cómo calculo mi sueldo neto quincenal?","acceptedAnswer":{"@type":"Answer","text":"Resta al sueldo bruto de la quincena el ISR, las cuotas y los demás descuentos de ese mismo recibo. No mezcles deducciones mensuales con salario quincenal."}},{"@type":"Question","name":"¿Cómo calcular el sueldo neto a partir del bruto?","acceptedAnswer":{"@type":"Answer","text":"Resta al sueldo bruto el ISR, las cuotas y los otros descuentos del mismo periodo. Por ejemplo, $20,000 menos $2,500 de ISR y $500 de cuotas dejan $17,000 netos. Estos descuentos son ilustrativos, no una tarifa aplicable a cualquier persona."}},{"@type":"Question","name":"¿Cuánto son $15,000 brutos a netos?","acceptedAnswer":{"@type":"Answer","text":"Depende de las deducciones de tu recibo. Si suman $2,000, recibirías $13,000 netos. Para conocer tu resultado, sustituye ese supuesto por el ISR, las cuotas y los otros descuentos que te correspondan."}},{"@type":"Question","name":"¿Salario neto y salario líquido significan lo mismo?","acceptedAnswer":{"@type":"Answer","text":"En uso cotidiano suelen referirse al importe que queda después de las deducciones aplicadas al salario bruto."}},{"@type":"Question","name":"¿Puedo incluir otras deducciones?","acceptedAnswer":{"@type":"Answer","text":"Sí. El formulario permite capturar deducciones adicionales para construir una referencia más cercana a tu escenario."}},{"@type":"Question","name":"¿Cómo comparo dos ofertas de empleo?","acceptedAnswer":{"@type":"Answer","text":"Calcula la primera, guarda el escenario y después cambia los datos de la segunda; la herramienta puede mostrar la diferencia entre ambos resultados."}},{"@type":"Question","name":"¿Debo capturar ISR e IMSS por separado?","acceptedAnswer":{"@type":"Answer","text":"Sí cuando tengas ambos importes. Así el desglose es más fácil de contrastar con el recibo."}},{"@type":"Question","name":"¿Por qué mi neto real no coincide?","acceptedAnswer":{"@type":"Answer","text":"Puede haber bonos, prestaciones, créditos, subsidios, conceptos exentos u otras deducciones."}}]}</script>
 <script defer src="/assets/js/interface-v570.js?v=5.7.0">
 </script>

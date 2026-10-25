@@ -1,0 +1,257 @@
+{
+  "method": "Node VM with lightweight DOM and shared calculators.js; static HTML. Browser QA remains separate.",
+  "reports": [
+    {
+      "file": "calculadoras/salario-neto.html",
+      "status": "PASS",
+      "faq": 10,
+      "h1": 1,
+      "uniqueIDs": 18,
+      "metadata": "aligned",
+      "localURLs": "exist"
+    },
+    {
+      "file": "calculadoras/salario-bruto.html",
+      "status": "PASS",
+      "faq": 5,
+      "h1": 1,
+      "uniqueIDs": 14,
+      "metadata": "aligned",
+      "localURLs": "exist"
+    },
+    {
+      "file": "articulos/salario-bruto-neto.html",
+      "status": "PASS",
+      "faq": 9,
+      "h1": 1,
+      "uniqueIDs": 12,
+      "metadata": "aligned",
+      "localURLs": "exist"
+    },
+    {
+      "case": "gross example",
+      "input": {
+        "period": "mensual",
+        "net": 10000,
+        "deductions": 1500
+      },
+      "expected": 11500,
+      "result": 11500,
+      "status": "PASS"
+    },
+    {
+      "case": "gross example",
+      "input": {
+        "period": "mensual",
+        "net": 15000,
+        "deductions": 2500
+      },
+      "expected": 17500,
+      "result": 17500,
+      "status": "PASS"
+    },
+    {
+      "case": "gross example",
+      "input": {
+        "period": "mensual",
+        "net": 20000,
+        "deductions": 3000
+      },
+      "expected": 23000,
+      "result": 23000,
+      "status": "PASS"
+    },
+    {
+      "case": "gross example",
+      "input": {
+        "period": "mensual",
+        "net": 30000,
+        "deductions": 5000
+      },
+      "expected": 35000,
+      "result": 35000,
+      "status": "PASS"
+    },
+    {
+      "case": "gross example",
+      "input": {
+        "period": "quincenal",
+        "net": 8000,
+        "deductions": 1200
+      },
+      "expected": 9200,
+      "result": 9200,
+      "status": "PASS"
+    },
+    {
+      "case": "gross example",
+      "input": {
+        "period": "semanal",
+        "net": 3500,
+        "deductions": 450
+      },
+      "expected": 3950,
+      "result": 3950,
+      "status": "PASS"
+    },
+    {
+      "case": "gross invalid",
+      "input": {
+        "net": "",
+        "deductions": 0
+      },
+      "expected": "rejected",
+      "result": "rejected",
+      "status": "PASS"
+    },
+    {
+      "case": "gross invalid",
+      "input": {
+        "net": 0,
+        "deductions": 0
+      },
+      "expected": "rejected",
+      "result": "rejected",
+      "status": "PASS"
+    },
+    {
+      "case": "gross invalid",
+      "input": {
+        "net": -1,
+        "deductions": 0
+      },
+      "expected": "rejected",
+      "result": "rejected",
+      "status": "PASS"
+    },
+    {
+      "case": "gross invalid",
+      "input": {
+        "net": 100,
+        "deductions": -1
+      },
+      "expected": "rejected",
+      "result": "rejected",
+      "status": "PASS"
+    },
+    {
+      "case": "gross invalid",
+      "input": {
+        "net": 100,
+        "deductions": ""
+      },
+      "expected": "rejected",
+      "result": "rejected",
+      "status": "PASS"
+    },
+    {
+      "case": "gross invalid",
+      "input": {
+        "net": 100,
+        "deductions": "NaN"
+      },
+      "expected": "rejected",
+      "result": "rejected",
+      "status": "PASS"
+    },
+    {
+      "case": "gross zero deductions, edited amount, changed period, reset",
+      "status": "PASS"
+    },
+    {
+      "case": "net example",
+      "input": {
+        "period": "mensual",
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0
+      },
+      "expected": 17000,
+      "result": 17000,
+      "status": "PASS"
+    },
+    {
+      "case": "net example",
+      "input": {
+        "period": "quincenal",
+        "gross": 10000,
+        "tax": 1100,
+        "social": 250,
+        "other": 400
+      },
+      "expected": 8250,
+      "result": 8250,
+      "status": "PASS"
+    },
+    {
+      "case": "net example",
+      "input": {
+        "period": "mensual",
+        "gross": 10000,
+        "tax": 900,
+        "social": 300,
+        "other": 0
+      },
+      "expected": 8800,
+      "result": 8800,
+      "status": "PASS"
+    },
+    {
+      "case": "net example",
+      "input": {
+        "period": "mensual",
+        "gross": 15000,
+        "tax": 1600,
+        "social": 400,
+        "other": 0
+      },
+      "expected": 13000,
+      "result": 13000,
+      "status": "PASS"
+    },
+    {
+      "case": "net example",
+      "input": {
+        "period": "mensual",
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0
+      },
+      "expected": 17000,
+      "result": 17000,
+      "status": "PASS"
+    },
+    {
+      "case": "net example",
+      "input": {
+        "period": "mensual",
+        "gross": 30000,
+        "tax": 4000,
+        "social": 700,
+        "other": 300
+      },
+      "expected": 25000,
+      "result": 25000,
+      "status": "PASS"
+    },
+    {
+      "case": "net example",
+      "input": {
+        "period": "semanal",
+        "gross": 5000,
+        "tax": 450,
+        "social": 120,
+        "other": 80
+      },
+      "expected": 4350,
+      "result": 4350,
+      "status": "PASS"
+    },
+    {
+      "case": "net receipt match, receipt -200, excess and negative deductions",
+      "status": "PASS"
+    }
+  ]
+}

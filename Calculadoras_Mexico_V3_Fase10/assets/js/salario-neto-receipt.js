@@ -3,18 +3,29 @@ document.addEventListener('DOMContentLoaded', () => {
   if (document.body.dataset.calc !== 'salario-neto') return;
   const box = document.getElementById('calculadora');
   const output = document.getElementById('snReceiptCheck');
+  const result = document.getElementById('resultado');
   const fields = ['salario', 'isrManual', 'imss', 'otras'].map(id => document.getElementById(id));
   const deposit = document.getElementById('snDeposito');
   const period = document.getElementById('snPeriodo');
   const format = value => new Intl.NumberFormat('es-MX', {style:'currency',currency:'MXN'}).format(value);
   const display = message => { output.hidden = false; output.textContent = message; };
+  const clearResult = message => {
+    delete result.dataset.ready;
+    result.textContent = message;
+  };
+  const invalidateResult = () => {
+    output.hidden = true;
+    output.textContent = '';
+    clearResult('Datos modificados. Presiona Calcular para actualizar el resultado y la comparación del depósito.');
+  };
   box.querySelector('.calc-button').addEventListener('click', event => {
     const values = fields.map(field => Number(field.value));
     const invalid = fields.find((field, i) => field.value.trim() === '' || !Number.isFinite(values[i]) || values[i] < 0 || (i === 0 && values[i] === 0));
     if (invalid || (deposit.value !== '' && (!Number.isFinite(Number(deposit.value)) || Number(deposit.value) < 0))) {
       event.stopImmediatePropagation();
-      document.getElementById('resultado').textContent = 'Revisa los datos antes de calcular.';
+      clearResult('Revisa los datos antes de calcular.');
       display('Introduce un bruto mayor a cero y deducciones no negativas. Puedes usar 0 cuando no exista un descuento.');
+      (invalid || deposit).setAttribute('aria-invalid', 'true');
       (invalid || deposit).focus();
       return;
     }
@@ -22,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const net = gross - tax - social - other;
     if (net < 0) {
       event.stopImmediatePropagation();
-      document.getElementById('resultado').textContent = 'Las deducciones superan al sueldo bruto.';
+      clearResult('Las deducciones superan al sueldo bruto.');
       display('Revisa importes duplicados y confirma que todos correspondan al mismo periodo.');
       return;
     }
@@ -52,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     box.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});
     fields[0].focus({preventScroll:true});
   });
-  box.addEventListener('input', () => { output.hidden = true; });
-  period.addEventListener('change', () => { output.hidden = true; });
-  box.querySelector('[data-form-reset]').addEventListener('click', () => { output.hidden = true; deposit.value = ''; });
+  box.addEventListener('input', invalidateResult);
+  period.addEventListener('change', invalidateResult);
+  box.querySelector('[data-form-reset]').addEventListener('click', () => { invalidateResult(); deposit.value = ''; });
 });

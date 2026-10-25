@@ -1,0 +1,981 @@
+{
+  "date": "2026-10-24",
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "layout calculadoras/horas-extra.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/horas-extra.html",
+        "missing": [],
+        "title": "Calculadora horas extra México 2026: dobles y triples",
+        "og": "Calculadora horas extra México 2026: dobles y triples"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/horas-extra.html 320",
+      "pass": true,
+      "detail": {
+        "width": 250.390625,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/horas-extra.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/horas-extra.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/horas-extra.html",
+        "missing": [],
+        "title": "Calculadora horas extra México 2026: dobles y triples",
+        "og": "Calculadora horas extra México 2026: dobles y triples"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/horas-extra.html 390",
+      "pass": true,
+      "detail": {
+        "width": 314.796875,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/horas-extra.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/horas-extra.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/horas-extra.html",
+        "missing": [],
+        "title": "Calculadora horas extra México 2026: dobles y triples",
+        "og": "Calculadora horas extra México 2026: dobles y triples"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/horas-extra.html 1440",
+      "pass": true,
+      "detail": {
+        "width": 562.109375,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/horas-extra.html 1440",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/ptu.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/ptu.html",
+        "missing": [],
+        "title": "Calculadora PTU 2026 México: reparto de utilidades",
+        "og": "Calculadora PTU 2026 México: reparto de utilidades"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/ptu.html 320",
+      "pass": true,
+      "detail": {
+        "width": 250.390625,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/ptu.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/ptu.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/ptu.html",
+        "missing": [],
+        "title": "Calculadora PTU 2026 México: reparto de utilidades",
+        "og": "Calculadora PTU 2026 México: reparto de utilidades"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/ptu.html 390",
+      "pass": true,
+      "detail": {
+        "width": 314.796875,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/ptu.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/ptu.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/ptu.html",
+        "missing": [],
+        "title": "Calculadora PTU 2026 México: reparto de utilidades",
+        "og": "Calculadora PTU 2026 México: reparto de utilidades"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/ptu.html 1440",
+      "pass": true,
+      "detail": {
+        "width": 562.109375,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/ptu.html 1440",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/salario-bruto.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-bruto.html",
+        "missing": [],
+        "title": "Sueldo neto a bruto: calculadora con tus deducciones",
+        "og": "Sueldo neto a bruto: calculadora con tus deducciones"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/salario-bruto.html 320",
+      "pass": true,
+      "detail": {
+        "width": 250.390625,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/salario-bruto.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/salario-bruto.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-bruto.html",
+        "missing": [],
+        "title": "Sueldo neto a bruto: calculadora con tus deducciones",
+        "og": "Sueldo neto a bruto: calculadora con tus deducciones"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/salario-bruto.html 390",
+      "pass": true,
+      "detail": {
+        "width": 314.796875,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/salario-bruto.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/salario-bruto.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-bruto.html",
+        "missing": [],
+        "title": "Sueldo neto a bruto: calculadora con tus deducciones",
+        "og": "Sueldo neto a bruto: calculadora con tus deducciones"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/salario-bruto.html 1440",
+      "pass": true,
+      "detail": {
+        "width": 562.109375,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/salario-bruto.html 1440",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/salario-neto.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html",
+        "missing": [],
+        "title": "Calculadora de sueldo neto en México: de bruto a neto",
+        "og": "Calculadora de sueldo neto en México: de bruto a neto"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/salario-neto.html 320",
+      "pass": true,
+      "detail": {
+        "width": 250.390625,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/salario-neto.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/salario-neto.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html",
+        "missing": [],
+        "title": "Calculadora de sueldo neto en México: de bruto a neto",
+        "og": "Calculadora de sueldo neto en México: de bruto a neto"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/salario-neto.html 390",
+      "pass": true,
+      "detail": {
+        "width": 314.796875,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/salario-neto.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/salario-neto.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html",
+        "missing": [],
+        "title": "Calculadora de sueldo neto en México: de bruto a neto",
+        "og": "Calculadora de sueldo neto en México: de bruto a neto"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/salario-neto.html 1440",
+      "pass": true,
+      "detail": {
+        "width": 562.109375,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/salario-neto.html 1440",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/finiquito.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/finiquito.html",
+        "missing": [],
+        "title": "Calculadora de finiquito 2026: cuánto te toca por renuncia",
+        "og": "Calculadora de finiquito 2026: cuánto te toca por renuncia"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/finiquito.html 320",
+      "pass": true,
+      "detail": {
+        "width": 250.390625,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/finiquito.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/finiquito.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/finiquito.html",
+        "missing": [],
+        "title": "Calculadora de finiquito 2026: cuánto te toca por renuncia",
+        "og": "Calculadora de finiquito 2026: cuánto te toca por renuncia"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/finiquito.html 390",
+      "pass": true,
+      "detail": {
+        "width": 314.796875,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/finiquito.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/finiquito.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/finiquito.html",
+        "missing": [],
+        "title": "Calculadora de finiquito 2026: cuánto te toca por renuncia",
+        "og": "Calculadora de finiquito 2026: cuánto te toca por renuncia"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/finiquito.html 1440",
+      "pass": true,
+      "detail": {
+        "width": 562.109375,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/finiquito.html 1440",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/liquidacion.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/liquidacion.html",
+        "missing": [],
+        "title": "Calculadora de liquidación laboral: compara tu escenario",
+        "og": "Calculadora de liquidación laboral: compara tu escenario"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/liquidacion.html 320",
+      "pass": true,
+      "detail": {
+        "width": 250.390625,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/liquidacion.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/liquidacion.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/liquidacion.html",
+        "missing": [],
+        "title": "Calculadora de liquidación laboral: compara tu escenario",
+        "og": "Calculadora de liquidación laboral: compara tu escenario"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/liquidacion.html 390",
+      "pass": true,
+      "detail": {
+        "width": 314.796875,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/liquidacion.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/liquidacion.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/liquidacion.html",
+        "missing": [],
+        "title": "Calculadora de liquidación laboral: compara tu escenario",
+        "og": "Calculadora de liquidación laboral: compara tu escenario"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/liquidacion.html 1440",
+      "pass": true,
+      "detail": {
+        "width": 562.109375,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/liquidacion.html 1440",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/vacaciones.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/vacaciones.html",
+        "missing": [],
+        "title": "Calculadora de vacaciones 2026: días por año y pago",
+        "og": "Calculadora de vacaciones 2026: días por año y pago"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/vacaciones.html 320",
+      "pass": true,
+      "detail": {
+        "width": 250.390625,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/vacaciones.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/vacaciones.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/vacaciones.html",
+        "missing": [],
+        "title": "Calculadora de vacaciones 2026: días por año y pago",
+        "og": "Calculadora de vacaciones 2026: días por año y pago"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/vacaciones.html 390",
+      "pass": true,
+      "detail": {
+        "width": 314.796875,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/vacaciones.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/vacaciones.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/vacaciones.html",
+        "missing": [],
+        "title": "Calculadora de vacaciones 2026: días por año y pago",
+        "og": "Calculadora de vacaciones 2026: días por año y pago"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/vacaciones.html 1440",
+      "pass": true,
+      "detail": {
+        "width": 562.109375,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/vacaciones.html 1440",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/prima-vacacional.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html",
+        "missing": [],
+        "title": "Calculadora de prima vacacional: cuánto te toca al 25%",
+        "og": "Calculadora de prima vacacional: cuánto te toca al 25%"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/prima-vacacional.html 320",
+      "pass": true,
+      "detail": {
+        "width": 250.390625,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/prima-vacacional.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/prima-vacacional.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html",
+        "missing": [],
+        "title": "Calculadora de prima vacacional: cuánto te toca al 25%",
+        "og": "Calculadora de prima vacacional: cuánto te toca al 25%"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/prima-vacacional.html 390",
+      "pass": true,
+      "detail": {
+        "width": 314.796875,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/prima-vacacional.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout calculadoras/prima-vacacional.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html",
+        "missing": [],
+        "title": "Calculadora de prima vacacional: cuánto te toca al 25%",
+        "og": "Calculadora de prima vacacional: cuánto te toca al 25%"
+      }
+    },
+    {
+      "name": "calculate button calculadoras/prima-vacacional.html 1440",
+      "pass": true,
+      "detail": {
+        "width": 562.109375,
+        "height": 52.390625
+      }
+    },
+    {
+      "name": "canonical calculadoras/prima-vacacional.html 1440",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/horas-extra-2026.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-2026.html",
+        "missing": [],
+        "title": "Horas extra en México 2026: pago doble, triple y límites",
+        "og": "Horas extra en México 2026: pago doble, triple y límites"
+      }
+    },
+    {
+      "name": "canonical articulos/horas-extra-2026.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/horas-extra-2026.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-2026.html",
+        "missing": [],
+        "title": "Horas extra en México 2026: pago doble, triple y límites",
+        "og": "Horas extra en México 2026: pago doble, triple y límites"
+      }
+    },
+    {
+      "name": "canonical articulos/horas-extra-2026.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/horas-extra-2026.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-2026.html",
+        "missing": [],
+        "title": "Horas extra en México 2026: pago doble, triple y límites",
+        "og": "Horas extra en México 2026: pago doble, triple y límites"
+      }
+    },
+    {
+      "name": "canonical articulos/horas-extra-2026.html 1440",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/horas-extra-dobles-triples.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-dobles-triples.html",
+        "missing": [],
+        "title": "Horas extra dobles y triples en México: diferencia y cálculo",
+        "og": "Horas extra dobles y triples en México: diferencia y cálculo"
+      }
+    },
+    {
+      "name": "canonical articulos/horas-extra-dobles-triples.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/horas-extra-dobles-triples.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-dobles-triples.html",
+        "missing": [],
+        "title": "Horas extra dobles y triples en México: diferencia y cálculo",
+        "og": "Horas extra dobles y triples en México: diferencia y cálculo"
+      }
+    },
+    {
+      "name": "canonical articulos/horas-extra-dobles-triples.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/horas-extra-dobles-triples.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-dobles-triples.html",
+        "missing": [],
+        "title": "Horas extra dobles y triples en México: diferencia y cálculo",
+        "og": "Horas extra dobles y triples en México: diferencia y cálculo"
+      }
+    },
+    {
+      "name": "canonical articulos/horas-extra-dobles-triples.html 1440",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/con-que-salario-se-calcula-aguinaldo.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-aguinaldo.html",
+        "missing": [],
+        "title": "¿El aguinaldo se calcula con sueldo bruto o neto?",
+        "og": "¿El aguinaldo se calcula con sueldo bruto o neto?"
+      }
+    },
+    {
+      "name": "canonical articulos/con-que-salario-se-calcula-aguinaldo.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/con-que-salario-se-calcula-aguinaldo.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-aguinaldo.html",
+        "missing": [],
+        "title": "¿El aguinaldo se calcula con sueldo bruto o neto?",
+        "og": "¿El aguinaldo se calcula con sueldo bruto o neto?"
+      }
+    },
+    {
+      "name": "canonical articulos/con-que-salario-se-calcula-aguinaldo.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/con-que-salario-se-calcula-aguinaldo.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-aguinaldo.html",
+        "missing": [],
+        "title": "¿El aguinaldo se calcula con sueldo bruto o neto?",
+        "og": "¿El aguinaldo se calcula con sueldo bruto o neto?"
+      }
+    },
+    {
+      "name": "canonical articulos/con-que-salario-se-calcula-aguinaldo.html 1440",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/salario-bruto-neto.html 320",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/salario-bruto-neto.html",
+        "missing": [],
+        "title": "Sueldo bruto y neto: diferencias y ejemplo de nómina",
+        "og": "Sueldo bruto y neto: diferencias y ejemplo de nómina"
+      }
+    },
+    {
+      "name": "canonical articulos/salario-bruto-neto.html 320",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/salario-bruto-neto.html 390",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/salario-bruto-neto.html",
+        "missing": [],
+        "title": "Sueldo bruto y neto: diferencias y ejemplo de nómina",
+        "og": "Sueldo bruto y neto: diferencias y ejemplo de nómina"
+      }
+    },
+    {
+      "name": "canonical articulos/salario-bruto-neto.html 390",
+      "pass": true
+    },
+    {
+      "name": "layout articulos/salario-bruto-neto.html 1440",
+      "pass": true,
+      "detail": {
+        "h1": 1,
+        "overflow": false,
+        "duplicates": [],
+        "canonical": "https://calculadora-isr-mexico.vercel.app/articulos/salario-bruto-neto.html",
+        "missing": [],
+        "title": "Sueldo bruto y neto: diferencias y ejemplo de nómina",
+        "og": "Sueldo bruto y neto: diferencias y ejemplo de nómina"
+      }
+    },
+    {
+      "name": "canonical articulos/salario-bruto-neto.html 1440",
+      "pass": true
+    },
+    {
+      "name": "hours 0",
+      "pass": true,
+      "detail": "Resultado\n24 oct 2026, 7:11 p.m.\nHora ordinaria\n$62.50\nHoras dobles\n0\nPago doble\n$0.00\nHoras triples\n0\nPago triple\n$0.00\nTotal extraordinario\n$0.00\nReferencia general; revisa las condiciones reales de tu jornada.\nINTERPRETACIÓN PERSONALIZADA\n¿Qué significa tu resultado?\n\nLa hora ordinaria de referencia es $62.50. Con las horas capturadas, el pago doble estimado es $0.00 y el triple $0.00, para un total extraordinario de $0.00.\n\nVer cálculo paso a paso con tus números\nEXPLORA ESCENARIOS\nSimulaciones rápidas\n\nCambia un dato y recalcula al instante.\n\n+1 h\n+3 h\n+5 h\n−1 h\nSIGUIENTE PASO RECOMENDADO\nComprueba tu salario por hora\n\nRevisa primero el valor ordinario usado como base del cálculo.\n\nAbrir herramienta →\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "hours 3",
+      "pass": true,
+      "detail": "Resultado\n24 oct 2026, 7:11 p.m.\nHora ordinaria\n$62.50\nHoras dobles\n3\nPago doble\n$375.00\nHoras triples\n0\nPago triple\n$0.00\nTotal extraordinario\n$375.00\nReferencia general; revisa las condiciones reales de tu jornada.\nINTERPRETACIÓN PERSONALIZADA\n¿Qué significa tu resultado?\n\nLa hora ordinaria de referencia es $62.50. Con las horas capturadas, el pago doble estimado es $375.00 y el triple $0.00, para un total extraordinario de $375.00.\n\nVer cálculo paso a paso con tus números\nEXPLORA ESCENARIOS\nSimulaciones rápidas\n\nCambia un dato y recalcula al instante.\n\n+1 h\n+3 h\n+5 h\n−1 h\nSIGUIENTE PASO RECOMENDADO\nComprueba tu salario por hora\n\nRevisa primero el valor ordinario usado como base del cálculo.\n\nAbrir herramienta →\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "hours 6",
+      "pass": true,
+      "detail": "Resultado\n24 oct 2026, 7:11 p.m.\nHora ordinaria\n$62.50\nHoras dobles\n6\nPago doble\n$750.00\nHoras triples\n0\nPago triple\n$0.00\nTotal extraordinario\n$750.00\nReferencia general; revisa las condiciones reales de tu jornada.\nINTERPRETACIÓN PERSONALIZADA\n¿Qué significa tu resultado?\n\nLa hora ordinaria de referencia es $62.50. Con las horas capturadas, el pago doble estimado es $750.00 y el triple $0.00, para un total extraordinario de $750.00.\n\nVer cálculo paso a paso con tus números\nEXPLORA ESCENARIOS\nSimulaciones rápidas\n\nCambia un dato y recalcula al instante.\n\n+1 h\n+3 h\n+5 h\n−1 h\nSIGUIENTE PASO RECOMENDADO\nComprueba tu salario por hora\n\nRevisa primero el valor ordinario usado como base del cálculo.\n\nAbrir herramienta →\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "hours 9",
+      "pass": true,
+      "detail": "Resultado\n24 oct 2026, 7:11 p.m.\nHora ordinaria\n$62.50\nHoras dobles\n9\nPago doble\n$1,125.00\nHoras triples\n0\nPago triple\n$0.00\nTotal extraordinario\n$1,125.00\nReferencia general; revisa las condiciones reales de tu jornada.\nINTERPRETACIÓN PERSONALIZADA\n¿Qué significa tu resultado?\n\nLa hora ordinaria de referencia es $62.50. Con las horas capturadas, el pago doble estimado es $1,125.00 y el triple $0.00, para un total extraordinario de $1,125.00.\n\nVer cálculo paso a paso con tus números\nEXPLORA ESCENARIOS\nSimulaciones rápidas\n\nCambia un dato y recalcula al instante.\n\n+1 h\n+3 h\n+5 h\n−1 h\nSIGUIENTE PASO RECOMENDADO\nComprueba tu salario por hora\n\nRevisa primero el valor ordinario usado como base del cálculo.\n\nAbrir herramienta →\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "hours 12",
+      "pass": true,
+      "detail": "Resultado\n24 oct 2026, 7:11 p.m.\nHora ordinaria\n$62.50\nHoras dobles\n9\nPago doble\n$1,125.00\nHoras triples\n3\nPago triple\n$562.50\nTotal extraordinario\n$1,687.50\nReferencia general; revisa las condiciones reales de tu jornada.\nINTERPRETACIÓN PERSONALIZADA\n¿Qué significa tu resultado?\n\nLa hora ordinaria de referencia es $62.50. Con las horas capturadas, el pago doble estimado es $1,125.00 y el triple $562.50, para un total extraordinario de $1,687.50.\n\nVer cálculo paso a paso con tus números\nComparación visual\nProporción relativa entre los conceptos del resultado\nPago doble\n$1,125.00\n100%\nPago triple\n$562.50\n50%\nEXPLORA ESCENARIOS\nSimulaciones rápidas\n\nCambia un dato y recalcula al instante.\n\n+1 h\n+3 h\n+5 h\n−1 h\nSIGUIENTE PASO RECOMENDADO\nComprueba tu salario por hora\n\nRevisa primero el valor ordinario usado como base del cálculo.\n\nAbrir herramienta →\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "hours 1.5",
+      "pass": true,
+      "detail": "Resultado\n24 oct 2026, 7:11 p.m.\nHora ordinaria\n$62.50\nHoras dobles\n1.5\nPago doble\n$187.50\nHoras triples\n0\nPago triple\n$0.00\nTotal extraordinario\n$187.50\nReferencia general; revisa las condiciones reales de tu jornada.\nINTERPRETACIÓN PERSONALIZADA\n¿Qué significa tu resultado?\n\nLa hora ordinaria de referencia es $62.50. Con las horas capturadas, el pago doble estimado es $187.50 y el triple $0.00, para un total extraordinario de $187.50.\n\nVer cálculo paso a paso con tus números\nEXPLORA ESCENARIOS\nSimulaciones rápidas\n\nCambia un dato y recalcula al instante.\n\n+1 h\n+3 h\n+5 h\n−1 h\nSIGUIENTE PASO RECOMENDADO\nComprueba tu salario por hora\n\nRevisa primero el valor ordinario usado como base del cálculo.\n\nAbrir herramienta →\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "invalid hours horas ",
+      "pass": true
+    },
+    {
+      "name": "invalid hours horas -1",
+      "pass": true
+    },
+    {
+      "name": "invalid hours jornada 0",
+      "pass": true
+    },
+    {
+      "name": "invalid hours salario ",
+      "pass": true
+    },
+    {
+      "name": "hours preset",
+      "pass": true
+    },
+    {
+      "name": "hours stale cleared",
+      "pass": true
+    },
+    {
+      "name": "PTU preset",
+      "pass": true
+    },
+    {
+      "name": "PTU 150 days",
+      "pass": true
+    },
+    {
+      "name": "invalid PTU diasPersona 5001",
+      "pass": true
+    },
+    {
+      "name": "invalid PTU salarioPersona 3000001",
+      "pass": true
+    },
+    {
+      "name": "invalid PTU diasPersona -1",
+      "pass": true
+    },
+    {
+      "name": "invalid PTU bolsa ",
+      "pass": true
+    },
+    {
+      "name": "invalid PTU diasTotal 0",
+      "pass": true
+    },
+    {
+      "name": "PTU zero individual",
+      "pass": true
+    },
+    {
+      "name": "bruto manual",
+      "pass": true
+    },
+    {
+      "name": "bruto preset valid",
+      "pass": true
+    },
+    {
+      "name": "bruto blank",
+      "pass": true
+    },
+    {
+      "name": "default finiquito",
+      "pass": true,
+      "detail": "Resultado\n24 oct 2026, 7:11 p.m.\nDías pendientes\n$2,500.00\nAguinaldo proporcional\n$3,698.63\nVacaciones pendientes\n$3,000.00\nPrima vacacional\n$750.00\nFiniquito estimado\n$9,948.63\nNo incluye indemnizaciones, prima de antigüedad ni retenciones.\nINTERPRETACIÓN PERSONALIZADA\n¿Qué significa tu resultado?\n\nCon tus datos, el finiquito estimado es $9,948.63. La cifra reúne los conceptos mostrados arriba —salarios y prestaciones pendientes capturadas— y no significa que incluya automáticamente indemnizaciones, prima de antigüedad o todas las retenciones posibles.\n\nVer cálculo paso a paso con tus números\nComparación visual\nProporción relativa entre los conceptos del resultado\nDías pendientes\n$2,500.00\n68%\nAguinaldo proporcional\n$3,698.63\n100%\nVacaciones pendientes\n$3,000.00\n81%\nPrima vacacional\n$750.00\n20%\nEXPLORA ESCENARIOS\nSimulaciones rápidas\n\nCambia un dato y recalcula al instante.\n\n+$1,000\n+$2,000\n+$5,000\n−$1,000\nSIGUIENTE PASO RECOMENDADO\n¿Tu salida podría implicar liquidación?\n\nCompara los conceptos sin mezclar prestaciones pendientes con indemnizaciones.\n\nAbrir herramienta →\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "required finiquito",
+      "pass": true
+    },
+    {
+      "name": "default liquidacion",
+      "pass": true,
+      "detail": "Resultado\n24 oct 2026, 7:11 p.m.\nTres meses de salario\n$45,000.00\n20 días por año\n$0.00\nSueldo pendiente\n$0.00\nReferencia total\n$45,000.00\nEs una simulación informativa y no determina derechos.\nINTERPRETACIÓN PERSONALIZADA\n¿Qué significa tu resultado?\n\nLa referencia total del escenario es $45,000.00. Está formada por los conceptos que activaste y capturaste, como tres meses, veinte días por año cuando se incluyan y sueldo pendiente. La procedencia legal de cada concepto depende del caso concreto.\n\nVer cálculo paso a paso con tus números\nEXPLORA ESCENARIOS\nSimulaciones rápidas\n\nCambia un dato y recalcula al instante.\n\n+$100\n+$250\n+$500\n−$100\nSIGUIENTE PASO RECOMENDADO\nCalcula también el finiquito\n\nRevisa salarios y prestaciones pendientes como un desglose separado.\n\nAbrir herramienta →\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "required liquidacion",
+      "pass": true
+    },
+    {
+      "name": "default vacaciones",
+      "pass": true,
+      "detail": "Resultado\n24 oct 2026, 7:11 p.m.\nDías de vacaciones\n12\nPago del periodo\n$6,000.00\nPrima vacacional\n$1,500.00\nReferencia total\n$7,500.00\nINTERPRETACIÓN PERSONALIZADA\n¿Qué significa tu resultado?\n\nLa antigüedad indicada produce una referencia de 12 días. El pago del periodo es $6,000.00 y la prima vacacional estimada es $1,500.00. Revisa ambos conceptos por separado antes de interpretar el total.\n\nVer cálculo paso a paso con tus números\nComparación visual\nProporción relativa entre los conceptos del resultado\nPago del periodo\n$6,000.00\n100%\nPrima vacacional\n$1,500.00\n25%\nEXPLORA ESCENARIOS\nSimulaciones rápidas\n\nCambia un dato y recalcula al instante.\n\n+$1,000\n+$2,000\n+$5,000\n−$1,000\nSIGUIENTE PASO RECOMENDADO\nRevisa la prima vacacional\n\nSepara el pago de los días de descanso de la prestación adicional.\n\nAbrir herramienta →\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "required vacaciones",
+      "pass": true
+    },
+    {
+      "name": "default prima-vacacional",
+      "pass": true,
+      "detail": "Resultado\n24 oct 2026, 7:11 p.m.\nPago base de vacaciones\n$6,000.00\nPorcentaje de prima\n25.00%\nPrima vacacional\n$1,500.00\nINTERPRETACIÓN PERSONALIZADA\n¿Qué significa tu resultado?\n\nEl pago base de los días indicados es $6,000.00. Aplicando el porcentaje capturado, la prima vacacional estimada es $1,500.00. La prima es adicional al pago base; no son el mismo concepto.\n\nVer cálculo paso a paso con tus números\nComparación visual\nProporción relativa entre los conceptos del resultado\nPago base de vacaciones\n$6,000.00\n100%\nPrima vacacional\n$1,500.00\n25%\nEXPLORA ESCENARIOS\nSimulaciones rápidas\n\nCambia un dato y recalcula al instante.\n\n+$100\n+$250\n+$500\n−$100\nSIGUIENTE PASO RECOMENDADO\nCalcula los días de vacaciones\n\nRelaciona antigüedad, días correspondientes y pago del periodo.\n\nAbrir herramienta →\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "name": "required prima-vacacional",
+      "pass": true
+    },
+    {
+      "name": "20 days opt in",
+      "pass": true
+    },
+    {
+      "name": "liquidacion optional 20 days",
+      "pass": true
+    },
+    {
+      "name": "neto example",
+      "pass": true
+    },
+    {
+      "name": "neto deductions exceed gross",
+      "pass": true
+    },
+    {
+      "name": "neto keyboard Enter",
+      "pass": true
+    },
+    {
+      "name": "JS errors",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "no JS content calculadoras/ptu.html",
+      "pass": true
+    },
+    {
+      "name": "no JS content calculadoras/horas-extra.html",
+      "pass": true
+    },
+    {
+      "name": "no JS content articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "pass": true
+    }
+  ]
+}

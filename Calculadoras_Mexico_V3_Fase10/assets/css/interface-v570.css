@@ -24,3 +24,9 @@ html{scroll-padding-top:92px}.cm-ui{background:var(--bg)!important;color:var(--t
 
 /* v5.8.0: contain page headings within the existing responsive wrapper. */
 .cm-ui .page-head{width:100%!important;max-width:100%;min-width:0}
+
+/* Keep mobile actions in separate rows: legacy full-width buttons must not shrink in a flex row. */
+@media(max-width:760px){
+  .cm-ui .calc-controls{display:grid;grid-template-columns:minmax(0,1fr)}
+  .cm-ui .calc-controls>:is(.calc-button,.reset-button){width:100%;min-width:0;white-space:normal;overflow-wrap:normal;word-break:normal}
+}
