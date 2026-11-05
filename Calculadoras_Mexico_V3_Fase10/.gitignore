@@ -1,0 +1,9 @@
+# Local working material; Vercel also builds from an explicit public allowlist.
+/outputs/
+/site-public/
+/auditoria-arquitectura/
+/documentacion-v580/
+/documentacion-v590/
+/documentacion-v591/
+/entrega-v570/
+__pycache__/

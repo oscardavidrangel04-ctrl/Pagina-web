@@ -49,6 +49,9 @@
         const invalid = fields.filter(f => !f.checkValidity());
         if (invalid.length) {
           e.preventDefault(); e.stopImmediatePropagation();
+          delete result.dataset.ready;
+          result.textContent = 'Revisa los campos señalados y vuelve a calcular.';
+          stale.hidden = true;
           invalid.forEach(f => {
             f.setAttribute('aria-invalid', 'true');
             const error = document.createElement('span'); error.className = 'cm-field-error'; error.id = f.id + '-error';

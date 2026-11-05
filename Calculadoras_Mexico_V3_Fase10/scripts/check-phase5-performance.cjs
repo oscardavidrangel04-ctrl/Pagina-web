@@ -2,6 +2,8 @@ const fs=require('fs'),path=require('path'),assert=require('assert/strict');
 const {chromium}=require('C:/Users/Casa/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
 const root=path.resolve(__dirname,'..');
 require(path.join(root,'assets/js/catalog.js'));
+const publicSlugs=fs.readdirSync(path.join(root,'calculadoras')).filter(name=>name.endsWith('.html')).map(name=>name.slice(0,-5)).sort();
+assert.deepEqual(globalThis.CM_CATALOG.map(item=>item.slug).sort(),publicSlugs,'Every calculator must appear in search');
 assert.deepEqual(JSON.parse(fs.readFileSync(path.join(root,'assets/data/calculators.json'),'utf8')),globalThis.CM_CATALOG,'Keep lightweight and full catalogs in sync');
 assert.equal(fs.readFileSync(path.join(root,'assets/js/common.js'),'utf8'),fs.readFileSync(path.join(root,'assets/js/common.min.js'),'utf8'));
 const cfg=JSON.parse(fs.readFileSync(path.join(root,'vercel.json'),'utf8'));
@@ -34,7 +36,7 @@ const rewrites=Object.fromEntries(cfg.rewrites.map(x=>[x.source,x.destination]))
   await page.goto('http://local.test/articulos/aguinaldo-por-antiguedad.html');requests=0;
   // Explicit concurrency proves one network request even before it completes.
   const lengths=await page.evaluate(()=>Promise.all([ensureCatalog(),ensureCatalog(),ensureCatalog()]).then(rows=>rows.map(x=>x.length)));
-  assert.deepEqual(lengths,[55,55,55]);assert.equal(requests,1);
+  assert.deepEqual(lengths,Array(3).fill(publicSlugs.length));assert.equal(requests,1);
   await page.evaluate(()=>ensureCatalog());assert.equal(requests,1);
   await page.keyboard.press('Control+k');await page.locator('.global-search').fill('aguinaldo');
   await page.waitForFunction(()=>document.querySelector('.search-results').textContent.includes('Aguinaldo'));
@@ -54,7 +56,7 @@ const rewrites=Object.fromEntries(cfg.rewrites.map(x=>[x.source,x.destination]))
   assert(!(await page.locator('.search-results').textContent()).includes('Aguinaldo'));
   // Failed request must not poison the shared promise; a later attempt recovers.
   await page.reload();requests=0;fail=true;await page.evaluate(()=>ensureCatalog());fail=false;
-  assert.equal(await page.evaluate(()=>ensureCatalog().then(x=>x.length)),55);assert.equal(requests,2);
+  assert.equal(await page.evaluate(()=>ensureCatalog().then(x=>x.length)),publicSlugs.length);assert.equal(requests,2);
   assert.deepEqual(errors,[]);
   console.log('OK concurrent requests, search, retry, JS errors, catalog parity');
   const light=fs.statSync(path.join(root,'assets/data/calculators.json')).size,html=fs.statSync(path.join(root,'calculadoras.html')).size;

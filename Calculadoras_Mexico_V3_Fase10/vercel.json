@@ -1,4 +1,6 @@
 {
+  "buildCommand": "node scripts/build-public.cjs",
+  "outputDirectory": "site-public",
   "cleanUrls": false,
   "headers": [
     {

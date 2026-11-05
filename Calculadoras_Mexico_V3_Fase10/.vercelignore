@@ -1,3 +1,12 @@
 # Local evidence, source exports, test screenshots and recoverable backups.
-outputs/seo-expansion-20261019
-outputs/seo-laboral-20261022
+outputs/
+site-public/
+auditoria-arquitectura/
+documentacion-v580/
+documentacion-v590/
+documentacion-v591/
+entrega-v570/
+*.md
+PRUEBAS_*.json
+urls-propias-para-scraper.txt
+V5.*.txt

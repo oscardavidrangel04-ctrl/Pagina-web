@@ -1,2 +1,112 @@
-<!doctype html><html lang="es-MX"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Calculadora de Subsidio al Empleo 2026 | México</title><meta name="description" content="Consulta si tu sueldo entra al subsidio para el empleo 2026 y estima el monto mensual de referencia."><link rel="canonical" href="https://calculadora-isr-mexico.vercel.app/calculadoras/subsidio-empleo.html"><link rel="stylesheet" href="/styles-v5628.css?v=5.6.28"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610" crossorigin="anonymous"></script>
-</head><body class="ziro-site cm-ui"><main class="page-wrap"><p><a href="/calculadoras.html">← Calculadoras</a></p><header class="page-head"><span class="badge">Nómina 2026</span><h1>Calculadora de subsidio al empleo 2026</h1><p>Consulta si tu ingreso mensual está dentro del límite vigente.</p></header><section class="content-box"><label for="ingreso"><strong>Ingreso mensual gravado estimado</strong></label><input id="ingreso" type="number" min="0" step="0.01" placeholder="Ej. 9500"><button id="calcular" type="button">Calcular</button><p id="resultado" aria-live="polite"></p></section><section class="content-box"><h2>Resultado de referencia</h2><p>En 2026 el monto mensual de referencia es <strong>$536.22</strong> para ingresos de hasta <strong>$11,492.66</strong>. El importe del CFDI puede variar por periodo de pago, ISR y percepciones gravadas.</p><p>Consulta la <a href="/articulos/subsidio-empleo-2026.html">guía de subsidio al empleo</a> y la <a href="/calculadoras/isr.html">calculadora ISR</a>.</p><p><small>Fuente: Decreto que modifica el diverso que otorga el subsidio para el empleo, DOF, 31 de diciembre de 2025. Resultado informativo.</small></p></section><!-- SEMRUSH_SOCIAL_2026_START --><section class="content-box"><h2>Guías relacionadas basadas en búsquedas reales</h2><ul><li><a href="/articulos/cuanto-quitan-isr-sueldo.html">cuanto-quitan-isr-sueldo</a></li></ul></section><!-- SEMRUSH_SOCIAL_2026_END --><!-- ARCHITECTURE: contextual routes 2026-10-09 --><section class="content-box architecture-related" aria-label="Tema y lecturas relacionadas"><h2>Continúa según tu objetivo</h2><p>Para encontrar herramientas y explicaciones de este tema, consulta <a href="/temas/impuestos.html">Impuestos y trámites SAT</a>.</p></section></main><script>const l=11492.66,m=536.22;document.querySelector('#calcular').onclick=()=>{const n=Number(document.querySelector('#ingreso').value),r=document.querySelector('#resultado');r.innerHTML=!Number.isFinite(n)||n<0?'Escribe un ingreso mensual válido.':n<=l?`Tu ingreso está dentro del límite. Subsidio mensual de referencia: <strong>$${m.toLocaleString('es-MX',{minimumFractionDigits:2})}</strong>.`:`Tu ingreso supera el límite de $${l.toLocaleString('es-MX',{minimumFractionDigits:2})}; no corresponde el subsidio mensual de referencia.`}</script></body></html>
+<!doctype html>
+<html lang="es-MX">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Calculadora de subsidio al empleo 2026 | México</title>
+  <meta name="description" content="Estima el subsidio para el empleo con tu ingreso gravado y el ISR del mes. Consulta las cuotas de enero y de febrero a diciembre de 2026 en México.">
+  <link rel="canonical" href="https://calculadora-isr-mexico.vercel.app/calculadoras/subsidio-empleo.html">
+  <link rel="stylesheet" href="/styles-v5628.css?v=5.6.28">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610" crossorigin="anonymous"></script>
+</head>
+<body class="ziro-site cm-ui">
+  <main class="page-wrap">
+    <nav aria-label="Ruta de navegación"><a href="/">Inicio</a> › <a href="/calculadoras.html">Calculadoras</a></nav>
+    <header class="page-head">
+      <span class="badge">Nómina 2026</span>
+      <h1>Calculadora de subsidio al empleo 2026</h1>
+      <p>Comprueba si tu sueldo gravado entra en el límite mensual. Si conoces tu ISR antes del subsidio, también puedes estimar cuánto se descuenta del impuesto.</p>
+    </header>
+
+    <section class="content-box" aria-labelledby="titulo-calculo">
+      <h2 id="titulo-calculo">Calcula el subsidio de un mes completo</h2>
+      <form id="formulario-subsidio">
+        <div class="form-group">
+          <label for="periodo">Periodo de la nómina</label>
+          <select id="periodo">
+            <option value="enero">Enero de 2026</option>
+            <option value="febrero-diciembre" selected>Febrero a diciembre de 2026</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="ingreso">Ingreso gravado del mes (MXN)</label>
+          <input id="ingreso" type="number" min="0" step="0.01" inputmode="decimal" required placeholder="Ej. 10500" aria-describedby="ayuda-ingreso">
+          <small id="ayuda-ingreso">Suma las percepciones gravadas de la nómina del mes. Excluye las cantidades exentas, primas de antigüedad, pagos por retiro, indemnizaciones y otros pagos por separación.</small>
+        </div>
+        <div class="form-group">
+          <label for="isr">ISR mensual antes del subsidio (MXN, opcional)</label>
+          <input id="isr" type="number" min="0" step="0.01" inputmode="decimal" placeholder="Ej. 650" aria-describedby="ayuda-isr">
+          <small id="ayuda-isr">Busca el impuesto calculado antes de descontar el subsidio. Si fue cero, escribe 0. Si desconoces el importe, deja este campo vacío.</small>
+        </div>
+        <button id="calcular" class="calc-button" type="submit">Calcular subsidio</button>
+      </form>
+      <p id="resultado" role="status" aria-live="polite" aria-atomic="true"></p>
+      <noscript><p>Activa JavaScript para usar el formulario o consulta la operación y el ejemplo a continuación.</p></noscript>
+    </section>
+
+    <section class="content-box">
+      <h2>Qué cuota corresponde a tu mes</h2>
+      <p>El tope de ingreso gravado es de <strong>$11,492.66</strong> al mes, inclusive. Con un centavo más se pierde el subsidio del mes completo. Dentro del límite, la cuota depende de la Unidad de Medida y Actualización (UMA) mensual vigente.</p>
+      <ul>
+        <li><strong>Enero de 2026.</strong> La UMA de 2025 sigue vigente. Multiplica $3,439.46 por 15.59 % y redondea a centavos. La cuota máxima es <strong>$536.21</strong>.</li>
+        <li><strong>Febrero a diciembre de 2026.</strong> La nueva UMA mensual es $3,566.22. Al multiplicarla por 15.02 %, la cuota máxima resulta en <strong>$535.65</strong>.</li>
+      </ul>
+      <p>El subsidio aplicable es el menor entre la cuota del mes y el ISR a cargo antes del subsidio. Si el impuesto resulta inferior a la cuota, el excedente no se paga en efectivo ni se traslada al siguiente mes.</p>
+      <p>¿Te pagan por semana o quincena? Para un periodo menor a un mes, el decreto divide la cuota entre 30.4 y multiplica por los días del periodo. La suma está sujeta al máximo mensual. Usa el formulario con los importes del mes completo para comparar el total.</p>
+    </section>
+
+    <section class="content-box">
+      <h2>Ejemplo de una nómina de noviembre</h2>
+      <p>Supón que tu ingreso gravado fue de $10,500 y que nómina determinó un ISR de $650 antes del subsidio. Como el ingreso está dentro del límite, se descuentan $535.65 y quedan <strong>$114.35 de ISR</strong>.</p>
+      <p>Si en otro mes de ese mismo periodo tu ISR antes del subsidio fuera de $300, se aplicarían únicamente $300. El ISR quedaría en cero. Si tu ISR ya era cero antes del subsidio, el importe aplicado también sería cero.</p>
+    </section>
+
+    <section class="content-box">
+      <h2>Fuentes y lectura del recibo</h2>
+      <p>El artículo segundo fija el límite y la tasa del subsidio. El segundo transitorio establece la tasa especial de enero. Consulta el <a href="https://sidof.segob.gob.mx/notas/docFuente/5777649">decreto del 31 de diciembre de 2025</a>, los <a href="https://www.inegi.org.mx/temas/uma/">valores oficiales de la UMA del INEGI</a> y la <a href="https://sidof.segob.gob.mx/notas/docFuente/5725287">regla para el excedente del subsidio</a>.</p>
+      <p>Si estás conciliando tu recibo, revisa la <a href="/articulos/subsidio-empleo-2026.html">guía del subsidio al empleo</a>, la <a href="/calculadoras/isr.html">calculadora del ISR</a> y la explicación de <a href="/articulos/cuanto-quitan-isr-sueldo.html">cuánto ISR se descuenta del sueldo</a>. Encontrarás otras herramientas en <a href="/temas/impuestos.html">Impuestos y trámites SAT</a>.</p>
+      <p><small>Revisión de parámetros: <time datetime="2026-11-04">4 de noviembre de 2026</time>.</small></p>
+    </section>
+  </main>
+  <footer class="page-wrap"><nav aria-label="Información del sitio"><p><a href="/acerca-de.html">Acerca del sitio</a> · <a href="/contacto.html">Contacto</a> · <a href="/privacidad.html">Privacidad</a> · <a href="/terminos.html">Términos</a></p></nav></footer>
+
+  <script>
+    const formulario = document.getElementById('formulario-subsidio');
+    const ingreso = document.getElementById('ingreso');
+    const isr = document.getElementById('isr');
+    const periodo = document.getElementById('periodo');
+    const resultado = document.getElementById('resultado');
+    const pesos = new Intl.NumberFormat('es-MX', { style: 'currency', currency: 'MXN' });
+    const importe = centavos => pesos.format(centavos / 100);
+    const limiteCentavos = 1149266;
+    const parametros = {
+      enero: { umaCentavos: 343946, tasaPuntosBase: 1559 },
+      'febrero-diciembre': { umaCentavos: 356622, tasaPuntosBase: 1502 }
+    };
+
+    formulario.addEventListener('input', () => { resultado.textContent = ''; });
+    formulario.addEventListener('submit', event => {
+      event.preventDefault();
+      const ingresoCentavos = Math.round(ingreso.valueAsNumber * 100);
+      if (ingresoCentavos === 0) {
+        resultado.textContent = 'Sin ingreso gravado del mes, el subsidio aplicable es $0.00.';
+        return;
+      }
+      if (ingresoCentavos > limiteCentavos) {
+        resultado.textContent = 'El ingreso gravado supera el límite de ' + importe(limiteCentavos) + '. El subsidio aplicable es $0.00.';
+        return;
+      }
+      const { umaCentavos, tasaPuntosBase } = parametros[periodo.value];
+      const cuota = Math.round(umaCentavos * tasaPuntosBase / 10000);
+      const referencia = 'Tu ingreso está dentro del límite. La cuota máxima del periodo es ' + importe(cuota) + '. ';
+      if (isr.value === '') {
+        resultado.textContent = referencia + 'Ingresa el ISR mensual antes del subsidio para conocer el importe aplicable.';
+        return;
+      }
+      const impuesto = Math.round(isr.valueAsNumber * 100);
+      const aplicado = Math.min(impuesto, cuota);
+      resultado.textContent = referencia + 'Subsidio aplicable: ' + importe(aplicado) + '. ISR después del subsidio: ' + importe(impuesto - aplicado) + '.';
+    });
+  </script>
+</body>
+</html>
