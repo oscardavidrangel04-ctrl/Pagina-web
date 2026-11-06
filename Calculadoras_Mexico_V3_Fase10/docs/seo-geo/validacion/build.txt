@@ -1,0 +1,2 @@
+PASS: node scripts/build-public.cjs
+480 archivos públicos. Informes, exportaciones y pruebas fuera del build.
