@@ -4,6 +4,7 @@ const {chromium}=require('playwright');
 const root=path.resolve(__dirname,'..'),baseline=process.env.SEO_ADVANCED_BASELINE_DIR,output=process.env.SEO_ADVANCED_QA_DIR;
 if(!baseline||!output)throw Error('Set SEO_ADVANCED_BASELINE_DIR and SEO_ADVANCED_QA_DIR');
 const changes=require('../docs/seo-avanzado/cambios-implementados.json');
+const adsterra=require('./adsterra-unit.cjs');
 const cfg=require('../vercel.json'),oldCfg=JSON.parse(fs.readFileSync(path.join(baseline,'vercel.json')));
 const rewrites=Object.fromEntries(cfg.rewrites.map(r=>[r.source,r.destination]));
 assert.deepEqual(cfg.rewrites,oldCfg.rewrites);assert.deepEqual(cfg.headers,oldCfg.headers);
@@ -17,7 +18,9 @@ for(const file of list(baseline)){
  const a=fs.readFileSync(path.join(baseline,file));
  if(file.endsWith('.html')){
   const before=a.toString(),after=fs.readFileSync(path.join(root,file),'utf8');
-  assert.deepEqual(scripts(after),scripts(before),file+' executable scripts');
+  const actualScripts=scripts(after);
+  if(adsterra.placements.includes(file)){assert.equal(actualScripts.filter(s=>s===adsterra.script).length,1,file+' Adsterra');actualScripts.splice(actualScripts.indexOf(adsterra.script),1);}
+  assert.deepEqual(actualScripts,scripts(before),file+' original executable scripts');
   assert.deepEqual(cards(after),cards(before),file+' affiliates');
   for(const pattern of [/<link\b[^>]*rel="canonical"[^>]*>/gi,/<meta\b[^>]*name="robots"[^>]*>/gi,/<(?:input|select|textarea|button)\b[^>]*>/gi])assert.deepEqual(after.match(pattern),before.match(pattern),file+' invariant');
   invariants.htmlFiles++;invariants.originalAdsenseScripts+=(before.match(/adsbygoogle\.js/g)||[]).length;invariants.affiliateCards+=cards(before).length;

@@ -4,6 +4,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const {execFileSync} = require('node:child_process');
 const {placements, programs, render} = require('./affiliate-cards.cjs');
+const adsterra=require('./adsterra-unit.cjs');
 const root = path.resolve(__dirname, '..');
 const base = process.env.MONETIZATION_BASE || '8e3ba9b96e141a5f05329414fa70ef9a2f12ac29';
 const files = execFileSync('git', ['ls-tree', '-r', '--name-only', base], {cwd:root,encoding:'utf8'}).trim().split('\n');
@@ -21,7 +22,7 @@ for (const file of files.filter(f=>f.endsWith('.html'))) {
     remaining.splice(i,1);
     if(script.includes('adsbygoogle.js')) adsense++;
   }
-  assert.ok(remaining.every(s=>s==='<script defer src="/assets/js/affiliate-events.js?v=1"></script>'),file+': unexpected new script');
+  assert.ok(remaining.every(s=>s==='<script defer src="/assets/js/affiliate-events.js?v=1"></script>'||(adsterra.placements.includes(file)&&s===adsterra.script)),file+': unexpected new script');
   for (const pattern of [/<meta\b[^>]*name="robots"[^>]*>/gi, /<link\b[^>]*rel="canonical"[^>]*>/gi]) {
     assert.deepEqual(b.match(pattern), a.match(pattern),file+': SEO changed');
   }
@@ -39,6 +40,12 @@ for(const [file,program,placement] of placements) {
   assert.equal(new URL(p.href).search,'?i=4');
   if(file.startsWith('calculadoras/')) assert.ok(html.indexOf(card)>html.indexOf('id="resultado"'));
   assert.equal((html.match(/affiliate-events.js/g)||[]).length,1);
+}
+for(const file of files.filter(f=>f.endsWith('.html'))){
+ const html=after(file),expected=adsterra.placements.includes(file)?1:0;
+ assert.equal(html.split(adsterra.script).length-1,expected,file+': Adsterra script count');
+ assert.equal(html.split('id="container-'+adsterra.id+'"').length-1,expected,file+': Adsterra container count');
+ if(expected){assert.ok(html.includes(adsterra.markup),file+': Adsterra markup');assert.ok(html.indexOf(adsterra.markup)<html.indexOf('</main>'));if(file.startsWith('calculadoras/'))assert.ok(html.indexOf(adsterra.markup)>html.indexOf('id="resultado"'));}
 }
 const config=JSON.parse(after('vercel.json')), oldConfig=JSON.parse(before('vercel.json'));
 assert.deepEqual(config.rewrites,oldConfig.rewrites);

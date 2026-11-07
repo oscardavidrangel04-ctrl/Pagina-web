@@ -1,0 +1,45 @@
+{
+  "baseline": "c57dbf2",
+  "review_date": "2026-11-06",
+  "public_html_files": 408,
+  "visitor_pages": 407,
+  "verification_exceptions": 1,
+  "indexable_urls_audited": 379,
+  "editorial_urls_optimized": 10,
+  "editorial_source_files": 13,
+  "keyword_url_pairs_reviewed": 1043,
+  "unique_semrush_keywords": 914,
+  "selected_semrush_keyword_url_pairs": 15,
+  "selected_semrush_keywords": 15,
+  "v2_bands": {
+    "1 proteger": 2,
+    "2–5 proteger/CTR": 5,
+    "6–10 relevancia/CTR": 7,
+    "11–20 primera página": 36,
+    "21–50 oportunidad selectiva": 125,
+    "51+ diferir": 868
+  },
+  "ad_counts": {
+    "native": 407,
+    "banner": 407,
+    "solcredito": 407,
+    "aliexpress": 407,
+    "adsense_existing": 368,
+    "legacy_adsterra_native": 3,
+    "legacy_300_250": 0,
+    "legacy_modern_affiliates": 11
+  },
+  "thin_adsense_pages_to_review": 184,
+  "pilot_pages": 5,
+  "sources": 14,
+  "css": {
+    "assets/css/monetization-v2.css": {
+      "bytes": 3038,
+      "gzip_bytes": 1145
+    },
+    "assets/css/pilot-v2.css": {
+      "bytes": 14510,
+      "gzip_bytes": 3221
+    }
+  }
+}

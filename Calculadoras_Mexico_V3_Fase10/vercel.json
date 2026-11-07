@@ -1,5 +1,5 @@
 {
-  "git": {"deploymentEnabled": {"codex/monetizacion-contextual-2026-11-05": false, "codex/seo-geo-integral-2026-11-05": false, "codex/seo-avanzado-semrush-2026-11-05": false}},
+  "git": {"deploymentEnabled": {"codex/optimizacion-integral-v2-2026-11-06": false, "codex/monetizacion-contextual-2026-11-05": false, "codex/seo-geo-integral-2026-11-05": false, "codex/seo-avanzado-semrush-2026-11-05": false}},
   "buildCommand": "node scripts/build-public.cjs",
   "outputDirectory": "site-public",
   "cleanUrls": false,

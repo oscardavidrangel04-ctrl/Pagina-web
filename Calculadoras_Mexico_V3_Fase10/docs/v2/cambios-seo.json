@@ -1,0 +1,254 @@
+[
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html",
+    "served_file": "calculadoras/salario-neto.html",
+    "files": [
+      "calculadoras/salario-neto.html"
+    ],
+    "keywords": [
+      "calcular sueldo bruto a neto",
+      "como calcular ingreso neto"
+    ],
+    "action": "Un mismo neto puede proceder de distintos sueldos brutos",
+    "title_before": "Calculadora de sueldo neto en México: de bruto a neto",
+    "title_after": "Calculadora de sueldo neto en México: de bruto a neto",
+    "description_before": "Calcula cuánto recibes de sueldo neto y compara tu depósito. Captura bruto, ISR, IMSS y otros descuentos del recibo. Gratis, con ejemplos y sin registro.",
+    "description_after": "Calcula cuánto recibes de sueldo neto y compara tu depósito. Captura bruto, ISR, IMSS y otros descuentos del recibo. Gratis, con ejemplos y sin registro.",
+    "new_internal_links": [
+      "/articulos/como-calcular-isr-sueldo.html"
+    ],
+    "removed_internal_links": [],
+    "google_page": {
+      "google_page_clicks": "6.0",
+      "google_page_impressions": "1986.0",
+      "google_page_ctr": "0.003",
+      "google_page_position": "30.71"
+    }
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-meses.html",
+    "served_file": "fallback-aguinaldo-por-meses.html",
+    "files": [
+      "articulos/aguinaldo-por-meses.html",
+      "fallback-aguinaldo-por-meses.html"
+    ],
+    "keywords": [
+      "si tengo 8 meses trabajando cuanto me toca de aguinaldo",
+      "si tengo 4 meses trabajando cuanto me toca de aguinaldo",
+      "si tengo 5 meses trabajando cuanto me toca de aguinaldo"
+    ],
+    "action": "Ejemplos de aguinaldo por 4, 5 y 8 meses",
+    "title_before": "Aguinaldo por meses trabajados: 1, 4, 5, 7, 8, 9 y 10 meses",
+    "title_after": "Aguinaldo por meses trabajados: 1, 4, 5, 7, 8, 9 y 10 meses",
+    "description_before": "Calcula cuánto aguinaldo te corresponde por meses trabajados en México. Tabla y ejemplos para 1, 4, 5, 7, 8, 9 y 10 meses.",
+    "description_after": "Calcula cuánto aguinaldo te corresponde por meses trabajados en México. Tabla y ejemplos para 1, 4, 5, 7, 8, 9 y 10 meses.",
+    "new_internal_links": [],
+    "removed_internal_links": [],
+    "google_page": {
+      "google_page_clicks": "1.0",
+      "google_page_impressions": "191.0",
+      "google_page_ctr": "0.0052",
+      "google_page_position": "21.2"
+    }
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/isr-semanal-quincenal-mensual.html",
+    "served_file": "articulos/isr-semanal-quincenal-mensual.html",
+    "files": [
+      "articulos/isr-semanal-quincenal-mensual.html"
+    ],
+    "keywords": [
+      "tabla isr semanal",
+      "calculadora isr semanal",
+      "calculo isr semanal"
+    ],
+    "action": "Ejemplo de cálculo con la tabla ISR semanal",
+    "title_before": "Tablas ISR 2026: semanal, quincenal y mensual con ejemplo",
+    "title_after": "Tablas ISR 2026: semanal, quincenal y mensual con ejemplo",
+    "description_before": "Consulta las tablas ISR 2026 de 7 días, 15 días y mensual: límites, cuota fija y tasa. Incluye fuente SAT y un ejemplo explicado paso a paso.",
+    "description_after": "Consulta las tablas ISR 2026 semanal, quincenal y mensual. Sigue un ejemplo de $3,000 semanales y distingue impuesto de tarifa, subsidio y sueldo neto.",
+    "new_internal_links": [],
+    "removed_internal_links": [],
+    "google_page": {
+      "google_page_clicks": "10.0",
+      "google_page_impressions": "439.0",
+      "google_page_ctr": "0.022799999999999997",
+      "google_page_position": "15.59"
+    }
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/isr-prima-vacacional.html",
+    "served_file": "fallback-isr-prima-vacacional.html",
+    "files": [
+      "fallback-isr-prima-vacacional.html",
+      "articulos/isr-prima-vacacional.html"
+    ],
+    "keywords": [
+      "a la prima vacacional se le quitan impuestos"
+    ],
+    "action": "Cómo separar prima vacacional bruta, exenta y gravada",
+    "title_before": "ISR de prima vacacional: cómo separar exento y gravado",
+    "title_after": "ISR de prima vacacional: parte exenta, gravada y ejemplo",
+    "description_before": "¿Tu prima vacacional paga ISR? Aprende a separar el importe exento y gravado, revisar tu recibo y distinguir la prestación del impuesto retenido.",
+    "description_after": "Revisa si a la prima vacacional se le quitan impuestos. Separa bruto, exento y gravado con un ejemplo y evita confundir la base gravada con el ISR retenido.",
+    "new_internal_links": [
+      "/calculadoras/salario-neto.html"
+    ],
+    "removed_internal_links": [],
+    "google_page": {
+      "google_page_clicks": "5.0",
+      "google_page_impressions": "496.0",
+      "google_page_ctr": "0.0101",
+      "google_page_position": "8.14"
+    }
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/interes-compuesto.html",
+    "served_file": "calculadoras/interes-compuesto.html",
+    "files": [
+      "calculadoras/interes-compuesto.html"
+    ],
+    "keywords": [
+      "calculadora interes compuesto"
+    ],
+    "action": "Cómo comparar aportaciones y rendimientos sin confundirlos",
+    "title_before": "Interés compuesto: calculadora de valor futuro",
+    "title_after": "Calculadora de interés compuesto con aportaciones mensuales",
+    "description_before": "Calcula interés compuesto, valor futuro y crecimiento de una inversión según capital, tasa, plazo y frecuencia de capitalización.",
+    "description_after": "Calcula interés compuesto con capital inicial y aportaciones mensuales. Compara escenarios, consulta la tabla anual y separa lo aportado de los intereses.",
+    "new_internal_links": [],
+    "removed_internal_links": [],
+    "google_page": {
+      "google_page_clicks": "0.0",
+      "google_page_impressions": "126.0",
+      "google_page_ctr": "0.0",
+      "google_page_position": "33.0"
+    }
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-aguinaldo.html",
+    "served_file": "articulos/que-es-el-aguinaldo.html",
+    "files": [
+      "articulos/que-es-el-aguinaldo.html"
+    ],
+    "keywords": [
+      "cuanto dan de aguinaldo"
+    ],
+    "action": "Cuánto dan de aguinaldo: ejemplo con sueldo mensual",
+    "title_before": "Qué es el aguinaldo en México: derecho, cálculo y pago",
+    "title_after": "Qué es el aguinaldo en México: derecho, cálculo y pago",
+    "description_before": "Conoce qué es el aguinaldo, cuántos días corresponden por ley, cuándo se paga y cómo calcular cuánto te toca en México.",
+    "description_after": "Entiende qué es el aguinaldo y cuánto corresponde con un ejemplo de sueldo mensual. Revisa días, pago proporcional, fecha límite y diferencias entre bruto y neto.",
+    "new_internal_links": [
+      "/articulos/recibo-de-aguinaldo.html"
+    ],
+    "removed_internal_links": [],
+    "google_page": {
+      "google_page_clicks": "0.0",
+      "google_page_impressions": "191.0",
+      "google_page_ctr": "0.0",
+      "google_page_position": "61.48"
+    }
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/para-que-sirve-constancia-situacion-fiscal.html",
+    "served_file": "articulos/para-que-sirve-constancia-situacion-fiscal.html",
+    "files": [
+      "articulos/para-que-sirve-constancia-situacion-fiscal.html"
+    ],
+    "keywords": [
+      "carta de situacion fiscal para que sirve"
+    ],
+    "action": "Antes de compartir tu constancia fiscal",
+    "title_before": "¿Para qué sirve la Constancia de Situación Fiscal?",
+    "title_after": "Para qué sirve la Constancia de Situación Fiscal del SAT",
+    "description_before": "Descubre qué información contiene la constancia del SAT, cuándo pueden solicitarla y cómo compartir tus datos de forma segura.",
+    "description_after": "Qué datos contiene la Constancia de Situación Fiscal, para qué sirve en facturas y nómina, y cómo distinguirla de la opinión de cumplimiento.",
+    "new_internal_links": [],
+    "removed_internal_links": [],
+    "google_page": {
+      "google_page_clicks": "0.0",
+      "google_page_impressions": "52.0",
+      "google_page_ctr": "0.0",
+      "google_page_position": "73.33"
+    }
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-se-deja-propina-mexico.html",
+    "served_file": "fallback-cuanto-se-deja-propina-mexico.html",
+    "files": [
+      "articulos/cuanto-se-deja-propina-mexico.html",
+      "fallback-cuanto-se-deja-propina-mexico.html"
+    ],
+    "keywords": [
+      "propina sugerida",
+      "cuanto se debe de dejar de propina"
+    ],
+    "action": "Intención propina sugerida, cálculo autorizado sin doble conteo, ejemplo $800+$120=$920 /4=$230; FAQ específicas y enlaces a reparto/derechos. Conserva las diferencias útiles previas del fallback.",
+    "title_before": "¿Cuánto se deja de propina en México? Ejemplos de 10% y 15%",
+    "title_after": "Propina sugerida en México: cuánto dejar y cómo calcularla",
+    "description_before": "La propina es voluntaria en México. Compara cuánto representan 10%, 15% y 20% en tu cuenta y revisa qué hacer si ya aparece un cargo por servicio.",
+    "description_after": "La propina sugerida es voluntaria. Compara 10%, 15% y 20%, calcula el total y revisa un cargo incluido antes de autorizarlo o repartir la cuenta.",
+    "new_internal_links": [],
+    "removed_internal_links": [],
+    "google_page": {
+      "google_page_clicks": "0.0",
+      "google_page_impressions": "403.0",
+      "google_page_ctr": "0.0",
+      "google_page_position": "10.02"
+    }
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/spei-liquidado-pero-no-recibido.html",
+    "served_file": "articulos/spei-liquidado-pero-no-recibido.html",
+    "files": [
+      "articulos/spei-liquidado-pero-no-recibido.html"
+    ],
+    "keywords": [
+      "que significa liquidado en banxico",
+      "spei liquidado pero no recibido"
+    ],
+    "action": "Distingue estado/CEP/abono, lista de comprobación, aclaración por remitente o beneficiario, caso $1,250, FAQ y enlaces cruzados.",
+    "title_before": "SPEI liquidado pero no recibido: qué revisar",
+    "title_after": "SPEI liquidado pero no recibido: significado y pasos",
+    "description_before": "Pasos para verificar un SPEI que aparece liquidado en Banxico pero que el beneficiario aún no ve en su cuenta.",
+    "description_after": "Qué significa liquidado en Banxico, cómo revisar el estado y el CEP, y a qué banco acudir si la transferencia aún no aparece en la cuenta.",
+    "new_internal_links": [
+      "/articulos/spei-devuelto-que-hacer.html",
+      "/articulos/transferencia-spei-cuenta-equivocada.html"
+    ],
+    "removed_internal_links": [],
+    "google_page": {
+      "google_page_clicks": "1.0",
+      "google_page_impressions": "302.0",
+      "google_page_ctr": "0.0033",
+      "google_page_position": "11.35"
+    }
+  },
+  {
+    "url": "https://calculadora-isr-mexico.vercel.app/articulos/spei-devuelto-que-hacer.html",
+    "served_file": "articulos/spei-devuelto-que-hacer.html",
+    "files": [
+      "articulos/spei-devuelto-que-hacer.html"
+    ],
+    "keywords": [
+      "spei devuelto",
+      "spei en proceso de devolucion"
+    ],
+    "action": "Aclaración por estado, cuenta de origen, checklist de reintegro, ejemplo salida/reintegro $2,000, causas no supuestas y FAQ.",
+    "title_before": "SPEI devuelto: qué significa y qué hacer",
+    "title_after": "SPEI devuelto: qué hacer si el dinero no regresa",
+    "description_before": "Qué significa el estado Devuelto o En proceso de devolución en Mi SPEI y cómo pedir a tu banco que reconozca el dinero.",
+    "description_after": "Distingue Devuelto de En proceso de devolución, revisa la cuenta de origen y prepara la aclaración con tu banco si el reintegro no aparece.",
+    "new_internal_links": [
+      "/articulos/spei-liquidado-pero-no-recibido.html"
+    ],
+    "removed_internal_links": [],
+    "google_page": {
+      "google_page_clicks": "0.0",
+      "google_page_impressions": "354.0",
+      "google_page_ctr": "0.0",
+      "google_page_position": "9.3"
+    }
+  }
+]
