@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "localIndexableRoutes200": 379,
+  "internalReportsAndTestsExcluded": true,
+  "scope": "HTTP server over generated site-public with exact configured rewrites. Does not validate production Vercel HTTP/cache headers."
+}

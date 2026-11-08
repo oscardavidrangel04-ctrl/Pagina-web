@@ -1,0 +1,346 @@
+{
+  "baseline": "eb66cbbb2e77a7a54861321a8f1539071c1b4c41",
+  "review_date": "2026-11-05",
+  "timezone": "America/Mexico_City",
+  "physical_html_files": [
+    "articulos/asimilados-a-salarios-isr.html",
+    "articulos/como-calcular-prima-vacacional.html",
+    "articulos/como-saber-saldo-favor-sat.html",
+    "articulos/con-que-salario-se-calcula-aguinaldo.html",
+    "articulos/cuando-pagan-finiquito.html",
+    "articulos/cuando-se-pagan-utilidades.html",
+    "articulos/finiquito-renuncia-voluntaria.html",
+    "articulos/ptu-exenta-isr.html",
+    "articulos/que-es-ptu.html",
+    "articulos/que-es-salario-base-cotizacion.html",
+    "articulos/que-son-honorarios.html",
+    "calculadoras/prima-vacacional.html",
+    "fallback-como-calcular-prima-vacacional.html",
+    "fallback-con-que-salario-se-calcula-aguinaldo.html",
+    "fallback-cuando-pagan-finiquito.html",
+    "fallback-finiquito-renuncia-voluntaria.html"
+  ],
+  "urls": [
+    {
+      "canonical": "articulos/asimilados-a-salarios-isr.html",
+      "served_file": "articulos/asimilados-a-salarios-isr.html",
+      "fallback_differs_from_canonical_before": false,
+      "title_before": "Asimilados a salarios: qué son y cómo revisar el ISR",
+      "title_after": "Asimilados a salarios: cálculo de ISR y uso de calculadora",
+      "description_before": "Entiende qué significa asimilados a salarios, qué revisar en la retención y por qué el tratamiento fiscal no determina por sí solo tus derechos laborales.",
+      "description_after": "Revisa cómo estimar el ISR de asimilados a salarios, qué datos usar en una calculadora y cuándo la tarifa ordinaria no basta para tu caso.",
+      "h1_before": "Asimilados a salarios: qué son y cómo revisar el ISR",
+      "h1_after": "Asimilados a salarios: cómo calcular y revisar el ISR",
+      "main_words_before": 817,
+      "main_words_after": 1173,
+      "source_bytes_before": 16591,
+      "source_bytes_after": 20283,
+      "added_link_anchor_pairs": [
+        {
+          "href": "/articulos/que-son-honorarios.html",
+          "anchor": "honorarios por servicios independientes"
+        },
+        {
+          "href": "/calculadoras/isr.html",
+          "anchor": "Explorar la tarifa ordinaria de ISR"
+        },
+        {
+          "href": "/calculadoras/isr.html",
+          "anchor": "calculadora de ISR con desglose por periodo"
+        },
+        {
+          "href": "/calculadoras/salario-neto.html",
+          "anchor": "la resta de bruto menos descuentos conocidos"
+        }
+      ],
+      "removed_link_destinations": []
+    },
+    {
+      "canonical": "articulos/como-calcular-prima-vacacional.html",
+      "served_file": "fallback-como-calcular-prima-vacacional.html",
+      "fallback_differs_from_canonical_before": true,
+      "title_before": "Cómo calcular la prima vacacional: fórmula del 25% y ejemplo",
+      "title_after": "Cómo calcular la prima vacacional: fórmula del 25% y ejemplo",
+      "description_before": "Calcula la prima vacacional paso a paso: salario diario, días y porcentaje. Comprueba un ejemplo al 25% y distingue la prima del sueldo de vacaciones.",
+      "description_after": "Calcula la prima vacacional paso a paso: salario diario, días y porcentaje. Comprueba un ejemplo al 25% y distingue la prima del sueldo de vacaciones.",
+      "h1_before": "Cómo se calcula la prima vacacional en México",
+      "h1_after": "Cómo se calcula la prima vacacional en México",
+      "main_words_before": 879,
+      "main_words_after": 912,
+      "source_bytes_before": 18253,
+      "source_bytes_after": 18509,
+      "added_link_anchor_pairs": [
+        {
+          "href": "/calculadoras/prima-vacacional.html#calculadora",
+          "anchor": "calcular la prima vacacional y ver su desglose"
+        }
+      ],
+      "removed_link_destinations": []
+    },
+    {
+      "canonical": "articulos/como-saber-saldo-favor-sat.html",
+      "served_file": "articulos/como-saber-saldo-favor-sat.html",
+      "fallback_differs_from_canonical_before": false,
+      "title_before": "Cómo saber si tengo saldo a favor en el SAT",
+      "title_after": "Cómo saber si tengo saldo a favor en el SAT: consulta",
+      "description_before": "Aprende dónde revisar un posible saldo a favor, qué significa y qué documentos validar antes de solicitar devolución.",
+      "description_after": "Revisa tu declaración y consulta el saldo a favor en el SAT. Distingue el resultado calculado, la devolución solicitada y el depósito autorizado.",
+      "h1_before": "Cómo saber si tengo saldo a favor en el SAT",
+      "h1_after": "Cómo saber si tengo saldo a favor en el SAT",
+      "main_words_before": 460,
+      "main_words_after": 794,
+      "source_bytes_before": 8379,
+      "source_bytes_after": 12720,
+      "added_link_anchor_pairs": [
+        {
+          "href": "/articulos/cuanto-tarda-sat-devolver-saldo-favor.html",
+          "anchor": "cuánto tarda el SAT en devolver un saldo a favor"
+        },
+        {
+          "href": "/articulos/devolucion-impuestos-sat.html",
+          "anchor": "solicitud y seguimiento de devolución"
+        },
+        {
+          "href": "/articulos/visor-deducciones-personales-sat.html",
+          "anchor": "visor de deducciones personales"
+        }
+      ],
+      "removed_link_destinations": []
+    },
+    {
+      "canonical": "articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "served_file": "fallback-con-que-salario-se-calcula-aguinaldo.html",
+      "fallback_differs_from_canonical_before": true,
+      "title_before": "¿El aguinaldo se calcula con sueldo bruto o neto?",
+      "title_after": "¿El aguinaldo se calcula con sueldo bruto o neto?",
+      "description_before": "Para salario fijo, el aguinaldo se calcula con la cuota diaria antes de descuentos, no con el depósito neto. Mira cómo convertir tu sueldo y revisar cambios.",
+      "description_after": "Para salario fijo, el aguinaldo se calcula con la cuota diaria antes de descuentos, no con el depósito neto. Mira cómo convertir tu sueldo y revisar cambios.",
+      "h1_before": "¿Con qué salario se calcula el aguinaldo?",
+      "h1_after": "¿Con qué salario se calcula el aguinaldo?",
+      "main_words_before": 732,
+      "main_words_after": 895,
+      "source_bytes_before": 14662,
+      "source_bytes_after": 16130,
+      "added_link_anchor_pairs": [
+        {
+          "href": "/articulos/cuando-se-paga-aguinaldo.html",
+          "anchor": "cuándo debe pagarse el aguinaldo"
+        },
+        {
+          "href": "/calculadoras/aguinaldo-proporcional.html",
+          "anchor": "calculadora de aguinaldo proporcional"
+        }
+      ],
+      "removed_link_destinations": []
+    },
+    {
+      "canonical": "articulos/cuando-pagan-finiquito.html",
+      "served_file": "fallback-cuando-pagan-finiquito.html",
+      "fallback_differs_from_canonical_before": false,
+      "title_before": "¿Cuándo pagan el finiquito? Plazo por renuncia en México",
+      "title_after": "¿Cuándo pagan el finiquito? Plazo por renuncia en México",
+      "description_before": "Al renunciar, el finiquito corresponde al separarte del empleo. Revisa qué hacer si se retrasa, qué pedir por escrito y cuánto tiempo tienes para reclamar.",
+      "description_after": "Consulta cuándo deben pagarte el finiquito y cuánto tiempo tienes para reclamarlo. Distingue renuncia, despido y retrasos sin asumir plazos de gracia.",
+      "h1_before": "¿Cuánto tardan en pagar el finiquito en México?",
+      "h1_after": "¿Cuánto tardan en pagar el finiquito en México?",
+      "main_words_before": 1482,
+      "main_words_after": 1575,
+      "source_bytes_before": 24675,
+      "source_bytes_after": 25271,
+      "added_link_anchor_pairs": [],
+      "removed_link_destinations": []
+    },
+    {
+      "canonical": "articulos/cuando-se-pagan-utilidades.html",
+      "served_file": "articulos/cuando-se-pagan-utilidades.html",
+      "fallback_differs_from_canonical_before": false,
+      "title_before": "Cuándo se pagan las utilidades 2026: fechas de PTU",
+      "title_after": "Cuándo se pagan las utilidades 2026: fechas límite",
+      "description_before": "Consulta las fechas de pago de utilidades 2026 en México para empresas y personas físicas, el plazo legal y qué hacer si no recibes tu PTU.",
+      "description_after": "Fechas límite de PTU 2026: 30 de mayo para personas morales y 29 de junio para personas físicas. Revisa el ejercicio 2025 y cómo reclamar un pago pendiente.",
+      "h1_before": "Cuándo se pagan las utilidades en 2026",
+      "h1_after": "Cuándo se pagan las utilidades en 2026",
+      "main_words_before": 680,
+      "main_words_after": 904,
+      "source_bytes_before": 15337,
+      "source_bytes_after": 17846,
+      "added_link_anchor_pairs": [],
+      "removed_link_destinations": []
+    },
+    {
+      "canonical": "articulos/finiquito-renuncia-voluntaria.html",
+      "served_file": "fallback-finiquito-renuncia-voluntaria.html",
+      "fallback_differs_from_canonical_before": true,
+      "title_before": "Finiquito por renuncia: qué te pagan y cómo revisarlo",
+      "title_after": "Finiquito por renuncia: cuánto te toca y cómo calcularlo",
+      "description_before": "Si renuncias, revisa sueldo y prestaciones pendientes. Consulta un ejemplo de finiquito, pagos previos y diferencias frente a la indemnización.",
+      "description_after": "Si renuncias, suma salario pendiente, aguinaldo, vacaciones y prima vacacional. Revisa un ejemplo desglosado y qué se diferencia de la liquidación.",
+      "h1_before": "Finiquito por renuncia voluntaria: ¿cuánto te corresponde?",
+      "h1_after": "Finiquito por renuncia voluntaria: ¿cuánto te corresponde?",
+      "main_words_before": 762,
+      "main_words_after": 905,
+      "source_bytes_before": 15777,
+      "source_bytes_after": 17916,
+      "added_link_anchor_pairs": [
+        {
+          "href": "/calculadoras/finiquito.html",
+          "anchor": "calculadora de finiquito por renuncia"
+        }
+      ],
+      "removed_link_destinations": []
+    },
+    {
+      "canonical": "articulos/ptu-exenta-isr.html",
+      "served_file": "articulos/ptu-exenta-isr.html",
+      "fallback_differs_from_canonical_before": false,
+      "title_before": "PTU exenta de ISR: parte gravada y recibo de utilidades",
+      "title_after": "PTU exenta de ISR: qué grava y cómo revisar tu recibo",
+      "description_before": "Aprende a separar PTU exenta y gravada, distinguir el impuesto del límite laboral y revisar el desglose de tu recibo antes de comparar el depósito.",
+      "description_after": "¿La PTU grava para ISR? Separa parte exenta, gravada y retención; comprueba el neto del recibo y evita confundir la exención con el límite laboral.",
+      "h1_before": "PTU exenta de ISR: parte gravada y recibo de utilidades",
+      "h1_after": "PTU exenta de ISR: qué grava y cómo revisar tu recibo",
+      "main_words_before": 936,
+      "main_words_after": 1058,
+      "source_bytes_before": 17012,
+      "source_bytes_after": 18593,
+      "added_link_anchor_pairs": [],
+      "removed_link_destinations": []
+    },
+    {
+      "canonical": "articulos/que-es-ptu.html",
+      "served_file": "articulos/que-es-ptu.html",
+      "fallback_differs_from_canonical_before": false,
+      "title_before": "Qué es la PTU y quién tiene derecho a utilidades",
+      "title_after": "Qué es la PTU y quién tiene derecho a utilidades",
+      "description_before": "Conoce qué significa PTU, quién tiene derecho al reparto de utilidades, qué empleadores están obligados y cómo revisar tu participación.",
+      "description_after": "Conoce qué significa PTU, quién tiene derecho al reparto de utilidades, qué empleadores están obligados y cómo revisar tu participación.",
+      "h1_before": "Qué es la PTU y quién tiene derecho a utilidades",
+      "h1_after": "Qué es la PTU y quién tiene derecho a utilidades",
+      "main_words_before": 777,
+      "main_words_after": 810,
+      "source_bytes_before": 16166,
+      "source_bytes_after": 16514,
+      "added_link_anchor_pairs": [
+        {
+          "href": "/articulos/cuando-se-pagan-utilidades.html#falta-pago",
+          "anchor": "qué revisar cuando ya pasó la fecha de pago de utilidades"
+        }
+      ],
+      "removed_link_destinations": []
+    },
+    {
+      "canonical": "articulos/que-es-salario-base-cotizacion.html",
+      "served_file": "articulos/que-es-salario-base-cotizacion.html",
+      "fallback_differs_from_canonical_before": false,
+      "title_before": "Qué es el SBC en nómina: salario base de cotización IMSS",
+      "title_after": "Salario base de cotización (SBC): qué es y cómo calcularlo",
+      "description_before": "Conoce qué significa SBC en nómina, qué integra el salario base de cotización del IMSS, cómo se calcula y qué diferencia existe entre SBC y SDI.",
+      "description_after": "Entiende qué es el salario base de cotización del IMSS. Ejemplo de integración fija, diferencias con SDI y sueldo neto, y cómo revisar tu registro.",
+      "h1_before": "Qué es el SBC en nómina y cómo se calcula",
+      "h1_after": "Qué es el salario base de cotización (SBC) y cómo se calcula",
+      "main_words_before": 1050,
+      "main_words_after": 1257,
+      "source_bytes_before": 19473,
+      "source_bytes_after": 21193,
+      "added_link_anchor_pairs": [
+        {
+          "href": "/articulos/factor-integracion-sdi.html",
+          "anchor": "factor de integración según las prestaciones"
+        },
+        {
+          "href": "/articulos/salario-bruto-neto.html",
+          "anchor": "sueldo bruto y neto"
+        }
+      ],
+      "removed_link_destinations": []
+    },
+    {
+      "canonical": "articulos/que-son-honorarios.html",
+      "served_file": "articulos/que-son-honorarios.html",
+      "fallback_differs_from_canonical_before": false,
+      "title_before": "Qué son los honorarios y cómo se facturan en México",
+      "title_after": "Qué son los honorarios: significado, ejemplos y pago neto",
+      "description_before": "Entiende qué son los honorarios profesionales, cómo se documentan y qué impuestos o retenciones pueden aparecer en el CFDI.",
+      "description_after": "Conoce qué son los honorarios profesionales, ejemplos de servicios y diferencias con sueldo y asimilados. Aprende a revisar factura, retenciones y pago neto.",
+      "h1_before": "Qué son los honorarios y cómo se facturan en México",
+      "h1_after": "Qué son los honorarios profesionales: ejemplos y diferencias",
+      "main_words_before": 289,
+      "main_words_after": 882,
+      "source_bytes_before": 7015,
+      "source_bytes_after": 13345,
+      "added_link_anchor_pairs": [
+        {
+          "href": "/articulos/asimilados-a-salarios-isr.html",
+          "anchor": "cómo revisar el ISR de asimilados a salarios"
+        },
+        {
+          "href": "/articulos/recibo-honorarios.html",
+          "anchor": "recibo de honorarios y lectura del CFDI"
+        },
+        {
+          "href": "/articulos/salario-bruto-neto.html",
+          "anchor": "salario bruto y neto"
+        },
+        {
+          "href": "/calculadoras/retenciones-isr-iva-honorarios.html",
+          "anchor": "Calcular subtotal, impuestos y neto"
+        },
+        {
+          "href": "/calculadoras/retenciones-isr-iva-honorarios.html",
+          "anchor": "Calcular un recibo con tasas editables"
+        },
+        {
+          "href": "/calculadoras/retenciones-isr-iva-honorarios.html",
+          "anchor": "calculadora de retenciones de honorarios con tasas editables"
+        }
+      ],
+      "removed_link_destinations": []
+    },
+    {
+      "canonical": "calculadoras/prima-vacacional.html",
+      "served_file": "calculadoras/prima-vacacional.html",
+      "fallback_differs_from_canonical_before": false,
+      "title_before": "Calculadora de prima vacacional: cuánto te toca al 25%",
+      "title_after": "Calculadora de prima vacacional: cuánto te toca al 25%",
+      "description_before": "Calcula tu prima vacacional con salario diario, días y porcentaje. Prueba 25% u otra prestación y distingue prima, pago de vacaciones e ISR.",
+      "description_after": "Calcula tu prima vacacional con salario diario, días y porcentaje. Prueba 25% u otra prestación y distingue prima, pago de vacaciones e ISR.",
+      "h1_before": "Calculadora de prima vacacional en México 2026",
+      "h1_after": "Calculadora de prima vacacional en México 2026",
+      "main_words_before": 1321,
+      "main_words_after": 1267,
+      "source_bytes_before": 24400,
+      "source_bytes_after": 24934,
+      "added_link_anchor_pairs": [
+        {
+          "href": "/articulos/como-calcular-prima-vacacional.html",
+          "anchor": "cómo se calcula la prima vacacional"
+        },
+        {
+          "href": "/articulos/isr-prima-vacacional.html",
+          "anchor": "el ISR de la prima vacacional"
+        },
+        {
+          "href": "/calculadoras/aguinaldo.html",
+          "anchor": "Estimar aguinaldo por separado"
+        },
+        {
+          "href": "/calculadoras/finiquito.html",
+          "anchor": "Revisar la prima dentro del finiquito"
+        },
+        {
+          "href": "/calculadoras/salario-diario.html",
+          "anchor": "conversión de sueldo mensual a diario"
+        },
+        {
+          "href": "/calculadoras/vacaciones-proporcionales.html",
+          "anchor": "los días proporcionales"
+        },
+        {
+          "href": "/calculadoras/vacaciones.html",
+          "anchor": "Consultar días de vacaciones"
+        }
+      ],
+      "removed_link_destinations": []
+    }
+  ]
+}

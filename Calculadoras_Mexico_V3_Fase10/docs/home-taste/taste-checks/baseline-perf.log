@@ -1,0 +1,52 @@
+
+perf baseline/site-public/index.html @ 1440px
+  PASS  host CPU load (before/after)               0/0 %
+  PASS  total transfer                             75.8 KiB       html 10K  css 34.9K  js 19.2K  img 0.6K  other 11.1K
+  PASS  requests                                   19             16 by load
+  PASS  images bytes                               0.6 KiB        3 files
+  PASS  largest image                              0.6 KiB        img/logo-mark.svg
+  PASS  JS parsed                                  61.1 KiB       8 files, 19.2K gz
+  PASS  CSS                                        34.9 KiB       4 files
+  PASS  font families                              0
+  PASS  font files                                 0              0K
+  PASS  images without width+height                0
+  WARN  below-fold images not lazy                 1              logo-mark.svg
+  PASS  oversized images (natural > 2.2x shown)    0
+  PASS  WebGL live at load                         0
+  PASS  WebGL live at bottom                       0
+  PASS  WebGL peak live                            0              0 contexts made in all
+  PASS  long tasks                                 0              runs 3, 0..0, max 0ms
+  PASS  blocking time                              0 ms           runs 3, 0..0 ms; at load 0ms
+  PASS  FCP (CPU, relative)                        168 ms         runs 3, 152..376
+  PASS  LCP (CPU, relative)                        168 ms         runs 3, 152..376, h1
+  PASS  layout shift                               0.000          runs 3, 0.000..0.000; at load 0.000
+  PASS  modules loaded, never mounted              0
+  FAIL  broken requests                            6              js/adsbygoogle.js?client=ca-pub-1606770348282610, 21/409e3950cb7b10082bb628969be6611a, insights/script.js
+  PASS  page height                                13.3 screens   DOM 634 nodes
+
+perf baseline/site-public/index.html @ 390px
+  PASS  host CPU load (before/after)               0/0 %
+  PASS  total transfer                             75.3 KiB       html 10K  css 34.9K  js 19.2K  img 0.6K  other 10.6K
+  PASS  requests                                   18             15 by load
+  PASS  images bytes                               0.6 KiB        3 files
+  PASS  largest image                              0.6 KiB        img/logo-mark.svg
+  PASS  JS parsed                                  61.1 KiB       8 files, 19.2K gz
+  PASS  CSS                                        34.9 KiB       4 files
+  PASS  font families                              0
+  PASS  font files                                 0              0K
+  PASS  images without width+height                0
+  WARN  below-fold images not lazy                 1              logo-mark.svg
+  PASS  oversized images (natural > 2.2x shown)    0
+  PASS  WebGL live at load                         0
+  PASS  WebGL live at bottom                       0
+  PASS  WebGL peak live                            0              0 contexts made in all
+  PASS  long tasks                                 1              runs 3, 0..1, max 71ms
+  PASS  blocking time                              16 ms          runs 3, 0..21 ms; at load 16ms
+  PASS  FCP (CPU, relative)                        160 ms         runs 3, 152..164
+  PASS  LCP (CPU, relative)                        160 ms         runs 3, 152..164, h1
+  PASS  layout shift                               0.000          runs 3, 0.000..0.000; at load 0.000
+  PASS  modules loaded, never mounted              0
+  FAIL  broken requests                            6              js/adsbygoogle.js?client=ca-pub-1606770348282610, 21/409e3950cb7b10082bb628969be6611a, insights/script.js
+  PASS  page height                                24 screens     DOM 634 nodes
+
+SUMMARY baseline/site-public/index.html: 2 FAIL, 2 WARN  -> FAIL

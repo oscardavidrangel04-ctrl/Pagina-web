@@ -1,0 +1,292 @@
+{
+ "page": "/workspace/work/home-taste/baseline/site-public/index.html",
+ "partial": false,
+ "results": [
+  {
+   "w": 1440,
+   "rows": [
+    {
+     "name": "host CPU load (before/after)",
+     "value": "0/0 %",
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "total transfer",
+     "value": "75.8 KiB",
+     "verdict": "PASS",
+     "note": "html 10K  css 34.9K  js 19.2K  img 0.6K  other 11.1K"
+    },
+    {
+     "name": "requests",
+     "value": 19,
+     "verdict": "PASS",
+     "note": "16 by load"
+    },
+    {
+     "name": "images bytes",
+     "value": "0.6 KiB",
+     "verdict": "PASS",
+     "note": "3 files"
+    },
+    {
+     "name": "largest image",
+     "value": "0.6 KiB",
+     "verdict": "PASS",
+     "note": "img/logo-mark.svg"
+    },
+    {
+     "name": "JS parsed",
+     "value": "61.1 KiB",
+     "verdict": "PASS",
+     "note": "8 files, 19.2K gz"
+    },
+    {
+     "name": "CSS",
+     "value": "34.9 KiB",
+     "verdict": "PASS",
+     "note": "4 files"
+    },
+    {
+     "name": "font families",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "font files",
+     "value": 0,
+     "verdict": "PASS",
+     "note": "0K"
+    },
+    {
+     "name": "images without width+height",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "below-fold images not lazy",
+     "value": 1,
+     "verdict": "WARN",
+     "note": "logo-mark.svg"
+    },
+    {
+     "name": "oversized images (natural > 2.2x shown)",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL live at load",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL live at bottom",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL peak live",
+     "value": 0,
+     "verdict": "PASS",
+     "note": "0 contexts made in all"
+    },
+    {
+     "name": "long tasks",
+     "value": 0,
+     "verdict": "PASS",
+     "note": "runs 3, 0..0, max 0ms"
+    },
+    {
+     "name": "blocking time",
+     "value": "0 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 0..0 ms; at load 0ms"
+    },
+    {
+     "name": "FCP (CPU, relative)",
+     "value": "168 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 152..376"
+    },
+    {
+     "name": "LCP (CPU, relative)",
+     "value": "168 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 152..376, h1"
+    },
+    {
+     "name": "layout shift",
+     "value": "0.000",
+     "verdict": "PASS",
+     "note": "runs 3, 0.000..0.000; at load 0.000"
+    },
+    {
+     "name": "modules loaded, never mounted",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "broken requests",
+     "value": 6,
+     "verdict": "FAIL",
+     "note": "js/adsbygoogle.js?client=ca-pub-1606770348282610, 21/409e3950cb7b10082bb628969be6611a, insights/script.js"
+    },
+    {
+     "name": "page height",
+     "value": "13.3 screens",
+     "verdict": "PASS",
+     "note": "DOM 634 nodes"
+    }
+   ]
+  },
+  {
+   "w": 390,
+   "rows": [
+    {
+     "name": "host CPU load (before/after)",
+     "value": "0/0 %",
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "total transfer",
+     "value": "75.3 KiB",
+     "verdict": "PASS",
+     "note": "html 10K  css 34.9K  js 19.2K  img 0.6K  other 10.6K"
+    },
+    {
+     "name": "requests",
+     "value": 18,
+     "verdict": "PASS",
+     "note": "15 by load"
+    },
+    {
+     "name": "images bytes",
+     "value": "0.6 KiB",
+     "verdict": "PASS",
+     "note": "3 files"
+    },
+    {
+     "name": "largest image",
+     "value": "0.6 KiB",
+     "verdict": "PASS",
+     "note": "img/logo-mark.svg"
+    },
+    {
+     "name": "JS parsed",
+     "value": "61.1 KiB",
+     "verdict": "PASS",
+     "note": "8 files, 19.2K gz"
+    },
+    {
+     "name": "CSS",
+     "value": "34.9 KiB",
+     "verdict": "PASS",
+     "note": "4 files"
+    },
+    {
+     "name": "font families",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "font files",
+     "value": 0,
+     "verdict": "PASS",
+     "note": "0K"
+    },
+    {
+     "name": "images without width+height",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "below-fold images not lazy",
+     "value": 1,
+     "verdict": "WARN",
+     "note": "logo-mark.svg"
+    },
+    {
+     "name": "oversized images (natural > 2.2x shown)",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL live at load",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL live at bottom",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "WebGL peak live",
+     "value": 0,
+     "verdict": "PASS",
+     "note": "0 contexts made in all"
+    },
+    {
+     "name": "long tasks",
+     "value": 1,
+     "verdict": "PASS",
+     "note": "runs 3, 0..1, max 71ms"
+    },
+    {
+     "name": "blocking time",
+     "value": "16 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 0..21 ms; at load 16ms"
+    },
+    {
+     "name": "FCP (CPU, relative)",
+     "value": "160 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 152..164"
+    },
+    {
+     "name": "LCP (CPU, relative)",
+     "value": "160 ms",
+     "verdict": "PASS",
+     "note": "runs 3, 152..164, h1"
+    },
+    {
+     "name": "layout shift",
+     "value": "0.000",
+     "verdict": "PASS",
+     "note": "runs 3, 0.000..0.000; at load 0.000"
+    },
+    {
+     "name": "modules loaded, never mounted",
+     "value": 0,
+     "verdict": "PASS",
+     "note": ""
+    },
+    {
+     "name": "broken requests",
+     "value": 6,
+     "verdict": "FAIL",
+     "note": "js/adsbygoogle.js?client=ca-pub-1606770348282610, 21/409e3950cb7b10082bb628969be6611a, insights/script.js"
+    },
+    {
+     "name": "page height",
+     "value": "24 screens",
+     "verdict": "PASS",
+     "note": "DOM 634 nodes"
+    }
+   ]
+  }
+ ]
+}

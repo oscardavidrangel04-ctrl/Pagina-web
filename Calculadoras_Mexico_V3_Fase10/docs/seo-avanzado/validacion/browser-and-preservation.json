@@ -1,0 +1,653 @@
+{
+  "status": "PASS",
+  "conditions": "Local Chromium, Vercel rewrites resolved; ads and other external resources blocked. No live search rankings or field CWV.",
+  "invariants": {
+    "htmlFiles": 408,
+    "originalAdsenseScripts": 368,
+    "affiliateCards": 11,
+    "assetFiles": 67,
+    "forms": "unchanged",
+    "executableScripts": "byte-identical",
+    "assets": "byte-identical"
+  },
+  "protectedPages": [
+    "articulos/dias-de-aguinaldo.html",
+    "articulos/que-es-ptu.html",
+    "calculadoras/salario-neto.html",
+    "articulos/aguinaldo-por-meses.html",
+    "articulos/como-calcular-prima-vacacional.html"
+  ],
+  "layouts": [
+    {
+      "file": "articulos/asimilados-a-salarios-isr.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/articulos/asimilados-a-salarios-isr.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/asimilados-a-salarios-isr.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/articulos/asimilados-a-salarios-isr.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/asimilados-a-salarios-isr.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/articulos/asimilados-a-salarios-isr.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/asimilados-a-salarios-isr.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/articulos/asimilados-a-salarios-isr.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/como-calcular-prima-vacacional.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/fallback-como-calcular-prima-vacacional.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/como-calcular-prima-vacacional.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/fallback-como-calcular-prima-vacacional.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/como-calcular-prima-vacacional.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/fallback-como-calcular-prima-vacacional.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/como-calcular-prima-vacacional.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/fallback-como-calcular-prima-vacacional.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/como-saber-saldo-favor-sat.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/articulos/como-saber-saldo-favor-sat.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/como-saber-saldo-favor-sat.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/articulos/como-saber-saldo-favor-sat.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/como-saber-saldo-favor-sat.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/articulos/como-saber-saldo-favor-sat.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/como-saber-saldo-favor-sat.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/articulos/como-saber-saldo-favor-sat.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/fallback-con-que-salario-se-calcula-aguinaldo.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/fallback-con-que-salario-se-calcula-aguinaldo.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/fallback-con-que-salario-se-calcula-aguinaldo.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/fallback-con-que-salario-se-calcula-aguinaldo.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/cuando-pagan-finiquito.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/fallback-cuando-pagan-finiquito.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/cuando-pagan-finiquito.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/fallback-cuando-pagan-finiquito.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/cuando-pagan-finiquito.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/fallback-cuando-pagan-finiquito.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/cuando-pagan-finiquito.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/fallback-cuando-pagan-finiquito.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/cuando-se-pagan-utilidades.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/articulos/cuando-se-pagan-utilidades.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/cuando-se-pagan-utilidades.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/articulos/cuando-se-pagan-utilidades.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/cuando-se-pagan-utilidades.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/articulos/cuando-se-pagan-utilidades.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/cuando-se-pagan-utilidades.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/articulos/cuando-se-pagan-utilidades.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/finiquito-renuncia-voluntaria.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/fallback-finiquito-renuncia-voluntaria.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/finiquito-renuncia-voluntaria.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/fallback-finiquito-renuncia-voluntaria.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/finiquito-renuncia-voluntaria.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/fallback-finiquito-renuncia-voluntaria.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/finiquito-renuncia-voluntaria.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/fallback-finiquito-renuncia-voluntaria.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/ptu-exenta-isr.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/articulos/ptu-exenta-isr.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/ptu-exenta-isr.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/articulos/ptu-exenta-isr.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/ptu-exenta-isr.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/articulos/ptu-exenta-isr.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/ptu-exenta-isr.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/articulos/ptu-exenta-isr.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-es-ptu.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/articulos/que-es-ptu.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-es-ptu.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/articulos/que-es-ptu.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-es-ptu.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/articulos/que-es-ptu.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-es-ptu.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/articulos/que-es-ptu.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-es-salario-base-cotizacion.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/articulos/que-es-salario-base-cotizacion.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-es-salario-base-cotizacion.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/articulos/que-es-salario-base-cotizacion.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-es-salario-base-cotizacion.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/articulos/que-es-salario-base-cotizacion.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-es-salario-base-cotizacion.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/articulos/que-es-salario-base-cotizacion.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-son-honorarios.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/articulos/que-son-honorarios.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-son-honorarios.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/articulos/que-son-honorarios.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-son-honorarios.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/articulos/que-son-honorarios.html",
+      "overflow": false
+    },
+    {
+      "file": "articulos/que-son-honorarios.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/articulos/que-son-honorarios.html",
+      "overflow": false
+    },
+    {
+      "file": "calculadoras/prima-vacacional.html",
+      "width": 320,
+      "theme": "light",
+      "servedFile": "/calculadoras/prima-vacacional.html",
+      "overflow": false
+    },
+    {
+      "file": "calculadoras/prima-vacacional.html",
+      "width": 390,
+      "theme": "light",
+      "servedFile": "/calculadoras/prima-vacacional.html",
+      "overflow": false
+    },
+    {
+      "file": "calculadoras/prima-vacacional.html",
+      "width": 1440,
+      "theme": "light",
+      "servedFile": "/calculadoras/prima-vacacional.html",
+      "overflow": false
+    },
+    {
+      "file": "calculadoras/prima-vacacional.html",
+      "width": 320,
+      "theme": "dark",
+      "servedFile": "/calculadoras/prima-vacacional.html",
+      "overflow": false
+    }
+  ],
+  "calculators": [
+    {
+      "slug": "prima-vacacional",
+      "rows": [
+        "Pago base de vacaciones$6,000.00",
+        "Porcentaje de prima25.00%",
+        "Prima vacacional$1,500.00"
+      ]
+    },
+    {
+      "slug": "salario-diario-integrado",
+      "rows": [
+        "Factor de integración1.049315",
+        "Salario diario$500.00",
+        "SDI estimado$524.66"
+      ]
+    },
+    {
+      "slug": "retenciones-isr-iva-honorarios",
+      "rows": [
+        "Total neto: $9,533.33\nSubtotal: $10,000.00 · IVA: $1,600.00 · Ret. ISR: $1,000.00 · Ret. IVA: $1,066.67"
+      ]
+    },
+    {
+      "slug": "isr",
+      "rows": [
+        "Ingreso bruto$20,000.00",
+        "Límite inferior del rango$17,533.65",
+        "Cuota fija$1,856.84",
+        "Excedente$2,466.35",
+        "Tasa marginal21.36%",
+        "ISR estimado$2,383.65",
+        "Tasa efectiva estimada11.92%",
+        "Neto estimado$17,616.35"
+      ]
+    },
+    {
+      "slug": "finiquito",
+      "rows": [
+        "Días pendientes$2,500.00",
+        "Aguinaldo proporcional$3,698.63",
+        "Vacaciones pendientes$3,000.00",
+        "Prima vacacional$750.00",
+        "Finiquito estimado$9,948.63"
+      ]
+    },
+    {
+      "slug": "aguinaldo",
+      "rows": [
+        "EscenarioAño completo",
+        "Salario mensual capturado$15,000.00",
+        "Salario diario de referencia$500.00",
+        "Días de aguinaldo anual15 días",
+        "Días considerados en 2026365 de 365",
+        "Proporción del año100.00%",
+        "Días equivalentes de aguinaldo15.00 días",
+        "Aguinaldo anual de referencia$7,500.00",
+        "Aguinaldo estimado$7,500.00"
+      ]
+    },
+    {
+      "slug": "salario-diario",
+      "rows": [
+        "Ingreso del periodo$15,000.00",
+        "Divisor30 días",
+        "Salario diario$500.00"
+      ]
+    },
+    {
+      "slug": "pago-quincenal",
+      "rows": [
+        "Salario mensual$15,000.00",
+        "Salario diario$500.00",
+        "Pago quincenal$7,500.00"
+      ]
+    }
+  ],
+  "accessibility": [
+    {
+      "file": "articulos/asimilados-a-salarios-isr.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/asimilados-a-salarios-isr.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/como-calcular-prima-vacacional.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/como-calcular-prima-vacacional.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/como-saber-saldo-favor-sat.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/como-saber-saldo-favor-sat.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": [
+        {
+          "target": [
+            "p:nth-child(6) > a[href$=\"aguinaldo.html\"]"
+          ],
+          "summary": "Fix any of the following:\n  Element has insufficient color contrast of 2.08 (foreground color: #5542b5, background color: #232238, font size: 12.4pt (16.5px), font weight: normal). Expected contrast ratio of 4.5:1",
+          "visibleRecheck": "PASS"
+        }
+      ]
+    },
+    {
+      "file": "articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/cuando-pagan-finiquito.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/cuando-pagan-finiquito.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/cuando-se-pagan-utilidades.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/cuando-se-pagan-utilidades.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/finiquito-renuncia-voluntaria.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/finiquito-renuncia-voluntaria.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/ptu-exenta-isr.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/ptu-exenta-isr.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/que-es-ptu.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/que-es-ptu.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/que-es-salario-base-cotizacion.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/que-es-salario-base-cotizacion.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/que-son-honorarios.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "articulos/que-son-honorarios.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "calculadoras/prima-vacacional.html",
+      "width": 390,
+      "theme": "light",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    },
+    {
+      "file": "calculadoras/prima-vacacional.html",
+      "width": 320,
+      "theme": "dark",
+      "violations": [],
+      "resolvedOffscreenFindings": []
+    }
+  ],
+  "examples": [
+    {
+      "slug": "prima-vacacional",
+      "inputs": {
+        "salarioDiario": "500",
+        "dias": "12",
+        "prima": "25"
+      },
+      "expected": "1,500.00"
+    },
+    {
+      "slug": "prima-vacacional",
+      "inputs": {
+        "salarioDiario": "700",
+        "dias": "20",
+        "prima": "25"
+      },
+      "expected": "3,500.00"
+    },
+    {
+      "slug": "prima-vacacional",
+      "inputs": {
+        "salarioDiario": "500",
+        "dias": "22",
+        "prima": "30"
+      },
+      "expected": "3,300.00"
+    },
+    {
+      "slug": "salario-diario-integrado",
+      "inputs": {
+        "salarioDiario": "500",
+        "diasAguinaldo": "15",
+        "diasVacaciones": "12",
+        "prima": "25"
+      },
+      "expected": "524.66"
+    }
+  ],
+  "noJavaScriptPages": 12
+}

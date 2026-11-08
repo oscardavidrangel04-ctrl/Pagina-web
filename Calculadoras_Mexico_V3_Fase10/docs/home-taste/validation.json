@@ -1,0 +1,902 @@
+{
+  "status": "PASS",
+  "baseline": "/workspace/work/home-taste/baseline",
+  "startedAt": "2026-11-08T15:06:06.386Z",
+  "conditions": [
+    "Local compiled output with Vercel rewrites and response headers, including CSP.",
+    "Adsterra scripts are empty simulated responses; official Admitad images are replaced by labeled test SVGs.",
+    "No real ad impressions, affiliate navigation, conversion, production deployment or field Core Web Vitals are verified."
+  ],
+  "static": {
+    "publicHTML": 408,
+    "sourceNonHomeUnchanged": 407,
+    "compiledNonHomeUnchanged": 407,
+    "existingPublicResourcesUnchanged": 75,
+    "existingSourceAssetsUnchanged": 65,
+    "previousHomeDestinationsPreserved": 84,
+    "metadata": "Existing metadata/title/canonical/JSON-LD preserved; original blue theme-color restored.",
+    "addedMetadata": [
+      "page-type",
+      "site-kind"
+    ],
+    "allOriginalScriptsPreserved": [
+      "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "/assets/js/catalog.js?v=5.1.0",
+      "/assets/js/common.js?v=5.7.0",
+      "/_vercel/insights/script.js",
+      "/assets/js/interface-v570.js?v=5.7.0",
+      "/assets/js/affiliate-events.js?v=1"
+    ],
+    "homeStyleIsolation": true,
+    "exactCommercialUnits": {
+      "nativeContainer": "id=\"container-409e3950cb7b10082bb628969be6611a\"",
+      "nativeScript": "src=\"https://bauval.org/21/409e3950cb7b10082bb628969be6611a\"",
+      "bannerScript": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "aliExpress": "data-affiliate=\"aliexpress\"",
+      "solCredito": "data-affiliate=\"solcredito\""
+    }
+  },
+  "layouts": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    },
+    {
+      "width": 1024,
+      "theme": "light",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    },
+    {
+      "width": 1024,
+      "theme": "dark",
+      "overflow": false,
+      "structuralOverlap": false,
+      "commercialUnits": 4,
+      "simulated": true,
+      "clsSum": 0
+    }
+  ],
+  "accessibility": [
+    {
+      "width": 1440,
+      "theme": "light",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "scope": "document",
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "scope": "document",
+      "violations": []
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "scope": "document",
+      "violations": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "scope": "document",
+      "violations": []
+    }
+  ],
+  "interactions": [
+    "Featured card lifts 2px on desktop hover; reduced-motion removes that movement.",
+    "Mobile menu opens, closes with Escape, restores focus and closes at desktop breakpoint.",
+    "Ctrl+K search, real catalog matching, arrow selection, focus trap and Escape/focus restoration.",
+    "Theme toggle switches and persists through reload.",
+    "Progressive home finder matches the real catalog, limits shortcuts to four, handles ArrowDown and empty results.",
+    "Without JavaScript the home search submits GET /calculadoras.html?q=salario+diario.",
+    "Synthetic local favorites/recent/history render correctly; remove favorite and clear history persist.",
+    "Synthetic installation prompt preserves its header control without overflow at 320px; no real app installation attempted."
+  ],
+  "screenshots": [
+    "home-1440-light-viewport.png",
+    "home-1440-light-full.png",
+    "home-1440-dark-viewport.png",
+    "home-1440-dark-full.png",
+    "home-390-light-viewport.png",
+    "home-390-light-full.png",
+    "home-390-dark-viewport.png",
+    "home-390-dark-full.png",
+    "home-320-light-viewport.png",
+    "home-320-light-full.png",
+    "home-320-dark-viewport.png",
+    "home-320-dark-full.png",
+    "home-768-light-viewport.png",
+    "home-768-light-full.png",
+    "home-768-dark-viewport.png",
+    "home-768-dark-full.png",
+    "home-820-light-viewport.png",
+    "home-820-light-full.png",
+    "home-820-dark-viewport.png",
+    "home-820-dark-full.png",
+    "home-1024-light-viewport.png",
+    "home-1024-light-full.png",
+    "home-1024-dark-viewport.png",
+    "home-1024-dark-full.png"
+  ],
+  "scriptErrors": [],
+  "cspViolations": [],
+  "remoteRequests": [
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/qpw0xm1c34934a2368b316525dc3e8/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://ad.admitad.com/b/9k0cwagbas934a2368b3bd6fe4c78f/",
+      "type": "image",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610",
+      "type": "script",
+      "simulated": false
+    },
+    {
+      "url": "https://bauval.org/21/409e3950cb7b10082bb628969be6611a",
+      "type": "script",
+      "simulated": true
+    },
+    {
+      "url": "https://bauval.org/22/94dbe87812d642e0600cc58986b093c2",
+      "type": "script",
+      "simulated": true
+    }
+  ],
+  "missingLocalResources": [],
+  "performance": [
+    {
+      "host": "baseline.test",
+      "width": 390,
+      "runs": [
+        {
+          "lcpMs": 160,
+          "clsSum": 0,
+          "domNodes": 634,
+          "domContentLoadedMs": 150.89999999999418
+        },
+        {
+          "lcpMs": 88,
+          "clsSum": 0,
+          "domNodes": 634,
+          "domContentLoadedMs": 88
+        },
+        {
+          "lcpMs": 84,
+          "clsSum": 0,
+          "domNodes": 634,
+          "domContentLoadedMs": 85.70000000001164
+        }
+      ],
+      "note": "Local Chromium, synthetic third parties, no throttling. This is not field CWV or a guaranteed performance comparison."
+    },
+    {
+      "host": "current.test",
+      "width": 390,
+      "runs": [
+        {
+          "lcpMs": 156,
+          "clsSum": 0,
+          "domNodes": 737,
+          "domContentLoadedMs": 147.30000000001746
+        },
+        {
+          "lcpMs": 88,
+          "clsSum": 0,
+          "domNodes": 737,
+          "domContentLoadedMs": 43.5
+        },
+        {
+          "lcpMs": 144,
+          "clsSum": 0,
+          "domNodes": 737,
+          "domContentLoadedMs": 75.19999999998254
+        }
+      ],
+      "note": "Local Chromium, synthetic third parties, no throttling. This is not field CWV or a guaranteed performance comparison."
+    }
+  ],
+  "content": {
+    "previousInformativeParagraphs": 35,
+    "verbatimPreserved": 35,
+    "changedParagraphs": []
+  },
+  "nonHomeControls": [
+    {
+      "file": "calculadoras/salario-diario.html",
+      "unchanged": true,
+      "result": "Resultado\n8 nov 2026, 3:06 p.m.\nIngreso del periodo\n$15,000.00\nDivisor\n30 días\nSalario diario\n$500.00\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "file": "calculadoras/pago-quincenal.html",
+      "unchanged": true,
+      "result": "Resultado\n8 nov 2026, 3:06 p.m.\nSalario mensual\n$15,000.00\nSalario diario\n$500.00\nPago quincenal\n$7,500.00\nImportes brutos antes de deducciones.\n📋 Copiar\n↗ Compartir\n🔗 Copiar enlace\n⚖ Guardar escenario\n⬇ Exportar CSV\n🖨 Imprimir / PDF"
+    },
+    {
+      "file": "articulos/como-calcular-aguinaldo.html",
+      "unchanged": true,
+      "result": null
+    }
+  ],
+  "accessibilityFindings": [],
+  "finishedAt": "2026-11-08T15:06:34.457Z"
+}

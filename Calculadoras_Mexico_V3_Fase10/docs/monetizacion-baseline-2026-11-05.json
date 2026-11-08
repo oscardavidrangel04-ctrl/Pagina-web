@@ -1,0 +1,2735 @@
+{
+  "sources": [
+    {
+      "file": "semrush-organic-positions-2026-11-02T17-15-11-108Z.zip",
+      "bytes": 510045,
+      "members": [
+        "./",
+        "./organic-positions-01.csv",
+        "./organic-positions-01.html",
+        "./organic-positions-01.png",
+        "./resultado.json"
+      ],
+      "extractedAt": "2026-11-02T17:15:27.926Z",
+      "target": [
+        "www.bbva.mx"
+      ],
+      "scope": [
+        "subdomain"
+      ],
+      "filter": [
+        "{\"search\":\"\",\"volume\":\"100001-\",\"positions\":\"1-50\",\"positionsType\":\"all\",\"serpFeatures\":null,\"intent\":[],\"kd\":\"0-40\",\"advanced\":{}}"
+      ],
+      "title": "www.bbva.mx: Posiciones, Posicionamiento orgánico",
+      "csv_rows": 7,
+      "json_rows": 7,
+      "blank_positions": 0,
+      "unique_keywords": 4,
+      "unique_urls": 5,
+      "domains": {
+        "www.bbva.mx": 7
+      },
+      "purpose": "Competitor context; not first-party traffic",
+      "commercial_keyword_examples": []
+    },
+    {
+      "file": "semrush-organic-positions-2026-11-02T16-59-18-023Z.zip",
+      "bytes": 2206444,
+      "members": [
+        "./",
+        "./organic-positions-01.csv",
+        "./organic-positions-01.html",
+        "./organic-positions-01.png",
+        "./resultado.json"
+      ],
+      "extractedAt": "2026-11-02T17:04:35.424Z",
+      "target": [
+        "blog.fiscoclic.mx"
+      ],
+      "scope": [
+        "subdomain"
+      ],
+      "filter": null,
+      "title": "blog.fiscoclic.mx: Posiciones, Posicionamiento orgánico",
+      "csv_rows": 6456,
+      "json_rows": 6456,
+      "blank_positions": 325,
+      "unique_keywords": 5241,
+      "unique_urls": 192,
+      "domains": {
+        "blog.fiscoclic.mx": 6456
+      },
+      "purpose": "Competitor context; not first-party traffic",
+      "commercial_keyword_examples": [
+        {
+          "Palabra clave": "acta constitutiva de una empresa",
+          "Intención": "I",
+          "Posición": "62",
+          "FS": "6",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "6,6K",
+          "KD %": "17",
+          "URL": "blog.fiscoclic.mx/nomina/acta-constitutiva-de-una-empresa/",
+          "Act.": "23 oct"
+        },
+        {
+          "Palabra clave": "que es un acta administrativa",
+          "Intención": "I",
+          "Posición": "21",
+          "FS": "7",
+          "Tráfico": "3",
+          "Tráfico, %": "0,03",
+          "Volumen": "2,4K",
+          "KD %": "20",
+          "URL": "blog.fiscoclic.mx/nomina/que-es-un-acta-administrativa-y-para-que-sirve/",
+          "Act.": "23 oct"
+        },
+        {
+          "Palabra clave": "factor de descuento infonavit 2021",
+          "Intención": "I",
+          "Posición": "18",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "1K",
+          "KD %": "25",
+          "URL": "blog.fiscoclic.mx/nomina/como-calcular-el-descuento-infonavit/",
+          "Act.": "22 oct"
+        },
+        {
+          "Palabra clave": "factor de descuento infonavit 2022",
+          "Intención": "I",
+          "Posición": "26",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "1K",
+          "KD %": "28",
+          "URL": "blog.fiscoclic.mx/nomina/como-calcular-el-descuento-infonavit/",
+          "Act.": "17 sept"
+        },
+        {
+          "Palabra clave": "opinion positiva imss",
+          "Intención": "I",
+          "Posición": "26",
+          "FS": "6",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "1K",
+          "KD %": "31",
+          "URL": "blog.fiscoclic.mx/nomina/opinion-de-cumplimiento-imss/",
+          "Act.": "16 oct"
+        },
+        {
+          "Palabra clave": "factor de descuento infonavit 2022",
+          "Intención": "I",
+          "Posición": "33",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "1K",
+          "KD %": "28",
+          "URL": "blog.fiscoclic.mx/nomina/como-calcular-el-descuento-infonavit/",
+          "Act.": "17 sept"
+        },
+        {
+          "Palabra clave": "cuantos puntos necesitas para un credito infonavit",
+          "Intención": "I",
+          "Posición": "14",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "880",
+          "KD %": "38",
+          "URL": "blog.fiscoclic.mx/nomina/puntos-infonavit/",
+          "Act.": "05 oct"
+        },
+        {
+          "Palabra clave": "las actas administrativas son legales",
+          "Intención": "I",
+          "Posición": "27",
+          "FS": "5",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "880",
+          "KD %": "19",
+          "URL": "blog.fiscoclic.mx/nomina/que-es-un-acta-administrativa-y-para-que-sirve/",
+          "Act.": "26 ago"
+        }
+      ]
+    },
+    {
+      "file": "semrush-organic-positions-2026-11-02T16-51-33-312Z.zip",
+      "bytes": 1633987,
+      "members": [
+        "./",
+        "./organic-positions-01.csv",
+        "./organic-positions-01.html",
+        "./organic-positions-01.png",
+        "./resultado.json"
+      ],
+      "extractedAt": "2026-11-02T16:52:07.840Z",
+      "target": [
+        "https://calculadoraslaborales.com.mx/calculadora-finiquito"
+      ],
+      "scope": [
+        "domain"
+      ],
+      "filter": null,
+      "title": "calculadoraslaborales.com.mx: Posiciones, Posicionamiento orgánico",
+      "csv_rows": 297,
+      "json_rows": 297,
+      "blank_positions": 0,
+      "unique_keywords": 280,
+      "unique_urls": 21,
+      "domains": {
+        "calculadoraslaborales.com.mx": 297
+      },
+      "purpose": "Competitor context; not first-party traffic",
+      "commercial_keyword_examples": [
+        {
+          "Palabra clave": "mas iva",
+          "Intención": "I",
+          "Posición": "86",
+          "FS": "6",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "880",
+          "KD %": "24",
+          "URL": "calculadoraslaborales.com.mx/calculadora-iva",
+          "Act.": "16 oct"
+        },
+        {
+          "Palabra clave": "cuanto es el 16 de iva",
+          "Intención": "I",
+          "Posición": "78",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "170",
+          "KD %": "24",
+          "URL": "calculadoraslaborales.com.mx/calculadora-iva",
+          "Act.": "16 oct"
+        },
+        {
+          "Palabra clave": "iva 16 por ciento",
+          "Intención": "I",
+          "Posición": "84",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "90",
+          "KD %": "24",
+          "URL": "calculadoraslaborales.com.mx/calculadora-iva",
+          "Act.": "01 oct"
+        },
+        {
+          "Palabra clave": "calcular iva 16",
+          "Intención": "I",
+          "Posición": "84",
+          "FS": "5",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "40",
+          "KD %": "23",
+          "URL": "calculadoraslaborales.com.mx/calculadora-iva",
+          "Act.": "16 oct"
+        },
+        {
+          "Palabra clave": "aguinaldo descuento isr",
+          "Intención": "I",
+          "Posición": "76",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "30",
+          "KD %": "22",
+          "URL": "calculadoraslaborales.com.mx/calculadora-isr-aguinaldo",
+          "Act.": "26 oct"
+        },
+        {
+          "Palabra clave": "4000 mas iva",
+          "Intención": "I",
+          "Posición": "85",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "30",
+          "KD %": "24",
+          "URL": "calculadoraslaborales.com.mx/calculadora-iva",
+          "Act.": "17 oct"
+        },
+        {
+          "Palabra clave": "16 iva",
+          "Intención": "I",
+          "Posición": "96",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "30",
+          "KD %": "30",
+          "URL": "calculadoraslaborales.com.mx/calculadora-iva",
+          "Act.": "16 oct"
+        }
+      ]
+    },
+    {
+      "file": "calculadora-isr-mexico.vercel._SearchPerformanceOverview_All_5_11_2026.csv",
+      "bytes": 3324,
+      "rows": 90,
+      "first_date": "5/8/2026 0:00:00",
+      "last_date": "2/11/2026 0:00:00",
+      "clicks": 549.0,
+      "impressions": 17393.0,
+      "ctr": 0.03156442246880929,
+      "platform": "SearchPerformanceOverview; search engine not explicitly identified inside file"
+    },
+    {
+      "file": "semrush-organic-positions-2026-11-02T16-41-58-929Z.zip",
+      "bytes": 1826682,
+      "members": [
+        "./",
+        "./organic-positions-01.csv",
+        "./organic-positions-01.html",
+        "./organic-positions-01.png",
+        "./resultado.json"
+      ],
+      "extractedAt": "2026-11-02T16:43:16.864Z",
+      "target": [
+        "https://calculadora-isr-mexico.vercel.app"
+      ],
+      "scope": [
+        "domain"
+      ],
+      "filter": null,
+      "title": "calculadora-isr-mexico.vercel.app: Posiciones, Posicionamiento orgánico",
+      "csv_rows": 1136,
+      "json_rows": 1136,
+      "blank_positions": 0,
+      "unique_keywords": 921,
+      "unique_urls": 119,
+      "domains": {
+        "calculadora-isr-mexico.vercel.app": 1136
+      },
+      "purpose": "Estimated organic positions for own domain; not observed sessions or revenue",
+      "commercial_keyword_examples": [
+        {
+          "Palabra clave": "calculadora de iva",
+          "Intención": "I",
+          "Posición": "84",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "14,8K",
+          "KD %": "23",
+          "URL": "calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html",
+          "Act.": "21 oct"
+        },
+        {
+          "Palabra clave": "calculadora iva",
+          "Intención": "I",
+          "Posición": "71",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "12,1K",
+          "KD %": "13",
+          "URL": "calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html",
+          "Act.": "24 oct"
+        },
+        {
+          "Palabra clave": "calculadora iva",
+          "Intención": "I",
+          "Posición": "87",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "12,1K",
+          "KD %": "13",
+          "URL": "calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html",
+          "Act.": "24 oct"
+        },
+        {
+          "Palabra clave": "como sacar el iva",
+          "Intención": "I",
+          "Posición": "93",
+          "FS": "7",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "4,4K",
+          "KD %": "28",
+          "URL": "calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html",
+          "Act.": "18 oct"
+        },
+        {
+          "Palabra clave": "simulador credito automotriz",
+          "Intención": "C",
+          "Posición": "82",
+          "FS": "5",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "1,9K",
+          "KD %": "59",
+          "URL": "calculadora-isr-mexico.vercel.app/articulos/simulador-credito-automotriz.html",
+          "Act.": "01 oct"
+        },
+        {
+          "Palabra clave": "calculadora sat iva",
+          "Intención": "I",
+          "Posición": "86",
+          "FS": "2",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "1,9K",
+          "KD %": "33",
+          "URL": "calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html",
+          "Act.": "17 oct"
+        },
+        {
+          "Palabra clave": "calcular el iva de una cantidad",
+          "Intención": "I",
+          "Posición": "96",
+          "FS": "5",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "1,9K",
+          "KD %": "26",
+          "URL": "calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html",
+          "Act.": "22 oct"
+        },
+        {
+          "Palabra clave": "simulador de credito automotriz",
+          "Intención": "C",
+          "Posición": "78",
+          "FS": "5",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "1,6K",
+          "KD %": "59",
+          "URL": "calculadora-isr-mexico.vercel.app/articulos/simulador-credito-automotriz.html",
+          "Act.": "04 oct"
+        }
+      ]
+    },
+    {
+      "file": "https___calculadora-isr-mexico.vercel.app_-Performance-on-Search-2026-11-05(1).xlsx",
+      "bytes": 13470,
+      "sheets": {
+        "Gráfico": 94,
+        "Consultas": 130,
+        "Páginas": 1,
+        "Países": 7,
+        "Dispositivos": 3,
+        "Aparición en búsquedas": 0,
+        "Filtros": 3
+      },
+      "filters": {
+        "Tipo de búsqueda": "Web (basada en texto)",
+        "Fecha": "3 ago 2026-4 nov 2026",
+        "Página": "https://calculadora-isr-mexico.vercel.app/calculadoras/pago-quincenal.html"
+      },
+      "period": "3 ago 2026-4 nov 2026",
+      "totals_by_sheet": {
+        "Gráfico": {
+          "clicks": 109.0,
+          "impressions": 17142.0
+        },
+        "Consultas": {
+          "clicks": 2.0,
+          "impressions": 1127.0
+        },
+        "Páginas": {
+          "clicks": 109.0,
+          "impressions": 17142.0
+        },
+        "Países": {
+          "clicks": 2.0,
+          "impressions": 1127.0
+        },
+        "Dispositivos": {
+          "clicks": 2.0,
+          "impressions": 1127.0
+        }
+      },
+      "pages": [
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/pago-quincenal.html",
+          "clicks": 109.0,
+          "impressions": 17142.0,
+          "ctr": 0.0064,
+          "position": 4.99
+        }
+      ],
+      "devices": [
+        {
+          "device": "Móviles",
+          "clicks": 1.0,
+          "impressions": 812.0,
+          "ctr": 0.0012,
+          "position": 8.14
+        },
+        {
+          "device": "Ordenador",
+          "clicks": 1.0,
+          "impressions": 305.0,
+          "ctr": 0.0033,
+          "position": 14.1
+        },
+        {
+          "device": "Tablet",
+          "clicks": 0.0,
+          "impressions": 10.0,
+          "ctr": 0.0,
+          "position": 7.7
+        }
+      ]
+    },
+    {
+      "file": "salario-diario-2026-11-02T17-23-30-460Z.zip",
+      "bytes": 961700,
+      "members": [
+        "./",
+        "./captura.png",
+        "./keyword-magic.csv",
+        "./pagina.html",
+        "./resultado.json",
+        "./tabla-01.csv"
+      ],
+      "extractedAt": "2026-11-02T17:23:43.355Z",
+      "target": "salario diario",
+      "csv_rows": 0,
+      "json_rows": 0,
+      "status": "filtered_empty",
+      "purpose": "Empty keyword export; cannot infer keyword metrics",
+      "table_headers_only": true
+    },
+    {
+      "file": "https___calculadora-isr-mexico.vercel.app_-Performance-on-Search-2026-11-05(2).xlsx",
+      "bytes": 51105,
+      "sheets": {
+        "Gráfico": 94,
+        "Consultas": 1000,
+        "Páginas": 183,
+        "Países": 128,
+        "Dispositivos": 3,
+        "Aparición en búsquedas": 0,
+        "Filtros": 2
+      },
+      "filters": {
+        "Tipo de búsqueda": "Web (basada en texto)",
+        "Fecha": "3 ago 2026-4 nov 2026"
+      },
+      "period": "3 ago 2026-4 nov 2026",
+      "totals_by_sheet": {
+        "Gráfico": {
+          "clicks": 351.0,
+          "impressions": 65059.0
+        },
+        "Consultas": {
+          "clicks": 11.0,
+          "impressions": 9143.0
+        },
+        "Páginas": {
+          "clicks": 352.0,
+          "impressions": 66428.0
+        },
+        "Países": {
+          "clicks": 351.0,
+          "impressions": 65059.0
+        },
+        "Dispositivos": {
+          "clicks": 351.0,
+          "impressions": 65059.0
+        }
+      },
+      "pages": [
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html",
+          "clicks": 133.0,
+          "impressions": 22291.0,
+          "ctr": 0.006,
+          "position": 4.97
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/pago-quincenal.html",
+          "clicks": 109.0,
+          "impressions": 17142.0,
+          "ctr": 0.0064,
+          "position": 4.99
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html",
+          "clicks": 28.0,
+          "impressions": 1087.0,
+          "ctr": 0.0258,
+          "position": 4.26
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/isr-semanal-quincenal-mensual.html",
+          "clicks": 10.0,
+          "impressions": 439.0,
+          "ctr": 0.022799999999999997,
+          "position": 15.59
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html",
+          "clicks": 6.0,
+          "impressions": 1986.0,
+          "ctr": 0.003,
+          "position": 30.71
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html",
+          "clicks": 6.0,
+          "impressions": 1397.0,
+          "ctr": 0.0043,
+          "position": 7.23
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/isr-prima-vacacional.html",
+          "clicks": 5.0,
+          "impressions": 496.0,
+          "ctr": 0.0101,
+          "position": 8.14
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/es-legal-pago-nomina-dos-partes.html",
+          "clicks": 4.0,
+          "impressions": 263.0,
+          "ctr": 0.0152,
+          "position": 4.86
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/ahorro-mensual.html",
+          "clicks": 3.0,
+          "impressions": 1303.0,
+          "ctr": 0.0023,
+          "position": 8.55
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-antiguedad.html",
+          "clicks": 3.0,
+          "impressions": 672.0,
+          "ctr": 0.0045000000000000005,
+          "position": 11.96
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-3-meses.html",
+          "clicks": 3.0,
+          "impressions": 506.0,
+          "ctr": 0.0059,
+          "position": 7.38
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/",
+          "clicks": 3.0,
+          "impressions": 422.0,
+          "ctr": 0.0070999999999999995,
+          "position": 59.64
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo.html",
+          "clicks": 2.0,
+          "impressions": 1006.0,
+          "ctr": 0.002,
+          "position": 58.03
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/margen-ganancia.html",
+          "clicks": 2.0,
+          "impressions": 562.0,
+          "ctr": 0.0036,
+          "position": 12.4
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html",
+          "clicks": 2.0,
+          "impressions": 427.0,
+          "ctr": 0.004699999999999999,
+          "position": 57.74
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/regla-tres.html",
+          "clicks": 2.0,
+          "impressions": 402.0,
+          "ctr": 0.005,
+          "position": 31.41
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario-integrado.html",
+          "clicks": 2.0,
+          "impressions": 262.0,
+          "ctr": 0.0076,
+          "position": 24.42
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-salario-base-cotizacion.html",
+          "clicks": 2.0,
+          "impressions": 125.0,
+          "ctr": 0.016,
+          "position": 24.31
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/faltas-afectan-aguinaldo.html",
+          "clicks": 2.0,
+          "impressions": 114.0,
+          "ctr": 0.0175,
+          "position": 8.62
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/incapacidades-afectan-aguinaldo.html",
+          "clicks": 2.0,
+          "impressions": 105.0,
+          "ctr": 0.019,
+          "position": 9.58
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/punto-equilibrio.html",
+          "clicks": 2.0,
+          "impressions": 55.0,
+          "ctr": 0.0364,
+          "position": 30.36
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/visor-deducciones-personales-sat.html",
+          "clicks": 2.0,
+          "impressions": 26.0,
+          "ctr": 0.07690000000000001,
+          "position": 25.15
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html",
+          "clicks": 1.0,
+          "impressions": 555.0,
+          "ctr": 0.0018,
+          "position": 58.15
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/simulador-credito-automotriz.html",
+          "clicks": 1.0,
+          "impressions": 503.0,
+          "ctr": 0.002,
+          "position": 49.01
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuando-pagan-finiquito.html",
+          "clicks": 1.0,
+          "impressions": 471.0,
+          "ctr": 0.0021,
+          "position": 11.57
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-si-renuncio.html",
+          "clicks": 1.0,
+          "impressions": 369.0,
+          "ctr": 0.0027,
+          "position": 7.86
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/propina.html",
+          "clicks": 1.0,
+          "impressions": 327.0,
+          "ctr": 0.0031,
+          "position": 16.3
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/spei-liquidado-pero-no-recibido.html",
+          "clicks": 1.0,
+          "impressions": 302.0,
+          "ctr": 0.0033,
+          "position": 11.35
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-isr-sueldo.html",
+          "clicks": 1.0,
+          "impressions": 197.0,
+          "ctr": 0.0051,
+          "position": 59.22
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-meses.html",
+          "clicks": 1.0,
+          "impressions": 191.0,
+          "ctr": 0.0052,
+          "position": 21.2
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/me-pueden-descontar-finiquito.html",
+          "clicks": 1.0,
+          "impressions": 163.0,
+          "ctr": 0.0060999999999999995,
+          "position": 5.76
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/conservacion-derechos-imss-ley-73.html",
+          "clicks": 1.0,
+          "impressions": 151.0,
+          "ctr": 0.0066,
+          "position": 13.19
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/desde-que-dia-paga-imss-incapacidad.html",
+          "clicks": 1.0,
+          "impressions": 100.0,
+          "ctr": 0.01,
+          "position": 10.24
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/bonos-salario-base-cotizacion.html",
+          "clicks": 1.0,
+          "impressions": 95.0,
+          "ctr": 0.0105,
+          "position": 8.72
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuando-tengo-derecho-finiquito.html",
+          "clicks": 1.0,
+          "impressions": 60.0,
+          "ctr": 0.0167,
+          "position": 9.95
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/pensionados-viudez-reciben-aguinaldo.html",
+          "clicks": 1.0,
+          "impressions": 58.0,
+          "ctr": 0.0172,
+          "position": 8.78
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/seguro-dotal.html",
+          "clicks": 1.0,
+          "impressions": 50.0,
+          "ctr": 0.02,
+          "position": 45.66
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-finiquito.html",
+          "clicks": 1.0,
+          "impressions": 46.0,
+          "ctr": 0.0217,
+          "position": 17.37
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-quitan-isr-sueldo.html",
+          "clicks": 1.0,
+          "impressions": 32.0,
+          "ctr": 0.031200000000000002,
+          "position": 63.59
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/formato-finiquito-laboral.html",
+          "clicks": 1.0,
+          "impressions": 31.0,
+          "ctr": 0.0323,
+          "position": 25.81
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos.html",
+          "clicks": 1.0,
+          "impressions": 27.0,
+          "ctr": 0.037000000000000005,
+          "position": 18.3
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-propina.html",
+          "clicks": 0.0,
+          "impressions": 697.0,
+          "ctr": 0.0,
+          "position": 10.66
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/horario-transferencias-spei.html",
+          "clicks": 0.0,
+          "impressions": 517.0,
+          "ctr": 0.0,
+          "position": 11.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-se-deja-propina-mexico.html",
+          "clicks": 0.0,
+          "impressions": 403.0,
+          "ctr": 0.0,
+          "position": 10.02
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html",
+          "clicks": 0.0,
+          "impressions": 397.0,
+          "ctr": 0.0,
+          "position": 50.17
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-bruto-neto.html",
+          "clicks": 0.0,
+          "impressions": 387.0,
+          "ctr": 0.0,
+          "position": 39.92
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/spei-devuelto-que-hacer.html",
+          "clicks": 0.0,
+          "impressions": 354.0,
+          "ctr": 0.0,
+          "position": 9.3
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-aguinaldo.html",
+          "clicks": 0.0,
+          "impressions": 322.0,
+          "ctr": 0.0,
+          "position": 68.06
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-isr.html",
+          "clicks": 0.0,
+          "impressions": 319.0,
+          "ctr": 0.0,
+          "position": 57.62
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/propina-obligatoria-mexico.html",
+          "clicks": 0.0,
+          "impressions": 311.0,
+          "ctr": 0.0,
+          "position": 10.07
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-aguinaldo.html",
+          "clicks": 0.0,
+          "impressions": 307.0,
+          "ctr": 0.0,
+          "position": 18.88
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-salario-diario-integrado.html",
+          "clicks": 0.0,
+          "impressions": 274.0,
+          "ctr": 0.0,
+          "position": 43.16
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-incluye-finiquito.html",
+          "clicks": 0.0,
+          "impressions": 264.0,
+          "ctr": 0.0,
+          "position": 8.32
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/convertir-salario-mensual-diario-hora.html",
+          "clicks": 0.0,
+          "impressions": 261.0,
+          "ctr": 0.0,
+          "position": 8.52
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-diario-mensual-2026.html",
+          "clicks": 0.0,
+          "impressions": 249.0,
+          "ctr": 0.0,
+          "position": 10.15
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-renuncia-voluntaria.html",
+          "clicks": 0.0,
+          "impressions": 221.0,
+          "ctr": 0.0,
+          "position": 16.1
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/aguinaldo-proporcional.html",
+          "clicks": 0.0,
+          "impressions": 221.0,
+          "ctr": 0.0,
+          "position": 42.7
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/ptu-exenta-isr.html",
+          "clicks": 0.0,
+          "impressions": 202.0,
+          "ctr": 0.0,
+          "position": 18.77
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/presupuesto-personal.html",
+          "clicks": 0.0,
+          "impressions": 200.0,
+          "ctr": 0.0,
+          "position": 12.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-aguinaldo.html",
+          "clicks": 0.0,
+          "impressions": 191.0,
+          "ctr": 0.0,
+          "position": 61.48
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/credito-automotriz.html",
+          "clicks": 0.0,
+          "impressions": 167.0,
+          "ctr": 0.0,
+          "position": 30.51
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-6-meses.html",
+          "clicks": 0.0,
+          "impressions": 153.0,
+          "ctr": 0.0,
+          "position": 19.6
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-de-ahorro.html",
+          "clicks": 0.0,
+          "impressions": 149.0,
+          "ctr": 0.0,
+          "position": 61.23
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-prima-vacacional.html",
+          "clicks": 0.0,
+          "impressions": 148.0,
+          "ctr": 0.0,
+          "position": 41.59
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-son-honorarios.html",
+          "clicks": 0.0,
+          "impressions": 147.0,
+          "ctr": 0.0,
+          "position": 64.12
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/descuentos-nomina-isr-imss.html",
+          "clicks": 0.0,
+          "impressions": 146.0,
+          "ctr": 0.0,
+          "position": 15.89
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/pago-incapacidad-imss.html",
+          "clicks": 0.0,
+          "impressions": 137.0,
+          "ctr": 0.0,
+          "position": 15.02
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/dias-de-aguinaldo.html",
+          "clicks": 0.0,
+          "impressions": 130.0,
+          "ctr": 0.0,
+          "position": 43.86
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/interes-compuesto.html",
+          "clicks": 0.0,
+          "impressions": 126.0,
+          "ctr": 0.0,
+          "position": 33.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/vacaciones-proporcionales.html",
+          "clicks": 0.0,
+          "impressions": 125.0,
+          "ctr": 0.0,
+          "position": 8.42
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/diferencia-fechas.html",
+          "clicks": 0.0,
+          "impressions": 123.0,
+          "ctr": 0.0,
+          "position": 15.52
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/costo-unidad.html",
+          "clicks": 0.0,
+          "impressions": 121.0,
+          "ctr": 0.0,
+          "position": 15.56
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-saber-en-que-afore-estoy.html",
+          "clicks": 0.0,
+          "impressions": 114.0,
+          "ctr": 0.0,
+          "position": 74.24
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-salario-diario-integrado.html",
+          "clicks": 0.0,
+          "impressions": 110.0,
+          "ctr": 0.0,
+          "position": 50.25
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/dias-vacaciones-por-antiguedad-2026.html",
+          "clicks": 0.0,
+          "impressions": 106.0,
+          "ctr": 0.0,
+          "position": 37.14
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-seguro-gastos-medicos-mayores.html",
+          "clicks": 0.0,
+          "impressions": 106.0,
+          "ctr": 0.0,
+          "position": 68.74
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/interes-compuesto.html",
+          "clicks": 0.0,
+          "impressions": 103.0,
+          "ctr": 0.0,
+          "position": 79.72
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-finiquito.html",
+          "clicks": 0.0,
+          "impressions": 101.0,
+          "ctr": 0.0,
+          "position": 49.6
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-despido.html",
+          "clicks": 0.0,
+          "impressions": 93.0,
+          "ctr": 0.0,
+          "position": 9.96
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/carta-finiquito-laboral.html",
+          "clicks": 0.0,
+          "impressions": 92.0,
+          "ctr": 0.0,
+          "position": 12.2
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuando-se-pagan-utilidades.html",
+          "clicks": 0.0,
+          "impressions": 88.0,
+          "ctr": 0.0,
+          "position": 21.14
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/maneras-ahorrar-dinero-mes.html",
+          "clicks": 0.0,
+          "impressions": 87.0,
+          "ctr": 0.0,
+          "position": 13.59
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/pagare-bancario-como-funciona.html",
+          "clicks": 0.0,
+          "impressions": 87.0,
+          "ctr": 0.0,
+          "position": 64.59
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/finanzas-personales-excel.html",
+          "clicks": 0.0,
+          "impressions": 84.0,
+          "ctr": 0.0,
+          "position": 12.39
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/asimilados-a-salarios-isr.html",
+          "clicks": 0.0,
+          "impressions": 83.0,
+          "ctr": 0.0,
+          "position": 35.34
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-organizar-finanzas-personales-excel.html",
+          "clicks": 0.0,
+          "impressions": 81.0,
+          "ctr": 0.0,
+          "position": 9.58
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/retencion-iva-dos-terceras-partes.html",
+          "clicks": 0.0,
+          "impressions": 78.0,
+          "ctr": 0.0,
+          "position": 13.13
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-cuesta-seguro-gastos-medicos-mayores.html",
+          "clicks": 0.0,
+          "impressions": 77.0,
+          "ctr": 0.0,
+          "position": 78.3
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/carta-pago-deuda.html",
+          "clicks": 0.0,
+          "impressions": 75.0,
+          "ctr": 0.0,
+          "position": 12.21
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/devolucion-impuestos-sat.html",
+          "clicks": 0.0,
+          "impressions": 71.0,
+          "ctr": 0.0,
+          "position": 63.07
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/derecho-ptu-si-renuncio.html",
+          "clicks": 0.0,
+          "impressions": 69.0,
+          "ctr": 0.0,
+          "position": 6.94
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-ptu.html",
+          "clicks": 0.0,
+          "impressions": 69.0,
+          "ctr": 0.0,
+          "position": 58.16
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/es-seguro-invertir-en-cetes.html",
+          "clicks": 0.0,
+          "impressions": 68.0,
+          "ctr": 0.0,
+          "position": 25.13
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-cat-en-tarjeta-de-credito.html",
+          "clicks": 0.0,
+          "impressions": 67.0,
+          "ctr": 0.0,
+          "position": 70.22
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-digital.html",
+          "clicks": 0.0,
+          "impressions": 67.0,
+          "ctr": 0.0,
+          "position": 74.33
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-antiguedad.html",
+          "clicks": 0.0,
+          "impressions": 64.0,
+          "ctr": 0.0,
+          "position": 11.33
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/despido-indemnizacion-liquidacion.html",
+          "clicks": 0.0,
+          "impressions": 64.0,
+          "ctr": 0.0,
+          "position": 42.48
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/edad.html",
+          "clicks": 0.0,
+          "impressions": 64.0,
+          "ctr": 0.0,
+          "position": 43.58
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/apartados-cuenta-ahorro.html",
+          "clicks": 0.0,
+          "impressions": 63.0,
+          "ctr": 0.0,
+          "position": 10.13
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/referencia-spei-vs-clave-rastreo.html",
+          "clicks": 0.0,
+          "impressions": 61.0,
+          "ctr": 0.0,
+          "position": 7.15
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/retiro-por-desempleo-afore.html",
+          "clicks": 0.0,
+          "impressions": 55.0,
+          "ctr": 0.0,
+          "position": 57.87
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/rendimiento-diario-cuenta-ahorro.html",
+          "clicks": 0.0,
+          "impressions": 53.0,
+          "ctr": 0.0,
+          "position": 11.81
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/para-que-sirve-constancia-situacion-fiscal.html",
+          "clicks": 0.0,
+          "impressions": 52.0,
+          "ctr": 0.0,
+          "position": 73.33
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/retencion-isr-resico.html",
+          "clicks": 0.0,
+          "impressions": 50.0,
+          "ctr": 0.0,
+          "position": 25.66
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-para-retiro.html",
+          "clicks": 0.0,
+          "impressions": 48.0,
+          "ctr": 0.0,
+          "position": 70.81
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-cobrar-incapacidad-imss.html",
+          "clicks": 0.0,
+          "impressions": 47.0,
+          "ctr": 0.0,
+          "position": 15.94
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuando-se-pagan-vacaciones.html",
+          "clicks": 0.0,
+          "impressions": 47.0,
+          "ctr": 0.0,
+          "position": 51.51
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/verificar-agente-seguros-cnsf.html",
+          "clicks": 0.0,
+          "impressions": 46.0,
+          "ctr": 0.0,
+          "position": 12.63
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-para-ninos.html",
+          "clicks": 0.0,
+          "impressions": 43.0,
+          "ctr": 0.0,
+          "position": 73.02
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/seguro-para-mascotas.html",
+          "clicks": 0.0,
+          "impressions": 42.0,
+          "ctr": 0.0,
+          "position": 35.55
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/costo-combustible.html",
+          "clicks": 0.0,
+          "impressions": 41.0,
+          "ctr": 0.0,
+          "position": 7.24
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/factor-integracion-sdi.html",
+          "clicks": 0.0,
+          "impressions": 39.0,
+          "ctr": 0.0,
+          "position": 10.59
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-saber-saldo-favor-sat.html",
+          "clicks": 0.0,
+          "impressions": 39.0,
+          "ctr": 0.0,
+          "position": 69.1
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/declaracion-mensual-sat.html",
+          "clicks": 0.0,
+          "impressions": 38.0,
+          "ctr": 0.0,
+          "position": 33.82
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-pensionados-issste.html",
+          "clicks": 0.0,
+          "impressions": 34.0,
+          "ctr": 0.0,
+          "position": 16.62
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-cambiar-de-afore.html",
+          "clicks": 0.0,
+          "impressions": 34.0,
+          "ctr": 0.0,
+          "position": 55.32
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-en-dolares.html",
+          "clicks": 0.0,
+          "impressions": 33.0,
+          "ctr": 0.0,
+          "position": 45.24
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-vs-liquidacion.html",
+          "clicks": 0.0,
+          "impressions": 33.0,
+          "ctr": 0.0,
+          "position": 65.61
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/liquidacion-por-cierre-de-empresa.html",
+          "clicks": 0.0,
+          "impressions": 31.0,
+          "ctr": 0.0,
+          "position": 9.16
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/negativa-pension-imss.html",
+          "clicks": 0.0,
+          "impressions": 30.0,
+          "ctr": 0.0,
+          "position": 27.03
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/xml-factura-electronica.html",
+          "clicks": 0.0,
+          "impressions": 30.0,
+          "ctr": 0.0,
+          "position": 68.97
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuando-se-paga-aguinaldo.html",
+          "clicks": 0.0,
+          "impressions": 29.0,
+          "ctr": 0.0,
+          "position": 67.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/dias-festivos-obligatorios-2026.html",
+          "clicks": 0.0,
+          "impressions": 26.0,
+          "ctr": 0.0,
+          "position": 37.62
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/seguro-medico-familiar.html",
+          "clicks": 0.0,
+          "impressions": 26.0,
+          "ctr": 0.0,
+          "position": 49.38
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/pension-imss-ley-73.html",
+          "clicks": 0.0,
+          "impressions": 25.0,
+          "ctr": 0.0,
+          "position": 23.8
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-2026.html",
+          "clicks": 0.0,
+          "impressions": 24.0,
+          "ctr": 0.0,
+          "position": 43.96
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/pension-imss-ley-97.html",
+          "clicks": 0.0,
+          "impressions": 22.0,
+          "ctr": 0.0,
+          "position": 48.45
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cetes-28-vs-91-dias.html",
+          "clicks": 0.0,
+          "impressions": 21.0,
+          "ctr": 0.0,
+          "position": 47.81
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aportaciones-voluntarias-afore.html",
+          "clicks": 0.0,
+          "impressions": 21.0,
+          "ctr": 0.0,
+          "position": 65.62
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/roi.html",
+          "clicks": 0.0,
+          "impressions": 20.0,
+          "ctr": 0.0,
+          "position": 12.55
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-se-cuentan-dias-vacaciones.html",
+          "clicks": 0.0,
+          "impressions": 20.0,
+          "ctr": 0.0,
+          "position": 53.75
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/plazo-solicitar-factura.html",
+          "clicks": 0.0,
+          "impressions": 19.0,
+          "ctr": 0.0,
+          "position": 17.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-isr-2026.html",
+          "clicks": 0.0,
+          "impressions": 19.0,
+          "ctr": 0.0,
+          "position": 20.32
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/me-pueden-negar-vacaciones.html",
+          "clicks": 0.0,
+          "impressions": 18.0,
+          "ctr": 0.0,
+          "position": 11.33
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/persona-fisica-actividad-empresarial.html",
+          "clicks": 0.0,
+          "impressions": 18.0,
+          "ctr": 0.0,
+          "position": 63.61
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuantas-horas-extra-semana.html",
+          "clicks": 0.0,
+          "impressions": 17.0,
+          "ctr": 0.0,
+          "position": 11.53
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/semanas-cotizadas-pension-imss.html",
+          "clicks": 0.0,
+          "impressions": 17.0,
+          "ctr": 0.0,
+          "position": 62.65
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuentas-ahorro-sin-comisiones.html",
+          "clicks": 0.0,
+          "impressions": 15.0,
+          "ctr": 0.0,
+          "position": 18.93
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+          "clicks": 0.0,
+          "impressions": 14.0,
+          "ctr": 0.0,
+          "position": 11.07
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-toca-despido-injustificado.html",
+          "clicks": 0.0,
+          "impressions": 14.0,
+          "ctr": 0.0,
+          "position": 14.21
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/comparador-cuentas-ahorro.html",
+          "clicks": 0.0,
+          "impressions": 14.0,
+          "ctr": 0.0,
+          "position": 27.64
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/saldo-minimo-cuenta-ahorro.html",
+          "clicks": 0.0,
+          "impressions": 14.0,
+          "ctr": 0.0,
+          "position": 37.93
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-ptu.html",
+          "clicks": 0.0,
+          "impressions": 14.0,
+          "ctr": 0.0,
+          "position": 55.43
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-finiquito-un-ano-renuncia.html",
+          "clicks": 0.0,
+          "impressions": 13.0,
+          "ctr": 0.0,
+          "position": 14.92
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-proporcional.html",
+          "clicks": 0.0,
+          "impressions": 13.0,
+          "ctr": 0.0,
+          "position": 50.69
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-cuesta-modalidad-40.html",
+          "clicks": 0.0,
+          "impressions": 13.0,
+          "ctr": 0.0,
+          "position": 60.92
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/fondo-emergencia.html",
+          "clicks": 0.0,
+          "impressions": 12.0,
+          "ctr": 0.0,
+          "position": 16.17
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-cubre-seguro-gastos-medicos-mayores.html",
+          "clicks": 0.0,
+          "impressions": 12.0,
+          "ctr": 0.0,
+          "position": 83.42
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/deducciones-personales-2026.html",
+          "clicks": 0.0,
+          "impressions": 11.0,
+          "ctr": 0.0,
+          "position": 32.82
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/impuestos-rendimientos-inversiones-mexico.html",
+          "clicks": 0.0,
+          "impressions": 11.0,
+          "ctr": 0.0,
+          "position": 39.09
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-30-dias-aprobado-vigencia.html",
+          "clicks": 0.0,
+          "impressions": 10.0,
+          "ctr": 0.0,
+          "position": 7.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/transferencia-spei-cuenta-equivocada.html",
+          "clicks": 0.0,
+          "impressions": 10.0,
+          "ctr": 0.0,
+          "position": 8.2
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-trabajadoras-hogar.html",
+          "clicks": 0.0,
+          "impressions": 10.0,
+          "ctr": 0.0,
+          "position": 8.8
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/demanda-despido-injustificado.html",
+          "clicks": 0.0,
+          "impressions": 10.0,
+          "ctr": 0.0,
+          "position": 16.7
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/recibo-de-aguinaldo.html",
+          "clicks": 0.0,
+          "impressions": 9.0,
+          "ctr": 0.0,
+          "position": 12.67
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-alto-rendimiento.html",
+          "clicks": 0.0,
+          "impressions": 9.0,
+          "ctr": 0.0,
+          "position": 29.44
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/me-pueden-obligar-horas-extra.html",
+          "clicks": 0.0,
+          "impressions": 8.0,
+          "ctr": 0.0,
+          "position": 18.38
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-leer-poliza-gastos-medicos.html",
+          "clicks": 0.0,
+          "impressions": 7.0,
+          "ctr": 0.0,
+          "position": 6.29
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/categorias-finanzas-personales.html",
+          "clicks": 0.0,
+          "impressions": 7.0,
+          "ctr": 0.0,
+          "position": 18.14
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-pensionados-imss.html",
+          "clicks": 0.0,
+          "impressions": 7.0,
+          "ctr": 0.0,
+          "position": 25.57
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/vacaciones-mexico.html",
+          "clicks": 0.0,
+          "impressions": 7.0,
+          "ctr": 0.0,
+          "position": 56.57
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-vs-cuenta-corriente.html",
+          "clicks": 0.0,
+          "impressions": 7.0,
+          "ctr": 0.0,
+          "position": 57.43
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-invertir-en-cetes.html",
+          "clicks": 0.0,
+          "impressions": 7.0,
+          "ctr": 0.0,
+          "position": 75.86
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/tasa-promocional-cuenta-ahorro.html",
+          "clicks": 0.0,
+          "impressions": 6.0,
+          "ctr": 0.0,
+          "position": 34.33
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/limite-ptu-tres-meses.html",
+          "clicks": 0.0,
+          "impressions": 5.0,
+          "ctr": 0.0,
+          "position": 6.8
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/deducible-vs-coaseguro.html",
+          "clicks": 0.0,
+          "impressions": 5.0,
+          "ctr": 0.0,
+          "position": 15.8
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-vs-pagare-bancario.html",
+          "clicks": 0.0,
+          "impressions": 5.0,
+          "ctr": 0.0,
+          "position": 74.2
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/gastos-hormiga-ejemplos.html",
+          "clicks": 0.0,
+          "impressions": 5.0,
+          "ctr": 0.0,
+          "position": 83.4
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/horas-extra-2026.html",
+          "clicks": 0.0,
+          "impressions": 5.0,
+          "ctr": 0.0,
+          "position": 85.2
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-ahorro-tradicional.html",
+          "clicks": 0.0,
+          "impressions": 4.0,
+          "ctr": 0.0,
+          "position": 6.75
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/cuanto-tarda-sat-devolver-saldo-favor.html",
+          "clicks": 0.0,
+          "impressions": 4.0,
+          "ctr": 0.0,
+          "position": 8.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-afecta-inflacion-ahorro.html",
+          "clicks": 0.0,
+          "impressions": 4.0,
+          "ctr": 0.0,
+          "position": 38.75
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/acerca-de.html",
+          "clicks": 0.0,
+          "impressions": 3.0,
+          "ctr": 0.0,
+          "position": 8.67
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/declaracion-anual-asalariados-2026.html",
+          "clicks": 0.0,
+          "impressions": 3.0,
+          "ctr": 0.0,
+          "position": 17.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-ahorrar-en-cetes.html",
+          "clicks": 0.0,
+          "impressions": 3.0,
+          "ctr": 0.0,
+          "position": 29.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/seguro-vida-temporal.html",
+          "clicks": 0.0,
+          "impressions": 3.0,
+          "ctr": 0.0,
+          "position": 41.67
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/recibo-honorarios.html",
+          "clicks": 0.0,
+          "impressions": 2.0,
+          "ctr": 0.0,
+          "position": 6.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/es-obligatorio-reparto-utilidades.html",
+          "clicks": 0.0,
+          "impressions": 2.0,
+          "ctr": 0.0,
+          "position": 7.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/donde-ahorrar-dinero-y-ganar-intereses.html",
+          "clicks": 0.0,
+          "impressions": 2.0,
+          "ctr": 0.0,
+          "position": 10.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/donde-guardar-fondo-emergencia.html",
+          "clicks": 0.0,
+          "impressions": 2.0,
+          "ctr": 0.0,
+          "position": 33.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-sacar-constancia-situacion-fiscal.html",
+          "clicks": 0.0,
+          "impressions": 1.0,
+          "ctr": 0.0,
+          "position": 11.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-tener-buenas-finanzas-personales.html",
+          "clicks": 0.0,
+          "impressions": 1.0,
+          "ctr": 0.0,
+          "position": 53.0
+        },
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-despido-injustificado.html",
+          "clicks": 0.0,
+          "impressions": 1.0,
+          "ctr": 0.0,
+          "position": 89.0
+        }
+      ],
+      "devices": [
+        {
+          "device": "Móviles",
+          "clicks": 246.0,
+          "impressions": 47209.0,
+          "ctr": 0.0052,
+          "position": 6.24
+        },
+        {
+          "device": "Ordenador",
+          "clicks": 101.0,
+          "impressions": 17543.0,
+          "ctr": 0.0058,
+          "position": 31.87
+        },
+        {
+          "device": "Tablet",
+          "clicks": 4.0,
+          "impressions": 307.0,
+          "ctr": 0.013000000000000001,
+          "position": 8.09
+        }
+      ]
+    },
+    {
+      "file": "semrush-organic-positions-2026-11-02T17-15-50-638Z.zip",
+      "bytes": 1813945,
+      "members": [
+        "./",
+        "./organic-positions-01.csv",
+        "./organic-positions-01.html",
+        "./organic-positions-01.png",
+        "./resultado.json"
+      ],
+      "extractedAt": "2026-11-02T17:16:25.477Z",
+      "target": [
+        "www.bbva.mx"
+      ],
+      "scope": [
+        "subdomain"
+      ],
+      "filter": [
+        "{\"search\":\"\",\"volume\":\"10001-100000\",\"positions\":\"1-50\",\"positionsType\":\"all\",\"serpFeatures\":null,\"intent\":[],\"kd\":\"0-40\",\"advanced\":{}}"
+      ],
+      "title": "www.bbva.mx: Posiciones, Posicionamiento orgánico",
+      "csv_rows": 373,
+      "json_rows": 373,
+      "blank_positions": 0,
+      "unique_keywords": 251,
+      "unique_urls": 242,
+      "domains": {
+        "www.bbva.mx": 373
+      },
+      "purpose": "Competitor context; not first-party traffic",
+      "commercial_keyword_examples": [
+        {
+          "Palabra clave": "precio del dólar banco azteca hoy 2024",
+          "Intención": "N",
+          "Posición": "27",
+          "FS": "4",
+          "Tráfico": "28",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "40,5K",
+          "KD %": "31",
+          "URL": "www.bbva.mx/personas/informacion-financiera-al-dia.html",
+          "Act.": "23 oct"
+        },
+        {
+          "Palabra clave": "pasaporte mexicano precio",
+          "Intención": "T",
+          "Posición": "4",
+          "FS": "5",
+          "Tráfico": "813",
+          "Tráfico, %": "0,01",
+          "Volumen": "27,1K",
+          "KD %": "29",
+          "URL": "www.bbva.mx/educacion-financiera/creditos/tarjeta-de-credito/cuanto-cuesta-pasaporte-mexicano.html",
+          "Act.": "21 oct"
+        },
+        {
+          "Palabra clave": "moneda conmemorativa",
+          "Intención": "I",
+          "Posición": "6",
+          "FS": "9",
+          "Tráfico": "199",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "22,2K",
+          "KD %": "38",
+          "URL": "www.bbva.mx/personas/landings/01/monedas-conmemorativas-2026.html",
+          "Act.": "18 oct"
+        },
+        {
+          "Palabra clave": "viva vida",
+          "Intención": "I",
+          "Posición": "30",
+          "FS": "7",
+          "Tráfico": "15",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "22,2K",
+          "KD %": "28",
+          "URL": "www.bbva.mx/personas/productos/tarjetas-de-credito/tarjeta-de-credito-vive.html",
+          "Act.": "23 oct"
+        },
+        {
+          "Palabra clave": "precio pasaporte mexicano 2024",
+          "Intención": "T",
+          "Posición": "4",
+          "FS": "4",
+          "Tráfico": "724",
+          "Tráfico, %": "0,01",
+          "Volumen": "18,1K",
+          "KD %": "37",
+          "URL": "www.bbva.mx/educacion-financiera/creditos/tarjeta-de-credito/cuanto-cuesta-pasaporte-mexicano.html",
+          "Act.": "22 oct"
+        },
+        {
+          "Palabra clave": "calcular iva",
+          "Intención": "I",
+          "Posición": "5",
+          "FS": "5",
+          "Tráfico": "905",
+          "Tráfico, %": "0,02",
+          "Volumen": "18,1K",
+          "KD %": "28",
+          "URL": "www.bbva.mx/educacion-financiera/impuestos/impuestos-calculadora-de-iva.html",
+          "Act.": "20 oct"
+        },
+        {
+          "Palabra clave": "centenario precio",
+          "Intención": "N",
+          "Posición": "5",
+          "FS": "6",
+          "Tráfico": "543",
+          "Tráfico, %": "0,01",
+          "Volumen": "18,1K",
+          "KD %": "31",
+          "URL": "www.bbva.mx/empresas/productos/inversiones/monedas-de-oro-y-plata/familia-del-centenario.html",
+          "Act.": "22 oct"
+        },
+        {
+          "Palabra clave": "ley del iva",
+          "Intención": "I",
+          "Posición": "19",
+          "FS": "3",
+          "Tráfico": "27",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "18,1K",
+          "KD %": "31",
+          "URL": "www.bbva.mx/educacion-financiera/impuestos/impuestos-que-es-el-iva.html",
+          "Act.": "20 oct"
+        }
+      ]
+    },
+    {
+      "file": "semrush-organic-positions-2026-11-02T17-10-56-192Z.zip",
+      "bytes": 1773471,
+      "members": [
+        "./",
+        "./organic-positions-01.csv",
+        "./organic-positions-01.html",
+        "./organic-positions-01.png",
+        "./resultado.json"
+      ],
+      "extractedAt": "2026-11-02T17:11:46.443Z",
+      "target": [
+        "https://www.buk.mx/recursos/calculadora/calculadora-de-sueldos"
+      ],
+      "scope": [
+        "domain"
+      ],
+      "filter": [
+        "{\"search\":\"pago\",\"volume\":\"\",\"positions\":\"\",\"positionsType\":\"all\",\"serpFeatures\":null,\"intent\":[],\"kd\":\"\",\"advanced\":{}}"
+      ],
+      "title": "buk.mx: Posiciones, Posicionamiento orgánico",
+      "csv_rows": 653,
+      "json_rows": 653,
+      "blank_positions": 78,
+      "unique_keywords": 494,
+      "unique_urls": 51,
+      "domains": {
+        "www.buk.mx": 647,
+        "supportcenter.buk.mx": 6
+      },
+      "purpose": "Competitor context; not first-party traffic",
+      "commercial_keyword_examples": []
+    },
+    {
+      "file": "semrush-organic-positions-2026-11-02T17-04-49-418Z.zip",
+      "bytes": 1936380,
+      "members": [
+        "./",
+        "./organic-positions-01.csv",
+        "./organic-positions-01.html",
+        "./organic-positions-01.png",
+        "./resultado.json"
+      ],
+      "extractedAt": "2026-11-02T17:09:43.485Z",
+      "target": [
+        "https://nominax.com/calculadora-de-aguinaldo/"
+      ],
+      "scope": [
+        "domain"
+      ],
+      "filter": null,
+      "title": "nominax.com: Posiciones, Posicionamiento orgánico",
+      "csv_rows": 6063,
+      "json_rows": 6063,
+      "blank_positions": 643,
+      "unique_keywords": 4784,
+      "unique_urls": 173,
+      "domains": {
+        "nominax.com": 5122,
+        "aprendo.nominax.com": 904,
+        "login.nominax.com": 23,
+        "escuela.nominax.com": 7,
+        "www.nominax.com": 3,
+        "sandbox.nominax.com": 4
+      },
+      "purpose": "Competitor context; not first-party traffic",
+      "commercial_keyword_examples": [
+        {
+          "Palabra clave": "precio uma 2023",
+          "Intención": "T",
+          "Posición": "3",
+          "FS": "4",
+          "Tráfico": "65",
+          "Tráfico, %": "0,08",
+          "Volumen": "1,3K",
+          "KD %": "28",
+          "URL": "nominax.com/uma/",
+          "Act.": "17 oct"
+        },
+        {
+          "Palabra clave": "simulador de crédito infonavit",
+          "Intención": "I",
+          "Posición": "14",
+          "FS": "5",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "1K",
+          "KD %": "69",
+          "URL": "nominax.com/calculadora-de-retencion-infonavit/",
+          "Act.": "01 sept"
+        },
+        {
+          "Palabra clave": "simulador credito infonavit",
+          "Intención": "I",
+          "Posición": "16",
+          "FS": "5",
+          "Tráfico": "3",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "1K",
+          "KD %": "66",
+          "URL": "nominax.com/calculadora-de-retencion-infonavit/",
+          "Act.": "02 oct"
+        },
+        {
+          "Palabra clave": "factor de descuento infonavit 2021",
+          "Intención": "I",
+          "Posición": "21",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "1K",
+          "KD %": "25",
+          "URL": "nominax.com/calculadora-de-retencion-infonavit/",
+          "Act.": "22 oct"
+        },
+        {
+          "Palabra clave": "precio de la uma 2023",
+          "Intención": "T",
+          "Posición": "8",
+          "FS": "5",
+          "Tráfico": "21",
+          "Tráfico, %": "0,02",
+          "Volumen": "720",
+          "KD %": "19",
+          "URL": "nominax.com/uma/",
+          "Act.": "28 ago"
+        },
+        {
+          "Palabra clave": "a cuanto equivale el aguinaldo",
+          "Intención": "I",
+          "Posición": "",
+          "FS": "6",
+          "Tráfico": "38",
+          "Tráfico, %": "0,04",
+          "Volumen": "590",
+          "KD %": "19",
+          "URL": "nominax.com/calculadora-de-aguinaldo/",
+          "Act.": "29 sept"
+        },
+        {
+          "Palabra clave": "factor de descuento infonavit 2023",
+          "Intención": "I",
+          "Posición": "6",
+          "FS": "6",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "590",
+          "KD %": "20",
+          "URL": "nominax.com/calculadora-de-retencion-infonavit/",
+          "Act.": "04 sept"
+        },
+        {
+          "Palabra clave": "factor descuento infonavit 2022",
+          "Intención": "I",
+          "Posición": "5",
+          "FS": "6",
+          "Tráfico": "2",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "480",
+          "KD %": "19",
+          "URL": "nominax.com/calculadora-de-retencion-infonavit/",
+          "Act.": "02 sept"
+        }
+      ]
+    },
+    {
+      "file": "https___calculadora-isr-mexico.vercel.app_-Performance-on-Search-2026-11-05.xlsx",
+      "bytes": 13051,
+      "sheets": {
+        "Gráfico": 94,
+        "Consultas": 122,
+        "Páginas": 1,
+        "Países": 5,
+        "Dispositivos": 3,
+        "Aparición en búsquedas": 0,
+        "Filtros": 3
+      },
+      "filters": {
+        "Tipo de búsqueda": "Web (basada en texto)",
+        "Fecha": "3 ago 2026-4 nov 2026",
+        "Página": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html"
+      },
+      "period": "3 ago 2026-4 nov 2026",
+      "totals_by_sheet": {
+        "Gráfico": {
+          "clicks": 133.0,
+          "impressions": 22291.0
+        },
+        "Consultas": {
+          "clicks": 1.0,
+          "impressions": 468.0
+        },
+        "Páginas": {
+          "clicks": 133.0,
+          "impressions": 22291.0
+        },
+        "Países": {
+          "clicks": 1.0,
+          "impressions": 468.0
+        },
+        "Dispositivos": {
+          "clicks": 1.0,
+          "impressions": 468.0
+        }
+      },
+      "pages": [
+        {
+          "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html",
+          "clicks": 133.0,
+          "impressions": 22291.0,
+          "ctr": 0.006,
+          "position": 4.97
+        }
+      ],
+      "devices": [
+        {
+          "device": "Ordenador",
+          "clicks": 1.0,
+          "impressions": 113.0,
+          "ctr": 0.0088,
+          "position": 31.77
+        },
+        {
+          "device": "Móviles",
+          "clicks": 0.0,
+          "impressions": 354.0,
+          "ctr": 0.0,
+          "position": 7.26
+        },
+        {
+          "device": "Tablet",
+          "clicks": 0.0,
+          "impressions": 1.0,
+          "ctr": 0.0,
+          "position": 6.0
+        }
+      ]
+    },
+    {
+      "file": "semrush-organic-positions-2026-11-02T17-16-49-169Z.zip",
+      "bytes": 2410106,
+      "members": [
+        "./",
+        "./organic-positions-01.csv",
+        "./organic-positions-01.html",
+        "./organic-positions-01.png",
+        "./resultado.json"
+      ],
+      "extractedAt": "2026-11-02T17:21:45.630Z",
+      "target": [
+        "www.bbva.mx"
+      ],
+      "scope": [
+        "subdomain"
+      ],
+      "filter": [
+        "{\"search\":\"\",\"volume\":\"1001-10000\",\"positions\":\"1-50\",\"positionsType\":\"all\",\"serpFeatures\":null,\"intent\":[],\"kd\":\"0-40\",\"advanced\":{}}"
+      ],
+      "title": "www.bbva.mx: Posiciones, Posicionamiento orgánico",
+      "csv_rows": 6225,
+      "json_rows": 6225,
+      "blank_positions": 0,
+      "unique_keywords": 3425,
+      "unique_urls": 1559,
+      "domains": {
+        "www.bbva.mx": 6225
+      },
+      "purpose": "Competitor context; not first-party traffic",
+      "commercial_keyword_examples": [
+        {
+          "Palabra clave": "precio pasaporte mexicano 2023",
+          "Intención": "T",
+          "Posición": "5",
+          "FS": "4",
+          "Tráfico": "396",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "9,9K",
+          "KD %": "30",
+          "URL": "www.bbva.mx/educacion-financiera/creditos/tarjeta-de-credito/cuanto-cuesta-pasaporte-mexicano.html",
+          "Act.": "07 oct"
+        },
+        {
+          "Palabra clave": "prestamos de dinero",
+          "Intención": "I",
+          "Posición": "16",
+          "FS": "4",
+          "Tráfico": "29",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "9,9K",
+          "KD %": "29",
+          "URL": "www.bbva.mx/educacion-financiera/banca-digital/portabilidad-de-nomina/ppi-sacar-prestamo-con-mal-historial-crediticio.html",
+          "Act.": "07 oct"
+        },
+        {
+          "Palabra clave": "precio onza plata banco azteca hoy",
+          "Intención": "N",
+          "Posición": "21",
+          "FS": "6",
+          "Tráfico": "2",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "9,9K",
+          "KD %": "29",
+          "URL": "www.bbva.mx/empresas/productos/inversiones/monedas-de-oro-y-plata/nueva-serie-libertad-plata.html",
+          "Act.": "24 oct"
+        },
+        {
+          "Palabra clave": "precio del centenario hoy",
+          "Intención": "N",
+          "Posición": "1",
+          "FS": "5",
+          "Tráfico": "729",
+          "Tráfico, %": "0,01",
+          "Volumen": "8,1K",
+          "KD %": "25",
+          "URL": "www.bbva.mx/personas/informacion-financiera-al-dia.html",
+          "Act.": "18 oct"
+        },
+        {
+          "Palabra clave": "que es el iva",
+          "Intención": "I",
+          "Posición": "2",
+          "FS": "5",
+          "Tráfico": "405",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "8,1K",
+          "KD %": "17",
+          "URL": "www.bbva.mx/educacion-financiera/i/impuesto_al_valoragregadoiva.html",
+          "Act.": "21 oct"
+        },
+        {
+          "Palabra clave": "descuentos",
+          "Intención": "I",
+          "Posición": "9",
+          "FS": "6",
+          "Tráfico": "56",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "8,1K",
+          "KD %": "31",
+          "URL": "www.bbva.mx/educacion-financiera/creditos/tarjeta-de-credito/tdc-como-calcular-descuentos.html",
+          "Act.": "26 oct"
+        },
+        {
+          "Palabra clave": "precio del centenario hoy",
+          "Intención": "N",
+          "Posición": "12",
+          "FS": "5",
+          "Tráfico": "40",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "8,1K",
+          "KD %": "25",
+          "URL": "www.bbva.mx/empresas/productos/inversiones/monedas-de-oro-y-plata/familia-del-centenario.html",
+          "Act.": "18 oct"
+        },
+        {
+          "Palabra clave": "precio del dolar en elektra hoy",
+          "Intención": "N",
+          "Posición": "16",
+          "FS": "5",
+          "Tráfico": "24",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "8,1K",
+          "KD %": "39",
+          "URL": "www.bbva.mx/educacion-financiera/ahorro/ahorro/meta-segura-cuanto-vale-el-dolar-americano.html",
+          "Act.": "22 oct"
+        }
+      ]
+    },
+    {
+      "file": "semrush-organic-positions-2026-11-02T16-53-04-649Z.zip",
+      "bytes": 1858823,
+      "members": [
+        "./",
+        "./organic-positions-01.csv",
+        "./organic-positions-01.html",
+        "./organic-positions-01.png",
+        "./resultado.json"
+      ],
+      "extractedAt": "2026-11-02T16:56:16.841Z",
+      "target": [
+        "https://www.fiscoclic.mx/validadorcfdi/calculadora-de-aguinaldo.html"
+      ],
+      "scope": [
+        "subfolder"
+      ],
+      "filter": null,
+      "title": "www.fiscoclic.mx/validadorcfdi/: Posiciones, Posicionamiento orgánico",
+      "csv_rows": 3919,
+      "json_rows": 3919,
+      "blank_positions": 441,
+      "unique_keywords": 3209,
+      "unique_urls": 19,
+      "domains": {
+        "www.fiscoclic.mx": 3919
+      },
+      "purpose": "Competitor context; not first-party traffic",
+      "commercial_keyword_examples": [
+        {
+          "Palabra clave": "a cuanto equivale el aguinaldo",
+          "Intención": "I",
+          "Posición": "",
+          "FS": "6",
+          "Tráfico": "67",
+          "Tráfico, %": "0,07",
+          "Volumen": "590",
+          "KD %": "19",
+          "URL": "www.fiscoclic.mx/validadorcfdi/calculadora-de-aguinaldo.html",
+          "Act.": "29 sept"
+        },
+        {
+          "Palabra clave": "a cuanto equivale el aguinaldo",
+          "Intención": "I",
+          "Posición": "",
+          "FS": "6",
+          "Tráfico": "1",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "590",
+          "KD %": "19",
+          "URL": "www.fiscoclic.mx/validadorcfdi/calculadora-de-aguinaldo.html",
+          "Act.": "29 sept"
+        },
+        {
+          "Palabra clave": "calcular isr e iva",
+          "Intención": "I",
+          "Posición": "32",
+          "FS": "5",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "590",
+          "KD %": "19",
+          "URL": "www.fiscoclic.mx/validadorcfdi/calculadora-de-isr.html",
+          "Act.": "17 ago"
+        },
+        {
+          "Palabra clave": "isr descuento",
+          "Intención": "I",
+          "Posición": "",
+          "FS": "6",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "390",
+          "KD %": "35",
+          "URL": "www.fiscoclic.mx/validadorcfdi/calculadora-de-isr.html",
+          "Act.": "18 oct"
+        },
+        {
+          "Palabra clave": "isr descuento",
+          "Intención": "I",
+          "Posición": "13",
+          "FS": "6",
+          "Tráfico": "1",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "390",
+          "KD %": "35",
+          "URL": "www.fiscoclic.mx/validadorcfdi/calculadora-de-isr.html",
+          "Act.": "18 oct"
+        },
+        {
+          "Palabra clave": "descuento isr",
+          "Intención": "I",
+          "Posición": "27",
+          "FS": "6",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "390",
+          "KD %": "23",
+          "URL": "www.fiscoclic.mx/validadorcfdi/calculadora-de-isr.html",
+          "Act.": "21 ago"
+        },
+        {
+          "Palabra clave": "calculadora de retenciones de isr e iva",
+          "Intención": "I",
+          "Posición": "28",
+          "FS": "3",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "390",
+          "KD %": "14",
+          "URL": "www.fiscoclic.mx/validadorcfdi/calculadora-de-isr.html",
+          "Act.": "22 ago"
+        },
+        {
+          "Palabra clave": "calculadora de iva e isr",
+          "Intención": "C",
+          "Posición": "34",
+          "FS": "4",
+          "Tráfico": "0",
+          "Tráfico, %": "< 0,01",
+          "Volumen": "320",
+          "KD %": "21",
+          "URL": "www.fiscoclic.mx/validadorcfdi/calculadora-de-isr.html",
+          "Act.": "03 sept"
+        }
+      ]
+    }
+  ],
+  "first_party_period": "3 ago 2026-4 nov 2026",
+  "site_chart_totals": {
+    "clicks": 351.0,
+    "impressions": 65059.0
+  },
+  "site_page_totals": {
+    "clicks": 352.0,
+    "impressions": 66428.0
+  },
+  "protected_pages": [
+    {
+      "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html",
+      "clicks": 133.0,
+      "impressions": 22291.0,
+      "ctr": 0.006,
+      "position": 4.97
+    },
+    {
+      "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/pago-quincenal.html",
+      "clicks": 109.0,
+      "impressions": 17142.0,
+      "ctr": 0.0064,
+      "position": 4.99
+    }
+  ],
+  "commercial_pages": [
+    {
+      "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html",
+      "clicks": 1.0,
+      "impressions": 555.0,
+      "ctr": 0.0018,
+      "position": 58.15
+    },
+    {
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/simulador-credito-automotriz.html",
+      "clicks": 1.0,
+      "impressions": 503.0,
+      "ctr": 0.002,
+      "position": 49.01
+    },
+    {
+      "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html",
+      "clicks": 0.0,
+      "impressions": 397.0,
+      "ctr": 0.0,
+      "position": 50.17
+    },
+    {
+      "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/credito-automotriz.html",
+      "clicks": 0.0,
+      "impressions": 167.0,
+      "ctr": 0.0,
+      "position": 30.51
+    },
+    {
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/descuentos-nomina-isr-imss.html",
+      "clicks": 0.0,
+      "impressions": 146.0,
+      "ctr": 0.0,
+      "position": 15.89
+    },
+    {
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-el-cat-en-tarjeta-de-credito.html",
+      "clicks": 0.0,
+      "impressions": 67.0,
+      "ctr": 0.0,
+      "position": 70.22
+    }
+  ],
+  "own_semrush_top_traffic": [
+    {
+      "Palabra clave": "calcular sueldo bruto a neto",
+      "Intención": "I",
+      "Posición": "2",
+      "FS": "2",
+      "Tráfico": "312",
+      "Tráfico, %": "47,77",
+      "Volumen": "2,4K",
+      "KD %": "50",
+      "URL": "calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html",
+      "Act.": "28 sept"
+    },
+    {
+      "Palabra clave": "a cuanto equivale el aguinaldo",
+      "Intención": "I",
+      "Posición": "1",
+      "FS": "6",
+      "Tráfico": "76",
+      "Tráfico, %": "11,63",
+      "Volumen": "590",
+      "KD %": "19",
+      "URL": "calculadora-isr-mexico.vercel.app/articulos/dias-de-aguinaldo.html",
+      "Act.": "29 sept"
+    },
+    {
+      "Palabra clave": "calcular sueldo bruto a neto",
+      "Intención": "I",
+      "Posición": "9",
+      "FS": "2",
+      "Tráfico": "72",
+      "Tráfico, %": "11,02",
+      "Volumen": "2,4K",
+      "KD %": "50",
+      "URL": "calculadora-isr-mexico.vercel.app/articulos/salario-bruto-neto.html",
+      "Act.": "28 sept"
+    },
+    {
+      "Palabra clave": "calculadora prima vacacional",
+      "Intención": "I",
+      "Posición": "3",
+      "FS": "3",
+      "Tráfico": "65",
+      "Tráfico, %": "9,95",
+      "Volumen": "1,3K",
+      "KD %": "31",
+      "URL": "calculadora-isr-mexico.vercel.app/articulos/como-calcular-prima-vacacional.html",
+      "Act.": "28 sept"
+    },
+    {
+      "Palabra clave": "cuando se pagan las utilidades 2026",
+      "Intención": "I",
+      "Posición": "9",
+      "FS": "4",
+      "Tráfico": "46",
+      "Tráfico, %": "7,04",
+      "Volumen": "3,6K",
+      "KD %": "28",
+      "URL": "calculadora-isr-mexico.vercel.app/articulos/cuando-se-pagan-utilidades.html",
+      "Act.": "18 oct"
+    },
+    {
+      "Palabra clave": "cuando pagan el ptu",
+      "Intención": "I",
+      "Posición": "1",
+      "FS": "6",
+      "Tráfico": "14",
+      "Tráfico, %": "2,14",
+      "Volumen": "110",
+      "KD %": "24",
+      "URL": "calculadora-isr-mexico.vercel.app/articulos/que-es-ptu.html",
+      "Act.": "28 sept"
+    },
+    {
+      "Palabra clave": "si renuncio cuanto me dan de finiquito",
+      "Intención": "I",
+      "Posición": "6",
+      "FS": "4",
+      "Tráfico": "9",
+      "Tráfico, %": "1,37",
+      "Volumen": "320",
+      "KD %": "19",
+      "URL": "calculadora-isr-mexico.vercel.app/articulos/finiquito-renuncia-voluntaria.html",
+      "Act.": "03 oct"
+    },
+    {
+      "Palabra clave": "calculadora prima vacacional",
+      "Intención": "I",
+      "Posición": "11",
+      "FS": "3",
+      "Tráfico": "9",
+      "Tráfico, %": "1,37",
+      "Volumen": "1,3K",
+      "KD %": "31",
+      "URL": "calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html",
+      "Act.": "28 sept"
+    },
+    {
+      "Palabra clave": "calculadora de prima vacacional",
+      "Intención": "I",
+      "Posición": "13",
+      "FS": "5",
+      "Tráfico": "8",
+      "Tráfico, %": "1,22",
+      "Volumen": "1,6K",
+      "KD %": "26",
+      "URL": "calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html",
+      "Act.": "28 sept"
+    },
+    {
+      "Palabra clave": "asimilados a salarios calculadora",
+      "Intención": "I",
+      "Posición": "7",
+      "FS": "4",
+      "Tráfico": "5",
+      "Tráfico, %": "0,76",
+      "Volumen": "170",
+      "KD %": "19",
+      "URL": "calculadora-isr-mexico.vercel.app/articulos/asimilados-a-salarios-isr.html",
+      "Act.": "26 sept"
+    },
+    {
+      "Palabra clave": "salario mínimo 2026 diario",
+      "Intención": "I",
+      "Posición": "11",
+      "FS": "5",
+      "Tráfico": "5",
+      "Tráfico, %": "0,76",
+      "Volumen": "1K",
+      "KD %": "39",
+      "URL": "calculadora-isr-mexico.vercel.app/articulos/salario-minimo-diario-mensual-2026.html",
+      "Act.": "16 oct"
+    },
+    {
+      "Palabra clave": "calculadora interes compuesto",
+      "Intención": "I",
+      "Posición": "20",
+      "FS": "4",
+      "Tráfico": "5",
+      "Tráfico, %": "0,76",
+      "Volumen": "3,6K",
+      "KD %": "56",
+      "URL": "calculadora-isr-mexico.vercel.app/calculadoras/interes-compuesto.html",
+      "Act.": "07 oct"
+    },
+    {
+      "Palabra clave": "dias de descanso obligatorio 2026",
+      "Intención": "I",
+      "Posición": "45",
+      "FS": "5",
+      "Tráfico": "5",
+      "Tráfico, %": "0,76",
+      "Volumen": "18,1K",
+      "KD %": "43",
+      "URL": "calculadora-isr-mexico.vercel.app/articulos/dias-festivos-obligatorios-2026.html",
+      "Act.": "27 oct"
+    },
+    {
+      "Palabra clave": "si tengo 8 meses trabajando cuanto me toca de aguinaldo",
+      "Intención": "I",
+      "Posición": "3",
+      "FS": "3",
+      "Tráfico": "4",
+      "Tráfico, %": "0,61",
+      "Volumen": "90",
+      "KD %": "13",
+      "URL": "calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-meses.html",
+      "Act.": "26 sept"
+    },
+    {
+      "Palabra clave": "hasta que fecha se calcula el aguinaldo",
+      "Intención": "I",
+      "Posición": "5",
+      "FS": "3",
+      "Tráfico": "2",
+      "Tráfico, %": "0,30",
+      "Volumen": "50",
+      "KD %": "19",
+      "URL": "calculadora-isr-mexico.vercel.app/articulos/con-que-salario-se-calcula-aguinaldo.html",
+      "Act.": "30 sept"
+    }
+  ],
+  "caveats": [
+    "Filtered XLSX chart/pages totals differ substantially from countries/devices/queries; use page rows as stated, do not combine incompatible dimensions.",
+    "Search Console search CTR is not affiliate CTR.",
+    "Semrush traffic is estimated; competitor rows are not site traffic.",
+    "Keyword Magic salario diario export has no keyword rows.",
+    "No Admitad conversion/revenue export, Adsterra revenue/impression export, affiliate click data, sessions, or CWV field metrics supplied."
+  ]
+}

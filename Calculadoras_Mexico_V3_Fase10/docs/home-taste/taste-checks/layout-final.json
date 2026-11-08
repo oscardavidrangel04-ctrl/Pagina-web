@@ -1,0 +1,2082 @@
+[
+ {
+  "vw": 1440,
+  "vh": 900,
+  "L": 80,
+  "R": 1360,
+  "nav": 0,
+  "screen": 900,
+  "hero": {
+   "height": 828,
+   "h1": {
+    "size": 48,
+    "leading": 1.17,
+    "lines": 2,
+    "x": 80,
+    "y": 190,
+    "w": 510,
+    "h": 112
+   },
+   "lead": null,
+   "buttons": null,
+   "visual": {
+    "x": 689,
+    "y": 139,
+    "w": 671,
+    "h": 643
+   }
+  },
+  "sections": [
+   {
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "top": 81,
+    "height": 828,
+    "content": 744,
+    "frame": 0
+   },
+   {
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "top": 909,
+    "height": 712,
+    "content": 585,
+    "frame": 909
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Encuentra tu ruta¿Qué necesitas \"",
+    "top": 2076,
+    "height": 1088,
+    "content": 910,
+    "frame": 2076
+   },
+   {
+    "where": "#mas-herramientas section.section.alt \"Más herramientasCalculadoras par\"",
+    "top": 3164,
+    "height": 1017,
+    "content": 865,
+    "frame": 3164
+   },
+   {
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "top": 4181,
+    "height": 193,
+    "content": 119,
+    "frame": 4181
+   },
+   {
+    "where": "section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\"",
+    "top": 4374,
+    "height": 1153,
+    "content": 1001,
+    "frame": 4374
+   },
+   {
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "top": 5527,
+    "height": 389,
+    "content": 237,
+    "frame": 5527
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "top": 5915,
+    "height": 575,
+    "content": 498,
+    "frame": 5915
+   },
+   {
+    "where": "#tu-espacio section.section.taste-personal \"Tu espacioFavoritas y recientesS\"",
+    "top": 7176,
+    "height": 1039,
+    "content": 830,
+    "frame": 7176
+   },
+   {
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "top": 8215,
+    "height": 260,
+    "content": 108,
+    "frame": 8215
+   },
+   {
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "top": 8475,
+    "height": 558,
+    "content": 480,
+    "frame": 8475
+   },
+   {
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "top": 9053,
+    "height": 571,
+    "content": 411,
+    "frame": 9053
+   },
+   {
+    "where": "#temas section.section \"Explora herramientas y guías por\"",
+    "top": 9624,
+    "height": 859,
+    "content": 707,
+    "frame": 9624
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "top": 10483,
+    "height": 553,
+    "content": 378,
+    "frame": 10483
+   }
+  ],
+  "findings": [
+   {
+    "rule": "edge-left",
+    "where": "#inicio div.taste-workspace.app-frame \"Tu punto de partidaSin registro¿\"",
+    "detail": "starts at x 688.9; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt div.home-route-grid \"AguinaldoQuiero calcular mi agui\"",
+    "detail": "starts at x 569.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero calcular mi aguinaldo\"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Calcula el monto completo o prop\"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Terminó mi relación laboral\"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Compara conceptos frecuentes de \"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero entender mi sueldo\"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Convierte tu sueldo por periodo \"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Necesito calcular impuestos\"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Agrega, quita o separa IVA y est\"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero revisar mis prestaciones\"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Consulta vacaciones, prima vacac\"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero planear dinero o negocio\"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Explora préstamos, ahorro, CETES\"",
+    "detail": "starts at x 727.6; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Herramientas Diferencia entre \"",
+    "detail": "starts at x 730; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Herramientas Propina Calcula p\"",
+    "detail": "starts at x 1055; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Negocios Punto de equilibrio E\"",
+    "detail": "starts at x 730; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Negocios Retorno de inversión \"",
+    "detail": "starts at x 1055; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides h3 \"ISR 2026: qué es y cómo se calcu\"",
+    "detail": "starts at x 777.1; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides p \"Entiende el impuesto sobre la re\"",
+    "detail": "starts at x 777.1; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides h3 \"Finiquito vs. liquidación\"",
+    "detail": "starts at x 777.1; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides p \"Distingue conceptos antes de uti\"",
+    "detail": "starts at x 777.1; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.authority-method h2 \"Fuentes según el tipo de cálculo\"",
+    "detail": "starts at x 756; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.authority-method p \"Las herramientas laborales se co\"",
+    "detail": "starts at x 756; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt div.content-box.faq-section \"¿Las calculadoras son gratuitas?\"",
+    "detail": "starts at x 635.2; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.taste-trust p \"Formularios y resultados adaptab\"",
+    "detail": "starts at x 960; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.content-box.unique-inlinks-v5635 p \"Explora otras herramientas y guí\"",
+    "detail": "starts at x 111; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section h3 \"ISR de nómina\"",
+    "detail": "starts at x 109; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section p \"Calcula una retención orientativ\"",
+    "detail": "starts at x 109; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section h3 \"Asimilados a salarios\"",
+    "detail": "starts at x 765; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section p \"Revisa qué son, cómo se retiene \"",
+    "detail": "starts at x 765; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Impuestos y trámites SATRelacion\"",
+    "detail": "starts at x 957.3; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Inversión y rendimientosComprend\"",
+    "detail": "starts at x 957.3; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Seguros y protecciónDistingue co\"",
+    "detail": "starts at x 957.3; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Cálculos cotidianosResuelve porc\"",
+    "detail": "starts at x 957.3; the lines are 80 and the column starts"
+   },
+   {
+    "rule": "screen-short",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "828px tall; one screen under the nav is 900px"
+   },
+   {
+    "rule": "screen-short",
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "detail": "712px tall; one screen under the nav is 900px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "detail": "712px, 0.79 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.alt section.section.alt \"Encuentra tu ruta¿Qué necesitas \"",
+    "detail": "1088px, 1.21 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-height",
+    "where": "#mas-herramientas section.section.alt \"Más herramientasCalculadoras par\"",
+    "detail": "1017px, 1.13 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "193px tall; one screen under the nav is 900px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "193px, 0.21 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "framed, 89px of section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\" shows"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\"",
+    "detail": "1153px, 1.28 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "detail": "389px tall; one screen under the nav is 900px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "detail": "389px, 0.43 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "detail": "framed, 103px of section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "detail": "575px tall; one screen under the nav is 900px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "detail": "575px, 0.64 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-height",
+    "where": "#tu-espacio section.section.taste-personal \"Tu espacioFavoritas y recientesS\"",
+    "detail": "1039px, 1.15 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "260px tall; one screen under the nav is 900px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "260px, 0.29 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "sparse",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "its content fills 42% of its screen; merge it or give it its visual (0.55 is the aim)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "framed, 33px of section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "558px tall; one screen under the nav is 900px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "558px, 0.62 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "framed, 89px of section.section section.section \"ISR 2026Calculadoras para sueldo\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "571px tall; one screen under the nav is 900px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "571px, 0.63 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "framed, 130px of #temas section.section \"Explora herramientas y guías por\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "#temas section.section \"Explora herramientas y guías por\"",
+    "detail": "859px tall; one screen under the nav is 900px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "#temas section.section \"Explora herramientas y guías por\"",
+    "detail": "859px, 0.95 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "detail": "553px tall; one screen under the nav is 900px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "detail": "553px, 0.61 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "starts at y 81, not under the nav"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "ends at y 909, past the fold (900): 0.92 screens tall"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): starts at y 81, not under the nav"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): ends at y 909, past the fold (900): 0.92 screens tall"
+   }
+  ],
+  "size": "1440x900",
+  "overflowX": false,
+  "stress": {
+   "hero": "split",
+   "maxChars": 45,
+   "chars": 45,
+   "lines": 2,
+   "height": 828
+  }
+ },
+ {
+  "vw": 1024,
+  "vh": 768,
+  "L": 48,
+  "R": 976,
+  "nav": 0,
+  "screen": 768,
+  "hero": {
+   "height": 825,
+   "h1": {
+    "size": 36,
+    "leading": 1.17,
+    "lines": 2,
+    "x": 48,
+    "y": 190,
+    "w": 382,
+    "h": 84
+   },
+   "lead": null,
+   "buttons": null,
+   "visual": {
+    "x": 460,
+    "y": 139,
+    "w": 516,
+    "h": 650
+   }
+  },
+  "sections": [
+   {
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "top": 81,
+    "height": 825,
+    "content": 741,
+    "frame": 0
+   },
+   {
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "top": 906,
+    "height": 837,
+    "content": 730,
+    "frame": 906
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Encuentra tu ruta¿Qué necesitas \"",
+    "top": 2199,
+    "height": 1314,
+    "content": 1136,
+    "frame": 2199
+   },
+   {
+    "where": "#mas-herramientas section.section.alt \"Más herramientasCalculadoras par\"",
+    "top": 3513,
+    "height": 1472,
+    "content": 1320,
+    "frame": 3513
+   },
+   {
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "top": 4985,
+    "height": 193,
+    "content": 119,
+    "frame": 4985
+   },
+   {
+    "where": "section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\"",
+    "top": 5178,
+    "height": 1133,
+    "content": 981,
+    "frame": 5178
+   },
+   {
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "top": 6311,
+    "height": 476,
+    "content": 324,
+    "frame": 6311
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "top": 6786,
+    "height": 575,
+    "content": 525,
+    "frame": 6786
+   },
+   {
+    "where": "#tu-espacio section.section.taste-personal \"Tu espacioFavoritas y recientesS\"",
+    "top": 8111,
+    "height": 1027,
+    "content": 818,
+    "frame": 8111
+   },
+   {
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "top": 9137,
+    "height": 283,
+    "content": 131,
+    "frame": 9137
+   },
+   {
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "top": 9420,
+    "height": 558,
+    "content": 480,
+    "frame": 9420
+   },
+   {
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "top": 9998,
+    "height": 514,
+    "content": 354,
+    "frame": 9998
+   },
+   {
+    "where": "#temas section.section \"Explora herramientas y guías por\"",
+    "top": 10512,
+    "height": 1000,
+    "content": 848,
+    "frame": 10512
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "top": 11512,
+    "height": 542,
+    "content": 367,
+    "frame": 11512
+   }
+  ],
+  "findings": [
+   {
+    "rule": "edge-left",
+    "where": "#inicio div.taste-workspace.app-frame \"Tu punto de partidaSin registro¿\"",
+    "detail": "starts at x 459.6; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt div.home-route-grid \"AguinaldoQuiero calcular mi agui\"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero calcular mi aguinaldo\"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Calcula el monto completo o prop\"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Terminó mi relación laboral\"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Compara conceptos frecuentes de \"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero entender mi sueldo\"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Convierte tu sueldo por periodo \"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Necesito calcular impuestos\"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Agrega, quita o separa IVA y est\"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero revisar mis prestaciones\"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Consulta vacaciones, prima vacac\"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero planear dinero o negocio\"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Explora préstamos, ahorro, CETES\"",
+    "detail": "starts at x 398.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Herramientas Edad exacta Calcu\"",
+    "detail": "starts at x 522; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Herramientas Propina Calcula p\"",
+    "detail": "starts at x 522; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Negocios Precio de venta Calcu\"",
+    "detail": "starts at x 522; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Negocios Retorno de inversión \"",
+    "detail": "starts at x 522; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides h3 \"ISR 2026: qué es y cómo se calcu\"",
+    "detail": "starts at x 550.3; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides p \"Entiende el impuesto sobre la re\"",
+    "detail": "starts at x 550.3; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides h3 \"Finiquito vs. liquidación\"",
+    "detail": "starts at x 550.3; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides p \"Distingue conceptos antes de uti\"",
+    "detail": "starts at x 550.3; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.authority-method h2 \"Fuentes según el tipo de cálculo\"",
+    "detail": "starts at x 532; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.authority-method p \"Las herramientas laborales se co\"",
+    "detail": "starts at x 532; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.taste-trust p \"Formularios y resultados adaptab\"",
+    "detail": "starts at x 693.3; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.content-box.unique-inlinks-v5635 p \"Explora otras herramientas y guí\"",
+    "detail": "starts at x 79; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section h3 \"ISR de nómina\"",
+    "detail": "starts at x 77; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section p \"Calcula una retención orientativ\"",
+    "detail": "starts at x 77; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section h3 \"Asimilados a salarios\"",
+    "detail": "starts at x 557; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section p \"Revisa qué son, cómo se retiene \"",
+    "detail": "starts at x 557; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Impuestos y trámites SATRelacion\"",
+    "detail": "starts at x 690.7; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Inversión y rendimientosComprend\"",
+    "detail": "starts at x 690.7; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Seguros y protecciónDistingue co\"",
+    "detail": "starts at x 690.7; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Cálculos cotidianosResuelve porc\"",
+    "detail": "starts at x 690.7; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.alt section.section.alt \"Encuentra tu ruta¿Qué necesitas \"",
+    "detail": "framed, 32px of #mas-herramientas section.section.alt \"Más herramientasCalculadoras par\" shows"
+   },
+   {
+    "rule": "neighbour",
+    "where": "#mas-herramientas section.section.alt \"Más herramientasCalculadoras par\"",
+    "detail": "framed, 27px of section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "193px tall; one screen under the nav is 768px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "framed, 79px of section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "detail": "476px tall; one screen under the nav is 768px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "detail": "framed, 76px of section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "detail": "575px tall; one screen under the nav is 768px"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "283px tall; one screen under the nav is 768px"
+   },
+   {
+    "rule": "sparse",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "its content fills 46% of its screen; merge it or give it its visual (0.55 is the aim)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "framed, 33px of section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "558px tall; one screen under the nav is 768px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "framed, 32px of section.section section.section \"ISR 2026Calculadoras para sueldo\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "514px tall; one screen under the nav is 768px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "framed, 68px of #temas section.section \"Explora herramientas y guías por\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "detail": "542px tall; one screen under the nav is 768px"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "starts at y 81, not under the nav"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "ends at y 906, past the fold (768): 1.07 screens tall"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): starts at y 81, not under the nav"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): ends at y 906, past the fold (768): 1.07 screens tall"
+   }
+  ],
+  "size": "1024x768",
+  "overflowX": false,
+  "stress": {
+   "hero": "split",
+   "maxChars": 45,
+   "chars": 45,
+   "lines": 2,
+   "height": 825
+  }
+ },
+ {
+  "vw": 820,
+  "vh": 1180,
+  "L": 48,
+  "R": 772,
+  "nav": 0,
+  "screen": 1180,
+  "hero": {
+   "height": 825,
+   "h1": {
+    "size": 36,
+    "leading": 1.17,
+    "lines": 3,
+    "x": 48,
+    "y": 190,
+    "w": 295,
+    "h": 126
+   },
+   "lead": null,
+   "buttons": null,
+   "visual": {
+    "x": 373,
+    "y": 139,
+    "w": 399,
+    "h": 650
+   }
+  },
+  "sections": [
+   {
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "top": 81,
+    "height": 825,
+    "content": 741,
+    "frame": 0
+   },
+   {
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "top": 906,
+    "height": 837,
+    "content": 730,
+    "frame": 906
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Encuentra tu ruta¿Qué necesitas \"",
+    "top": 2199,
+    "height": 1452,
+    "content": 1274,
+    "frame": 2199
+   },
+   {
+    "where": "#mas-herramientas section.section.alt \"Más herramientasCalculadoras par\"",
+    "top": 3651,
+    "height": 1495,
+    "content": 1343,
+    "frame": 3651
+   },
+   {
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "top": 5146,
+    "height": 193,
+    "content": 119,
+    "frame": 5146
+   },
+   {
+    "where": "section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\"",
+    "top": 5339,
+    "height": 1246,
+    "content": 1094,
+    "frame": 5339
+   },
+   {
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "top": 6585,
+    "height": 542,
+    "content": 390,
+    "frame": 6585
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "top": 7127,
+    "height": 626,
+    "content": 603,
+    "frame": 7127
+   },
+   {
+    "where": "#tu-espacio section.section.taste-personal \"Tu espacioFavoritas y recientesS\"",
+    "top": 8532,
+    "height": 1026,
+    "content": 817,
+    "frame": 8532
+   },
+   {
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "top": 9558,
+    "height": 283,
+    "content": 131,
+    "frame": 9558
+   },
+   {
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "top": 9841,
+    "height": 558,
+    "content": 480,
+    "frame": 9841
+   },
+   {
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "top": 10419,
+    "height": 540,
+    "content": 380,
+    "frame": 10419
+   },
+   {
+    "where": "#temas section.section \"Explora herramientas y guías por\"",
+    "top": 10959,
+    "height": 1147,
+    "content": 995,
+    "frame": 10959
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "top": 12105,
+    "height": 571,
+    "content": 396,
+    "frame": 12105
+   }
+  ],
+  "findings": [
+   {
+    "rule": "edge-left",
+    "where": "#inicio div.taste-workspace.app-frame \"Tu punto de partidaSin registro¿\"",
+    "detail": "starts at x 372.9; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt div.home-route-grid \"AguinaldoQuiero calcular mi agui\"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero calcular mi aguinaldo\"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Calcula el monto completo o prop\"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Terminó mi relación laboral\"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Compara conceptos frecuentes de \"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero entender mi sueldo\"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Convierte tu sueldo por periodo \"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Necesito calcular impuestos\"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Agrega, quita o separa IVA y est\"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero revisar mis prestaciones\"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Consulta vacaciones, prima vacac\"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero planear dinero o negocio\"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Explora préstamos, ahorro, CETES\"",
+    "detail": "starts at x 327.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Herramientas Edad exacta Calcu\"",
+    "detail": "starts at x 420; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Herramientas Propina Calcula p\"",
+    "detail": "starts at x 420; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Negocios Precio de venta Calcu\"",
+    "detail": "starts at x 420; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Negocios Retorno de inversión \"",
+    "detail": "starts at x 420; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides h3 \"ISR 2026: qué es y cómo se calcu\"",
+    "detail": "starts at x 443.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides p \"Entiende el impuesto sobre la re\"",
+    "detail": "starts at x 443.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides h3 \"Finiquito vs. liquidación\"",
+    "detail": "starts at x 443.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides p \"Distingue conceptos antes de uti\"",
+    "detail": "starts at x 443.4; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.authority-method h2 \"Fuentes según el tipo de cálculo\"",
+    "detail": "starts at x 430; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.authority-method p \"Las herramientas laborales se co\"",
+    "detail": "starts at x 430; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt div.content-box.faq-section \"¿Las calculadoras son gratuitas?\"",
+    "detail": "starts at x 361.6; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.taste-trust p \"Formularios y resultados adaptab\"",
+    "detail": "starts at x 557.3; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section h3 \"ISR de nómina\"",
+    "detail": "starts at x 77; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section p \"Calcula una retención orientativ\"",
+    "detail": "starts at x 77; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section h3 \"Asimilados a salarios\"",
+    "detail": "starts at x 455; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section p \"Revisa qué son, cómo se retiene \"",
+    "detail": "starts at x 455; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Impuestos y trámites SATRelacion\"",
+    "detail": "starts at x 554.7; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Inversión y rendimientosComprend\"",
+    "detail": "starts at x 554.7; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Seguros y protecciónDistingue co\"",
+    "detail": "starts at x 554.7; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Cálculos cotidianosResuelve porc\"",
+    "detail": "starts at x 554.7; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "screen-short",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "825px tall; one screen under the nav is 1180px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "framed, 48px of #herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "detail": "837px tall; one screen under the nav is 1180px"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "193px tall; one screen under the nav is 1180px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "framed, 105px of section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "detail": "542px tall; one screen under the nav is 1180px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "detail": "framed, 157px of section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "detail": "626px tall; one screen under the nav is 1180px"
+   },
+   {
+    "rule": "screen-short",
+    "where": "#tu-espacio section.section.taste-personal \"Tu espacioFavoritas y recientesS\"",
+    "detail": "1026px tall; one screen under the nav is 1180px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "#tu-espacio section.section.taste-personal \"Tu espacioFavoritas y recientesS\"",
+    "detail": "framed, 33px of section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "283px tall; one screen under the nav is 1180px"
+   },
+   {
+    "rule": "sparse",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "its content fills 46% of its screen; merge it or give it its visual (0.55 is the aim)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "framed, 33px of section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\" shows"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "framed, 79px of section.section section.section \"ISR 2026Calculadoras para sueldo\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "558px tall; one screen under the nav is 1180px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "framed, 79px of section.section section.section \"ISR 2026Calculadoras para sueldo\" shows"
+   },
+   {
+    "rule": "neighbour-ground",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "framed, 62px of #temas section.section \"Explora herramientas y guías por\"'s ground shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "540px tall; one screen under the nav is 1180px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "framed, 239px of #temas section.section \"Explora herramientas y guías por\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "#temas section.section \"Explora herramientas y guías por\"",
+    "detail": "1147px tall; one screen under the nav is 1180px"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "detail": "571px tall; one screen under the nav is 1180px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "detail": "framed, 223px of the footer shows"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "starts at y 81, not under the nav"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "ends at y 906, above the fold (1180)"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "detail": "shows on the first screen from y 958"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): starts at y 81, not under the nav"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): ends at y 906, above the fold (1180)"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): shows on the first screen from y 958"
+   }
+  ],
+  "size": "820x1180",
+  "overflowX": false,
+  "stress": {
+   "hero": "split",
+   "maxChars": 45,
+   "chars": 45,
+   "lines": 3,
+   "height": 825
+  }
+ },
+ {
+  "vw": 768,
+  "vh": 1024,
+  "L": 48,
+  "R": 720,
+  "nav": 0,
+  "screen": 1024,
+  "hero": {
+   "height": 829,
+   "h1": {
+    "size": 36,
+    "leading": 1.17,
+    "lines": 4,
+    "x": 48,
+    "y": 190,
+    "w": 273,
+    "h": 168
+   },
+   "lead": null,
+   "buttons": null,
+   "visual": {
+    "x": 351,
+    "y": 139,
+    "w": 369,
+    "h": 650
+   }
+  },
+  "sections": [
+   {
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "top": 81,
+    "height": 829,
+    "content": 745,
+    "frame": 0
+   },
+   {
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "top": 910,
+    "height": 879,
+    "content": 772,
+    "frame": 910
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Encuentra tu ruta¿Qué necesitas \"",
+    "top": 2281,
+    "height": 1452,
+    "content": 1274,
+    "frame": 2281
+   },
+   {
+    "where": "#mas-herramientas section.section.alt \"Más herramientasCalculadoras par\"",
+    "top": 3734,
+    "height": 1593,
+    "content": 1441,
+    "frame": 3734
+   },
+   {
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "top": 5327,
+    "height": 193,
+    "content": 119,
+    "frame": 5327
+   },
+   {
+    "where": "section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\"",
+    "top": 5520,
+    "height": 1299,
+    "content": 1147,
+    "frame": 5520
+   },
+   {
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "top": 6818,
+    "height": 542,
+    "content": 390,
+    "frame": 6818
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "top": 7360,
+    "height": 626,
+    "content": 603,
+    "frame": 7360
+   },
+   {
+    "where": "#tu-espacio section.section.taste-personal \"Tu espacioFavoritas y recientesS\"",
+    "top": 8784,
+    "height": 1026,
+    "content": 817,
+    "frame": 8784
+   },
+   {
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "top": 9810,
+    "height": 283,
+    "content": 131,
+    "frame": 9810
+   },
+   {
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "top": 10093,
+    "height": 611,
+    "content": 533,
+    "frame": 10093
+   },
+   {
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "top": 10724,
+    "height": 540,
+    "content": 380,
+    "frame": 10724
+   },
+   {
+    "where": "#temas section.section \"Explora herramientas y guías por\"",
+    "top": 11264,
+    "height": 1194,
+    "content": 1042,
+    "frame": 11264
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "top": 12458,
+    "height": 621,
+    "content": 446,
+    "frame": 12458
+   }
+  ],
+  "findings": [
+   {
+    "rule": "edge-left",
+    "where": "#inicio div.taste-workspace.app-frame \"Tu punto de partidaSin registro¿\"",
+    "detail": "starts at x 350.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt div.home-route-grid \"AguinaldoQuiero calcular mi agui\"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero calcular mi aguinaldo\"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Calcula el monto completo o prop\"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Terminó mi relación laboral\"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Compara conceptos frecuentes de \"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero entender mi sueldo\"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Convierte tu sueldo por periodo \"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Necesito calcular impuestos\"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Agrega, quita o separa IVA y est\"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero revisar mis prestaciones\"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Consulta vacaciones, prima vacac\"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt h3 \"Quiero planear dinero o negocio\"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt p \"Explora préstamos, ahorro, CETES\"",
+    "detail": "starts at x 309.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Herramientas Edad exacta Calcu\"",
+    "detail": "starts at x 394; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Herramientas Propina Calcula p\"",
+    "detail": "starts at x 394; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Negocios Precio de venta Calcu\"",
+    "detail": "starts at x 394; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#mas-herramientas article.card.calculator-card \"☆ Negocios Retorno de inversión \"",
+    "detail": "starts at x 394; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides h3 \"ISR 2026: qué es y cómo se calcu\"",
+    "detail": "starts at x 416.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides p \"Entiende el impuesto sobre la re\"",
+    "detail": "starts at x 416.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides h3 \"Finiquito vs. liquidación\"",
+    "detail": "starts at x 416.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.home-guides p \"Distingue conceptos antes de uti\"",
+    "detail": "starts at x 416.2; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.authority-method h2 \"Fuentes según el tipo de cálculo\"",
+    "detail": "starts at x 404; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.authority-method p \"Las herramientas laborales se co\"",
+    "detail": "starts at x 404; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.alt div.content-box.faq-section \"¿Las calculadoras son gratuitas?\"",
+    "detail": "starts at x 340.8; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.taste-trust p \"Formularios y resultados adaptab\"",
+    "detail": "starts at x 522.7; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section h3 \"ISR de nómina\"",
+    "detail": "starts at x 77; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section p \"Calcula una retención orientativ\"",
+    "detail": "starts at x 77; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section h3 \"Asimilados a salarios\"",
+    "detail": "starts at x 429; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section p \"Revisa qué son, cómo se retiene \"",
+    "detail": "starts at x 429; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Impuestos y trámites SATRelacion\"",
+    "detail": "starts at x 520; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Inversión y rendimientosComprend\"",
+    "detail": "starts at x 520; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Seguros y protecciónDistingue co\"",
+    "detail": "starts at x 520; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "#temas article.card \"Cálculos cotidianosResuelve porc\"",
+    "detail": "starts at x 520; the lines are 48 and the column starts"
+   },
+   {
+    "rule": "screen-short",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "829px tall; one screen under the nav is 1024px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "framed, 39px of #herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "detail": "879px tall; one screen under the nav is 1024px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "#mas-herramientas section.section.alt \"Más herramientasCalculadoras par\"",
+    "detail": "framed, 30px of section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\" shows"
+   },
+   {
+    "rule": "neighbour",
+    "where": "#mas-herramientas section.section.alt \"Más herramientasCalculadoras par\"",
+    "detail": "framed, 53px of section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "193px tall; one screen under the nav is 1024px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "framed, 131px of section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "detail": "542px tall; one screen under the nav is 1024px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "detail": "framed, 157px of section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "detail": "626px tall; one screen under the nav is 1024px"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "283px tall; one screen under the nav is 1024px"
+   },
+   {
+    "rule": "sparse",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "its content fills 46% of its screen; merge it or give it its visual (0.55 is the aim)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "framed, 53px of section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\" shows"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "framed, 21px of section.section section.section \"ISR 2026Calculadoras para sueldo\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "611px tall; one screen under the nav is 1024px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "framed, 79px of section.section section.section \"ISR 2026Calculadoras para sueldo\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "540px tall; one screen under the nav is 1024px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "framed, 239px of #temas section.section \"Explora herramientas y guías por\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "detail": "621px tall; one screen under the nav is 1024px"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "detail": "framed, 17px of the footer shows"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "starts at y 81, not under the nav"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "ends at y 910, above the fold (1024)"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "detail": "shows on the first screen from y 962"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): starts at y 81, not under the nav"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): ends at y 910, above the fold (1024)"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): shows on the first screen from y 962"
+   }
+  ],
+  "size": "768x1024",
+  "overflowX": false,
+  "stress": {
+   "hero": "split",
+   "maxChars": 45,
+   "chars": 45,
+   "lines": 4,
+   "height": 829
+  }
+ },
+ {
+  "vw": 390,
+  "vh": 844,
+  "L": 16,
+  "R": 374,
+  "nav": 0,
+  "screen": 844,
+  "hero": {
+   "height": 1284,
+   "h1": {
+    "size": 33,
+    "leading": 1.13,
+    "lines": 2,
+    "x": 16,
+    "y": 140,
+    "w": 358,
+    "h": 75
+   },
+   "lead": null,
+   "buttons": null,
+   "visual": {
+    "x": 16,
+    "y": 358,
+    "w": 358,
+    "h": 685
+   }
+  },
+  "sections": [
+   {
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "top": 69,
+    "height": 1284,
+    "content": 1230,
+    "frame": 0
+   },
+   {
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "top": 1353,
+    "height": 1290,
+    "content": 1205,
+    "frame": 1353
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Encuentra tu ruta¿Qué necesitas \"",
+    "top": 3149,
+    "height": 1793,
+    "content": 1671,
+    "frame": 3149
+   },
+   {
+    "where": "#mas-herramientas section.section.alt \"Más herramientasCalculadoras par\"",
+    "top": 4942,
+    "height": 2040,
+    "content": 1944,
+    "frame": 4942
+   },
+   {
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "top": 6982,
+    "height": 272,
+    "content": 224,
+    "frame": 6982
+   },
+   {
+    "where": "section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\"",
+    "top": 7254,
+    "height": 1946,
+    "content": 1850,
+    "frame": 7254
+   },
+   {
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "top": 9200,
+    "height": 803,
+    "content": 707,
+    "frame": 9200
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "top": 10003,
+    "height": 665,
+    "content": 698,
+    "frame": 10003
+   },
+   {
+    "where": "#tu-espacio section.section.taste-personal \"Tu espacioFavoritas y recientesS\"",
+    "top": 11979,
+    "height": 1032,
+    "content": 885,
+    "frame": 11979
+   },
+   {
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "top": 13012,
+    "height": 361,
+    "content": 265,
+    "frame": 13012
+   },
+   {
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "top": 13373,
+    "height": 1283,
+    "content": 1217,
+    "frame": 13373
+   },
+   {
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "top": 14676,
+    "height": 770,
+    "content": 666,
+    "frame": 14676
+   },
+   {
+    "where": "#temas section.section \"Explora herramientas y guías por\"",
+    "top": 15446,
+    "height": 2038,
+    "content": 1942,
+    "frame": 15446
+   },
+   {
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "top": 17484,
+    "height": 928,
+    "content": 813,
+    "frame": 17484
+   }
+  ],
+  "findings": [
+   {
+    "rule": "spill",
+    "where": "aside.cm-commercial.cm-commercial--native p.cm-commercial__label \"Publicidad · Adsterra\"",
+    "detail": "x 8 to 382, the page runs 16 to 374"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.taste-trust p \"Los cálculos se realizan dentro \"",
+    "detail": "starts at x 72; the lines are 16 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.taste-trust p \"HTML, CSS y JavaScript sin depen\"",
+    "detail": "starts at x 72; the lines are 16 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section.taste-trust p \"Formularios y resultados adaptab\"",
+    "detail": "starts at x 72; the lines are 16 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section h3 \"ISR de nómina\"",
+    "detail": "starts at x 39; the lines are 16 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section p \"Calcula una retención orientativ\"",
+    "detail": "starts at x 39; the lines are 16 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section h3 \"Asimilados a salarios\"",
+    "detail": "starts at x 39; the lines are 16 and the column starts"
+   },
+   {
+    "rule": "edge-left",
+    "where": "section.section p \"Revisa qué son, cómo se retiene \"",
+    "detail": "starts at x 39; the lines are 16 and the column starts"
+   },
+   {
+    "rule": "screen-height",
+    "where": "#herramientas section.ziro-home-popular.taste-popular \"Herramientas a un clicCalculador\"",
+    "detail": "1290px, 1.53 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.alt section.section.alt \"Encuentra tu ruta¿Qué necesitas \"",
+    "detail": "1793px, 2.12 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-height",
+    "where": "#mas-herramientas section.section.alt \"Más herramientasCalculadoras par\"",
+    "detail": "2040px, 2.42 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "272px tall; one screen under the nav is 844px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "272px, 0.32 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-more-links section.section.taste-more-links \"Otras herramientas de salario, a\"",
+    "detail": "framed, 99px of section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\" shows"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.home-guides section.section.home-guides \"Guías prácticasEntiende el cálcu\"",
+    "detail": "1946px, 2.31 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "detail": "803px tall; one screen under the nav is 844px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.authority-method section.section.authority-method \"Cómo trabajamosFórmula, pasos y \"",
+    "detail": "803px, 0.95 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "detail": "665px tall; one screen under the nav is 844px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.alt section.section.alt \"Preguntas frecuentesSobre Calcul\"",
+    "detail": "665px, 0.79 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-height",
+    "where": "#tu-espacio section.section.taste-personal \"Tu espacioFavoritas y recientesS\"",
+    "detail": "1032px, 1.22 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "361px tall; one screen under the nav is 844px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "361px, 0.43 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section.taste-trust section.section.taste-trust \"Privado por diseñoLos cálculos s\"",
+    "detail": "framed, 61px of section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\" shows"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "1283px, 1.52 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.content-box.unique-inlinks-v5635 section.content-box.unique-inlinks-v5635 \"Recursos para seguir calculandoE\"",
+    "detail": "framed, 149px of section.section section.section \"ISR 2026Calculadoras para sueldo\" shows"
+   },
+   {
+    "rule": "screen-short",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "770px tall; one screen under the nav is 844px"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "770px, 0.91 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "neighbour",
+    "where": "section.section section.section \"ISR 2026Calculadoras para sueldo\"",
+    "detail": "framed, 26px of #temas section.section \"Explora herramientas y guías por\" shows"
+   },
+   {
+    "rule": "screen-height",
+    "where": "#temas section.section \"Explora herramientas y guías por\"",
+    "detail": "2038px, 2.41 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "screen-height",
+    "where": "section.section.alt section.section.alt \"Calculadoras para profundizar en\"",
+    "detail": "928px, 1.10 screens; a section is exactly one or two (--h)"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "starts at y 69, not under the nav"
+   },
+   {
+    "rule": "hero-fold",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "ends at y 1353, past the fold (844): 1.52 screens tall"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): starts at y 69, not under the nav"
+   },
+   {
+    "rule": "hero-maxchars",
+    "where": "#inicio section.taste-hero.hero \"Calculadoras MéxicoCalcula ISR, \"",
+    "detail": "with a 45-character h1 (heroes.json maxChars): ends at y 1353, past the fold (844): 1.52 screens tall"
+   }
+  ],
+  "size": "390x844",
+  "overflowX": false,
+  "stress": {
+   "hero": "split",
+   "maxChars": 45,
+   "chars": 45,
+   "lines": 2,
+   "height": 1284
+  }
+ }
+]

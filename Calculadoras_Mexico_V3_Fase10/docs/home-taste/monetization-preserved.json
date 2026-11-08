@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "publicVisitorHTML": 407,
+  "counts": {
+    "native": 407,
+    "banner": 407,
+    "aliexpress": 407,
+    "solcredito": 407
+  },
+  "conditions": "Static built HTML. No live delivery or conversions verified. Google verification file excluded."
+}

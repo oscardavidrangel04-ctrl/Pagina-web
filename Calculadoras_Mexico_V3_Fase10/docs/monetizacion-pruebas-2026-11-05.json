@@ -1,0 +1,714 @@
+{
+  "conditions": "Chromium local; ads/analytics blocked; official banners simulated, not verified; no real affiliate clicks",
+  "axe": "enabled",
+  "pages": [
+    {
+      "file": "index.html",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "index.html",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "index.html",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "index.html",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/descuento.html",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/descuento.html",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/descuento.html",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/descuento.html",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/descuento.html",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/descuento.html",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/precio-sin-descuento.html",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/precio-sin-descuento.html",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/precio-sin-descuento.html",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/precio-sin-descuento.html",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/precio-sin-descuento.html",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/precio-sin-descuento.html",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/costo-unidad.html",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/costo-unidad.html",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/costo-unidad.html",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/costo-unidad.html",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/costo-unidad.html",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/costo-unidad.html",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva.html",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva.html",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva.html",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva.html",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva.html",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva.html",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva-incluido.html",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva-incluido.html",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva-incluido.html",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva-incluido.html",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva-incluido.html",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/iva-incluido.html",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/prestamo.html",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/prestamo.html",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/prestamo.html",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/prestamo.html",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/prestamo.html",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "calculadoras/prestamo.html",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/costo-total-prestamo-como-calcular.html",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/costo-total-prestamo-como-calcular.html",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/costo-total-prestamo-como-calcular.html",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/costo-total-prestamo-como-calcular.html",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/costo-total-prestamo-como-calcular.html",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/costo-total-prestamo-como-calcular.html",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tabla-amortizacion-prestamo-como-leerla.html",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tabla-amortizacion-prestamo-como-leerla.html",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tabla-amortizacion-prestamo-como-leerla.html",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tabla-amortizacion-prestamo-como-leerla.html",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tabla-amortizacion-prestamo-como-leerla.html",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tabla-amortizacion-prestamo-como-leerla.html",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/tasa-fija-vs-tasa-variable-prestamo.html",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/credito-revolvente-vs-prestamo-personal.html",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/credito-revolvente-vs-prestamo-personal.html",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/credito-revolvente-vs-prestamo-personal.html",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/credito-revolvente-vs-prestamo-personal.html",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/credito-revolvente-vs-prestamo-personal.html",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    },
+    {
+      "file": "articulos/credito-revolvente-vs-prestamo-personal.html",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "cards": 1,
+      "cls": 0,
+      "loaded": 300
+    }
+  ],
+  "calculators": [
+    {
+      "file": "calculadoras/descuento.html",
+      "result": [
+        "Precio original$1,000.00",
+        "Ahorro$200.00",
+        "Precio final$800.00"
+      ]
+    },
+    {
+      "file": "calculadoras/prestamo.html",
+      "result": [
+        "Capital$100,000.00",
+        "Mensualidad estimada$3,615.24",
+        "Intereses totales$30,148.62",
+        "Pago total$130,148.62"
+      ]
+    },
+    {
+      "file": "calculadoras/iva.html",
+      "result": [
+        "Subtotal$1,000.00",
+        "IVA$160.00",
+        "Total$1,160.00"
+      ]
+    },
+    {
+      "file": "calculadoras/iva-incluido.html",
+      "result": [
+        "Precio con IVA$1,160.00",
+        "Subtotal$1,000.00",
+        "IVA incluido$160.00"
+      ]
+    },
+    {
+      "file": "calculadoras/precio-sin-descuento.html",
+      "result": [
+        "Precio pagado$800.00",
+        "Descuento recibido$200.00",
+        "Precio original$1,000.00"
+      ]
+    },
+    {
+      "file": "calculadoras/costo-unidad.html",
+      "result": [
+        "Costo total$15,000.00",
+        "Unidades100",
+        "Costo por unidad$150.00"
+      ]
+    },
+    {
+      "file": "calculadoras/salario-diario.html",
+      "result": [
+        "Ingreso del periodo$15,000.00",
+        "Divisor30 días",
+        "Salario diario$500.00"
+      ]
+    },
+    {
+      "file": "calculadoras/pago-quincenal.html",
+      "result": [
+        "Salario mensual$15,000.00",
+        "Salario diario$500.00",
+        "Pago quincenal$7,500.00"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "name": "affiliate_card_view",
+      "program": "solcredito",
+      "placement": "after-guide",
+      "variant": "contextual-v1",
+      "path": "/calculadoras/prestamo.html"
+    },
+    {
+      "name": "affiliate_click",
+      "program": "solcredito",
+      "placement": "after-guide",
+      "variant": "contextual-v1",
+      "path": "/calculadoras/prestamo.html",
+      "link_type": "button"
+    },
+    {
+      "name": "affiliate_viewed_card_clicked",
+      "program": "solcredito",
+      "placement": "after-guide",
+      "variant": "contextual-v1",
+      "path": "/calculadoras/prestamo.html"
+    }
+  ],
+  "status": "PASS",
+  "maxSyntheticCLS": 0,
+  "static": {
+    "status": "PASS",
+    "html_files": 408,
+    "adsense_scripts_preserved": 368,
+    "protected_files_unchanged": true
+  },
+  "seo": {
+    "status": "PASS",
+    "indexable_urls": 379,
+    "broken_links": 0
+  },
+  "topic_test": {
+    "status": "FAIL_PREEXISTING",
+    "missing": "/calculadoras/quincenas-a-meses.html",
+    "reproduced_on_main": true
+  },
+  "external_banners_and_links": "Not verified: proxy CONNECT 403; exact supplied URLs preserved",
+  "build": {
+    "status": "PASS",
+    "public_files": 480
+  }
+}

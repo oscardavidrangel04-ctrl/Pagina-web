@@ -1,0 +1,22 @@
+{
+  "tool": "Official Taste scripts/shoot.mjs; no tiles, full-page stitching",
+  "conditions": "Local static server; real ad providers unavailable through the managed proxy. This is not ad delivery validation. Versioned presentation captures are in ../capturas and use labeled mock ads.",
+  "captures": [
+    {
+      "width": 1440,
+      "height": 11933,
+      "sha256": "88257f3f88941f54a5d3571dcd667776b946266cc4220a59a17ecc87d5a32d0e",
+      "bytes": 1035466,
+      "workspace_artifact": "/workspace/work/home-taste/shoot-final-1440.png",
+      "exit_code": 0
+    },
+    {
+      "width": 390,
+      "height": 19722,
+      "sha256": "0b4f26ef14ff35a51402dcc71452d3be894fb75613b4bad54c38e27cd5ca40a3",
+      "bytes": 987468,
+      "workspace_artifact": "/workspace/work/home-taste/shoot-final-390.png",
+      "exit_code": 0
+    }
+  ]
+}
