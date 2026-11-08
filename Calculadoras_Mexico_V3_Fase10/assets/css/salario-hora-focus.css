@@ -35,5 +35,3 @@
 html[data-theme="dark"] .salario-hora-page .page-head{background:linear-gradient(145deg,#111c31,#191739)}
 html[data-theme="dark"] .salary-hour-presets button,html[data-theme="dark"] .salary-hour-explain-grid>div,html[data-theme="dark"] .salario-hora-page .faq-section details{background:var(--surface);color:var(--text)}
 html[data-theme="dark"] .salary-hour-result-note{background:var(--surface-2);color:var(--muted)}
-html[data-theme="dark"] .salary-hour-kicker{color:#c7baff}
-html[data-theme="dark"] .salary-hour-steps li{background:var(--surface);border-color:var(--line)}

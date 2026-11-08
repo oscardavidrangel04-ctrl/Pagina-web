@@ -4,7 +4,6 @@
 .aguinaldo-antiguedad-hero>p{max-width:760px;margin-inline:0!important}
 .hero-answer{max-width:850px;margin:24px 0 0;padding:17px 19px;border-left:4px solid #5a43c4;border-radius:12px;background:var(--surface);color:var(--text);font-size:1.02rem;line-height:1.65}
 .hero-answer strong{color:#4d36b5}
-html[data-theme="dark"] .hero-answer strong,html[data-theme="dark"] .aguinaldo-compare span,html[data-theme="dark"] .section-kicker{color:#c7baff}
 .aguinaldo-antiguedad-page .cm-page-shortcuts{justify-content:flex-start;margin-top:22px}
 .aguinaldo-antiguedad-page .article{border-top:3px solid #5a43c4!important}
 .aguinaldo-antiguedad-page .article>section{padding-block:8px;scroll-margin-top:140px}
