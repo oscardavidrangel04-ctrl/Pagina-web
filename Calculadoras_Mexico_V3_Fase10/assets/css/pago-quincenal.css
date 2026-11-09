@@ -1,0 +1,11 @@
+/* Only this calculator: keep the pilot layout and restore the original blue tokens. */
+body.cm-ui.cm-pilot-v2[data-calc="pago-quincenal"]{--primary:#0b57d0;--primary-2:#0849af;--primary-soft:#e5efff;--text:#071a35;--muted:#445a75;--bg:#f5f8fc;--surface:#fff;--surface-2:#eaf0fa;--line:#cbd8e9;--navy:#071a35;--navy-2:#0e2a52}
+html[data-theme=dark] body.cm-ui.cm-pilot-v2[data-calc="pago-quincenal"]{--primary:#a6c9ff;--primary-2:#c0daff;--primary-soft:#173354;--text:#edf4ff;--muted:#adbed6;--bg:#0b1729;--surface:#101f34;--surface-2:#172a43;--line:#324965;--navy:#071a35;--navy-2:#0e2a52}
+body[data-calc="pago-quincenal"] .cm-logo-mark{filter:none}
+body.cm-pilot-v2[data-calc="pago-quincenal"] .calc-button{background:#0b57d0!important;border-color:#0b57d0!important}
+body.cm-pilot-v2[data-calc="pago-quincenal"] .calc-button:hover{background:#0849af!important}
+body[data-calc="pago-quincenal"] .quincenal-comparison{margin-block:20px;padding:16px;border:1px solid var(--line);border-radius:8px}
+body[data-calc="pago-quincenal"] .quincenal-comparison summary{cursor:pointer;min-height:44px;font-weight:700}
+body[data-calc="pago-quincenal"] .quincenal-comparison .result-row{gap:12px;flex-wrap:wrap}
+body[data-calc="pago-quincenal"] .quincenal-comparison .result-row strong{min-width:0}
+body[data-calc="pago-quincenal"] #isr-quincenal-pasos{scroll-margin-top:100px}

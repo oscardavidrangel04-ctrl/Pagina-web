@@ -1,0 +1,49 @@
+{
+  "condiciones": "Recursos locales referenciados directamente por HTML compilado; gzip estimado por archivo. Excluye carga remota, dependencias insertadas dinámicamente, cabeceras y mediciones de campo.",
+  "base_commit": "3cc4e59a21192bdcdaf3f68974e914c942701a02",
+  "mediciones": {
+    "antes": {
+      "html_bytes": 40669,
+      "html_gzip_estimado": 11480,
+      "js_files": [
+        "assets/js/catalog.js",
+        "assets/js/common.js",
+        "assets/js/calculators.js",
+        "assets/js/interface-v570.js",
+        "assets/js/affiliate-events.js"
+      ],
+      "js_bytes": 93924,
+      "js_gzip_estimado": 26767,
+      "css_files": [
+        "styles-v5628.css",
+        "assets/css/interface-v570.css",
+        "assets/css/pilot-v2.css",
+        "assets/css/monetization-v2.css"
+      ],
+      "css_bytes": 184120,
+      "css_gzip_estimado": 34631
+    },
+    "despues": {
+      "html_bytes": 45434,
+      "html_gzip_estimado": 12804,
+      "js_files": [
+        "assets/js/catalog.js",
+        "assets/js/common.js",
+        "assets/js/pago-quincenal.js",
+        "assets/js/interface-v570.js",
+        "assets/js/affiliate-events.js"
+      ],
+      "js_bytes": 67362,
+      "js_gzip_estimado": 20583,
+      "css_files": [
+        "styles-v5628.css",
+        "assets/css/interface-v570.css",
+        "assets/css/pilot-v2.css",
+        "assets/css/pago-quincenal.css",
+        "assets/css/monetization-v2.css"
+      ],
+      "css_bytes": 185487,
+      "css_gzip_estimado": 35194
+    }
+  }
+}

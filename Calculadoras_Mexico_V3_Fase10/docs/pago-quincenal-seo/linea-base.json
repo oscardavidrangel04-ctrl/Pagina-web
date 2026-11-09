@@ -1,0 +1,195 @@
+{
+  "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/pago-quincenal.html",
+  "periodo_gsc": "2026-08-05/2026-11-07",
+  "nota_fecha_extraccion": "2026-11-08",
+  "semrush_registros": 18,
+  "semrush_keywords_unicas_normalizadas": 16,
+  "matriz_filas": 149,
+  "gsc_consultas": 143,
+  "coincidencias_gsc_con_semrush": 11,
+  "duplicados_semrush": {
+    "como calcular mi isr quincenal": [
+      {
+        "posicion": 7,
+        "fecha": "30 sept",
+        "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/pago-quincenal.html"
+      },
+      {
+        "posicion": 15,
+        "fecha": "30 sept",
+        "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/pago-quincenal.html"
+      }
+    ],
+    "calculo de nomina catorcenal": [
+      {
+        "posicion": 77,
+        "fecha": "08 oct",
+        "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/pago-quincenal.html"
+      },
+      {
+        "posicion": 82,
+        "fecha": "08 oct",
+        "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/pago-quincenal.html"
+      }
+    ]
+  },
+  "semrush_fechas": "Día/mes sin año; no se infieren fechas absolutas ni cambios de ranking. FS no se interpreta como delta de posición.",
+  "gsc_dimensiones": {
+    "Gráfico": {
+      "filas": 95,
+      "clics": 115,
+      "impresiones": 18566,
+      "ctr_calculado_porcentaje": 0.6194
+    },
+    "Consultas": {
+      "filas": 143,
+      "clics": 2,
+      "impresiones": 1347,
+      "ctr_calculado_porcentaje": 0.1485
+    },
+    "Páginas": {
+      "filas": 1,
+      "clics": 115,
+      "impresiones": 18566,
+      "ctr_calculado_porcentaje": 0.6194
+    },
+    "Países": {
+      "filas": 7,
+      "clics": 2,
+      "impresiones": 1347,
+      "ctr_calculado_porcentaje": 0.1485
+    },
+    "Dispositivos": {
+      "filas": 3,
+      "clics": 2,
+      "impresiones": 1347,
+      "ctr_calculado_porcentaje": 0.1485
+    },
+    "Aparición en búsquedas": {
+      "filas": 0,
+      "clics": 0,
+      "impresiones": 0,
+      "ctr_calculado_porcentaje": null
+    }
+  },
+  "grupos_consultas_gsc": {
+    "Pago y sueldo quincenal": {
+      "consultas": 44,
+      "clics": 2,
+      "impresiones": 323
+    },
+    "Ejemplo proporcional 275": {
+      "consultas": 6,
+      "clics": 0,
+      "impresiones": 663
+    },
+    "Número de quincenas y meses": {
+      "consultas": 66,
+      "clics": 0,
+      "impresiones": 322
+    },
+    "Cobros/crédito ambiguo": {
+      "consultas": 2,
+      "clics": 0,
+      "impresiones": 6
+    },
+    "Fechas de pago": {
+      "consultas": 4,
+      "clics": 0,
+      "impresiones": 8
+    },
+    "Catorcena": {
+      "consultas": 3,
+      "clics": 0,
+      "impresiones": 6
+    },
+    "Sueldo/nómina genérico": {
+      "consultas": 9,
+      "clics": 0,
+      "impresiones": 10
+    },
+    "Ambigua/no orientar": {
+      "consultas": 4,
+      "clics": 0,
+      "impresiones": 4
+    },
+    "Salario diario": {
+      "consultas": 1,
+      "clics": 0,
+      "impresiones": 1
+    },
+    "ISR": {
+      "consultas": 2,
+      "clics": 0,
+      "impresiones": 2
+    },
+    "Neto y deducciones": {
+      "consultas": 1,
+      "clics": 0,
+      "impresiones": 1
+    },
+    "Salario mínimo": {
+      "consultas": 1,
+      "clics": 0,
+      "impresiones": 1
+    }
+  },
+  "prioridades_matriz": {
+    "P0: proteger contexto ISR": 1,
+    "P1: relevancia y claridad": 19,
+    "P2: oportunidad SEMrush": 2,
+    "P2: consolidar variante": 31,
+    "P2: explicar y enlazar ISR": 2,
+    "Proteger (muestra pequeña)": 8,
+    "P3: cobertura complementaria": 77,
+    "Enlazar; intención especializada": 3,
+    "No orientar contenido": 6
+  },
+  "ventanas_historicas": [
+    {
+      "inicio": "2026-09-13",
+      "fin": "2026-10-10",
+      "clics": 50,
+      "impresiones": 4940,
+      "ctr_porcentaje": 1.0121
+    },
+    {
+      "inicio": "2026-10-11",
+      "fin": "2026-11-07",
+      "clics": 65,
+      "impresiones": 13506,
+      "ctr_porcentaje": 0.4813
+    },
+    {
+      "inicio": "2026-10-25",
+      "fin": "2026-10-31",
+      "clics": 16,
+      "impresiones": 3627,
+      "ctr_porcentaje": 0.4411
+    },
+    {
+      "inicio": "2026-11-01",
+      "fin": "2026-11-07",
+      "clics": 9,
+      "impresiones": 2906,
+      "ctr_porcentaje": 0.3097
+    }
+  ],
+  "archivos": [
+    {
+      "nombre": "LEEME_SEO.md",
+      "sha256": "b6f6789f742a5d8996cf68a9e71fccdb4bbb380794bda62f98624a91309822c3",
+      "bytes": 772
+    },
+    {
+      "nombre": "Datos_SEMrush/SEMrush_Pago_Quincenal_18_Posiciones.xlsx",
+      "sha256": "f9f2f9c0c82e6bb35be082235abb0985ba10d15917d4829c570cc0dae64d72ae",
+      "bytes": 6842
+    },
+    {
+      "nombre": "Google_Search_Console/https___calculadora-isr-mexico.vercel.app_-Performance-on-Search-2026-11-08(1).xlsx",
+      "sha256": "325f2f18a60dd0eb0e6fed03d0b21170f74a32bba32ae6c0d5bd6536736f9ba6",
+      "bytes": 13920
+    }
+  ]
+}

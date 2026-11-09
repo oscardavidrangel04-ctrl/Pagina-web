@@ -1,0 +1,155 @@
+{
+  "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html",
+  "periodo_gsc": "2026-08-05/2026-11-07",
+  "recopilacion_declarada_en_resumen": "2026-11-08",
+  "semrush_fechas": "Literales sin año y una fecha relativa «3 días»; no resueltas a fecha absoluta",
+  "gsc_dimensiones": {
+    "Gráfico": {
+      "filas": 95,
+      "clics": 151,
+      "impresiones": 26380,
+      "ctr_calculado_porcentaje": 0.5724
+    },
+    "Consultas": {
+      "filas": 132,
+      "clics": 2,
+      "impresiones": 618,
+      "ctr_calculado_porcentaje": 0.3236
+    },
+    "Páginas": {
+      "filas": 1,
+      "clics": 151,
+      "impresiones": 26380,
+      "ctr_calculado_porcentaje": 0.5724
+    },
+    "Países": {
+      "filas": 5,
+      "clics": 2,
+      "impresiones": 618,
+      "ctr_calculado_porcentaje": 0.3236
+    },
+    "Dispositivos": {
+      "filas": 3,
+      "clics": 2,
+      "impresiones": 618,
+      "ctr_calculado_porcentaje": 0.3236
+    }
+  },
+  "grupos_consultas_gsc": {
+    "Semanal ↔ mensual": {
+      "consultas": 29,
+      "clics": 1,
+      "impresiones": 329,
+      "ctr_calculado_porcentaje": 0.304,
+      "posicion_ponderada_aproximada": 7.59
+    },
+    "Salario diario / sueldo por día": {
+      "consultas": 58,
+      "clics": 1,
+      "impresiones": 155,
+      "ctr_calculado_porcentaje": 0.6452,
+      "posicion_ponderada_aproximada": 16.75
+    },
+    "Diario → mensual": {
+      "consultas": 2,
+      "clics": 0,
+      "impresiones": 29,
+      "ctr_calculado_porcentaje": 0.0,
+      "posicion_ponderada_aproximada": 9.2
+    },
+    "Semanal → diario": {
+      "consultas": 13,
+      "clics": 0,
+      "impresiones": 68,
+      "ctr_calculado_porcentaje": 0.0,
+      "posicion_ponderada_aproximada": 15.0
+    },
+    "Quincenal → diario": {
+      "consultas": 1,
+      "clics": 0,
+      "impresiones": 3,
+      "ctr_calculado_porcentaje": 0.0,
+      "posicion_ponderada_aproximada": 5.33
+    },
+    "Ambigua o incompleta": {
+      "consultas": 17,
+      "clics": 0,
+      "impresiones": 18,
+      "ctr_calculado_porcentaje": 0.0,
+      "posicion_ponderada_aproximada": 4.06
+    },
+    "SDI / SBC": {
+      "consultas": 5,
+      "clics": 0,
+      "impresiones": 7,
+      "ctr_calculado_porcentaje": 0.0,
+      "posicion_ponderada_aproximada": 56.71
+    },
+    "Días trabajados": {
+      "consultas": 1,
+      "clics": 0,
+      "impresiones": 2,
+      "ctr_calculado_porcentaje": 0.0,
+      "posicion_ponderada_aproximada": 79.0
+    },
+    "Neto / impuestos": {
+      "consultas": 6,
+      "clics": 0,
+      "impresiones": 7,
+      "ctr_calculado_porcentaje": 0.0,
+      "posicion_ponderada_aproximada": 47.0
+    }
+  },
+  "ventanas_historicas_grafico": {
+    "2026-09-13/2026-10-10": {
+      "dias": 28,
+      "clics": 21,
+      "impresiones": 2954,
+      "ctr_calculado_porcentaje": 0.7109,
+      "posicion_ponderada_aproximada": 5.23
+    },
+    "2026-10-11/2026-11-07": {
+      "dias": 28,
+      "clics": 125,
+      "impresiones": 23084,
+      "ctr_calculado_porcentaje": 0.5415,
+      "posicion_ponderada_aproximada": 4.9
+    },
+    "2026-10-25/2026-10-31": {
+      "dias": 7,
+      "clics": 62,
+      "impresiones": 8499,
+      "ctr_calculado_porcentaje": 0.7295,
+      "posicion_ponderada_aproximada": 4.79
+    },
+    "2026-11-01/2026-11-07": {
+      "dias": 7,
+      "clics": 37,
+      "impresiones": 9151,
+      "ctr_calculado_porcentaje": 0.4043,
+      "posicion_ponderada_aproximada": 4.91
+    }
+  },
+  "semrush_filas": 11,
+  "semrush_posiciones": {
+    "21–50": 1,
+    "51–100": 10
+  },
+  "coincidencias_normalizadas_entre_fuentes": 9,
+  "filas_matriz": 134,
+  "archivos": {
+    "SEMrush_Salario_Diario_11_Keywords.xlsx": {
+      "bytes": 6240,
+      "sha256": "4fd9144e890eb86f920d6f3198d0db35f1a16a0396e9aaa8eb0d5cb69041507c"
+    },
+    "RESUMEN_SEO.md": {
+      "bytes": 1940,
+      "sha256": "8b61386f8b646929ee178fa07e61b187edb8525ca18b7ea3cf776894945d8075"
+    },
+    "Google_Search_Console_Salario_Diario.xlsx": {
+      "bytes": 13453,
+      "sha256": "b728c12d2361cacafd9e59ddd719d051b7b82a0fcb33629e1bc18739bb36b552"
+    }
+  },
+  "advertencia": "Páginas y Gráfico coinciden en151/26380; Consultas, Países y Dispositivos coinciden en2/618. No se conoce causa; no extrapolar distribución ni atribuir toda diferencia a consultas anónimas. Ningún dato Bing incluido."
+}

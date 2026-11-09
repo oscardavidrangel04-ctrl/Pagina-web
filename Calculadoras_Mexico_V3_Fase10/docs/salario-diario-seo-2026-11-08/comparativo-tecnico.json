@@ -1,0 +1,22 @@
+{
+  "condiciones": "Suma de recursos locales solicitados por HTML compilado. Gzip estimado; no incluye anuncios remotos, cabeceras ni mediciones de campo.",
+  "base_commit": "3a7a4f8",
+  "mediciones": {
+    "antes": {
+      "html_bytes": 37283,
+      "html_gzip_estimado": 10415,
+      "js_bytes": 93924,
+      "js_gzip_estimado": 26767,
+      "css_bytes": 184120,
+      "css_gzip_estimado": 34631
+    },
+    "despues": {
+      "html_bytes": 42612,
+      "html_gzip_estimado": 11933,
+      "js_bytes": 67550,
+      "js_gzip_estimado": 20648,
+      "css_bytes": 185690,
+      "css_gzip_estimado": 35258
+    }
+  }
+}
