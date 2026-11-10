@@ -1,5 +1,5 @@
 const fs=require('fs'),path=require('path'),assert=require('assert/strict');
-const {chromium}=require('C:/Users/Casa/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const {chromium, launchOptions} = require('./browser-runtime.cjs');
 const root=path.resolve(__dirname,'..');
 require(path.join(root,'assets/js/catalog.js'));
 const publicSlugs=fs.readdirSync(path.join(root,'calculadoras')).filter(name=>name.endsWith('.html')).map(name=>name.slice(0,-5)).sort();
@@ -9,7 +9,7 @@ assert.equal(fs.readFileSync(path.join(root,'assets/js/common.js'),'utf8'),fs.re
 const cfg=JSON.parse(fs.readFileSync(path.join(root,'vercel.json'),'utf8'));
 const rewrites=Object.fromEntries(cfg.rewrites.map(x=>[x.source,x.destination]));
 (async()=>{
- const browser=await chromium.launch({headless:true,channel:'msedge'});
+ const browser=await chromium.launch(launchOptions);
  try{
   const page=await browser.newPage();let requests=0,fail=false;const errors=[];
   page.on('pageerror',e=>errors.push(e.message));

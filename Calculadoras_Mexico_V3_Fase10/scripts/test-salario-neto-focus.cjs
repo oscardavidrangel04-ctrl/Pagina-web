@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const {chromium} = require('C:/Users/Casa/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const {chromium, launchOptions} = require('./browser-runtime.cjs');
 (async()=>{
  const root=path.resolve(__dirname,'..');
- const browser=await chromium.launch({headless:true,channel:'msedge'});
+ const browser=await chromium.launch(launchOptions);
  const page=await browser.newPage({viewport:{width:1440,height:1000}});
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
  await page.route('**/*',async route=>{

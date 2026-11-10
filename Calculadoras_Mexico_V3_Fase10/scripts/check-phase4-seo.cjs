@@ -1,12 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 const assert = require('assert/strict');
-const {chromium} = require('C:/Users/Casa/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const {chromium, launchOptions} = require('./browser-runtime.cjs');
 const root = path.resolve(__dirname, '..');
 const topics = fs.readdirSync(path.join(root,'temas')).filter(x=>x.endsWith('.html'));
 const rewrites = Object.fromEntries(JSON.parse(fs.readFileSync(path.join(root,'vercel.json'),'utf8')).rewrites.map(x=>[x.source,x.destination]));
 (async()=>{
- const browser=await chromium.launch({headless:true,channel:'msedge'});
+ const browser=await chromium.launch(launchOptions);
  try {
   const page=await browser.newPage({javaScriptEnabled:false});
   await page.route('**/*',route=>{

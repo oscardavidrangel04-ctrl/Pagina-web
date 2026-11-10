@@ -1,0 +1,13 @@
+{
+  "calculadoras/salario-diario.html": "cb4451519584f07f1b44af3634ac4aca360cf27ed814234533809e4705c7274c",
+  "calculadoras/pago-quincenal.html": "3ed6c507d7a2dc633f9767f2b322768bb0d925181e6fc61cd71ef361ba531727",
+  "calculadoras/salario-neto.html": "2a350da6bd177f8980fd9d94a0dd33702f32f7e0722192b13b75af8584364244",
+  "assets/js/salario-diario.js": "eb0bd97968baf7eddf635f5756f998d91573977fe2e190c763e330cbfcc0b689",
+  "assets/js/pago-quincenal.js": "9d0cd4115514c7db98ab7f60f4390b6671787e4ea119c95d7e64897136c36382",
+  "assets/js/salario-neto-receipt.js": "5833fd09e315f10f87d7920b7b565fb6b56a1f15f3b050a97eee91cbf6689c8a",
+  "assets/js/calculators.js": "9eedff081cda798806665bccce671a074ed0d38ae2ecb579502204c1a24a1de3",
+  "assets/js/tablas.js": "64e965888f6fb3b97e1bb7c0b63340055919ffde8af0193965d4fdd0d34798e5",
+  "scripts/monetization-v2.cjs": "209db55ecda79eddba25b490a0a035cf708370e9397e01085b331420e5179ce2",
+  "vercel.json": "6156e80ee4465582016b68b9362ef9ea69687dc92e55f41f96e97ab4a03a2bf9",
+  "index.html": "1f11f3c2889fba5c761cd41d85031031dbaac92a6c2e1481614d31661384cf55"
+}

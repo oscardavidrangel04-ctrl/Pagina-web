@@ -1,0 +1,120 @@
+{
+  "substantive_urls": [
+    "https://calculadora-isr-mexico.vercel.app/articulos/aportaciones-voluntarias-afore.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-prima-vacacional.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/como-sacar-constancia-situacion-fiscal.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/para-que-sirve-constancia-situacion-fiscal.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-2026.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-diario-mensual-2026.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-frontera-norte-2026.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html"
+  ],
+  "files": [
+    {
+      "file": "articulos/salario-minimo-2026.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-2026.html",
+      "change": "Corrección de referencia mensual oficial y distinción del ejemplo de 30 días.",
+      "before_sha256": "2ec6edf57ab587b5073360a879cfa81af39c0270e75ccbd254f4b92fb5976d32",
+      "after_sha256": "58d21bab6b384f7713d1c832ffd1184673e14e66822cd862aac27e7e0b74a3cb"
+    },
+    {
+      "file": "articulos/salario-minimo-diario-mensual-2026.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-diario-mensual-2026.html",
+      "change": "Tabla de dos zonas y cinco referencias; enlaces con escenarios al conversor protegido.",
+      "before_sha256": "e0d82b8a477e38768ba8f92e74155931d4485b7a63e40ab3b89e8f01596df4a7",
+      "after_sha256": "41709b646a7cb55b7600ceabba45574c21e48df88a58b7b4145420f7e1ccf5d5"
+    },
+    {
+      "file": "articulos/salario-minimo-frontera-norte-2026.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/salario-minimo-frontera-norte-2026.html",
+      "change": "Referencia mensual oficial fronteriza y enlace a comparación de periodos.",
+      "before_sha256": "c67d163dda0d15656db7d29cb531e27049a68d59aa78838d40b13d23f1d9d39f",
+      "after_sha256": "a4eedd281cc820f1fa25e7c36759d2b8054bf36ad4de5f09ee7b5cb649d529d0"
+    },
+    {
+      "file": "calculadoras/prima-vacacional.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html",
+      "change": "Tres ejemplos ejecutables con el componente ya probado; sin cambiar la fórmula.",
+      "before_sha256": "8aa3e9dc7dab4ec8c367e5d81eecfae5425b5e57ed092c5f97ff97c72fb179fa",
+      "after_sha256": "f831cebd792ab5a74a99cd898016d0ac4ba4b7bd4acc6ed42c63b3cb990f2ae8"
+    },
+    {
+      "file": "articulos/como-calcular-prima-vacacional.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-prima-vacacional.html",
+      "change": "Conexión del artículo y fallback con escenarios verificables de prima vacacional.",
+      "before_sha256": "6a46f9aa0bbc6d8957af86d0e97f15e4ad01c5df039e210f644c578dfb2402fb",
+      "after_sha256": "11d670e6dc7e42bc882a5aa53fc4dc85e7a53ea82147bed3c6654081fb40341e"
+    },
+    {
+      "file": "fallback-como-calcular-prima-vacacional.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-prima-vacacional.html",
+      "change": "Conexión del artículo y fallback con escenarios verificables de prima vacacional.",
+      "before_sha256": "00456a51fbd4f7921f572000fc487e2dd8b07d936017bcc709864d4a44f6d332",
+      "after_sha256": "02fa0c0d442b3d4ca2d3391bbf4638b4a04feaeb8c974d6a73082d3e0c743850"
+    },
+    {
+      "file": "articulos/aportaciones-voluntarias-afore.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/aportaciones-voluntarias-afore.html",
+      "change": "Respuesta a AVPILP, comparación de modalidades y ejemplo de aportaciones sin rendimiento supuesto.",
+      "before_sha256": "341e571fda37d3e097c000222e9257fca99fec61d92293ed7b64f7ae8c818ed6",
+      "after_sha256": "abfba3e254196283382461bf62e7f91b655289124cbc3e3acdccd2193d75cf63"
+    },
+    {
+      "file": "articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/trabajadores-sin-derecho-reparto-utilidades.html",
+      "change": "Diferencia verificada entre personal de planta y eventual, exclusiones y próximos pasos.",
+      "before_sha256": "807e10986d784e5ab47d19e1259b4b4d88f2d92be957597c8ea43d312ca80432",
+      "after_sha256": "d14259494a3a976c85042965b79a411017849dc92434faa2883073ed5f711fa4"
+    },
+    {
+      "file": "articulos/para-que-sirve-constancia-situacion-fiscal.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/para-que-sirve-constancia-situacion-fiscal.html",
+      "change": "Actualización SAT 2026, eliminación de ambigüedad de nómina, vigencia y preguntas específicas.",
+      "before_sha256": "c90a85b1d66d0ab09322e3137e2a3e7e07ea468e2798cb1f70f886ded7184e63",
+      "after_sha256": "c4597b9b5a61bc6176b1939b0f41b017b9437ec7f7e64e238e4b060f96f2c983"
+    },
+    {
+      "file": "articulos/como-sacar-constancia-situacion-fiscal.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/como-sacar-constancia-situacion-fiscal.html",
+      "change": "Vías oficiales de obtención, datos a revisar, vigencia y alternativas de acceso.",
+      "before_sha256": "8cdaac8da05c493a6f2356dbddcbbaff6ea77113951c31aafe835d0aa380c65e",
+      "after_sha256": "f304c05dc63403ee623353b615e74d534e18a3cff0ecbcaa2cb4fe1a96203c84"
+    }
+  ],
+  "cosmetic_files": [
+    "articulos/a-quien-retencion-iva.html",
+    "articulos/aguinaldo-pensionados-imss.html",
+    "articulos/aguinaldo-pensionados-issste.html",
+    "articulos/credito-infonavit-desempleo.html",
+    "articulos/credito-infonavit-terreno.html",
+    "articulos/cuanto-toca-despido-injustificado.html",
+    "articulos/deducible-vs-coaseguro.html",
+    "articulos/incapacidades-afectan-aguinaldo.html",
+    "articulos/pago-incapacidad-imss.html",
+    "articulos/pension-imss-ley-73.html",
+    "articulos/pensionados-viudez-reciben-aguinaldo.html",
+    "articulos/persona-fisica-actividad-empresarial.html",
+    "articulos/plazo-solicitar-factura.html",
+    "articulos/prima-antiguedad-cuando-aplica.html",
+    "articulos/puntos-credito-infonavit.html",
+    "articulos/que-cubre-seguro-gastos-medicos-mayores.html",
+    "articulos/que-es-despido-injustificado.html",
+    "articulos/que-es-el-aguinaldo.html",
+    "articulos/que-es-resico.html",
+    "articulos/que-es-seguro-gastos-medicos-mayores.html",
+    "articulos/quienes-pueden-resico.html",
+    "articulos/recibo-honorarios.html",
+    "articulos/retencion-isr-resico.html",
+    "articulos/retencion-iva-dos-terceras-partes.html",
+    "articulos/seguro-dotal.html",
+    "articulos/seguro-medico-familiar.html",
+    "articulos/seguro-para-mascotas.html",
+    "articulos/seguro-vida-temporal.html",
+    "articulos/semanas-cotizadas-pension-imss.html",
+    "articulos/termine-pagar-credito-infonavit.html",
+    "articulos/verificar-agente-seguros-cnsf.html",
+    "articulos/visor-deducciones-personales-sat.html",
+    "articulos/xml-factura-electronica.html"
+  ]
+}

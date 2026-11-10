@@ -1,0 +1,57 @@
+{
+  "status": "PASS",
+  "conditions": "Actual handlers in a minimal event adapter, not a browser test.",
+  "examples": [
+    {
+      "inputs": {
+        "salarioDiario": 480,
+        "dias": 12,
+        "prima": 25
+      },
+      "result": "$1,440.00"
+    },
+    {
+      "inputs": {
+        "salarioDiario": 500,
+        "dias": 12,
+        "prima": 50
+      },
+      "result": "$3,000.00"
+    },
+    {
+      "inputs": {
+        "salarioDiario": 600,
+        "dias": 14,
+        "prima": 25
+      },
+      "result": "$2,100.00"
+    }
+  ],
+  "links": [
+    {
+      "file": "articulos/como-calcular-prima-vacacional.html",
+      "link": "/calculadoras/prima-vacacional.html?salarioDiario=480&dias=12&prima=25#calculadora",
+      "result": "$1,440.00"
+    },
+    {
+      "file": "articulos/como-calcular-prima-vacacional.html",
+      "link": "/calculadoras/prima-vacacional.html?salarioDiario=500&dias=12&prima=50#calculadora",
+      "result": "$3,000.00"
+    },
+    {
+      "file": "fallback-como-calcular-prima-vacacional.html",
+      "link": "/calculadoras/prima-vacacional.html?salarioDiario=480&dias=12&prima=25#calculadora",
+      "result": "$1,440.00"
+    },
+    {
+      "file": "fallback-como-calcular-prima-vacacional.html",
+      "link": "/calculadoras/prima-vacacional.html?salarioDiario=500&dias=12&prima=50#calculadora",
+      "result": "$3,000.00"
+    },
+    {
+      "file": "articulos/aportaciones-voluntarias-afore.html",
+      "link": "/calculadoras/ahorro-mensual.html?inicial=0&aportacion=500&tasa=0&meses=12#calculadora",
+      "result": "$6,000.00"
+    }
+  ]
+}

@@ -54,3 +54,14 @@ body[data-calc="salario-neto"] .faq-section details[open]{background:var(--sn-so
 .salario-neto-page .sn-calculation-steps li{margin-bottom:10px}
 @media(max-width:600px){body[data-calc="salario-neto"] .page-head h1{font-size:30px}body[data-calc="salario-neto"] .page-head>p{font-size:16px;line-height:1.55}.sn-formula{padding:16px;margin-bottom:18px}.sn-example-actions button{width:100%;text-align:left}}
 
+/* Receipt modes retain the existing layout and never expose inactive fields. */
+body[data-calc="salario-neto"] [data-sn-detail][hidden],body[data-calc="salario-neto"] #snTotalGroup[hidden]{display:none}
+body[data-calc="salario-neto"] #snForm select{width:100%;max-width:100%;min-height:48px}
+body[data-calc="salario-neto"] .result-row{flex-wrap:wrap;gap:8px}
+body[data-calc="salario-neto"] :is(#deducciones-recibo,#isr-imss-neto){scroll-margin-top:100px}
+
+/* Preserve the page's blue identity and readable calls to action. */
+body[data-calc="salario-neto"]{--primary:#1559c4;--primary-dark:#123d89;--primary-soft:#eef5ff}
+[data-theme="dark"] body[data-calc="salario-neto"]{--primary:#8bb7ff;--primary-dark:#72a7ff;--primary-soft:#172e4d}
+body[data-calc="salario-neto"] #calculadora .calc-button,body[data-calc="salario-neto"] .result-next a{background:#1559c4!important;color:#fff!important}
+body[data-calc="salario-neto"] #calculadora .calc-button:hover,body[data-calc="salario-neto"] .result-next a:hover{background:#123d89!important}

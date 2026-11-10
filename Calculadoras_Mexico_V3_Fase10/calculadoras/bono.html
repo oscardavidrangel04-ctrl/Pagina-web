@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta content="width=device-width,initial-scale=1" name="viewport">
-<title>Calculadora de bono laboral: porcentaje y monto bruto</title>
-<meta content="Calcula un bono por porcentaje: con $15,000 de base y 10%, el bono es $1,500. Revisa el total bruto, metas y diferencias con el pago neto." name="description">
+<title>Calculadora de bono: porcentaje o monto fijo | México</title>
+<meta content="Calcula tu bono laboral por porcentaje o monto fijo, su porcentaje equivalente y el total bruto. Incluye ejemplos de productividad y puntualidad; sin descontar ISR." name="description">
 <meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots">
 <link href="https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html" rel="canonical">
 <link href="/assets/img/favicon.svg" rel="icon" type="image/svg+xml">
@@ -15,21 +15,21 @@
 <meta content="#5542b5" name="theme-color">
 <meta content="es_MX" property="og:locale">
 <meta content="website" property="og:type">
-<meta content="Calculadora de bono laboral: porcentaje y monto bruto" property="og:title">
-<meta content="Calcula un bono por porcentaje: con $15,000 de base y 10%, el bono es $1,500. Revisa el total bruto, metas y diferencias con el pago neto." property="og:description">
+<meta content="Calculadora de bono: porcentaje o monto fijo | México" property="og:title">
+<meta content="Calcula tu bono laboral por porcentaje o monto fijo, su porcentaje equivalente y el total bruto. Incluye ejemplos de productividad y puntualidad; sin descontar ISR." property="og:description">
 <meta content="https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html" property="og:url">
 <meta content="Calculadoras México" property="og:site_name">
 <meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" property="og:image">
 <meta content="summary_large_image" name="twitter:card">
-<meta content="Calculadora de bono laboral: porcentaje y monto bruto" name="twitter:title">
-<meta content="Calcula un bono por porcentaje: con $15,000 de base y 10%, el bono es $1,500. Revisa el total bruto, metas y diferencias con el pago neto." name="twitter:description">
+<meta content="Calculadora de bono: porcentaje o monto fijo | México" name="twitter:title">
+<meta content="Calcula tu bono laboral por porcentaje o monto fijo, su porcentaje equivalente y el total bruto. Incluye ejemplos de productividad y puntualidad; sin descontar ISR." name="twitter:description">
 <meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" name="twitter:image">
 <link href="/styles-v5628.css?v=5.6.28" rel="stylesheet">
 <script>try{document.documentElement.dataset.theme=localStorage.getItem('cm-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script>
 <link href="/assets/css/interface-v570.css?v=5.7.0" rel="stylesheet">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610" crossorigin="anonymous">
 </script>
-<link rel="stylesheet" href="/assets/css/affiliate-block.css"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Calculadora de bono laboral: porcentaje y monto bruto","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html","applicationCategory":"FinanceApplication","operatingSystem":"Web","inLanguage":"es-MX","isAccessibleForFree":true,"description":"Calcula un bono por porcentaje: con $15,000 de base y 10%, el bono es $1,500. Revisa el total bruto, metas y diferencias con el pago neto."}</script></head>
+<link rel="stylesheet" href="/assets/css/affiliate-block.css"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Calculadora de bono: porcentaje o monto fijo | México","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html","applicationCategory":"FinanceApplication","operatingSystem":"Web","inLanguage":"es-MX","isAccessibleForFree":true,"description":"Calcula tu bono laboral por porcentaje o monto fijo, su porcentaje equivalente y el total bruto. Incluye ejemplos de productividad y puntualidad; sin descontar ISR."}</script></head>
 <body data-v5638="production-inlinks" class="ziro-site cm-ui" data-calc="bono">
 <a class="skip" href="#contenido">Saltar al contenido</a>
 <header class="site-header">
@@ -68,8 +68,8 @@
 <header class="page-head">
 <span class="category-hero-icon">🎁</span>
 <span class="badge">Nómina</span>
-<h1>Calculadora de bono por porcentaje</h1>
-<p>Ingresa tu salario o monto base y el porcentaje del bono. Verás cuánto representa la bonificación y la suma total antes de impuestos: un bono del 10% sobre $15,000 equivale a $1,500.</p>
+<h1>Calculadora de bono por porcentaje o monto fijo</h1>
+<p>Calcula el bono bruto sobre tu sueldo u otra base. Puedes aplicar un porcentaje o capturar un importe fijo para conocer su porcentaje equivalente: $1,500 sobre $15,000 representa 10%.</p>
 <button aria-pressed="false" class="favorite-page" data-favorite="bono" type="button">
 <span data-favorite-icon="">☆</span> <span data-favorite-label="">Guardar</span>
 </button>
@@ -82,36 +82,41 @@
 <section aria-label="Formulario de cálculo" class="calc-box" id="calculadora">
 <h2 class="cm-form-title">Datos para el cálculo</h2>
 <p class="cm-form-note">Calcula el bono bruto; no descuenta impuestos. Usa la base y el porcentaje del mismo periodo.</p>
+<div class="form-group"><label for="bonoModo">¿Qué dato conoces?</label><select id="bonoModo"><option value="porcentaje">Porcentaje del bono</option><option value="fijo">Importe fijo del bono</option></select></div>
+<div class="form-group"><label for="bonoBaseTipo">¿Sobre qué base se calcula?</label><select id="bonoBaseTipo"><option value="sueldo">Sueldo del periodo</option><option value="otra">Ventas u otra cantidad acordada</option></select></div>
 <div class="form-group">
 <label for="salario">Salario o monto base</label>
-<input id="salario" inputmode="decimal" min="0" step="0.01" type="number" value="15000">
+<input id="salario" inputmode="decimal" min="0.01" max="1000000000000" step="0.01" type="number" value="15000" required aria-describedby="bonoBaseAyuda bonoError"><small id="bonoBaseAyuda">Usa el sueldo del periodo al que corresponde el bono.</small>
 </div>
-<div class="form-group">
+<div class="form-group" id="bonoPorcentajeGrupo">
 <label for="bonoPct">Bono (%)</label>
-<input id="bonoPct" inputmode="decimal" min="0" step="0.01" type="number" value="10">
+<input id="bonoPct" inputmode="decimal" min="0" max="10000" step="0.01" type="number" value="10" required aria-describedby="bonoError">
 </div>
+<div class="form-group" id="bonoFijoGrupo" hidden><label for="bonoFijo">Importe del bono bruto (MXN)</label><input id="bonoFijo" type="number" inputmode="decimal" min="0" max="1000000000000" step="0.01" value="1500" required disabled aria-describedby="bonoError"></div>
+<p id="bonoError" role="alert"></p>
 <div class="calc-controls">
 <button class="calc-button" type="button">Calcular</button>
 <button class="reset-button" data-form-reset="" type="button">Limpiar</button>
 </div>
 <small class="form-state" data-form-state="">Los datos se guardan automáticamente en este dispositivo.</small>
-<div aria-live="polite" class="result" id="resultado" tabindex="-1" aria-label="Resultado del cálculo">
+<div aria-live="polite" aria-atomic="true" class="result" id="resultado" tabindex="-1" aria-label="Resultado del cálculo">
 <span>Completa los datos y presiona Calcular.</span>
 </div>
 </section>
 <aside class="side-box">
-<h2>Cómo obtener el resultado de bono</h2>
+<h2>Qué resultado obtendrás</h2>
 <ol>
-<li>Introduce los datos solicitados y comprueba sus unidades o periodo.</li>
-<li>Pulsa Calcular y revisa el resultado principal y su desglose.</li>
-<li>Consulta la explicación y los supuestos antes de utilizar el resultado.</li>
+<li>Porcentaje: base × porcentaje ÷ 100 = bono bruto.</li>
+<li>Importe fijo: bono ÷ base × 100 = porcentaje equivalente.</li>
+<li>Si la base es tu sueldo, revisa la suma antes de impuestos. Si son ventas, esa suma no representa tu salario.</li>
 </ol>
 <p class="privacy-note">El cálculo se realiza en tu navegador. Si compartes un escenario, sus datos se incluyen en el enlace; revisa la <a href="/privacidad.html">política de privacidad</a> antes de compartirlo.</p>
 </aside>
 </div>
+<section class="content-box calc-examples" aria-labelledby="ejemplos-calculadora"><h2 id="ejemplos-calculadora">Prueba un ejemplo en la calculadora</h2><p>Selecciona un caso para cargar sus datos y ver la operación. Después puedes cambiar los valores.</p><div class="calc-controls"><button class="btn secondary" type="button" data-calc-example="{&quot;bonoModo&quot;:&quot;porcentaje&quot;,&quot;bonoBaseTipo&quot;:&quot;sueldo&quot;,&quot;salario&quot;:15000,&quot;bonoPct&quot;:10}">Bono de 10% sobre $15,000</button><button class="btn secondary" type="button" data-calc-example="{&quot;bonoModo&quot;:&quot;fijo&quot;,&quot;bonoBaseTipo&quot;:&quot;sueldo&quot;,&quot;salario&quot;:15000,&quot;bonoFijo&quot;:1500}">Bono fijo de $1,500</button><button class="btn secondary" type="button" data-calc-example="{&quot;bonoModo&quot;:&quot;porcentaje&quot;,&quot;bonoBaseTipo&quot;:&quot;sueldo&quot;,&quot;salario&quot;:12000,&quot;bonoPct&quot;:5}">Puntualidad: 5% de $12,000</button></div></section>
 <section class="content-box semantic-intent" data-seo-intent="true" id="guia-del-calculo">
 <h2>Qué puedes calcular con esta calculadora de bono</h2>
-<p>La <strong>calculadora de bono</strong> obtiene el valor de un bono a partir de dos datos de entrada: el <strong>salario base</strong> o monto base y el porcentaje acordado. Después muestra el bono bruto y el total bruto de referencia.</p>
+<p>La <strong>calculadora de bono</strong> obtiene el valor de un bono a partir de la <strong>base acordada y el porcentaje</strong>, o muestra qué porcentaje representa un bono fijo. Después presenta el bono bruto y la suma con esa base, antes de deducciones.</p>
 <p>Es útil para revisar un bono por desempeño, una bonificación porcentual o bonos y comisiones pactados como porcentaje. No sustituye un recibo de nómina: sirve para comprobar el resultado matemático antes de revisar la forma en que la empresa lo paga.</p>
 </section>
 
@@ -119,7 +124,7 @@
 <h2>Cómo usar la calculadora de bono</h2>
 <ol>
 <li>Escribe el salario base o el importe sobre el que se aplicará el bono.</li>
-<li>Captura el porcentaje indicado en tu contrato, política interna o acuerdo de pago.</li>
+<li>Elige porcentaje e ingresa la tasa acordada, o selecciona importe fijo y escribe la bonificación en pesos.</li>
 <li>Pulsa <strong>Calcular</strong> y revisa el valor de un bono y el total bruto.</li>
 <li>Si quieres comparar opciones, cambia solo un dato del formulario y vuelve a calcular.</li>
 </ol>
@@ -131,7 +136,7 @@
 <aside aria-label="Ficha de confianza del contenido" class="trust-record">
 <div>
 <span>Última revisión</span>
-<strong>5 de noviembre de 2026</strong>
+<strong>9 de noviembre de 2026</strong>
 </div>
 <div>
 <span>Metodología</span>
@@ -142,7 +147,7 @@
 <a href="https://www.profedet.gob.mx/" rel="noopener noreferrer">PROFEDET · Derechos laborales ↗</a>
 </div>
 </aside>
-<p class="updated-note">Contenido revisado el 5 de noviembre de 2026</p>
+<p class="updated-note">Contenido revisado el 9 de noviembre de 2026</p>
 <h2>Cómo se calcula un bono por porcentaje</h2>
 <p>Para calcular bono, multiplica el salario base por el porcentaje del bono. Si el salario base es de $20,000 y el bono es de 10%, el valor del bono es $2,000. Al sumar ambas cantidades, el total bruto es $22,000.</p>
 <h3>Fórmula del bono</h3>
@@ -204,10 +209,15 @@
 </section>
 <section class="content-box" id="comparar-bono">
 <h2>¿Cómo saber qué porcentaje representa un bono?</h2>
-<p>Si ya conoces el importe del bono, divide el bono entre la base y multiplica por 100. Por ejemplo, $1,500 ÷ $15,000 × 100 = <strong>10%</strong>. Puedes capturar ese porcentaje arriba para comprobar el importe.</p>
+<p>Si ya conoces el importe del bono, divide el bono entre la base y multiplica por 100. Por ejemplo, $1,500 ÷ $15,000 × 100 = <strong>10%</strong>. Selecciona <strong>Importe fijo del bono</strong>, captura la base y la bonificación: la calculadora obtiene el porcentaje equivalente.</p>
 <p>Para comparar una oferta con otra, usa el mismo periodo y distingue un bono único de uno recurrente. Un bono de $1,500 una vez al año no equivale a recibir $1,500 cada mes. Para revisar un pago después de deducciones, consulta la <a href="/calculadoras/salario-neto.html">calculadora de salario neto</a> con los conceptos y el periodo correspondientes.</p>
-<div data-keyword-refinement="20261015"><h3>Cálculo de bono de productividad: ejemplo con metas</h3><p>Primero revisa qué base y qué regla reconoce tu plan de incentivos. Si establece un bono del 8% sobre $18,000 al cumplir la meta completa, el bono bruto es <strong>$1,440</strong> y la suma con esa base es $19,440.</p><p>Si el plan además paga proporcionalmente al cumplimiento y alcanzaste el 75% de la meta, el porcentaje efectivo sería 8% × 75% = 6%: captura $18,000 y 6 para obtener $1,080. Solo aplica esa proporción si está prevista en el plan; algunos bonos tienen umbrales o cantidades fijas.</p><p>La calculadora admite bonos laborales definidos como porcentaje. El precio o rendimiento de un bono financiero y el bono de pensión del ISSSTE requieren métodos distintos. Para revisar la integración de un incentivo laboral, consulta <a href="/articulos/bonos-salario-base-cotizacion.html">bonos y salario base de cotización</a>.</p></div></section>
-<section class="content-box faq-section"><h2>Preguntas frecuentes</h2><details><summary>¿Cómo se calcula un bono de productividad?</summary><p>Primero verifica la base y el porcentaje reconocidos por tu empresa. Si la base es $15,000 y el bono corresponde al 10%, el importe bruto es $1,500. La calculadora no decide si cumpliste una meta.</p></details><details><summary>¿Cómo calculo qué porcentaje representa mi bono?</summary><p>Divide el bono entre su base y multiplica por 100. Un bono de $1,500 sobre $15,000 representa 10%; sobre $30,000 representa 5%.</p></details><details><summary>¿El bono se calcula sobre ventas o sobre sueldo?</summary><p>Depende de las condiciones del bono. Captura la base realmente acordada. Si es venta, la fila base más bono no equivale a tu sueldo de nómina.</p></details><details><summary>¿El bono mostrado ya está libre de impuestos?</summary><p>No. Es un importe bruto aritmético. Para comprobar el depósito, revisa las percepciones y deducciones del recibo y utiliza <a href="/calculadoras/salario-neto.html">salario neto con descuentos conocidos</a>.</p></details><details><summary>¿Un bono es lo mismo que aguinaldo?</summary><p>No. Este cálculo aplica un porcentaje a una base. El aguinaldo utiliza días de salario y tiempo trabajado; consulta la <a href="/calculadoras/aguinaldo.html">calculadora de aguinaldo</a>.</p></details><p class="small">Contenido y ejemplos revisados el <time datetime="2026-11-05">5 de noviembre de 2026</time>. Revisa los supuestos antes de usar el resultado.</p></section>
+<div data-keyword-refinement="20261015"><h3>Cálculo de bono de productividad: ejemplo con metas</h3><p>Primero revisa qué base y qué regla reconoce tu plan de incentivos. Si establece un bono del 8% sobre $18,000 al cumplir la meta completa, el bono bruto es <strong>$1,440</strong> y la suma con esa base es $19,440.</p><p>Si el plan además paga proporcionalmente al cumplimiento y alcanzaste el 75% de la meta, el porcentaje efectivo sería 8% × 75% = 6%: captura $18,000 y 6 para obtener $1,080. Solo aplica esa proporción si está prevista en el plan; algunos bonos tienen umbrales o cantidades fijas.</p><p>La calculadora admite bonos laborales definidos como porcentaje o importe fijo. El precio o rendimiento de un bono financiero y el bono de pensión del ISSSTE requieren métodos distintos. Para revisar la integración de un incentivo laboral, consulta <a href="/articulos/bonos-salario-base-cotizacion.html">bonos y salario base de cotización</a>.</p></div></section>
+<section class="content-box" id="bono-puntualidad"><h2>Bono de puntualidad y asistencia: ejemplo</h2>
+<p>Si tu política reconoce un bono de puntualidad del 5% sobre un sueldo mensual de $12,000, la operación es $12,000 × 0.05 = <strong>$600 brutos</strong>. Si también reconoce asistencia por $400 fijos, son dos conceptos: el incentivo conjunto sería $1,000, siempre que cumplas las condiciones de ambos.</p>
+<p>Para revisar cada concepto, calcula el 5% en el modo porcentaje y después los $400 en importe fijo. Sobre la misma base, $400 representa aproximadamente 3.3333%. La herramienta no supone que esos porcentajes sean obligatorios ni decide si una falta elimina el bono.</p>
+<h3>Bono anual o de cumplimiento</h3><p>Usa el periodo definido en el plan. Un bono anual del 10% sobre $180,000 de sueldo anual equivale a $18,000; aplicar 10% a un solo mes de $15,000 daría $1,500 y respondería a otra base. Si se exige una meta, confirma si el pago es fijo, proporcional o por tramos antes de calcular.</p>
+<p>Para una comisión sobre ventas con sueldo fijo separado, utiliza la <a href="/calculadoras/comision.html">calculadora de comisiones</a>. Para prestaciones calculadas por días de salario, consulta <a href="/calculadoras/aguinaldo.html">aguinaldo</a> o <a href="/calculadoras/prima-vacacional.html">prima vacacional</a>.</p></section>
+<section class="content-box faq-section"><h2>Preguntas frecuentes</h2><details><summary>¿Puedo calcular un bono fijo?</summary><p>Sí. Selecciona importe fijo, escribe la base y el bono bruto. Por ejemplo, un bono de $1,500 sobre $15,000 equivale al 10% y suma $16,500 antes de deducciones, cuando la base es el sueldo.</p></details><details><summary>¿Cómo se calcula un bono de productividad?</summary><p>Primero verifica la base y el porcentaje reconocidos por tu empresa. Si la base es $15,000 y el bono corresponde al 10%, el importe bruto es $1,500. La calculadora no decide si cumpliste una meta.</p></details><details><summary>¿Cómo calculo qué porcentaje representa mi bono?</summary><p>Divide el bono entre su base y multiplica por 100. Un bono de $1,500 sobre $15,000 representa 10%; sobre $30,000 representa 5%.</p></details><details><summary>¿El bono se calcula sobre ventas o sobre sueldo?</summary><p>Depende de las condiciones del bono. Captura la base realmente acordada. Si es venta, la fila base más bono no equivale a tu sueldo de nómina.</p></details><details><summary>¿El bono mostrado ya está libre de impuestos?</summary><p>No. Es un importe bruto aritmético. Para comprobar el depósito, revisa las percepciones y deducciones del recibo y utiliza <a href="/calculadoras/salario-neto.html">salario neto con descuentos conocidos</a>.</p></details><details><summary>¿Un bono es lo mismo que aguinaldo?</summary><p>No. Este cálculo aplica un porcentaje a una base. El aguinaldo utiliza días de salario y tiempo trabajado; consulta la <a href="/calculadoras/aguinaldo.html">calculadora de aguinaldo</a>.</p></details><p class="small">Contenido y ejemplos revisados el <time datetime="2026-11-09">9 de noviembre de 2026</time>. Revisa los supuestos antes de usar el resultado.</p></section>
 
 <section class="portal-related">
 <div class="section-title compact">
@@ -215,49 +225,7 @@
 <h2>Herramientas relacionadas con bono</h2>
 <p>Recomendaciones elegidas por categoría y tema.</p>
 </div>
-<div class="grid" data-related-list="bono">
-<article class="card calculator-card" data-search="horas extra calcula una referencia de pago doble y triple. nómina jornada pago hora">
-<button aria-label="Guardar Horas extra" aria-pressed="false" class="favorite-mini" data-favorite="horas-extra" type="button">
-<span data-favorite-icon="">☆</span>
-</button>
-<div aria-hidden="true" class="icon">⏱️</div>
-<span class="card-kicker">Nómina</span>
-<h3>Horas extra</h3>
-<p>Calcula una referencia de pago doble y triple.</p>
-<a class="card-link" href="/calculadoras/horas-extra.html">Abrir calculadora →</a>
-</article>
-<article class="card calculator-card" data-search="pago quincenal convierte salario mensual a quincenal y diario. nómina salario sueldo quincena nómina">
-<button aria-label="Guardar Pago quincenal" aria-pressed="false" class="favorite-mini" data-favorite="pago-quincenal" type="button">
-<span data-favorite-icon="">☆</span>
-</button>
-<div aria-hidden="true" class="icon">📆</div>
-<span class="card-kicker">Nómina</span>
-<span class="new-badge">Nueva</span>
-<h3>Pago quincenal</h3>
-<p>Convierte salario mensual a quincenal y diario.</p>
-<a class="card-link" href="/calculadoras/pago-quincenal.html">Abrir calculadora →</a>
-</article>
-<article class="card calculator-card" data-search="prima dominical calcula una referencia por trabajar en domingo. nómina domingo salario prima">
-<button aria-label="Guardar Prima dominical" aria-pressed="false" class="favorite-mini" data-favorite="prima-dominical" type="button">
-<span data-favorite-icon="">☆</span>
-</button>
-<div aria-hidden="true" class="icon">🌞</div>
-<span class="card-kicker">Nómina</span>
-<h3>Prima dominical</h3>
-<p>Calcula una referencia por trabajar en domingo.</p>
-<a class="card-link" href="/calculadoras/prima-dominical.html">Abrir calculadora →</a>
-</article>
-<article class="card calculator-card" data-search="salario bruto estima el bruto desde el ingreso neto. nómina sueldo deducciones recibo">
-<button aria-label="Guardar Salario bruto" aria-pressed="false" class="favorite-mini" data-favorite="salario-bruto" type="button">
-<span data-favorite-icon="">☆</span>
-</button>
-<div aria-hidden="true" class="icon">🧾</div>
-<span class="card-kicker">Nómina</span>
-<h3>Salario bruto</h3>
-<p>Estima el bruto desde el ingreso neto.</p>
-<a class="card-link" href="/calculadoras/salario-bruto.html">Abrir calculadora →</a>
-</article>
-</div>
+<div class="grid" data-related-list="bono" data-related-curated="true"><article class="card calculator-card"><button aria-label="Guardar Comisión" aria-pressed="false" class="favorite-mini" data-favorite="comision" type="button"><span data-favorite-icon>☆</span></button><div aria-hidden="true" class="icon">🤝</div><span class="card-kicker">Finanzas</span><h3>Comisión</h3><p>Calcula comisión e ingreso total.</p><a class="card-link" href="/calculadoras/comision.html">Calcular comisión</a></article><article class="card calculator-card"><button aria-label="Guardar Salario neto" aria-pressed="false" class="favorite-mini" data-favorite="salario-neto" type="button"><span data-favorite-icon>☆</span></button><div aria-hidden="true" class="icon">💵</div><span class="card-kicker">Nómina</span><h3>Salario neto</h3><p>Resta deducciones al salario bruto.</p><a class="card-link" href="/calculadoras/salario-neto.html">Calcular salario neto</a></article><article class="card calculator-card"><button aria-label="Guardar Pago quincenal" aria-pressed="false" class="favorite-mini" data-favorite="pago-quincenal" type="button"><span data-favorite-icon>☆</span></button><div aria-hidden="true" class="icon">📆</div><span class="card-kicker">Nómina</span><h3>Pago quincenal</h3><p>Convierte salario mensual a quincenal y diario.</p><a class="card-link" href="/calculadoras/pago-quincenal.html">Calcular pago quincenal</a></article><article class="card calculator-card"><button aria-label="Guardar ISR 2026" aria-pressed="false" class="favorite-mini" data-favorite="isr" type="button"><span data-favorite-icon>☆</span></button><div aria-hidden="true" class="icon">🧾</div><span class="card-kicker">Impuestos</span><h3>ISR 2026</h3><p>Estima ISR y salario neto por periodo.</p><a class="card-link" href="/calculadoras/isr.html">Calcular isr 2026</a></article></div>
 </section>
 </div>
 <section class="content-box internal-hub-v5639" data-v5639="aguinaldo-inlinks">
@@ -295,6 +263,7 @@
 <h2 id="bono-bruto-neto">Bono bruto, bono neto e ISR: cómo revisar el recibo</h2>
 <p>Esta calculadora muestra el bono <strong>bruto</strong>. En una nómina, un bono gravado normalmente se suma a las demás percepciones gravadas del periodo y la retención se obtiene sobre ese total; por eso no es fiable aplicar un porcentaje fijo de ISR únicamente al bono.</p>
 <ol><li>Identifica tu sueldo bruto y el importe bruto del bono.</li><li>Revisa si el bono tiene una parte exenta o una regla específica en tu recibo.</li><li>Compara la nómina con y sin bono; la diferencia de retención aproxima el efecto fiscal.</li></ol>
+<p>La <a href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf">LISR, artículos 94 y 96</a>, establece el tratamiento de ingresos por trabajo subordinado y la mecánica de retenciones. Para revisar la tarifa del mismo periodo consulta <a href="/articulos/isr-semanal-quincenal-mensual.html">ISR semanal, quincenal y mensual</a>; aquí no se estima un bono neto.</p>
 <p>El IMSS y otras deducciones pueden cambiar el neto final según el tipo de percepción y tu situación. Para una estimación de sueldo después de descuentos, abre la <a href="/calculadoras/salario-neto.html">calculadora de salario neto</a>.</p>
 </section>
 <section class="content-box">
@@ -358,13 +327,13 @@
 </div>
 <script defer src="/assets/js/catalog.js?v=5.1.0">
 </script>
-<script defer src="/assets/js/common.js?v=5.7.0">
+<script defer src="/assets/js/common.js?v=20261109">
 </script>
 <script defer src="/_vercel/insights/script.js">
 </script>
-<script defer src="/assets/js/calculators.js?v=5.5.5">
+<script defer src="/assets/js/bono.js?v=20261109">
 </script>
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Calculadora de bono laboral: porcentaje y monto bruto","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html","description":"Calcula un bono por porcentaje: con $15,000 de base y 10%, el bono es $1,500. Revisa el total bruto, metas y diferencias con el pago neto.","dateModified":"2026-11-05","@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html#webpage","inLanguage":"es-MX","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"Bono","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html"}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Calculadora de bono: porcentaje o monto fijo | México","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html","description":"Calcula tu bono laboral por porcentaje o monto fijo, su porcentaje equivalente y el total bruto. Incluye ejemplos de productividad y puntualidad; sin descontar ISR.","dateModified":"2026-11-09","@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html#webpage","inLanguage":"es-MX","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"Bono","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html"}]}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cómo se calcula un bono de productividad?","acceptedAnswer":{"@type":"Answer","text":"Primero verifica la base y el porcentaje reconocidos por tu empresa. Si la base es $15,000 y el bono corresponde al 10%, el importe bruto es $1,500. La calculadora no decide si cumpliste una meta."}},{"@type":"Question","name":"¿Cómo calculo qué porcentaje representa mi bono?","acceptedAnswer":{"@type":"Answer","text":"Divide el bono entre su base y multiplica por 100. Un bono de $1,500 sobre $15,000 representa 10%; sobre $30,000 representa 5%."}},{"@type":"Question","name":"¿El bono se calcula sobre ventas o sobre sueldo?","acceptedAnswer":{"@type":"Answer","text":"Depende de las condiciones del bono. Captura la base realmente acordada. Si es venta, la fila base más bono no equivale a tu sueldo de nómina."}},{"@type":"Question","name":"¿El bono mostrado ya está libre de impuestos?","acceptedAnswer":{"@type":"Answer","text":"No. Es un importe bruto aritmético. Para comprobar el depósito, revisa las percepciones y deducciones del recibo y utiliza salario neto con descuentos conocidos ."}},{"@type":"Question","name":"¿Un bono es lo mismo que aguinaldo?","acceptedAnswer":{"@type":"Answer","text":"No. Este cálculo aplica un porcentaje a una base. El aguinaldo utiliza días de salario y tiempo trabajado; consulta la calculadora de aguinaldo ."}}]}</script>
 <script defer src="/assets/js/interface-v570.js?v=5.7.0">
 </script>

@@ -1,0 +1,276 @@
+{
+  "selected_zip": "Calculadoras_Mexico_SEO_Completo_Reenviado(1).zip",
+  "selected_zip_sha256": "b9bf6420515cea257c8763df636d56f4d0c7315ae0b3a0d72e000380eac127d8",
+  "files": 60,
+  "workbooks": 3,
+  "screenshots": 39,
+  "isr_screenshots_previously_reviewed": 38,
+  "additional_image": "Bono músico en Wikipedia; excluida por intención",
+  "rows": 1272,
+  "keywords": 1023,
+  "spreadsheet_url_count": 124,
+  "source_confirmed_urls": 124,
+  "first_12_pages_exact_rows": 1200,
+  "last_page_rows": 72,
+  "last_page_missing_url_rows": 7,
+  "missing_url_keywords": [
+    "isr calculadora 2024",
+    "isr 2024 calculadora",
+    "calculadora isr el contribuyente",
+    "calcular isr 2026",
+    "calculadora de asimilados a salarios",
+    "calculadora asimilados",
+    "calculadora asimilados 2023"
+  ],
+  "position_bands": {
+    "1-10": 15,
+    "11-20": 38,
+    "21-50": 165,
+    "51-100": 1054
+  },
+  "additional_verified_records_vs_old_matrix": 240,
+  "overlap_keywords": 109,
+  "old_year_rows": 70,
+  "source_files": {
+    "01_SEMrush_propias/Posiciones_organicas_SEMrush_1272.xlsx": {
+      "bytes": 81933,
+      "sha256": "fb15a91c64cbbca0a9e741b99ee88feb777c2563b06f60dedaa46881b7fdd4c2"
+    },
+    "01_SEMrush_propias/Texto pegado (10).txt": {
+      "bytes": 13357,
+      "sha256": "40bb5cb89d01bb447dde5dc9358fb0df9d05a267ac1b148a652946a1c58617a6"
+    },
+    "01_SEMrush_propias/Texto pegado (11).txt": {
+      "bytes": 13132,
+      "sha256": "ae57497837799e1691dd669f4fb4e83c5b9d463e8f3f48b7dc0ea348fa488ad0"
+    },
+    "01_SEMrush_propias/Texto pegado (12).txt": {
+      "bytes": 13249,
+      "sha256": "59cc8a5db725048310c63e9a8a4ad44b59df775cef12d5176c980b3ed8c5f8fe"
+    },
+    "01_SEMrush_propias/Texto pegado (2).txt": {
+      "bytes": 13667,
+      "sha256": "8cd009ab5e5767b81f00cbbe7a01d56372dd647881a0591711f5923df3127a19"
+    },
+    "01_SEMrush_propias/Texto pegado (3).txt": {
+      "bytes": 13321,
+      "sha256": "81b1456ae6a24b2b56a7100d7f5dd38b0bea042896f9cce06b3bb2bf67a44af9"
+    },
+    "01_SEMrush_propias/Texto pegado (4).txt": {
+      "bytes": 13262,
+      "sha256": "13615f4ab4df6edddd79ef01b064bf794ad9f8d02b2d9bab823bfc77f1a3ebae"
+    },
+    "01_SEMrush_propias/Texto pegado (5).txt": {
+      "bytes": 13214,
+      "sha256": "ddbec6c02780277dda6da5e538af71839514f550238b2b86f460aaf2bd4cda32"
+    },
+    "01_SEMrush_propias/Texto pegado (6).txt": {
+      "bytes": 13081,
+      "sha256": "9b1d2bcb60d820379a7c20eb910a0973a89e16f7a0f65058704a1d64764b8eba"
+    },
+    "01_SEMrush_propias/Texto pegado (7).txt": {
+      "bytes": 13252,
+      "sha256": "299056fad0362e3a623e0a140fbf2b7ed91186f6d9f8f84c2c4f8579ad71da1d"
+    },
+    "01_SEMrush_propias/Texto pegado (8).txt": {
+      "bytes": 13207,
+      "sha256": "81a2c0b13f3928ce92e7a499e4cac1379c8575f6218fb3a0ab6015236e3f4105"
+    },
+    "01_SEMrush_propias/Texto pegado (9).txt": {
+      "bytes": 12996,
+      "sha256": "5748719894958a25923b9ff95c89f941ee2a67491976530ea84ffc5d39792b5c"
+    },
+    "01_SEMrush_propias/Texto pegado(1).txt": {
+      "bytes": 13280,
+      "sha256": "bf7614208fe947f251a699876b68de4628a087308a94191a09b83cbbf76514ab"
+    },
+    "01_SEMrush_propias/ultima_pagina.txt": {
+      "bytes": 6019,
+      "sha256": "fe6343e994258c6c3e5ba6987d43f483e644a9c570960c3f46ecb395007865e7"
+    },
+    "02_SEMrush_bonos/Keywords_bono_SEMrush.xlsx": {
+      "bytes": 14252,
+      "sha256": "3a7ce9805ef531bc26a7b6ddcdc8e58491abce87531811a12579f6109f954268"
+    },
+    "03_SEMrush_competidor/Competidor_El_Contribuyente_Tablas_ISR_2026.xlsx": {
+      "bytes": 13961,
+      "sha256": "5fc25938e8792ca8b9a496a9e854576f6e998ea9bb68adaf93a8cacfa806ac71"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-054930).png": {
+      "bytes": 210814,
+      "sha256": "f1a6c8b1e6e4d160de0b8604203f0cd7442e9d25a78cf82bc7fca7e86de45045"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055200).png": {
+      "bytes": 210265,
+      "sha256": "91ce2a35d636420570003d3fbaa863e566569544fd03d39b88caa06f817fbaf1"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055302).png": {
+      "bytes": 229985,
+      "sha256": "fea9f3558cada37c8669b307627e2283d6373201b1aa93c45ca9b7cae56100d5"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055337).png": {
+      "bytes": 373807,
+      "sha256": "adcfa9e59f5d1c96c4fed07cd4016ba924fef359ea878671887fde764f4eb21e"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055344).png": {
+      "bytes": 207183,
+      "sha256": "e33d2a8b19386de8cb6a957b2d84f7a25a41adc94e8a7d21653be59d06be8e51"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055348).png": {
+      "bytes": 198735,
+      "sha256": "0cada170bed8eaa7d6f94b92d951b927c0690bb07f4a75eddb8df44b202724a7"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055357).png": {
+      "bytes": 282353,
+      "sha256": "8755b3126fc7ddfbe6b05d2f3de4a234349d153899557b8aa663980a1ea5da34"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055401).png": {
+      "bytes": 309468,
+      "sha256": "4e91752db2929b2e447538d9658ab502fc32bd6ecee2d8a07a5ce9934580ad76"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055405).png": {
+      "bytes": 284751,
+      "sha256": "3fdf642b31fedfdaa67306b70617d48fd2e979e99f51763b6498e12738861648"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055410).png": {
+      "bytes": 304073,
+      "sha256": "ba0a35bc5b9a7169f56994a56bd12fa55a038d12b2a24b8dbf56d785548e26f5"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055415).png": {
+      "bytes": 320539,
+      "sha256": "bdf1c58242f59517d21c43d82fcc78a7228e25c1139e92c7519e23677bf96e57"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055423).png": {
+      "bytes": 305454,
+      "sha256": "6d2ab89a2fbf7a33dc20f689283b75641b32e132baa3a34e8158bcb3a19142fa"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055432).png": {
+      "bytes": 216914,
+      "sha256": "7da1426bf0909bfad4689edb61ec4657d93f685e6644d502361b0aecc93c3fc9"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055437).png": {
+      "bytes": 208463,
+      "sha256": "2c0d5ee4ed7dc9c793b6c938be32a4323f804664668518dafa4483c685e0e745"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055440).png": {
+      "bytes": 232029,
+      "sha256": "3e2f53a172cfd405266c9bf67a62f90c611227531604ed647f9d2a62bcb8960c"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055444).png": {
+      "bytes": 225613,
+      "sha256": "baee49ef85e1af6411099f9b17492abf75fa7b1852f91869071c8e835e0e62e9"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055448).png": {
+      "bytes": 224191,
+      "sha256": "ccbdbce7e3c33b734a0800d2e4dbb6bc7006380e7cfd7aefdaa3065fad06f7d2"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055452).png": {
+      "bytes": 221971,
+      "sha256": "18b902e0b72194b62ffefbaf55ac839d4f18102ca235335b65ecf943739a562d"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055456).png": {
+      "bytes": 224850,
+      "sha256": "8598c2146c7cbde2c92e3ec049aba779c964bb146723a4acf5d2e0a5cdd2fded"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055501).png": {
+      "bytes": 242454,
+      "sha256": "22c3b50e1da6b3fdd91fb6d0428b5ab0d6f0fa2a0545fcf9521441235dee7dc4"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055504).png": {
+      "bytes": 214557,
+      "sha256": "5fc68d01eef64669d43273ab7f824e5e5c8f043648413a41aabdb045a0f40b87"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055508).png": {
+      "bytes": 248202,
+      "sha256": "4c289c4d59addf2c0a1434252eb0bee6a2498a0d04cb1abe26efd304460d3f56"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055514).png": {
+      "bytes": 239498,
+      "sha256": "0968736d3c395fd73cbf728738d873dc73b9a1a6dead02db625467f0b7cfbaae"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055517).png": {
+      "bytes": 232335,
+      "sha256": "8582e75c410c3566c85b675d9dc85f07f722cb4a8f023e113bd1ffb34e3d6956"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055521).png": {
+      "bytes": 198875,
+      "sha256": "6002e3a87ac5cf0e952ddbb701c0d358c4fa15006960d864945c4a348df2b63e"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055526).png": {
+      "bytes": 262527,
+      "sha256": "1c11627052611dfecc76fd864dd8650984a45fc8d7116fdb01dda670d3516c68"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055529).png": {
+      "bytes": 248956,
+      "sha256": "b7bf9b38618e835041f765eae413e145e4c585dd44145456b45be9c157ce97c4"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055534).png": {
+      "bytes": 251806,
+      "sha256": "b199e4ba681dcbb8feb90f63f7f7c62e6586de2bed6bba2d9767a2bcd26a2283"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055539).png": {
+      "bytes": 226982,
+      "sha256": "e6df358c6e0442c58e1cd60f80b6870ef5058ee82774e07a4dd49203a6677412"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055543).png": {
+      "bytes": 225187,
+      "sha256": "6d6704438be815c87cb91a2a50f84157ef92707f1729f1d34f4b9f862ed59e00"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055547).png": {
+      "bytes": 214085,
+      "sha256": "98de7aa40eee99c26c5204e84f733a3caa5925774bb5cd0323ccdf6f68649a12"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055550).png": {
+      "bytes": 228805,
+      "sha256": "934a5e1024d4d581a057d483abe9505e2c83220ec5f90d199263278b9674c123"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055553).png": {
+      "bytes": 230535,
+      "sha256": "716d63a73f29768bae10ee256ffd0ad499308773a39de06cad8ac15c33214db9"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055558).png": {
+      "bytes": 222765,
+      "sha256": "517f8c5bc13af387567c9bc10052b8a99b1b35b8db93adf0619a1d5a5a8a52b8"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055602).png": {
+      "bytes": 217760,
+      "sha256": "8e0912d98d52ebf1944c272b81ef57596aaf46b675b32781b3d4fa6a8bfe0111"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055606).png": {
+      "bytes": 375472,
+      "sha256": "1e5c865f907619aaebf882dc3442e112156fd70935346f63dea9ea6e094d56ee"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055610).png": {
+      "bytes": 371862,
+      "sha256": "f86e8c196f032c42ff1ceb825f8999760c18a489a0d6b781c52b5fe3bf70be0b"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055614).png": {
+      "bytes": 353418,
+      "sha256": "10a62fe20a2600852b4946fbdd3ddbadbdcd99608810201e06cb5363e690112e"
+    },
+    "04_Capturas_competidor_ISR/imagen(20261108-055619).png": {
+      "bytes": 246517,
+      "sha256": "8f45c23fc0aab4c2c0cd6d1ac5a999e7e4c57ebf03fb950d05da07605a5c7efe"
+    },
+    "05_Herramientas_generacion/build_competidor.py": {
+      "bytes": 8521,
+      "sha256": "4424e08116e3e5b7be6d3f9f3ad6f2dad72af96d2c4d7ae70acfb17a1441bf1e"
+    },
+    "05_Herramientas_generacion/build_seo.py": {
+      "bytes": 4131,
+      "sha256": "aa746e75f6243497849b6bc49723336942c57f6e2b0265678b8cca179089341b"
+    },
+    "05_Herramientas_generacion/create_bono.py": {
+      "bytes": 12640,
+      "sha256": "2b3fb15d939d14dfc5dc50c6692638b1d47f25cea08dbb45a24aee0031df69e3"
+    },
+    "MANIFIESTO.json": {
+      "bytes": 11302,
+      "sha256": "d03315a15cbf1ab2e74340e167969b78f4a944c204047deec7b7af3228911aed"
+    },
+    "README_PAQUETE_SEO.md": {
+      "bytes": 3704,
+      "sha256": "dc1a379ce825b8f441df4eeb25969aa4867dd5727a5b780305f6df58b8ea28bd"
+    }
+  }
+}

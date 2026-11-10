@@ -9,7 +9,8 @@
     if (!Object.hasOwn(days, period)) throw new RangeError('Selecciona un periodo válido.');
     const divisor = days[period], daily = amount / divisor;
     return {divisor, daily, weekly: daily * 7, quincenal: daily * 15,
-      monthly30: daily * 30, monthly365: daily * 365 / 12, monthly52: daily * 7 * 52 / 12};
+      monthly30: daily * 30, monthly365: daily * 365 / 12, monthly52: daily * 7 * 52 / 12,
+      fourWeeklyPayments: daily * 7 * 4, fiveWeeklyPayments: daily * 7 * 5};
   }
   if (typeof module === 'object' && module.exports) module.exports = {calculate};
   if (typeof document === 'undefined') return;
@@ -66,6 +67,15 @@
       note.textContent = (period.value === 'mensual' ? 'Si capturaste un sueldo mensual, ese importe sigue siendo tu pago mensual de entrada; los promedios anuales mostrados se derivan de dividirlo entre 30. ' : '') + 'Son modelos distintos: 52 semanas suman 364 días. Los promedios sirven para comparar ingresos; no determinan lo que cobrarás en un mes concreto ni sustituyen las reglas de prestaciones, SDI o SBC.';
       const guide = document.createElement('a'); guide.href = '#metodos-mensuales'; guide.textContent = 'Cuándo usar cada equivalencia';
       details.append(note, guide);
+      if (period.value === 'semanal') {
+        const heading = document.createElement('h3'); heading.textContent = 'Si recibes cuatro o cinco pagos semanales iguales'; details.append(heading);
+        for (const [count, value] of [[4, r.fourWeeklyPayments], [5, r.fiveWeeklyPayments]]) {
+          const row = document.createElement('div'); row.className = 'result-row'; row.dataset.weeklyPayments = String(count);
+          const label = document.createElement('strong'); label.textContent = `${count} pagos de ${money(Number(salary.value))}`;
+          const total = document.createElement('span'); total.textContent = money(value); row.append(label, total); details.append(row);
+        }
+        const cashNote = document.createElement('p'); cashNote.textContent = 'Cuenta las fechas de pago del mes. Estas sumas suponen depósitos constantes del importe capturado: no son un mes de 30 días ni un promedio anual. Si capturaste bruto, tampoco representan el dinero neto que llegará a tu cuenta.'; details.append(cashNote);
+      }
       result.querySelector('.result-actions').before(details);
     });
     // A changed input must not leave an old monetary result looking current.

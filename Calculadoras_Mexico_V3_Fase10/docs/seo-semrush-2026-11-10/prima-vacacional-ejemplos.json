@@ -1,0 +1,29 @@
+[
+  {
+    "label": "Sueldo diario $480, 12 días, prima del 25%",
+    "input": {
+      "salarioDiario": 480,
+      "dias": 12,
+      "prima": 25
+    },
+    "expected_bonus": 1440.0
+  },
+  {
+    "label": "Sueldo diario $500, 12 días, prima del 50%",
+    "input": {
+      "salarioDiario": 500,
+      "dias": 12,
+      "prima": 50
+    },
+    "expected_bonus": 3000.0
+  },
+  {
+    "label": "Sueldo diario $600, 14 días, prima del 25%",
+    "input": {
+      "salarioDiario": 600,
+      "dias": 14,
+      "prima": 25
+    },
+    "expected_bonus": 2100.0
+  }
+]

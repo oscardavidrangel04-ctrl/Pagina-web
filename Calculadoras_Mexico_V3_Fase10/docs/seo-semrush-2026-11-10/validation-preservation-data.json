@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "conditions": "Static checks; no production, browser or Google indexing measurement.",
+  "preserved_files": 18,
+  "minimum_wage_table_cells": 10,
+  "visible_faq_answers": 26,
+  "unknown_source_urls_excluded": 7,
+  "indexable_routes_checked": 379
+}

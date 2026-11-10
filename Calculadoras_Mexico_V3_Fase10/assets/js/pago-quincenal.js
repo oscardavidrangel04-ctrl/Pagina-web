@@ -8,7 +8,8 @@
     if (!['mensual', 'diario'].includes(period)) throw new RangeError('Selecciona Mensual o Diario.');
     const daily = period === 'mensual' ? amount / 30 : amount;
     const monthly = period === 'mensual' ? amount : amount * 30;
-    return {monthly, daily, quincenal: period === 'mensual' ? amount / 2 : amount * 15, catorcenal: daily * 14};
+    const quincenal = period === 'mensual' ? amount / 2 : amount * 15, catorcenal = daily * 14;
+    return {monthly, daily, quincenal, catorcenal, payments24: quincenal * 24, payments26: catorcenal * 26, payments27: catorcenal * 27};
   }
   if (typeof module === 'object' && module.exports) module.exports = {calculate};
   if (typeof document === 'undefined') return;
@@ -56,6 +57,13 @@
       note.textContent = 'Se multiplica la misma cuota diaria, sin cambiar sus decimales. Esto compara días de referencia, no ofertas de sueldo ni depósitos garantizados. Dos pagos por mes y pagos cada 14 días siguen calendarios distintos.';
       const calendar = document.createElement('a'); calendar.href = '#quincena-catorcena'; calendar.textContent = 'Revisar quincena, catorcena y calendario de pagos';
       details.append(note, calendar);
+      const annualHeading = document.createElement('h3'); annualHeading.textContent = 'Suma de pagos con el mismo importe por periodo'; details.append(annualHeading);
+      for (const [count, payment, total] of [[24, r.quincenal, r.payments24], [26, r.catorcenal, r.payments26], [27, r.catorcenal, r.payments27]]) {
+        const row = document.createElement('div'); row.className = 'result-row'; row.dataset.paymentCount = String(count);
+        const label = document.createElement('strong'); label.textContent = `${count} pagos de ${money(payment)} (${count === 24 ? '15' : '14'} días de referencia)`;
+        const amount = document.createElement('span'); amount.textContent = money(total); row.append(label, amount); details.append(row);
+      }
+      const annualNote = document.createElement('p'); annualNote.textContent = 'Son sumas hipotéticas de pagos brutos constantes: 24 × 15 representa 360 días de referencia; 26 × 14, 364; y 27 × 14, 378. Tener 27 fechas de cobro dentro de un año no significa trabajar 378 días de ese año: los periodos pueden cruzar sus límites. No son tres sueldos anuales equivalentes; revisa el calendario, los importes pactados y los conceptos del recibo.'; details.append(annualNote);
       const tax = document.createElement('p');
       const taxLink = document.createElement('a'); taxLink.href = '#isr-quincenal-pasos'; taxLink.textContent = 'Cómo revisar ISR y deducciones de esta quincena'; tax.append(taxLink);
       result.querySelector('.result-actions').before(details, tax);

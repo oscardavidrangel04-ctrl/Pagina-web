@@ -30,3 +30,6 @@ html{scroll-padding-top:92px}.cm-ui{background:var(--bg)!important;color:var(--t
   .cm-ui .calc-controls{display:grid;grid-template-columns:minmax(0,1fr)}
   .cm-ui .calc-controls>:is(.calc-button,.reset-button){width:100%;min-width:0;white-space:normal;overflow-wrap:normal;word-break:normal}
 }
+/* Optional example controls keep the existing palette and wrap on narrow screens. */
+.cm-ui .calc-examples .calc-controls{flex-wrap:wrap;align-items:stretch}
+.cm-ui .calc-examples [data-calc-example]{flex:1 1 15rem;min-width:0;max-width:100%;white-space:normal;text-align:left;cursor:pointer;overflow-wrap:anywhere}

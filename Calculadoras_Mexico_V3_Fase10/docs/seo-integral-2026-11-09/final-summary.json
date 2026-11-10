@@ -1,0 +1,982 @@
+{
+  "indexable": 379,
+  "physical_html": 408,
+  "public_files": 492,
+  "changed_html_files": 20,
+  "changed_canonical_urls": 19,
+  "bono_classification": {
+    "Excluir": 101,
+    "Enlazar a contenido específico": 12,
+    "Priorizar si el bono es laboral": 74,
+    "No orientar esta URL": 8,
+    "Secundaria; no prometer archivo Excel": 10,
+    "Explicar alcance y enlazar": 26
+  },
+  "competitor_rows": 191,
+  "competitor_unique_keywords": 131,
+  "competitor_missing_positions": 61,
+  "keyword_overlaps": 96,
+  "performance": [
+    {
+      "url": "/articulos/isr-semanal-quincenal-mensual.html",
+      "html_bytes_antes": 33050,
+      "html_gzip_bytes_antes": 9716,
+      "js_bytes_antes": 49654,
+      "js_gzip_bytes_antes": 15261,
+      "css_bytes_antes": 170239,
+      "css_gzip_bytes_antes": 31743,
+      "html_bytes_despues": 38480,
+      "html_gzip_bytes_despues": 11273,
+      "js_bytes_despues": 58118,
+      "js_gzip_bytes_despues": 17945,
+      "css_bytes_despues": 171168,
+      "css_gzip_bytes_despues": 32052,
+      "js_diferencia_bytes": 8464,
+      "html_diferencia_bytes": 5430
+    },
+    {
+      "url": "/calculadoras/bono.html",
+      "html_bytes_antes": 31186,
+      "html_gzip_bytes_antes": 9208,
+      "js_bytes_antes": 93924,
+      "js_gzip_bytes_antes": 26767,
+      "css_bytes_antes": 169610,
+      "css_gzip_bytes_antes": 31410,
+      "html_bytes_despues": 34923,
+      "html_gzip_bytes_despues": 10235,
+      "js_bytes_despues": 69417,
+      "js_gzip_bytes_despues": 21152,
+      "css_bytes_despues": 169927,
+      "css_gzip_bytes_despues": 31497,
+      "js_diferencia_bytes": -24507,
+      "html_diferencia_bytes": 3737
+    },
+    {
+      "url": "/calculadoras/ahorro-mensual.html",
+      "html_bytes_antes": 26318,
+      "html_gzip_bytes_antes": 7266,
+      "js_bytes_antes": 93924,
+      "js_gzip_bytes_antes": 26767,
+      "css_bytes_antes": 169610,
+      "css_gzip_bytes_antes": 31410,
+      "html_bytes_despues": 23819,
+      "html_gzip_bytes_despues": 6886,
+      "js_bytes_despues": 95284,
+      "js_gzip_bytes_despues": 27138,
+      "css_bytes_despues": 169927,
+      "css_gzip_bytes_despues": 31497,
+      "js_diferencia_bytes": 1360,
+      "html_diferencia_bytes": -2499
+    },
+    {
+      "url": "/calculadoras/margen-ganancia.html",
+      "html_bytes_antes": 25086,
+      "html_gzip_bytes_antes": 7034,
+      "js_bytes_antes": 93924,
+      "js_gzip_bytes_antes": 26767,
+      "css_bytes_antes": 169610,
+      "css_gzip_bytes_antes": 31410,
+      "html_bytes_despues": 22268,
+      "html_gzip_bytes_despues": 6575,
+      "js_bytes_despues": 95284,
+      "js_gzip_bytes_despues": 27138,
+      "css_bytes_despues": 169927,
+      "css_gzip_bytes_despues": 31497,
+      "js_diferencia_bytes": 1360,
+      "html_diferencia_bytes": -2818
+    },
+    {
+      "url": "/calculadoras/iva-incluido.html",
+      "html_bytes_antes": 19420,
+      "html_gzip_bytes_antes": 5797,
+      "js_bytes_antes": 93924,
+      "js_gzip_bytes_antes": 26767,
+      "css_bytes_antes": 169610,
+      "css_gzip_bytes_antes": 31410,
+      "html_bytes_despues": 19894,
+      "html_gzip_bytes_despues": 5946,
+      "js_bytes_despues": 95284,
+      "js_gzip_bytes_despues": 27138,
+      "css_bytes_despues": 169927,
+      "css_gzip_bytes_despues": 31497,
+      "js_diferencia_bytes": 1360,
+      "html_diferencia_bytes": 474
+    },
+    {
+      "url": "/calculadoras/precio-venta.html",
+      "html_bytes_antes": 29047,
+      "html_gzip_bytes_antes": 7699,
+      "js_bytes_antes": 93924,
+      "js_gzip_bytes_antes": 26767,
+      "css_bytes_antes": 169610,
+      "css_gzip_bytes_antes": 31410,
+      "html_bytes_despues": 26000,
+      "html_gzip_bytes_despues": 7246,
+      "js_bytes_despues": 95284,
+      "js_gzip_bytes_despues": 27138,
+      "css_bytes_despues": 169927,
+      "css_gzip_bytes_despues": 31497,
+      "js_diferencia_bytes": 1360,
+      "html_diferencia_bytes": -3047
+    },
+    {
+      "url": "/calculadoras/regla-tres.html",
+      "html_bytes_antes": 22614,
+      "html_gzip_bytes_antes": 6666,
+      "js_bytes_antes": 93924,
+      "js_gzip_bytes_antes": 26767,
+      "css_bytes_antes": 169610,
+      "css_gzip_bytes_antes": 31410,
+      "html_bytes_despues": 21123,
+      "html_gzip_bytes_despues": 6360,
+      "js_bytes_despues": 95284,
+      "js_gzip_bytes_despues": 27138,
+      "css_bytes_despues": 169927,
+      "css_gzip_bytes_despues": 31497,
+      "js_diferencia_bytes": 1360,
+      "html_diferencia_bytes": -1491
+    }
+  ],
+  "page_metrics": {
+    "/articulos/que-es-ptu.html": {
+      "clicks": 0.0,
+      "impressions": 69.0,
+      "ctr": 0.0,
+      "position": 58.16,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/como-calcular-prima-vacacional.html": {
+      "clicks": 0.0,
+      "impressions": 148.0,
+      "ctr": 0.0,
+      "position": 41.59,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/con-que-salario-se-calcula-aguinaldo.html": {
+      "clicks": 0.0,
+      "impressions": 307.0,
+      "ctr": 0.0,
+      "position": 18.88,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/finiquito-renuncia-voluntaria.html": {
+      "clicks": 0.0,
+      "impressions": 221.0,
+      "ctr": 0.0,
+      "position": 16.1,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/asimilados-a-salarios-isr.html": {
+      "clicks": 0.0,
+      "impressions": 83.0,
+      "ctr": 0.0,
+      "position": 35.34,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuando-se-pagan-utilidades.html": {
+      "clicks": 0.0,
+      "impressions": 88.0,
+      "ctr": 0.0,
+      "position": 21.14,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/prima-vacacional.html": {
+      "clicks": 2.0,
+      "impressions": 427.0,
+      "ctr": 0.004699999999999999,
+      "position": 57.74,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/que-son-honorarios.html": {
+      "clicks": 0.0,
+      "impressions": 147.0,
+      "ctr": 0.0,
+      "position": 64.12,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/ptu-exenta-isr.html": {
+      "clicks": 0.0,
+      "impressions": 202.0,
+      "ctr": 0.0,
+      "position": 18.77,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/que-es-salario-base-cotizacion.html": {
+      "clicks": 2.0,
+      "impressions": 125.0,
+      "ctr": 0.016,
+      "position": 24.31,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuando-pagan-finiquito.html": {
+      "clicks": 1.0,
+      "impressions": 471.0,
+      "ctr": 0.0021,
+      "position": 11.57,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/como-saber-saldo-favor-sat.html": {
+      "clicks": 0.0,
+      "impressions": 39.0,
+      "ctr": 0.0,
+      "position": 69.1,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/dias-de-aguinaldo.html": {
+      "clicks": 0.0,
+      "impressions": 130.0,
+      "ctr": 0.0,
+      "position": 43.86,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/salario-neto.html": {
+      "clicks": 6.0,
+      "impressions": 1986.0,
+      "ctr": 0.003,
+      "position": 30.71,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/aguinaldo-por-meses.html": {
+      "clicks": 1.0,
+      "impressions": 191.0,
+      "ctr": 0.0052,
+      "position": 21.2,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/salario-minimo-2026.html": {
+      "clicks": 0.0,
+      "impressions": 24.0,
+      "ctr": 0.0,
+      "position": 43.96,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/pago-quincenal.html": {
+      "clicks": 109.0,
+      "impressions": 17142.0,
+      "ctr": 0.0064,
+      "position": 4.99,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/salario-bruto-neto.html": {
+      "clicks": 0.0,
+      "impressions": 387.0,
+      "ctr": 0.0,
+      "position": 39.92,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/recibo-de-aguinaldo.html": {
+      "clicks": 0.0,
+      "impressions": 9.0,
+      "ctr": 0.0,
+      "position": 12.67,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/aguinaldo.html": {
+      "clicks": 2.0,
+      "impressions": 1006.0,
+      "ctr": 0.002,
+      "position": 58.03,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/salario-minimo-diario-mensual-2026.html": {
+      "clicks": 0.0,
+      "impressions": 249.0,
+      "ctr": 0.0,
+      "position": 10.15,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuanto-se-deja-propina-mexico.html": {
+      "clicks": 0.0,
+      "impressions": 403.0,
+      "ctr": 0.0,
+      "position": 10.02,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/trabajadores-sin-derecho-reparto-utilidades.html": {
+      "clicks": 0.0,
+      "impressions": 14.0,
+      "ctr": 0.0,
+      "position": 11.07,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/aguinaldo-por-antiguedad.html": {
+      "clicks": 3.0,
+      "impressions": 672.0,
+      "ctr": 0.0045000000000000005,
+      "position": 11.96,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/": {
+      "clicks": 3.0,
+      "impressions": 422.0,
+      "ctr": 0.0070999999999999995,
+      "position": 59.64,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/aguinaldo-pensionados-issste.html": {
+      "clicks": 0.0,
+      "impressions": 34.0,
+      "ctr": 0.0,
+      "position": 16.62,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/propina-obligatoria-mexico.html": {
+      "clicks": 0.0,
+      "impressions": 311.0,
+      "ctr": 0.0,
+      "position": 10.07,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/pago-incapacidad-imss.html": {
+      "clicks": 0.0,
+      "impressions": 137.0,
+      "ctr": 0.0,
+      "position": 15.02,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/aguinaldo-isr-2026.html": {
+      "clicks": 0.0,
+      "impressions": 19.0,
+      "ctr": 0.0,
+      "position": 20.32,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/iva-incluido.html": {
+      "clicks": 1.0,
+      "impressions": 555.0,
+      "ctr": 0.0018,
+      "position": 58.15,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/para-que-sirve-constancia-situacion-fiscal.html": {
+      "clicks": 0.0,
+      "impressions": 52.0,
+      "ctr": 0.0,
+      "position": 73.33,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/que-es-el-aguinaldo.html": {
+      "clicks": 0.0,
+      "impressions": 191.0,
+      "ctr": 0.0,
+      "position": 61.48,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/me-pueden-negar-vacaciones.html": {
+      "clicks": 0.0,
+      "impressions": 18.0,
+      "ctr": 0.0,
+      "position": 11.33,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/como-calcular-aguinaldo.html": {
+      "clicks": 0.0,
+      "impressions": 322.0,
+      "ctr": 0.0,
+      "position": 68.06,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos.html": {
+      "clicks": 1.0,
+      "impressions": 27.0,
+      "ctr": 0.037000000000000005,
+      "position": 18.3,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/como-calcular-isr-sueldo.html": {
+      "clicks": 1.0,
+      "impressions": 197.0,
+      "ctr": 0.0051,
+      "position": 59.22,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/aguinaldo-6-meses.html": {
+      "clicks": 0.0,
+      "impressions": 153.0,
+      "ctr": 0.0,
+      "position": 19.6,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/interes-compuesto.html": {
+      "clicks": 0.0,
+      "impressions": 126.0,
+      "ctr": 0.0,
+      "position": 33.0,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/semanas-cotizadas-pension-imss.html": {
+      "clicks": 0.0,
+      "impressions": 17.0,
+      "ctr": 0.0,
+      "position": 62.65,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/pagare-bancario-como-funciona.html": {
+      "clicks": 0.0,
+      "impressions": 87.0,
+      "ctr": 0.0,
+      "position": 64.59,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/isr-semanal-quincenal-mensual.html": {
+      "clicks": 11.0,
+      "impressions": 457.0,
+      "ctr": 0.0241,
+      "position": 16.72,
+      "source": "GSC hoja Páginas; 2026-08-05/2026-11-07; isr/Google_Search_Console/https___calculadora-isr-mexico.vercel.app_-Performance-on-Search-2026-11-08(3).xlsx"
+    },
+    "/articulos/incapacidades-afectan-aguinaldo.html": {
+      "clicks": 2.0,
+      "impressions": 105.0,
+      "ctr": 0.019,
+      "position": 9.58,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/que-es-el-isr.html": {
+      "clicks": 0.0,
+      "impressions": 319.0,
+      "ctr": 0.0,
+      "position": 57.62,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/aguinaldo-proporcional.html": {
+      "clicks": 0.0,
+      "impressions": 221.0,
+      "ctr": 0.0,
+      "position": 42.7,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/spei-liquidado-pero-no-recibido.html": {
+      "clicks": 1.0,
+      "impressions": 302.0,
+      "ctr": 0.0033,
+      "position": 11.35,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/salario-diario.html": {
+      "clicks": 133.0,
+      "impressions": 22291.0,
+      "ctr": 0.006,
+      "position": 4.97,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/conservacion-derechos-imss-ley-73.html": {
+      "clicks": 1.0,
+      "impressions": 151.0,
+      "ctr": 0.0066,
+      "position": 13.19,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/declaracion-mensual-sat.html": {
+      "clicks": 0.0,
+      "impressions": 38.0,
+      "ctr": 0.0,
+      "position": 33.82,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/retiro-por-desempleo-afore.html": {
+      "clicks": 0.0,
+      "impressions": 55.0,
+      "ctr": 0.0,
+      "position": 57.87,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/visor-deducciones-personales-sat.html": {
+      "clicks": 2.0,
+      "impressions": 26.0,
+      "ctr": 0.07690000000000001,
+      "position": 25.15,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/verificar-agente-seguros-cnsf.html": {
+      "clicks": 0.0,
+      "impressions": 46.0,
+      "ctr": 0.0,
+      "position": 12.63,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/regla-tres.html": {
+      "clicks": 2.0,
+      "impressions": 402.0,
+      "ctr": 0.005,
+      "position": 31.41,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/finanzas-personales-excel.html": {
+      "clicks": 0.0,
+      "impressions": 84.0,
+      "ctr": 0.0,
+      "position": 12.39,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/tasa-promocional-cuenta-ahorro.html": {
+      "clicks": 0.0,
+      "impressions": 6.0,
+      "ctr": 0.0,
+      "position": 34.33,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/es-seguro-invertir-en-cetes.html": {
+      "clicks": 0.0,
+      "impressions": 68.0,
+      "ctr": 0.0,
+      "position": 25.13,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/deducciones-personales-2026.html": {
+      "clicks": 0.0,
+      "impressions": 11.0,
+      "ctr": 0.0,
+      "position": 32.82,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/carta-finiquito-laboral.html": {
+      "clicks": 0.0,
+      "impressions": 92.0,
+      "ctr": 0.0,
+      "position": 12.2,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/margen-ganancia.html": {
+      "clicks": 2.0,
+      "impressions": 562.0,
+      "ctr": 0.0036,
+      "position": 12.4,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/negativa-pension-imss.html": {
+      "clicks": 0.0,
+      "impressions": 30.0,
+      "ctr": 0.0,
+      "position": 27.03,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/propina.html": {
+      "clicks": 1.0,
+      "impressions": 327.0,
+      "ctr": 0.0031,
+      "position": 16.3,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/formato-finiquito-laboral.html": {
+      "clicks": 1.0,
+      "impressions": 31.0,
+      "ctr": 0.0323,
+      "position": 25.81,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/referencia-spei-vs-clave-rastreo.html": {
+      "clicks": 0.0,
+      "impressions": 61.0,
+      "ctr": 0.0,
+      "position": 7.15,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuando-se-paga-aguinaldo.html": {
+      "clicks": 0.0,
+      "impressions": 29.0,
+      "ctr": 0.0,
+      "position": 67.0,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/salario-hora.html": {
+      "clicks": 6.0,
+      "impressions": 1397.0,
+      "ctr": 0.0043,
+      "position": 7.23,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuenta-ahorro-para-ninos.html": {
+      "clicks": 0.0,
+      "impressions": 43.0,
+      "ctr": 0.0,
+      "position": 73.02,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/dias-festivos-obligatorios-2026.html": {
+      "clicks": 0.0,
+      "impressions": 26.0,
+      "ctr": 0.0,
+      "position": 37.62,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/isr-prima-vacacional.html": {
+      "clicks": 5.0,
+      "impressions": 496.0,
+      "ctr": 0.0101,
+      "position": 8.14,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuando-se-pagan-vacaciones.html": {
+      "clicks": 0.0,
+      "impressions": 47.0,
+      "ctr": 0.0,
+      "position": 51.51,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/deducible-vs-coaseguro.html": {
+      "clicks": 0.0,
+      "impressions": 5.0,
+      "ctr": 0.0,
+      "position": 15.8,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/que-incluye-finiquito.html": {
+      "clicks": 0.0,
+      "impressions": 264.0,
+      "ctr": 0.0,
+      "position": 8.32,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuanto-toca-despido-injustificado.html": {
+      "clicks": 0.0,
+      "impressions": 14.0,
+      "ctr": 0.0,
+      "position": 14.21,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/finiquito-por-antiguedad.html": {
+      "clicks": 0.0,
+      "impressions": 64.0,
+      "ctr": 0.0,
+      "position": 11.33,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuentas-ahorro-sin-comisiones.html": {
+      "clicks": 0.0,
+      "impressions": 15.0,
+      "ctr": 0.0,
+      "position": 18.93,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/como-cambiar-de-afore.html": {
+      "clicks": 0.0,
+      "impressions": 34.0,
+      "ctr": 0.0,
+      "position": 55.32,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/que-es-salario-diario-integrado.html": {
+      "clicks": 0.0,
+      "impressions": 110.0,
+      "ctr": 0.0,
+      "position": 50.25,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/diferencia-fechas.html": {
+      "clicks": 0.0,
+      "impressions": 123.0,
+      "ctr": 0.0,
+      "position": 15.52,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/como-calcular-salario-diario-integrado.html": {
+      "clicks": 0.0,
+      "impressions": 274.0,
+      "ctr": 0.0,
+      "position": 43.16,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuenta-de-ahorro.html": {
+      "clicks": 0.0,
+      "impressions": 149.0,
+      "ctr": 0.0,
+      "position": 61.23,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/categorias-finanzas-personales.html": {
+      "clicks": 0.0,
+      "impressions": 7.0,
+      "ctr": 0.0,
+      "position": 18.14,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/credito-automotriz.html": {
+      "clicks": 0.0,
+      "impressions": 167.0,
+      "ctr": 0.0,
+      "position": 30.51,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/simulador-credito-automotriz.html": {
+      "clicks": 1.0,
+      "impressions": 503.0,
+      "ctr": 0.002,
+      "position": 49.01,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/persona-fisica-actividad-empresarial.html": {
+      "clicks": 0.0,
+      "impressions": 18.0,
+      "ctr": 0.0,
+      "position": 63.61,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/edad.html": {
+      "clicks": 0.0,
+      "impressions": 64.0,
+      "ctr": 0.0,
+      "position": 43.58,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/que-es-el-cat-en-tarjeta-de-credito.html": {
+      "clicks": 0.0,
+      "impressions": 67.0,
+      "ctr": 0.0,
+      "position": 70.22,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/desde-que-dia-paga-imss-incapacidad.html": {
+      "clicks": 1.0,
+      "impressions": 100.0,
+      "ctr": 0.01,
+      "position": 10.24,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/aportaciones-voluntarias-afore.html": {
+      "clicks": 0.0,
+      "impressions": 21.0,
+      "ctr": 0.0,
+      "position": 65.62,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/precio-venta.html": {
+      "clicks": 0.0,
+      "impressions": 397.0,
+      "ctr": 0.0,
+      "position": 50.17,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/como-saber-en-que-afore-estoy.html": {
+      "clicks": 0.0,
+      "impressions": 114.0,
+      "ctr": 0.0,
+      "position": 74.24,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cetes-28-vs-91-dias.html": {
+      "clicks": 0.0,
+      "impressions": 21.0,
+      "ctr": 0.0,
+      "position": 47.81,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuenta-ahorro-digital.html": {
+      "clicks": 0.0,
+      "impressions": 67.0,
+      "ctr": 0.0,
+      "position": 74.33,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/plazo-solicitar-factura.html": {
+      "clicks": 0.0,
+      "impressions": 19.0,
+      "ctr": 0.0,
+      "position": 17.0,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/carta-pago-deuda.html": {
+      "clicks": 0.0,
+      "impressions": 75.0,
+      "ctr": 0.0,
+      "position": 12.21,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/que-es-el-finiquito.html": {
+      "clicks": 0.0,
+      "impressions": 101.0,
+      "ctr": 0.0,
+      "position": 49.6,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/fondo-emergencia.html": {
+      "clicks": 0.0,
+      "impressions": 12.0,
+      "ctr": 0.0,
+      "position": 16.17,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/como-se-cuentan-dias-vacaciones.html": {
+      "clicks": 0.0,
+      "impressions": 20.0,
+      "ctr": 0.0,
+      "position": 53.75,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/interes-compuesto.html": {
+      "clicks": 0.0,
+      "impressions": 103.0,
+      "ctr": 0.0,
+      "position": 79.72,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/punto-equilibrio.html": {
+      "clicks": 2.0,
+      "impressions": 55.0,
+      "ctr": 0.0364,
+      "position": 30.36,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/aguinaldo-3-meses.html": {
+      "clicks": 3.0,
+      "impressions": 506.0,
+      "ctr": 0.0059,
+      "position": 7.38,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/costo-unidad.html": {
+      "clicks": 0.0,
+      "impressions": 121.0,
+      "ctr": 0.0,
+      "position": 15.56,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/factor-integracion-sdi.html": {
+      "clicks": 0.0,
+      "impressions": 39.0,
+      "ctr": 0.0,
+      "position": 10.59,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/xml-factura-electronica.html": {
+      "clicks": 0.0,
+      "impressions": 30.0,
+      "ctr": 0.0,
+      "position": 68.97,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuanto-quitan-isr-sueldo.html": {
+      "clicks": 1.0,
+      "impressions": 32.0,
+      "ctr": 0.031200000000000002,
+      "position": 63.59,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/horario-transferencias-spei.html": {
+      "clicks": 0.0,
+      "impressions": 517.0,
+      "ctr": 0.0,
+      "position": 11.0,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/dias-vacaciones-por-antiguedad-2026.html": {
+      "clicks": 0.0,
+      "impressions": 106.0,
+      "ctr": 0.0,
+      "position": 37.14,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/que-es-propina.html": {
+      "clicks": 0.0,
+      "impressions": 697.0,
+      "ctr": 0.0,
+      "position": 10.66,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/retencion-isr-resico.html": {
+      "clicks": 0.0,
+      "impressions": 50.0,
+      "ctr": 0.0,
+      "position": 25.66,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/presupuesto-personal.html": {
+      "clicks": 0.0,
+      "impressions": 200.0,
+      "ctr": 0.0,
+      "position": 12.0,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/despido-indemnizacion-liquidacion.html": {
+      "clicks": 0.0,
+      "impressions": 64.0,
+      "ctr": 0.0,
+      "position": 42.48,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/ahorro-mensual.html": {
+      "clicks": 3.0,
+      "impressions": 1303.0,
+      "ctr": 0.0023,
+      "position": 8.55,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/cuanto-cuesta-seguro-gastos-medicos-mayores.html": {
+      "clicks": 0.0,
+      "impressions": 77.0,
+      "ctr": 0.0,
+      "position": 78.3,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/pension-imss-ley-73.html": {
+      "clicks": 0.0,
+      "impressions": 25.0,
+      "ctr": 0.0,
+      "position": 23.8,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/como-invertir-en-cetes.html": {
+      "clicks": 0.0,
+      "impressions": 7.0,
+      "ctr": 0.0,
+      "position": 75.86,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/que-es-seguro-gastos-medicos-mayores.html": {
+      "clicks": 0.0,
+      "impressions": 106.0,
+      "ctr": 0.0,
+      "position": 68.74,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/salario-diario-integrado.html": {
+      "clicks": 2.0,
+      "impressions": 262.0,
+      "ctr": 0.0076,
+      "position": 24.42,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/descuentos-nomina-isr-imss.html": {
+      "clicks": 0.0,
+      "impressions": 146.0,
+      "ctr": 0.0,
+      "position": 15.89,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/como-calcular-ptu.html": {
+      "clicks": 0.0,
+      "impressions": 14.0,
+      "ctr": 0.0,
+      "position": 55.43,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/seguro-dotal.html": {
+      "clicks": 1.0,
+      "impressions": 50.0,
+      "ctr": 0.02,
+      "position": 45.66,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/con-que-salario-se-calcula-finiquito.html": {
+      "clicks": 1.0,
+      "impressions": 46.0,
+      "ctr": 0.0217,
+      "position": 17.37,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/articulos/finiquito-vs-liquidacion.html": {
+      "clicks": 0.0,
+      "impressions": 33.0,
+      "ctr": 0.0,
+      "position": 65.61,
+      "source": "2026-08-03/2026-11-04; page-level metrics, do not sum by keyword; docs/seo-avanzado/matriz-oportunidades.csv"
+    },
+    "/calculadoras/bono.html": {
+      "clicks": 30.0,
+      "impressions": 1191.0,
+      "ctr": 0.0252,
+      "position": 4.23,
+      "source": "GSC hoja Páginas; 2026-08-05/2026-11-07; bono/Google_Search_Console/https___calculadora-isr-mexico.vercel.app_-Performance-on-Search-2026-11-08(2).xlsx"
+    }
+  }
+}

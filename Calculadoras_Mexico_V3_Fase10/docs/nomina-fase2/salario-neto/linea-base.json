@@ -1,0 +1,452 @@
+{
+  "target_url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html",
+  "analysis_date": "2026-11-09",
+  "files": [
+    {
+      "path": "LEEME_SEO.md",
+      "bytes": 870,
+      "sha256": "d58b6178a9ecd11382fb7f4727e81fb199f06962919a791acb28072faf51ffbc"
+    },
+    {
+      "path": "Datos_SEMrush/SEMrush_Salario_Neto_86_Posiciones.xlsx",
+      "bytes": 9120,
+      "sha256": "994287e3e744ce54ccdcd830e008776ca6d8aa144fec4e31aec1308e7a92debb"
+    },
+    {
+      "path": "Datos_SEMrush/Texto pegado(2).txt",
+      "bytes": 10594,
+      "sha256": "ede09c25d24fcab856a3da174d81250053fa1d28b225c43cc3bfb5d8b211b5de"
+    },
+    {
+      "path": "Google_Search_Console/https___calculadora-isr-mexico.vercel.app_-Performance-on-Search-2026-11-08(4).xlsx",
+      "bytes": 17884,
+      "sha256": "4cdc5a561ac5f1fb7e2206319cabfd6b2cb1ea638941072f23f4929ca8c4b456"
+    }
+  ],
+  "gsc": {
+    "sheets": {
+      "Gráfico": {
+        "rows": 95,
+        "clicks": 6.0,
+        "impressions": 2087.0,
+        "ctr_calculated_percent": 0.287494010541447
+      },
+      "Consultas": {
+        "rows": 300,
+        "clicks": 2.0,
+        "impressions": 947.0,
+        "ctr_calculated_percent": 0.21119324181626187
+      },
+      "Páginas": {
+        "rows": 1,
+        "clicks": 6.0,
+        "impressions": 2087.0,
+        "ctr_calculated_percent": 0.287494010541447,
+        "values": [
+          [
+            "Páginas principales",
+            "Clics",
+            "Impresiones",
+            "CTR",
+            "Posición"
+          ],
+          [
+            "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html",
+            6.0,
+            2087.0,
+            0.0029,
+            31.59
+          ]
+        ]
+      },
+      "Países": {
+        "rows": 9,
+        "clicks": 2.0,
+        "impressions": 947.0,
+        "ctr_calculated_percent": 0.21119324181626187,
+        "values": [
+          [
+            "País",
+            "Clics",
+            "Impresiones",
+            "CTR",
+            "Posición"
+          ],
+          [
+            "México",
+            2.0,
+            939.0,
+            0.0021,
+            58.96
+          ],
+          [
+            "Japón",
+            0.0,
+            1.0,
+            0.0,
+            10.0
+          ],
+          [
+            "Reino Unido",
+            0.0,
+            1.0,
+            0.0,
+            19.0
+          ],
+          [
+            "Montenegro",
+            0.0,
+            1.0,
+            0.0,
+            22.0
+          ],
+          [
+            "Bélgica",
+            0.0,
+            1.0,
+            0.0,
+            23.0
+          ],
+          [
+            "Sudáfrica",
+            0.0,
+            1.0,
+            0.0,
+            71.0
+          ],
+          [
+            "Brasil",
+            0.0,
+            1.0,
+            0.0,
+            74.0
+          ],
+          [
+            "España",
+            0.0,
+            1.0,
+            0.0,
+            85.0
+          ],
+          [
+            "Estados Unidos",
+            0.0,
+            1.0,
+            0.0,
+            98.0
+          ]
+        ]
+      },
+      "Dispositivos": {
+        "rows": 3,
+        "clicks": 2.0,
+        "impressions": 947.0,
+        "ctr_calculated_percent": 0.21119324181626187,
+        "values": [
+          [
+            "Dispositivo",
+            "Clics",
+            "Impresiones",
+            "CTR",
+            "Posición"
+          ],
+          [
+            "Ordenador",
+            2.0,
+            842.0,
+            0.0024,
+            65.03
+          ],
+          [
+            "Móviles",
+            0.0,
+            103.0,
+            0.0,
+            8.21
+          ],
+          [
+            "Tablet",
+            0.0,
+            2.0,
+            0.0,
+            81.0
+          ]
+        ]
+      },
+      "Aparición en búsquedas": {
+        "rows": 0,
+        "values": [
+          [
+            "Aparición en búsquedas",
+            "Clics",
+            "Impresiones",
+            "CTR",
+            "Posición"
+          ]
+        ]
+      },
+      "Filtros": {
+        "rows": 3,
+        "values": [
+          [
+            "Filtrar",
+            "Valor"
+          ],
+          [
+            "Tipo de búsqueda",
+            "Web (basada en texto)"
+          ],
+          [
+            "Fecha",
+            "5 ago 2026-7 nov 2026"
+          ],
+          [
+            "Página",
+            "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-neto.html"
+          ]
+        ]
+      }
+    },
+    "period_start": "2026-08-05",
+    "period_end": "2026-11-07",
+    "page_average_position": 31.59,
+    "windows": [
+      {
+        "start": "2026-09-13",
+        "end": "2026-10-10",
+        "days": 28,
+        "clicks": 4.0,
+        "impressions": 1232.0,
+        "ctr_percent": 0.3246753246753247
+      },
+      {
+        "start": "2026-10-11",
+        "end": "2026-11-07",
+        "days": 28,
+        "clicks": 2.0,
+        "impressions": 774.0,
+        "ctr_percent": 0.2583979328165375
+      }
+    ],
+    "editorial_intent_groups": {
+      "Cálculo bruto a neto": {
+        "queries": 96,
+        "impressions": 441.0,
+        "clicks": 1.0
+      },
+      "Sueldo bruto": {
+        "queries": 29,
+        "impressions": 75.0,
+        "clicks": 1.0
+      },
+      "Conversión inversa": {
+        "queries": 18,
+        "impressions": 98.0,
+        "clicks": 0.0
+      },
+      "Salario genérico / ambiguo": {
+        "queries": 33,
+        "impressions": 94.0,
+        "clicks": 0.0
+      },
+      "Diferencia bruto / neto": {
+        "queries": 20,
+        "impressions": 42.0,
+        "clicks": 0.0
+      },
+      "ISR e impuestos": {
+        "queries": 48,
+        "impressions": 101.0,
+        "clicks": 0.0
+      },
+      "Conversión anual": {
+        "queries": 5,
+        "impressions": 16.0,
+        "clicks": 0.0
+      },
+      "Fuera de alcance: otra fecha o marca": {
+        "queries": 11,
+        "impressions": 21.0,
+        "clicks": 0.0
+      },
+      "Deducciones del recibo": {
+        "queries": 3,
+        "impressions": 8.0,
+        "clicks": 0.0
+      },
+      "Nómina general": {
+        "queries": 14,
+        "impressions": 25.0,
+        "clicks": 0.0
+      },
+      "Conversión diaria": {
+        "queries": 4,
+        "impressions": 6.0,
+        "clicks": 0.0
+      },
+      "Importes bruto a neto": {
+        "queries": 16,
+        "impressions": 17.0,
+        "clicks": 0.0
+      },
+      "SBC / SDI": {
+        "queries": 3,
+        "impressions": 3.0,
+        "clicks": 0.0
+      }
+    },
+    "position_buckets": {
+      "21–50": 41,
+      "51–100": 202,
+      "11–20": 19,
+      "4–10": 23,
+      "1–3": 15
+    }
+  },
+  "semrush": {
+    "records": 86,
+    "unique_normalized_keywords": 80,
+    "estimated_traffic_sum_rows": 313,
+    "protected_keyword_estimated_traffic": 312,
+    "record_position_buckets": {
+      "1–3": 1,
+      "11–20": 1,
+      "21–50": 3,
+      "51–100": 81
+    },
+    "duplicates": [
+      {
+        "keyword": "salario despues de impuestos mexico",
+        "positions": [
+          39,
+          47
+        ],
+        "volumes": [
+          40,
+          40
+        ],
+        "kd": [
+          16,
+          16
+        ],
+        "dates": [
+          "29 sept",
+          "29 sept"
+        ]
+      },
+      {
+        "keyword": "salsrio neto",
+        "positions": [
+          59,
+          83
+        ],
+        "volumes": [
+          70,
+          70
+        ],
+        "kd": [
+          48,
+          48
+        ],
+        "dates": [
+          "07 oct",
+          "07 oct"
+        ]
+      },
+      {
+        "keyword": "salario neto y bruto calculadora",
+        "positions": [
+          75,
+          84
+        ],
+        "volumes": [
+          30,
+          30
+        ],
+        "kd": [
+          42,
+          42
+        ],
+        "dates": [
+          "15 oct",
+          "15 oct"
+        ]
+      },
+      {
+        "keyword": "pago neto",
+        "positions": [
+          79,
+          85
+        ],
+        "volumes": [
+          390,
+          390
+        ],
+        "kd": [
+          26,
+          26
+        ],
+        "dates": [
+          "4 días",
+          "4 días"
+        ]
+      },
+      {
+        "keyword": "calcular salario neto a bruto",
+        "positions": [
+          89,
+          90
+        ],
+        "volumes": [
+          260,
+          260
+        ],
+        "kd": [
+          45,
+          45
+        ],
+        "dates": [
+          "3 días",
+          "3 días"
+        ]
+      },
+      {
+        "keyword": "calculadora de salario base de cotizacion",
+        "positions": [
+          93,
+          94
+        ],
+        "volumes": [
+          90,
+          140
+        ],
+        "kd": [
+          19,
+          17
+        ],
+        "dates": [
+          "28 oct",
+          "26 oct"
+        ]
+      }
+    ],
+    "keywords_missing_from_original_txt": [],
+    "dates_resolution": "Unresolved; day/month without year and relative dates. Extraction date stated in package is not observation date.",
+    "country_device_database": "Not specified by supplied columns."
+  },
+  "matrix": {
+    "rows": 304,
+    "gsc_rows": 300,
+    "semrush_only_rows": 4,
+    "gsc_rows_matching_semrush": 78,
+    "priority_counts": {
+      "P3: consolidar intención": 103,
+      "Enlazar intención especializada": 121,
+      "P1: relevancia cercana": 4,
+      "P0: proteger": 1,
+      "No expandir / contextual": 58,
+      "Protección cauta": 15,
+      "P2: oportunidad SEMrush": 2
+    }
+  }
+}

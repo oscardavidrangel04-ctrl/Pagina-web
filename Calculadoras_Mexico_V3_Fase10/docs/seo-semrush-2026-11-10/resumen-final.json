@@ -1,0 +1,24 @@
+{
+  "canonical_urls_changed_cumulative": 60,
+  "html_source_files_changed_cumulative": 62,
+  "non_cosmetic_urls_cumulative": 27,
+  "additional_substantive_urls": 9,
+  "additional_substantive_html": 10,
+  "additional_cosmetic_urls": 33,
+  "public_files": 492,
+  "physical_html": 408,
+  "html_with_body": 407,
+  "indexable_routes": 379,
+  "research_rows": 1272,
+  "research_unique_keywords": 1023,
+  "research_confirmed_url_count": 124,
+  "overlapping_queries": 109,
+  "metadata_changes_this_stage": {
+    "description": 5,
+    "title": 3,
+    "h1": 1
+  },
+  "new_js_css_bytes_this_stage": 0,
+  "browser_visual_validation": "PENDING_ENVIRONMENT_RESTRICTION",
+  "deployment": "NOT_PERFORMED"
+}

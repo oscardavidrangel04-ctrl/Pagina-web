@@ -1,0 +1,112 @@
+{
+  "base_commit": "dfe634e",
+  "sizes": {
+    "conditions": "Local resources referenced directly from compiled HTML; excludes remote transfer and dynamically inserted dependencies.",
+    "pages": {
+      "salario-neto": {
+        "before": {
+          "htmlBytes": 40641,
+          "htmlGzip": 11222,
+          "jsBytes": 97930,
+          "jsGzip": 28429,
+          "cssBytes": 175592,
+          "cssGzip": 33379
+        },
+        "after": {
+          "htmlBytes": 44950,
+          "htmlGzip": 12480,
+          "jsBytes": 70902,
+          "jsGzip": 21886,
+          "cssBytes": 176630,
+          "cssGzip": 33650
+        }
+      },
+      "salario-diario": {
+        "before": {
+          "htmlBytes": 42612,
+          "htmlGzip": 11933,
+          "jsBytes": 67550,
+          "jsGzip": 20676,
+          "cssBytes": 185690,
+          "cssGzip": 35528
+        },
+        "after": {
+          "htmlBytes": 43672,
+          "htmlGzip": 12120,
+          "jsBytes": 68663,
+          "jsGzip": 20980,
+          "cssBytes": 185690,
+          "cssGzip": 35528
+        }
+      },
+      "pago-quincenal": {
+        "before": {
+          "htmlBytes": 45434,
+          "htmlGzip": 12789,
+          "jsBytes": 67362,
+          "jsGzip": 20606,
+          "cssBytes": 185487,
+          "cssGzip": 35469
+        },
+        "after": {
+          "htmlBytes": 46217,
+          "htmlGzip": 12953,
+          "jsBytes": 68716,
+          "jsGzip": 21027,
+          "cssBytes": 185487,
+          "cssGzip": 35469
+        }
+      }
+    }
+  },
+  "localPerformance": [
+    {
+      "page": "salario-neto",
+      "host": "baseline.test",
+      "lcpMs": 176,
+      "cls": 0,
+      "domNodes": 508,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    },
+    {
+      "page": "salario-neto",
+      "host": "current.test",
+      "lcpMs": 156,
+      "cls": 0,
+      "domNodes": 531,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    },
+    {
+      "page": "salario-diario",
+      "host": "baseline.test",
+      "lcpMs": 156,
+      "cls": 0,
+      "domNodes": 531,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    },
+    {
+      "page": "salario-diario",
+      "host": "current.test",
+      "lcpMs": 176,
+      "cls": 0,
+      "domNodes": 536,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    },
+    {
+      "page": "pago-quincenal",
+      "host": "baseline.test",
+      "lcpMs": 160,
+      "cls": 0,
+      "domNodes": 510,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    },
+    {
+      "page": "pago-quincenal",
+      "host": "current.test",
+      "lcpMs": 192,
+      "cls": 0,
+      "domNodes": 516,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    }
+  ]
+}

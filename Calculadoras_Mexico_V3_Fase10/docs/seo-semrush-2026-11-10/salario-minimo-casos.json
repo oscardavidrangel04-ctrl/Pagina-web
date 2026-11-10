@@ -1,0 +1,44 @@
+{
+  "daily": {
+    "general": 315.04,
+    "zlfn": 440.87
+  },
+  "official_source": "https://sidof.segob.gob.mx/notas/docFuente/5775534",
+  "rows": [
+    {
+      "reference": "Diario",
+      "numerator": 1,
+      "denominator": 1,
+      "general": "$315.04",
+      "zlfn": "$440.87"
+    },
+    {
+      "reference": "Semanal: 7 días",
+      "numerator": 7,
+      "denominator": 1,
+      "general": "$2,205.28",
+      "zlfn": "$3,086.09"
+    },
+    {
+      "reference": "Quincenal: 15 días",
+      "numerator": 15,
+      "denominator": 1,
+      "general": "$4,725.60",
+      "zlfn": "$6,613.05"
+    },
+    {
+      "reference": "Periodo de 30 días",
+      "numerator": 30,
+      "denominator": 1,
+      "general": "$9,451.20",
+      "zlfn": "$13,226.10"
+    },
+    {
+      "reference": "Mensual oficial: diario × 365 ÷ 12",
+      "numerator": 365,
+      "denominator": 12,
+      "general": "$9,582.47",
+      "zlfn": "$13,409.80"
+    }
+  ]
+}

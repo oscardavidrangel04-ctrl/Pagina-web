@@ -1,0 +1,28 @@
+{
+  "meaningful_change_date": "2026-11-09",
+  "routes": [
+    "https://calculadora-isr-mexico.vercel.app/articulos/bonos-salario-base-cotizacion.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/como-calcular-salario-diario-integrado.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/cuenta-de-ahorro.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/dias-de-aguinaldo.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/finiquito-por-despido.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/isr-semanal-quincenal-mensual.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/leer-recibo-nomina.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/que-es-salario-diario-integrado.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/ahorro-mensual.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/bono.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/interes-compuesto.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/margen-ganancia.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/prima-vacacional.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/regla-tres.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/vacaciones-proporcionales.html",
+    "https://calculadora-isr-mexico.vercel.app/temas/impuestos.html",
+    "https://calculadora-isr-mexico.vercel.app/temas/nomina.html"
+  ],
+  "entries_processed": {
+    "sitemap.xml": 17,
+    "sitemap-seo-2026.xml": 2
+  }
+}

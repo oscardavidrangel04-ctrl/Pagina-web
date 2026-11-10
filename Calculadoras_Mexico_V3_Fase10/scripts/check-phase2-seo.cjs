@@ -1,13 +1,13 @@
 const fs = require('fs');
 const path = require('path');
-const { chromium } = require('C:/Users/Casa/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const {chromium, launchOptions} = require('./browser-runtime.cjs');
 const root = path.resolve(__dirname, '..');
 const cfg = JSON.parse(fs.readFileSync(path.join(root, 'vercel.json'), 'utf8'));
 const rewrites = Object.fromEntries(cfg.rewrites.map(x => [x.source, x.destination]));
 const phase3 = process.argv.includes('--phase3');
 const pages = phase3 ? ['calculadoras/salario-neto.html','articulos/aguinaldo-por-antiguedad.html','articulos/isr-semanal-quincenal-mensual.html','articulos/cuando-pagan-finiquito.html','articulos/con-que-salario-se-calcula-aguinaldo.html','calculadoras/propina.html','articulos/simulador-credito-automotriz.html','articulos/cuanto-se-deja-propina-mexico.html','articulos/finiquito-renuncia-voluntaria.html','calculadoras/salario-diario-integrado.html'] : ['calculadoras/pago-quincenal.html','calculadoras/salario-diario.html','calculadoras/salario-hora.html','calculadoras/bono.html','articulos/aguinaldo-3-meses.html','articulos/isr-prima-vacacional.html','articulos/propina-obligatoria-mexico.html','articulos/que-incluye-finiquito.html','articulos/convertir-salario-mensual-diario-hora.html','articulos/aguinaldo-si-renuncio.html'];
 (async () => {
- const browser = await chromium.launch({headless:true, channel:'msedge'});
+ const browser = await chromium.launch(launchOptions);
  try {
   const page = await browser.newPage({viewport:{width:390,height:844}});
   await page.route('**/*', async route => {

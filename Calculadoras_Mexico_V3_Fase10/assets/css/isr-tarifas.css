@@ -7,3 +7,11 @@
 .isr-tariff-scroll td { white-space: nowrap; text-align: right; }
 .isr-tariff-scroll th, .isr-tariff-scroll td { padding: .65rem .6rem; }
 .isr-tariff-scroll caption { text-align: left; padding: .75rem 0; }
+
+/* Consulta por periodo: reutiliza colores, botones y campos del sitio. */
+#consultar-isr { scroll-margin-top: 6rem; }
+.isr-consulta-fields { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1rem; }
+.isr-consulta-fields input,.isr-consulta-fields select { width: 100%; min-width: 0; }
+.isr-consulta-result { margin-top: 1rem; padding: 0 1rem; border-inline-start: 3px solid currentColor; }
+.isr-tariff-scroll tr[aria-current="true"] { outline: 2px solid currentColor; outline-offset: -2px; font-weight: 700; }
+@media(max-width: 540px) { .isr-consulta-fields { grid-template-columns: 1fr; } }

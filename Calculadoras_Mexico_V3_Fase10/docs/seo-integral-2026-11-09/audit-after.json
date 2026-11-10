@@ -1,0 +1,23 @@
+{
+  "architecture": {
+    "physical_pages": 408,
+    "indexable": 379,
+    "zero_inlinks": 0,
+    "one_inlink": 0,
+    "unreachable": 0,
+    "depth": {
+      "0": 1,
+      "1": 65,
+      "2": 313
+    },
+    "broken_links": 0,
+    "redirect_links": 0,
+    "sitemap_missing_pages": [],
+    "sitemap_nonindexable": [],
+    "indexable_not_sitemap": []
+  },
+  "checked_pages": 379,
+  "issues": [],
+  "duplicate_titles": {},
+  "duplicate_descriptions": {}
+}

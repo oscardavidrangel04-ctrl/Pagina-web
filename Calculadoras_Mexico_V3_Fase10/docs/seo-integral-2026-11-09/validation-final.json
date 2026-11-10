@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-10",
+  "build": {
+    "status": "PASS",
+    "public_files": 492
+  },
+  "static_numeric": "PASS",
+  "deep_audit": {
+    "physical_html": 408,
+    "indexable_routes": 379,
+    "sitemap_routes": 379,
+    "orphan_indexable": 0,
+    "unreachable_indexable": 0,
+    "issues_by_kind": {}
+  },
+  "technical_audit": "PASS",
+  "phase6_architecture": "PASS",
+  "phase4_topics": "PASS",
+  "javascript_syntax": "PASS",
+  "git_diff_check": "PASS",
+  "browser": {
+    "status": "BLOCKED_NOT_VALIDATED",
+    "reason": "Chromium process socket creation denied; shared browser file protocol rejected. No workaround attempted.",
+    "prepared_suite": "scripts/test-seo-integral-browser.cjs",
+    "executed_layouts": 0
+  },
+  "live_ad_delivery": "NOT_TESTED",
+  "field_cwv": "NOT_MEASURED",
+  "published": false,
+  "post_change_search_metrics": "NOT_AVAILABLE"
+}

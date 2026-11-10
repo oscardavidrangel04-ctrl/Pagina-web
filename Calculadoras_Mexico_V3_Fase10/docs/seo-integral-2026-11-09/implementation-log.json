@@ -1,0 +1,263 @@
+[
+  {
+    "url": "/calculadoras/bono.html",
+    "examples": [
+      [
+        "Bono de 10% sobre $15,000",
+        {
+          "bonoModo": "porcentaje",
+          "bonoBaseTipo": "sueldo",
+          "salario": 15000,
+          "bonoPct": 10
+        }
+      ],
+      [
+        "Bono fijo de $1,500",
+        {
+          "bonoModo": "fijo",
+          "bonoBaseTipo": "sueldo",
+          "salario": 15000,
+          "bonoFijo": 1500
+        }
+      ],
+      [
+        "Puntualidad: 5% de $12,000",
+        {
+          "bonoModo": "porcentaje",
+          "bonoBaseTipo": "sueldo",
+          "salario": 12000,
+          "bonoPct": 5
+        }
+      ]
+    ],
+    "related": [
+      "comision",
+      "salario-neto",
+      "pago-quincenal",
+      "isr"
+    ],
+    "removed_redundant_link_occurrences": 0
+  },
+  {
+    "url": "/calculadoras/ahorro-mensual.html",
+    "examples": [
+      [
+        "$500 al mes durante un año, sin interés",
+        {
+          "inicial": 0,
+          "aportacion": 500,
+          "tasa": 0,
+          "meses": 12
+        }
+      ],
+      [
+        "$1,000 iniciales + $500 al mes al 12% nominal",
+        {
+          "inicial": 1000,
+          "aportacion": 500,
+          "tasa": 12,
+          "meses": 12
+        }
+      ]
+    ],
+    "related": [
+      "ahorro-meta",
+      "tiempo-ahorro",
+      "interes-compuesto",
+      "inflacion"
+    ],
+    "removed_redundant_link_occurrences": 18
+  },
+  {
+    "url": "/calculadoras/margen-ganancia.html",
+    "examples": [
+      [
+        "Costo $700 y venta $1,000: margen 30%",
+        {
+          "costo": 700,
+          "venta": 1000
+        }
+      ],
+      [
+        "Añadir 30% al costo: margen 23.08%",
+        {
+          "costo": 100,
+          "venta": 130
+        }
+      ],
+      [
+        "Venta con pérdida: costo $100, venta $80",
+        {
+          "costo": 100,
+          "venta": 80
+        }
+      ]
+    ],
+    "related": [
+      "precio-venta",
+      "costo-unidad",
+      "punto-equilibrio",
+      "comision"
+    ],
+    "removed_redundant_link_occurrences": 18
+  },
+  {
+    "url": "/calculadoras/iva-incluido.html",
+    "examples": [
+      [
+        "$1,160 con tasa del 16%",
+        {
+          "total": 1160,
+          "tasa": 16
+        }
+      ],
+      [
+        "$580 con tasa del 16%",
+        {
+          "total": 580,
+          "tasa": 16
+        }
+      ],
+      [
+        "$1,000 con tasa capturada de 0%",
+        {
+          "total": 1000,
+          "tasa": 0
+        }
+      ]
+    ],
+    "related": [
+      "iva",
+      "retencion-iva",
+      "retenciones-isr-iva-honorarios",
+      "precio-venta"
+    ],
+    "removed_redundant_link_occurrences": 0
+  },
+  {
+    "url": "/calculadoras/precio-venta.html",
+    "examples": [
+      [
+        "Costo $100 con aumento de 30%",
+        {
+          "costo": 100,
+          "aumento": 30
+        }
+      ],
+      [
+        "Costo $700 con aumento de 50%",
+        {
+          "costo": 700,
+          "aumento": 50
+        }
+      ]
+    ],
+    "related": [
+      "margen-ganancia",
+      "costo-unidad",
+      "punto-equilibrio",
+      "iva"
+    ],
+    "removed_redundant_link_occurrences": 18
+  },
+  {
+    "url": "/calculadoras/regla-tres.html",
+    "examples": [
+      [
+        "3 unidades cuestan $45: ¿cuánto cuestan 8?",
+        {
+          "a": 3,
+          "b": 45,
+          "c": 8
+        }
+      ],
+      [
+        "Calcular 15% de 800",
+        {
+          "a": 100,
+          "b": 800,
+          "c": 15
+        }
+      ]
+    ],
+    "related": [
+      "porcentaje",
+      "costo-unidad",
+      "descuento",
+      "precio-sin-descuento"
+    ],
+    "removed_redundant_link_occurrences": 11
+  },
+  {
+    "url": "/articulos/bonos-salario-base-cotizacion.html",
+    "schema_descriptions_synced": 1
+  },
+  {
+    "url": "/articulos/como-calcular-salario-diario-integrado.html",
+    "schema_descriptions_synced": 2
+  },
+  {
+    "url": "/articulos/cuenta-de-ahorro.html",
+    "schema_descriptions_synced": 1
+  },
+  {
+    "url": "/articulos/dias-de-aguinaldo.html",
+    "schema_descriptions_synced": 1
+  },
+  {
+    "url": "/articulos/finiquito-por-despido.html",
+    "schema_descriptions_synced": 1
+  },
+  {
+    "url": "/articulos/leer-recibo-nomina.html",
+    "schema_descriptions_synced": 1
+  },
+  {
+    "url": "/articulos/que-es-salario-diario-integrado.html",
+    "schema_descriptions_synced": 2
+  },
+  {
+    "url": "/calculadoras/interes-compuesto.html",
+    "schema_descriptions_synced": 1
+  },
+  {
+    "url": "/calculadoras/precio-venta.html",
+    "schema_descriptions_synced": 1
+  },
+  {
+    "url": "/calculadoras/prima-vacacional.html",
+    "schema_descriptions_synced": 1
+  },
+  {
+    "url": "/calculadoras/vacaciones-proporcionales.html",
+    "schema_descriptions_synced": 1
+  },
+  {
+    "url": "/calculadoras/iva-incluido.html",
+    "title_before": "IVA incluido: calcula subtotal e IVA de un total",
+    "title_after": "Calculadora de IVA incluido: desglosar y quitar IVA",
+    "description_after": "Desglosa el IVA incluido de un precio: $1,160 al 16% son $1,000 de subtotal y $160 de IVA. Introduce el total y la tasa para ver el cálculo."
+  },
+  {
+    "url": "/calculadoras/regla-tres.html",
+    "title_before": "Calculadora de regla de tres: fórmula y resultado",
+    "title_after": "Calculadora de regla de tres simple directa paso a paso",
+    "description_after": "Resuelve una regla de tres directa con A, B y C: X = B × C ÷ A. Prueba ejemplos de precios y porcentajes; distingue una proporción directa de una inversa."
+  },
+  {
+    "url": "/articulos/bonos-salario-base-cotizacion.html",
+    "contextual_link_section": true
+  },
+  {
+    "url": "/articulos/leer-recibo-nomina.html",
+    "contextual_link_section": true
+  },
+  {
+    "url": "/temas/nomina.html",
+    "contextual_link_section": true
+  },
+  {
+    "url": "/temas/impuestos.html",
+    "contextual_link_section": true
+  }
+]

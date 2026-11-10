@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta content="width=device-width,initial-scale=1" name="viewport">
-<title>IVA incluido: calcula subtotal e IVA de un total</title>
-<meta content="Saca el IVA incluido de un precio final. Calcula subtotal e impuesto cuando el total ya contiene IVA y revisa el desglose." name="description">
+<title>Calculadora de IVA incluido: desglosar y quitar IVA</title>
+<meta content="Desglosa el IVA incluido de un precio: $1,160 al 16% son $1,000 de subtotal y $160 de IVA. Introduce el total y la tasa para ver el cálculo." name="description">
 <meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots">
 <link href="https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html" rel="canonical">
 <link href="/assets/img/favicon.svg" rel="icon" type="image/svg+xml">
@@ -15,14 +15,14 @@
 <meta content="#5542b5" name="theme-color">
 <meta content="es_MX" property="og:locale">
 <meta content="website" property="og:type">
-<meta content="IVA incluido: calcula subtotal e IVA de un total" property="og:title">
-<meta content="Saca el IVA incluido de un precio final. Calcula subtotal e impuesto cuando el total ya contiene IVA y revisa el desglose." property="og:description">
+<meta content="Calculadora de IVA incluido: desglosar y quitar IVA" property="og:title">
+<meta content="Desglosa el IVA incluido de un precio: $1,160 al 16% son $1,000 de subtotal y $160 de IVA. Introduce el total y la tasa para ver el cálculo." property="og:description">
 <meta content="https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html" property="og:url">
 <meta content="Calculadoras México" property="og:site_name">
 <meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" property="og:image">
 <meta content="summary_large_image" name="twitter:card">
-<meta content="IVA incluido: calcula subtotal e IVA de un total" name="twitter:title">
-<meta content="Saca el IVA incluido de un precio final. Calcula subtotal e impuesto cuando el total ya contiene IVA y revisa el desglose." name="twitter:description">
+<meta content="Calculadora de IVA incluido: desglosar y quitar IVA" name="twitter:title">
+<meta content="Desglosa el IVA incluido de un precio: $1,160 al 16% son $1,000 de subtotal y $160 de IVA. Introduce el total y la tasa para ver el cálculo." name="twitter:description">
 <meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" name="twitter:image">
 <link href="/styles-v5628.css?v=5.6.28" rel="stylesheet">
 <script>try{document.documentElement.dataset.theme=localStorage.getItem('cm-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script>
@@ -88,11 +88,10 @@
 <span>Completa los datos y presiona Calcular.</span>
 </div>
 </section>
-<aside class="side-box">
-<h2>Cómo obtener el resultado de IVA incluido</h2>
-<ol><li>Introduce los datos solicitados y comprueba sus unidades o periodo.</li><li>Pulsa Calcular y revisa el resultado principal y su desglose.</li><li>Consulta la explicación y los supuestos antes de utilizar el resultado.</li></ol><p class="privacy-note">El cálculo se realiza en tu navegador. Si compartes un escenario, sus datos se incluyen en el enlace; revisa la <a href="/privacidad.html">política de privacidad</a> antes de compartirlo.</p>
+<aside class="side-box"><h2>Desglosa un precio que ya incluye IVA</h2><ol><li>Captura el total pagado y la tasa de la operación.</li><li>El subtotal se obtiene dividiendo el total entre 1 + tasa ÷ 100.</li><li>La diferencia es el IVA incluido. Subtotal más IVA debe coincidir con el total.</li></ol><p class="privacy-note">El cálculo se realiza en tu navegador. Si compartes un escenario, sus datos se incluyen en el enlace; revisa la <a href="/privacidad.html">política de privacidad</a> antes de compartirlo.</p>
 </aside>
 </div>
+<section class="content-box calc-examples" aria-labelledby="ejemplos-calculadora"><h2 id="ejemplos-calculadora">Prueba un ejemplo en la calculadora</h2><p>Selecciona un caso para cargar sus datos y ver la operación. Después puedes cambiar los valores.</p><div class="calc-controls"><button class="btn secondary" type="button" data-calc-example="{&quot;total&quot;:1160,&quot;tasa&quot;:16}">$1,160 con tasa del 16%</button><button class="btn secondary" type="button" data-calc-example="{&quot;total&quot;:580,&quot;tasa&quot;:16}">$580 con tasa del 16%</button><button class="btn secondary" type="button" data-calc-example="{&quot;total&quot;:1000,&quot;tasa&quot;:0}">$1,000 con tasa capturada de 0%</button></div></section>
 <section class="content-box semantic-intent" data-seo-intent="true" id="guia-del-calculo">
 <h2>Qué puedes calcular sobre IVA incluido</h2>
 <p>Separa el IVA incluido dentro de un precio final y obtén el subtotal antes del impuesto. Es útil cuando ya tienes un total con IVA y quieres conocer cuánto corresponde al impuesto.</p>
@@ -125,48 +124,7 @@
 <h2>Herramientas relacionadas con IVA incluido</h2>
 <p>Recomendaciones elegidas por categoría y tema.</p>
 </div>
-<div class="grid" data-related-list="iva-incluido">
-<article class="card calculator-card" data-search="isr 2026 estima isr y salario neto por periodo. impuestos renta salario impuestos mensual quincenal semanal">
-<button aria-label="Guardar ISR 2026" aria-pressed="false" class="favorite-mini" data-favorite="isr" type="button">
-<span data-favorite-icon="">☆</span>
-</button>
-<div aria-hidden="true" class="icon">🧾</div>
-<span class="card-kicker">Impuestos</span>
-<h3>ISR 2026</h3>
-<p>Estima ISR y salario neto por periodo.</p>
-<a class="card-link" href="/calculadoras/isr.html">Abrir calculadora →</a>
-</article>
-<article class="card calculator-card" data-search="iva agrega, quita o calcula iva. impuestos factura impuesto subtotal">
-<button aria-label="Guardar IVA" aria-pressed="false" class="favorite-mini" data-favorite="iva" type="button">
-<span data-favorite-icon="">☆</span>
-</button>
-<div aria-hidden="true" class="icon">🧮</div>
-<span class="card-kicker">Impuestos</span>
-<h3>IVA</h3>
-<p>Agrega, quita o calcula IVA.</p>
-<a class="card-link" href="/calculadoras/iva.html">Abrir calculadora →</a>
-</article>
-<article class="card calculator-card" data-search="retención de iva calcula una retención sobre el iva causado. impuestos honorarios factura impuesto">
-<button aria-label="Guardar Retención de IVA" aria-pressed="false" class="favorite-mini" data-favorite="retencion-iva" type="button">
-<span data-favorite-icon="">☆</span>
-</button>
-<div aria-hidden="true" class="icon">🧮</div>
-<span class="card-kicker">Impuestos</span>
-<h3>Retención de IVA</h3>
-<p>Calcula una retención sobre el IVA causado.</p>
-<a class="card-link" href="/calculadoras/retencion-iva.html">Abrir calculadora →</a>
-</article>
-<article class="card calculator-card" data-search="aguinaldo calcula aguinaldo completo o proporcional. prestaciones prestación navidad días trabajados">
-<button aria-label="Guardar Aguinaldo" aria-pressed="false" class="favorite-mini" data-favorite="aguinaldo" type="button">
-<span data-favorite-icon="">☆</span>
-</button>
-<div aria-hidden="true" class="icon">🎁</div>
-<span class="card-kicker">Prestaciones</span>
-<h3>Aguinaldo</h3>
-<p>Calcula aguinaldo completo o proporcional.</p>
-<a class="card-link" href="/calculadoras/aguinaldo.html">Abrir calculadora →</a>
-</article>
-</div>
+<div class="grid" data-related-list="iva-incluido" data-related-curated="true"><article class="card calculator-card"><button aria-label="Guardar IVA" aria-pressed="false" class="favorite-mini" data-favorite="iva" type="button"><span data-favorite-icon>☆</span></button><div aria-hidden="true" class="icon">🧮</div><span class="card-kicker">Impuestos</span><h3>IVA</h3><p>Agrega, quita o calcula IVA.</p><a class="card-link" href="/calculadoras/iva.html">Calcular iva</a></article><article class="card calculator-card"><button aria-label="Guardar Retención de IVA" aria-pressed="false" class="favorite-mini" data-favorite="retencion-iva" type="button"><span data-favorite-icon>☆</span></button><div aria-hidden="true" class="icon">🧮</div><span class="card-kicker">Impuestos</span><h3>Retención de IVA</h3><p>Calcula una retención sobre el IVA causado.</p><a class="card-link" href="/calculadoras/retencion-iva.html">Calcular retención de iva</a></article><article class="card calculator-card"><button aria-label="Guardar Retenciones ISR e IVA" aria-pressed="false" class="favorite-mini" data-favorite="retenciones-isr-iva-honorarios" type="button"><span data-favorite-icon>☆</span></button><div aria-hidden="true" class="icon">🧾</div><span class="card-kicker">Impuestos</span><h3>Retenciones ISR e IVA</h3><p>Calcula retenciones y total neto de honorarios.</p><a class="card-link" href="/calculadoras/retenciones-isr-iva-honorarios.html">Calcular retenciones isr e iva</a></article><article class="card calculator-card"><button aria-label="Guardar Precio de venta" aria-pressed="false" class="favorite-mini" data-favorite="precio-venta" type="button"><span data-favorite-icon>☆</span></button><div aria-hidden="true" class="icon">🏷️</div><span class="card-kicker">Negocios</span><h3>Precio de venta</h3><p>Calcula un precio aplicando aumento sobre costo.</p><a class="card-link" href="/calculadoras/precio-venta.html">Calcular precio de venta</a></article></div>
 </section>
 </div>
 <!-- ARCHITECTURE: contextual routes 2026-10-09 --><section class="content-box architecture-related" aria-label="Tema y lecturas relacionadas"><h2>Continúa según tu objetivo</h2><p>Para encontrar herramientas y explicaciones de este tema, consulta <a href="/temas/impuestos.html">Impuestos y trámites SAT</a>.</p></section></main>
@@ -224,13 +182,13 @@
 </div>
 <script defer src="/assets/js/catalog.js?v=5.1.0">
 </script>
-<script defer src="/assets/js/common.js?v=5.7.0">
+<script defer src="/assets/js/common.js?v=20261109">
 </script>
 <script defer src="/_vercel/insights/script.js">
 </script>
 <script defer src="/assets/js/calculators.js?v=5.5.5">
 </script>
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Calculadora de IVA incluido en un precio","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html","description":"Saca el IVA incluido de un precio final. Calcula subtotal e impuesto cuando el total ya contiene IVA y revisa el desglose.","dateModified":"2026-08-19","@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html#webpage","inLanguage":"es-MX","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"IVA incluido","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html"}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Calculadora de IVA incluido: desglosar y quitar IVA","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html","description":"Desglosa el IVA incluido de un precio: $1,160 al 16% son $1,000 de subtotal y $160 de IVA. Introduce el total y la tasa para ver el cálculo.","dateModified":"2026-08-19","@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html#webpage","inLanguage":"es-MX","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"IVA incluido","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/iva-incluido.html"}]}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cómo compruebo el cálculo con un ejemplo?","acceptedAnswer":{"@type":"Answer","text":"En un total de $1,160 con IVA del 16%, el subtotal es $1,000 y el impuesto $160. Restar 16% a $1,160 daría $974.40 y no recuperaría la base correcta."}},{"@type":"Question","name":"¿Qué debo revisar antes de utilizar el resultado?","acceptedAnswer":{"@type":"Answer","text":"Confirma la tasa y el tratamiento fiscal de la operación. Esta separación aritmética no decide si un producto está exento o sujeto a un estímulo."}}]}</script>
 <script defer src="/assets/js/interface-v570.js?v=5.7.0"></script><script defer src="/assets/js/affiliate-events.js?v=1"></script></body>
 </html>

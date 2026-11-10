@@ -1,0 +1,1329 @@
+{
+  "status": "PASS",
+  "baseline": "dfe634e",
+  "conditions": [
+    "Compiled files served with Vercel rewrites and headers, including CSP.",
+    "Adsterra is simulated with empty scripts; Admitad banners use labeled test SVGs. Other remote providers, including AdSense, are blocked.",
+    "No real ad delivery, affiliate redirects, conversions, income or field Core Web Vitals are verified."
+  ],
+  "arithmetic": [
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "period": "mensual",
+        "deductionMode": "desglose",
+        "otherPayments": 0
+      },
+      "expected": {
+        "deductions": 3000,
+        "net": 17000
+      },
+      "result": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "otherPayments": 0,
+        "deductions": 3000,
+        "net": 17000,
+        "depositDifference": null,
+        "period": "mensual"
+      }
+    },
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 10000,
+        "tax": 1100,
+        "social": 250,
+        "other": 400,
+        "period": "quincenal",
+        "deductionMode": "desglose",
+        "otherPayments": 0
+      },
+      "expected": {
+        "deductions": 1750,
+        "net": 8250
+      },
+      "result": {
+        "gross": 10000,
+        "tax": 1100,
+        "social": 250,
+        "other": 400,
+        "otherPayments": 0,
+        "deductions": 1750,
+        "net": 8250,
+        "depositDifference": null,
+        "period": "quincenal"
+      }
+    },
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 5000,
+        "tax": 450,
+        "social": 120,
+        "other": 80,
+        "period": "semanal",
+        "deductionMode": "desglose",
+        "otherPayments": 0
+      },
+      "expected": {
+        "deductions": 650,
+        "net": 4350
+      },
+      "result": {
+        "gross": 5000,
+        "tax": 450,
+        "social": 120,
+        "other": 80,
+        "otherPayments": 0,
+        "deductions": 650,
+        "net": 4350,
+        "depositDifference": null,
+        "period": "semanal"
+      }
+    },
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 100.01,
+        "tax": 0.01,
+        "social": 0,
+        "other": 0,
+        "period": "mensual",
+        "deductionMode": "desglose",
+        "otherPayments": 0
+      },
+      "expected": {
+        "deductions": 0.01,
+        "net": 100
+      },
+      "result": {
+        "gross": 100.01,
+        "tax": 0.01,
+        "social": 0,
+        "other": 0,
+        "otherPayments": 0,
+        "deductions": 0.01,
+        "net": 100,
+        "depositDifference": null,
+        "period": "mensual"
+      }
+    },
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 0.3,
+        "tax": 0.1,
+        "social": 0.2,
+        "other": 0,
+        "period": "mensual",
+        "deductionMode": "desglose",
+        "otherPayments": 0
+      },
+      "expected": {
+        "deductions": 0.3,
+        "net": 0
+      },
+      "result": {
+        "gross": 0.3,
+        "tax": 0.1,
+        "social": 0.2,
+        "other": 0,
+        "otherPayments": 0,
+        "deductions": 0.3,
+        "net": 0,
+        "depositDifference": null,
+        "period": "mensual"
+      }
+    },
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "period": "mensual",
+        "deductionMode": "desglose",
+        "otherPayments": 100.25
+      },
+      "expected": {
+        "deductions": 3000,
+        "net": 17100.25
+      },
+      "result": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "otherPayments": 100.25,
+        "deductions": 3000,
+        "net": 17100.25,
+        "depositDifference": null,
+        "period": "mensual"
+      }
+    },
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "period": "mensual",
+        "deductionMode": "total",
+        "otherPayments": 0,
+        "deductionsTotal": 4000
+      },
+      "expected": {
+        "deductions": 4000,
+        "net": 16000
+      },
+      "result": {
+        "gross": 20000,
+        "tax": null,
+        "social": null,
+        "other": null,
+        "otherPayments": 0,
+        "deductions": 4000,
+        "net": 16000,
+        "depositDifference": null,
+        "period": "mensual"
+      }
+    },
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "period": "mensual",
+        "deductionMode": "total",
+        "otherPayments": 0.01,
+        "deductionsTotal": 0
+      },
+      "expected": {
+        "deductions": 0,
+        "net": 20000.01
+      },
+      "result": {
+        "gross": 20000,
+        "tax": null,
+        "social": null,
+        "other": null,
+        "otherPayments": 0.01,
+        "deductions": 0,
+        "net": 20000.01,
+        "depositDifference": null,
+        "period": "mensual"
+      }
+    },
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "period": "mensual",
+        "deductionMode": "desglose",
+        "otherPayments": 0,
+        "deposit": 17000
+      },
+      "expected": {
+        "net": 17000,
+        "depositDifference": 0
+      },
+      "result": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "otherPayments": 0,
+        "deductions": 3000,
+        "net": 17000,
+        "depositDifference": 0,
+        "period": "mensual"
+      }
+    },
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "period": "mensual",
+        "deductionMode": "desglose",
+        "otherPayments": 0,
+        "deposit": 17010.01
+      },
+      "expected": {
+        "net": 17000,
+        "depositDifference": 10.01
+      },
+      "result": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "otherPayments": 0,
+        "deductions": 3000,
+        "net": 17000,
+        "depositDifference": 10.01,
+        "period": "mensual"
+      }
+    },
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "period": "mensual",
+        "deductionMode": "desglose",
+        "otherPayments": 0,
+        "deposit": 16999.99
+      },
+      "expected": {
+        "net": 17000,
+        "depositDifference": -0.01
+      },
+      "result": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "otherPayments": 0,
+        "deductions": 3000,
+        "net": 17000,
+        "depositDifference": -0.01,
+        "period": "mensual"
+      }
+    },
+    {
+      "page": "salario-neto",
+      "input": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "period": "mensual",
+        "deductionMode": "desglose",
+        "otherPayments": 0,
+        "deposit": 0
+      },
+      "expected": {
+        "net": 17000,
+        "depositDifference": -17000
+      },
+      "result": {
+        "gross": 20000,
+        "tax": 2500,
+        "social": 500,
+        "other": 0,
+        "otherPayments": 0,
+        "deductions": 3000,
+        "net": 17000,
+        "depositDifference": -17000,
+        "period": "mensual"
+      }
+    },
+    {
+      "page": "salario-diario",
+      "amount": 15000,
+      "period": "mensual",
+      "result": {
+        "divisor": 30,
+        "daily": 500,
+        "weekly": 3500,
+        "quincenal": 7500,
+        "monthly30": 15000,
+        "monthly365": 15208.333333333334,
+        "monthly52": 15166.666666666666,
+        "fourWeeklyPayments": 14000,
+        "fiveWeeklyPayments": 17500
+      }
+    },
+    {
+      "page": "salario-diario",
+      "amount": 9000,
+      "period": "quincenal",
+      "result": {
+        "divisor": 15,
+        "daily": 600,
+        "weekly": 4200,
+        "quincenal": 9000,
+        "monthly30": 18000,
+        "monthly365": 18250,
+        "monthly52": 18200,
+        "fourWeeklyPayments": 16800,
+        "fiveWeeklyPayments": 21000
+      }
+    },
+    {
+      "page": "salario-diario",
+      "amount": 4200,
+      "period": "semanal",
+      "result": {
+        "divisor": 7,
+        "daily": 600,
+        "weekly": 4200,
+        "quincenal": 9000,
+        "monthly30": 18000,
+        "monthly365": 18250,
+        "monthly52": 18200,
+        "fourWeeklyPayments": 16800,
+        "fiveWeeklyPayments": 21000
+      }
+    },
+    {
+      "page": "salario-diario",
+      "amount": 500,
+      "period": "diario",
+      "result": {
+        "divisor": 1,
+        "daily": 500,
+        "weekly": 3500,
+        "quincenal": 7500,
+        "monthly30": 15000,
+        "monthly365": 15208.333333333334,
+        "monthly52": 15166.666666666666,
+        "fourWeeklyPayments": 14000,
+        "fiveWeeklyPayments": 17500
+      }
+    },
+    {
+      "page": "salario-diario",
+      "amount": 2000,
+      "period": "semanal",
+      "result": {
+        "divisor": 7,
+        "daily": 285.7142857142857,
+        "weekly": 2000,
+        "quincenal": 4285.714285714286,
+        "monthly30": 8571.428571428572,
+        "monthly365": 8690.47619047619,
+        "monthly52": 8666.666666666666,
+        "fourWeeklyPayments": 8000,
+        "fiveWeeklyPayments": 10000
+      }
+    },
+    {
+      "page": "salario-diario",
+      "amount": 2300,
+      "period": "semanal",
+      "result": {
+        "divisor": 7,
+        "daily": 328.57142857142856,
+        "weekly": 2300,
+        "quincenal": 4928.571428571428,
+        "monthly30": 9857.142857142857,
+        "monthly365": 9994.047619047618,
+        "monthly52": 9966.666666666666,
+        "fourWeeklyPayments": 9200,
+        "fiveWeeklyPayments": 11500
+      }
+    },
+    {
+      "page": "salario-diario",
+      "amount": 2500,
+      "period": "semanal",
+      "result": {
+        "divisor": 7,
+        "daily": 357.14285714285717,
+        "weekly": 2500,
+        "quincenal": 5357.142857142858,
+        "monthly30": 10714.285714285716,
+        "monthly365": 10863.095238095239,
+        "monthly52": 10833.333333333334,
+        "fourWeeklyPayments": 10000,
+        "fiveWeeklyPayments": 12500
+      }
+    },
+    {
+      "page": "salario-diario",
+      "amount": 3000,
+      "period": "semanal",
+      "result": {
+        "divisor": 7,
+        "daily": 428.57142857142856,
+        "weekly": 3000,
+        "quincenal": 6428.571428571428,
+        "monthly30": 12857.142857142857,
+        "monthly365": 13035.714285714284,
+        "monthly52": 13000,
+        "fourWeeklyPayments": 12000,
+        "fiveWeeklyPayments": 15000
+      }
+    },
+    {
+      "page": "salario-diario",
+      "amount": 0.01,
+      "period": "mensual",
+      "result": {
+        "divisor": 30,
+        "daily": 0.0003333333333333333,
+        "weekly": 0.002333333333333333,
+        "quincenal": 0.005,
+        "monthly30": 0.01,
+        "monthly365": 0.010138888888888888,
+        "monthly52": 0.01011111111111111,
+        "fourWeeklyPayments": 0.009333333333333332,
+        "fiveWeeklyPayments": 0.011666666666666665
+      }
+    },
+    {
+      "page": "pago-quincenal",
+      "amount": 15000,
+      "period": "mensual",
+      "result": {
+        "monthly": 15000,
+        "daily": 500,
+        "quincenal": 7500,
+        "catorcenal": 7000,
+        "payments24": 180000,
+        "payments26": 182000,
+        "payments27": 189000
+      }
+    },
+    {
+      "page": "pago-quincenal",
+      "amount": 10000,
+      "period": "mensual",
+      "result": {
+        "monthly": 10000,
+        "daily": 333.3333333333333,
+        "quincenal": 5000,
+        "catorcenal": 4666.666666666666,
+        "payments24": 120000,
+        "payments26": 121333.33333333331,
+        "payments27": 125999.99999999999
+      }
+    },
+    {
+      "page": "pago-quincenal",
+      "amount": 8250,
+      "period": "mensual",
+      "result": {
+        "monthly": 8250,
+        "daily": 275,
+        "quincenal": 4125,
+        "catorcenal": 3850,
+        "payments24": 99000,
+        "payments26": 100100,
+        "payments27": 103950
+      }
+    },
+    {
+      "page": "pago-quincenal",
+      "amount": 275,
+      "period": "diario",
+      "result": {
+        "monthly": 8250,
+        "daily": 275,
+        "quincenal": 4125,
+        "catorcenal": 3850,
+        "payments24": 99000,
+        "payments26": 100100,
+        "payments27": 103950
+      }
+    },
+    {
+      "page": "pago-quincenal",
+      "amount": 333.33,
+      "period": "diario",
+      "result": {
+        "monthly": 9999.9,
+        "daily": 333.33,
+        "quincenal": 4999.95,
+        "catorcenal": 4666.62,
+        "payments24": 119998.79999999999,
+        "payments26": 121332.12,
+        "payments27": 125998.73999999999
+      }
+    },
+    {
+      "page": "pago-quincenal",
+      "amount": 0.01,
+      "period": "mensual",
+      "result": {
+        "monthly": 0.01,
+        "daily": 0.0003333333333333333,
+        "quincenal": 0.005,
+        "catorcenal": 0.004666666666666666,
+        "payments24": 0.12,
+        "payments26": 0.12133333333333332,
+        "payments27": 0.126
+      }
+    }
+  ],
+  "rejected": 37,
+  "layouts": [
+    {
+      "page": "salario-neto",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "total": "$17,000.00"
+    },
+    {
+      "page": "salario-neto",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$17,000.00"
+    },
+    {
+      "page": "salario-neto",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "total": "$17,000.00"
+    },
+    {
+      "page": "salario-neto",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$17,000.00"
+    },
+    {
+      "page": "salario-neto",
+      "width": 768,
+      "theme": "light",
+      "overflow": false,
+      "total": "$17,000.00"
+    },
+    {
+      "page": "salario-neto",
+      "width": 768,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$17,000.00"
+    },
+    {
+      "page": "salario-neto",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "total": "$17,000.00"
+    },
+    {
+      "page": "salario-neto",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$17,000.00"
+    },
+    {
+      "page": "salario-diario",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "total": "$328.57"
+    },
+    {
+      "page": "salario-diario",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$328.57"
+    },
+    {
+      "page": "salario-diario",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "total": "$328.57"
+    },
+    {
+      "page": "salario-diario",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$328.57"
+    },
+    {
+      "page": "salario-diario",
+      "width": 768,
+      "theme": "light",
+      "overflow": false,
+      "total": "$328.57"
+    },
+    {
+      "page": "salario-diario",
+      "width": 768,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$328.57"
+    },
+    {
+      "page": "salario-diario",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "total": "$328.57"
+    },
+    {
+      "page": "salario-diario",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$328.57"
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 320,
+      "theme": "light",
+      "overflow": false,
+      "total": "$4,125.00"
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 320,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$4,125.00"
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 390,
+      "theme": "light",
+      "overflow": false,
+      "total": "$4,125.00"
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 390,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$4,125.00"
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 768,
+      "theme": "light",
+      "overflow": false,
+      "total": "$4,125.00"
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 768,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$4,125.00"
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 1440,
+      "theme": "light",
+      "overflow": false,
+      "total": "$4,125.00"
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 1440,
+      "theme": "dark",
+      "overflow": false,
+      "total": "$4,125.00"
+    }
+  ],
+  "accessibility": [
+    {
+      "page": "salario-neto",
+      "width": 390,
+      "theme": "light",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "page": "salario-neto",
+      "width": 390,
+      "theme": "dark",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "page": "salario-neto",
+      "width": 1440,
+      "theme": "light",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "page": "salario-neto",
+      "width": 1440,
+      "theme": "dark",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "page": "salario-diario",
+      "width": 390,
+      "theme": "light",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "page": "salario-diario",
+      "width": 390,
+      "theme": "dark",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "page": "salario-diario",
+      "width": 1440,
+      "theme": "light",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "page": "salario-diario",
+      "width": 1440,
+      "theme": "dark",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 390,
+      "theme": "light",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 390,
+      "theme": "dark",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 1440,
+      "theme": "light",
+      "scope": "main",
+      "violations": []
+    },
+    {
+      "page": "pago-quincenal",
+      "width": 1440,
+      "theme": "dark",
+      "scope": "main",
+      "violations": []
+    }
+  ],
+  "interactions": [
+    {
+      "page": "salario-neto",
+      "checks": [
+        "Enter",
+        "exact cents",
+        "zero net",
+        "deduction modes without double counting",
+        "other payments",
+        "deposit match",
+        "persistence",
+        "legacy links",
+        "examples",
+        "scenario save",
+        "invalid values",
+        "reset",
+        "stale result invalidation"
+      ]
+    },
+    {
+      "page": "salario-diario",
+      "checks": [
+        "Enter",
+        "persistence",
+        "invalid values",
+        "shared and legacy links",
+        "save scenario",
+        "reset"
+      ]
+    },
+    {
+      "page": "pago-quincenal",
+      "checks": [
+        "Enter",
+        "persistence",
+        "invalid values",
+        "shared and legacy links",
+        "save scenario",
+        "reset"
+      ]
+    },
+    {
+      "pages": [
+        "salario-neto",
+        "salario-diario",
+        "pago-quincenal"
+      ],
+      "check": "Explanatory content and navigation readable without JavaScript"
+    }
+  ],
+  "errors": [],
+  "missingResources": [],
+  "structures": [
+    {
+      "page": "salario-neto",
+      "h1": 1,
+      "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
+      "faq": [
+        {
+          "question": "¿Bruto y neto son lo mismo?",
+          "present": true
+        },
+        {
+          "question": "¿Calcula ISR e IMSS automáticamente?",
+          "present": true
+        },
+        {
+          "question": "¿Cómo calculo mi sueldo neto quincenal?",
+          "present": true
+        },
+        {
+          "question": "¿Cómo calcular el sueldo neto a partir del bruto?",
+          "present": true
+        },
+        {
+          "question": "¿Cuánto son $15,000 brutos a netos?",
+          "present": true
+        },
+        {
+          "question": "¿Salario neto y salario líquido significan lo mismo?",
+          "present": true
+        },
+        {
+          "question": "¿Puedo incluir otras deducciones?",
+          "present": true
+        },
+        {
+          "question": "¿Cómo comparo dos ofertas de empleo?",
+          "present": true
+        },
+        {
+          "question": "¿Debo capturar ISR e IMSS por separado?",
+          "present": true
+        },
+        {
+          "question": "¿Por qué mi neto real no coincide?",
+          "present": true
+        }
+      ],
+      "links": [
+        "https://current.test/",
+        "https://current.test/calculadoras.html",
+        "https://current.test/calculadoras/salario-neto.html#calculadora",
+        "https://current.test/calculadoras/salario-neto.html#guia-del-calculo",
+        "https://current.test/calculadoras/salario-neto.html#ejemplos-bruto-neto",
+        "https://current.test/calculadoras/salario-neto.html#sueldo-por-periodo",
+        "https://current.test/calculadoras/salario-neto.html#deducciones-recibo",
+        "https://current.test/calculadoras/salario-neto.html#isr-imss-neto",
+        "https://current.test/calculadoras/isr.html",
+        "https://current.test/calculadoras/isr.html",
+        "https://current.test/calculadoras/salario-bruto.html",
+        "https://current.test/calculadoras/isr.html",
+        "https://current.test/calculadoras/salario-bruto.html",
+        "https://current.test/calculadoras/pago-quincenal.html",
+        "https://current.test/articulos/salario-bruto-neto.html",
+        "https://www.profedet.gob.mx/",
+        "https://current.test/articulos/isr-semanal-quincenal-mensual.html#tabla-isr-quincenal",
+        "https://www.sat.gob.mx/cs/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1461173081850&ssbinary=true",
+        "https://www.imss.gob.mx/sites/all/statics/pdf/leyes/LSS.pdf",
+        "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/index.html",
+        "https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm",
+        "https://current.test/calculadoras/isr.html",
+        "https://current.test/calculadoras/horas-extra.html",
+        "https://current.test/calculadoras/aguinaldo.html",
+        "https://current.test/calculadoras/isr.html",
+        "https://current.test/calculadoras/salario-bruto.html",
+        "https://current.test/articulos/salario-bruto-neto.html",
+        "https://current.test/calculadoras/isr.html",
+        "https://current.test/calculadoras/isr.html",
+        "https://rzekl.com/g/qpw0xm1c34934a2368b316525dc3e8/?i=4",
+        "https://rzekl.com/g/qpw0xm1c34934a2368b316525dc3e8/?i=4",
+        "https://dkfrh.com/g/9k0cwagbas934a2368b3bd6fe4c78f/?i=4",
+        "https://dkfrh.com/g/9k0cwagbas934a2368b3bd6fe4c78f/?i=4",
+        "https://current.test/calculadoras/salario-bruto.html",
+        "https://current.test/calculadoras/bono.html",
+        "https://current.test/calculadoras/horas-extra.html",
+        "https://current.test/calculadoras/pago-quincenal.html",
+        "https://current.test/articulos/descuentos-nomina-isr-imss.html",
+        "https://current.test/calculadoras/pago-quincenal.html",
+        "https://current.test/calculadoras/salario-hora.html",
+        "https://current.test/temas/nomina.html",
+        "https://current.test/calculadoras/salario-bruto.html",
+        "https://current.test/articulos/como-calcular-isr-sueldo.html"
+      ],
+      "schemas": [
+        "WebPage",
+        "WebApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "page": "salario-diario",
+      "h1": 1,
+      "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
+      "faq": [
+        {
+          "question": "¿Cómo saber cuánto gano al día?",
+          "present": true
+        },
+        {
+          "question": "Si gano $2,500 a la semana, ¿cuánto gano al mes?",
+          "present": true
+        },
+        {
+          "question": "¿Cómo calcular el salario diario si me pagan por semana?",
+          "present": true
+        },
+        {
+          "question": "¿El sueldo mensual se divide entre 30 o 30.4?",
+          "present": true
+        },
+        {
+          "question": "¿Salario diario y salario diario integrado son iguales?",
+          "present": true
+        },
+        {
+          "question": "¿El resultado es bruto o neto?",
+          "present": true
+        },
+        {
+          "question": "¿Cómo convertir un salario diario a semanal, quincenal y mensual?",
+          "present": true
+        },
+        {
+          "question": "¿Por qué multiplicar el sueldo semanal por cuatro no da un mes completo?",
+          "present": true
+        }
+      ],
+      "links": [
+        "https://current.test/",
+        "https://current.test/calculadoras.html",
+        "https://current.test/calculadoras/salario-diario.html#calculadora",
+        "https://current.test/calculadoras/salario-diario.html#conversion-diaria-resumen",
+        "https://current.test/calculadoras/salario-diario.html#divisor-diario",
+        "https://current.test/calculadoras/salario-diario.html#preguntas-salario-diario",
+        "https://current.test/calculadoras/salario-diario.html#metodos-mensuales",
+        "https://current.test/privacidad.html",
+        "https://current.test/articulos/convertir-salario-mensual-diario-hora.html",
+        "https://current.test/articulos/que-es-salario-diario-integrado.html",
+        "https://current.test/calculadoras/salario-diario-integrado.html",
+        "https://current.test/calculadoras/salario-hora.html",
+        "https://current.test/calculadoras/pago-quincenal.html",
+        "https://current.test/calculadoras/salario-neto.html",
+        "https://current.test/articulos/que-es-salario-diario-integrado.html",
+        "https://current.test/calculadoras/pago-quincenal.html",
+        "https://current.test/articulos/salario-bruto-neto.html",
+        "https://current.test/calculadoras/salario-diario.html?salario=2000&periodo=semanal#calculadora",
+        "https://current.test/calculadoras/salario-diario.html?salario=2300&periodo=semanal#calculadora",
+        "https://current.test/calculadoras/salario-diario.html?salario=2500&periodo=semanal#calculadora",
+        "https://current.test/calculadoras/salario-diario.html?salario=3000&periodo=semanal#calculadora",
+        "https://current.test/calculadoras/salario-diario.html?salario=3500&periodo=semanal#calculadora",
+        "https://current.test/calculadoras/salario-hora.html",
+        "https://current.test/calculadoras/salario-diario.html?salario=2300&periodo=semanal#calculadora",
+        "https://www.imss.gob.mx/pensiones/preguntas-frecuentes/como-calculo-el-salario-promedio-mensual",
+        "https://current.test/calculadoras/bono.html",
+        "https://current.test/calculadoras/horas-extra.html",
+        "https://current.test/calculadoras/pago-quincenal.html",
+        "https://current.test/calculadoras/salario-hora.html",
+        "https://rzekl.com/g/qpw0xm1c34934a2368b316525dc3e8/?i=4",
+        "https://rzekl.com/g/qpw0xm1c34934a2368b316525dc3e8/?i=4",
+        "https://dkfrh.com/g/9k0cwagbas934a2368b3bd6fe4c78f/?i=4",
+        "https://dkfrh.com/g/9k0cwagbas934a2368b3bd6fe4c78f/?i=4",
+        "https://current.test/calculadoras/ptu.html",
+        "https://current.test/calculadoras/salario-diario-integrado.html",
+        "https://current.test/articulos/horas-extra-2026.html",
+        "https://current.test/calculadoras/salario-hora.html",
+        "https://current.test/calculadoras/salario-hora.html",
+        "https://current.test/calculadoras/salario-diario-integrado.html",
+        "https://current.test/calculadoras/salario-neto.html",
+        "https://current.test/calculadoras/salario-bruto.html",
+        "https://current.test/calculadoras/horas-extra.html",
+        "https://current.test/articulos/horas-extra-2026.html",
+        "https://current.test/calculadoras/ptu.html",
+        "https://current.test/calculadoras/finiquito.html",
+        "https://current.test/calculadoras/vacaciones.html",
+        "https://current.test/calculadoras/aguinaldo.html",
+        "https://current.test/articulos/leer-recibo-nomina.html",
+        "https://current.test/articulos/dias-de-aguinaldo.html",
+        "https://current.test/articulos/aguinaldo-6-meses.html",
+        "https://current.test/articulos/aguinaldo-por-meses.html",
+        "https://current.test/articulos/cuando-tengo-derecho-aguinaldo.html",
+        "https://current.test/articulos/con-que-salario-se-calcula-aguinaldo.html",
+        "https://current.test/articulos/aguinaldo-3-meses.html",
+        "https://current.test/calculadoras/aguinaldo-proporcional.html",
+        "https://current.test/articulos/asimilados-a-salarios-isr.html",
+        "https://current.test/articulos/como-calcular-isr-sueldo.html",
+        "https://current.test/articulos/con-que-salario-se-calcula-finiquito.html",
+        "https://current.test/articulos/descuentos-nomina-isr-imss.html",
+        "https://current.test/articulos/como-calcular-salario-diario-integrado.html",
+        "https://current.test/articulos/que-es-salario-base-cotizacion.html",
+        "https://current.test/calculadoras/salario-diario-integrado.html",
+        "https://current.test/calculadoras/salario-neto.html",
+        "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+        "https://www.imss.gob.mx/",
+        "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+        "https://www.imss.gob.mx/sites/all/statics/pdf/leyes/LSS.pdf",
+        "https://current.test/calculadoras/salario-diario-integrado.html",
+        "https://current.test/temas/nomina.html",
+        "https://current.test/articulos/salario-minimo-diario-mensual-2026.html"
+      ],
+      "schemas": [
+        "WebApplication",
+        "WebPage",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "page": "pago-quincenal",
+      "h1": 1,
+      "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
+      "faq": [
+        {
+          "question": "¿Cuánto es la quincena de un sueldo mensual?",
+          "present": true
+        },
+        {
+          "question": "¿Cómo convierto salario diario a quincenal?",
+          "present": true
+        },
+        {
+          "question": "¿Quincena y catorcena son lo mismo?",
+          "present": true
+        },
+        {
+          "question": "¿Cuánto equivale $275 diarios por quincena y al mes?",
+          "present": true
+        },
+        {
+          "question": "¿La calculadora descuenta ISR e IMSS?",
+          "present": true
+        },
+        {
+          "question": "¿Cuántos meses son 72 o 144 quincenas?",
+          "present": true
+        },
+        {
+          "question": "¿Cuánto pagan por una quincena incompleta?",
+          "present": true
+        },
+        {
+          "question": "¿Cómo calcular mi ISR quincenal sin confundirlo con el sueldo neto?",
+          "present": true
+        }
+      ],
+      "links": [
+        "https://current.test/",
+        "https://current.test/calculadoras.html",
+        "https://current.test/calculadoras/pago-quincenal.html#calculadora",
+        "https://current.test/calculadoras/pago-quincenal.html#equivalencia-quincena",
+        "https://current.test/calculadoras/pago-quincenal.html#ejercicio-quincena-275",
+        "https://current.test/calculadoras/pago-quincenal.html#formula-quincenal",
+        "https://current.test/calculadoras/pago-quincenal.html#quincena-catorcena",
+        "https://current.test/calculadoras/pago-quincenal.html#isr-quincenal-pasos",
+        "https://current.test/calculadoras/pago-quincenal.html#quincena-catorcena",
+        "https://current.test/calculadoras/pago-quincenal.html#guia-del-calculo",
+        "https://current.test/privacidad.html",
+        "https://current.test/calculadoras/pago-quincenal.html?salario=275&periodo=diario#calculadora",
+        "https://current.test/articulos/convertir-salario-mensual-diario-hora.html#quincena",
+        "https://current.test/articulos/isr-semanal-quincenal-mensual.html",
+        "https://current.test/calculadoras/isr.html",
+        "https://current.test/calculadoras/salario-neto.html",
+        "https://current.test/calculadoras/salario-bruto.html",
+        "https://current.test/articulos/salario-bruto-neto.html",
+        "https://current.test/calculadoras/salario-neto.html",
+        "https://current.test/calculadoras/pago-quincenal.html?salario=10000&periodo=mensual#calculadora",
+        "https://current.test/calculadoras/pago-quincenal.html?salario=15000&periodo=mensual#calculadora",
+        "https://current.test/calculadoras/pago-quincenal.html?salario=18000&periodo=mensual#calculadora",
+        "https://current.test/calculadoras/pago-quincenal.html?salario=24000&periodo=mensual#calculadora",
+        "https://current.test/calculadoras/salario-diario.html",
+        "https://current.test/calculadoras/salario-neto.html",
+        "https://current.test/articulos/isr-semanal-quincenal-mensual.html",
+        "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+        "https://current.test/articulos/presupuesto-con-pago-quincenal.html",
+        "https://current.test/calculadoras/quincenas-a-meses.html",
+        "https://current.test/articulos/isr-semanal-quincenal-mensual.html#tabla-isr-quincenal",
+        "https://current.test/calculadoras/salario-neto.html",
+        "https://current.test/articulos/isr-semanal-quincenal-mensual.html#tabla-isr-quincenal",
+        "https://current.test/calculadoras/isr.html",
+        "https://current.test/calculadoras/salario-neto.html",
+        "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/anexos/Anexo-8-RMF-2026_DOF-28122025.pdf",
+        "https://rzekl.com/g/qpw0xm1c34934a2368b316525dc3e8/?i=4",
+        "https://rzekl.com/g/qpw0xm1c34934a2368b316525dc3e8/?i=4",
+        "https://dkfrh.com/g/9k0cwagbas934a2368b3bd6fe4c78f/?i=4",
+        "https://dkfrh.com/g/9k0cwagbas934a2368b3bd6fe4c78f/?i=4",
+        "https://current.test/calculadoras/salario-diario.html",
+        "https://current.test/calculadoras/salario-hora.html",
+        "https://current.test/calculadoras/quincenas-a-meses.html",
+        "https://current.test/calculadoras/bono.html",
+        "https://current.test/calculadoras/horas-extra.html",
+        "https://current.test/calculadoras/quincenas-a-meses.html",
+        "https://current.test/calculadoras/salario-diario.html",
+        "https://current.test/calculadoras/ptu.html",
+        "https://current.test/calculadoras/salario-diario-integrado.html",
+        "https://current.test/articulos/horas-extra-2026.html",
+        "https://current.test/calculadoras/salario-hora.html",
+        "https://current.test/articulos/dias-de-aguinaldo.html",
+        "https://current.test/articulos/aguinaldo-6-meses.html",
+        "https://current.test/articulos/aguinaldo-por-meses.html",
+        "https://current.test/articulos/cuando-tengo-derecho-aguinaldo.html",
+        "https://current.test/articulos/con-que-salario-se-calcula-aguinaldo.html",
+        "https://current.test/articulos/como-calcular-aguinaldo.html",
+        "https://current.test/articulos/asimilados-a-salarios-isr.html",
+        "https://current.test/articulos/como-calcular-isr-sueldo.html",
+        "https://current.test/articulos/con-que-salario-se-calcula-finiquito.html",
+        "https://current.test/articulos/convertir-salario-mensual-diario-hora.html",
+        "https://current.test/calculadoras/salario-neto.html",
+        "https://current.test/temas/nomina.html"
+      ],
+      "schemas": [
+        "WebPage",
+        "BreadcrumbList",
+        "WebApplication",
+        "FAQPage"
+      ]
+    }
+  ],
+  "screenshots": [
+    "salario-neto-390.png",
+    "salario-neto-1440.png",
+    "salario-diario-390.png",
+    "salario-diario-1440.png",
+    "pago-quincenal-390.png",
+    "pago-quincenal-1440.png"
+  ],
+  "localPerformance": [
+    {
+      "page": "salario-neto",
+      "host": "baseline.test",
+      "lcpMs": 176,
+      "cls": 0,
+      "domNodes": 508,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    },
+    {
+      "page": "salario-neto",
+      "host": "current.test",
+      "lcpMs": 156,
+      "cls": 0,
+      "domNodes": 531,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    },
+    {
+      "page": "salario-diario",
+      "host": "baseline.test",
+      "lcpMs": 156,
+      "cls": 0,
+      "domNodes": 531,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    },
+    {
+      "page": "salario-diario",
+      "host": "current.test",
+      "lcpMs": 176,
+      "cls": 0,
+      "domNodes": 536,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    },
+    {
+      "page": "pago-quincenal",
+      "host": "baseline.test",
+      "lcpMs": 160,
+      "cls": 0,
+      "domNodes": 510,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    },
+    {
+      "page": "pago-quincenal",
+      "host": "current.test",
+      "lcpMs": 192,
+      "cls": 0,
+      "domNodes": 516,
+      "conditions": "One local sample per version; no CPU/network throttling; simulated or blocked remote resources. Not field CWV or evidence of statistically significant improvement."
+    }
+  ],
+  "sizes": {
+    "conditions": "Local resources referenced directly from compiled HTML; excludes remote transfer and dynamically inserted dependencies.",
+    "pages": {
+      "salario-neto": {
+        "before": {
+          "htmlBytes": 40641,
+          "htmlGzip": 11222,
+          "jsBytes": 97930,
+          "jsGzip": 28429,
+          "cssBytes": 175592,
+          "cssGzip": 33379
+        },
+        "after": {
+          "htmlBytes": 44950,
+          "htmlGzip": 12480,
+          "jsBytes": 70902,
+          "jsGzip": 21886,
+          "cssBytes": 176630,
+          "cssGzip": 33650
+        }
+      },
+      "salario-diario": {
+        "before": {
+          "htmlBytes": 42612,
+          "htmlGzip": 11933,
+          "jsBytes": 67550,
+          "jsGzip": 20676,
+          "cssBytes": 185690,
+          "cssGzip": 35528
+        },
+        "after": {
+          "htmlBytes": 43672,
+          "htmlGzip": 12120,
+          "jsBytes": 68663,
+          "jsGzip": 20980,
+          "cssBytes": 185690,
+          "cssGzip": 35528
+        }
+      },
+      "pago-quincenal": {
+        "before": {
+          "htmlBytes": 45434,
+          "htmlGzip": 12789,
+          "jsBytes": 67362,
+          "jsGzip": 20606,
+          "cssBytes": 185487,
+          "cssGzip": 35469
+        },
+        "after": {
+          "htmlBytes": 46217,
+          "htmlGzip": 12953,
+          "jsBytes": 68716,
+          "jsGzip": 21027,
+          "cssBytes": 185487,
+          "cssGzip": 35469
+        }
+      }
+    }
+  },
+  "static": {
+    "unchangedHTML": 405,
+    "unchangedResources": 78,
+    "protectedTitles": 3,
+    "canonicalPreserved": 3,
+    "advertisingUnitsPerPage": 4,
+    "newPublicFiles": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "status": "PASS",
+  "conditions": "Executable unit tests and generated HTML checks. This is not a browser, live advertising, field CWV or Google indexing test.",
+  "tariffCells": 132,
+  "tariffBoundaryCases": 66,
+  "bonusCases": 12,
+  "invalidCases": 26,
+  "exampleCases": [
+    {
+      "type": "ahorro-mensual",
+      "input": {
+        "inicial": 0,
+        "aportacion": 500,
+        "tasa": 0,
+        "meses": 12
+      },
+      "expected": "$6,000.00"
+    },
+    {
+      "type": "ahorro-mensual",
+      "input": {
+        "inicial": 1000,
+        "aportacion": 500,
+        "tasa": 12,
+        "meses": 12
+      },
+      "expected": "$7,468.08"
+    },
+    {
+      "type": "margen-ganancia",
+      "input": {
+        "costo": 700,
+        "venta": 1000
+      },
+      "expected": "30.00%"
+    },
+    {
+      "type": "margen-ganancia",
+      "input": {
+        "costo": 100,
+        "venta": 130
+      },
+      "expected": "23.08%"
+    },
+    {
+      "type": "margen-ganancia",
+      "input": {
+        "costo": 100,
+        "venta": 80
+      },
+      "expected": "-25.00%"
+    },
+    {
+      "type": "margen-ganancia",
+      "input": {
+        "costo": 0,
+        "venta": 80
+      },
+      "expected": "No definido: costo cero"
+    },
+    {
+      "type": "iva-incluido",
+      "input": {
+        "total": 1160,
+        "tasa": 16
+      },
+      "expected": "$1,000.00"
+    },
+    {
+      "type": "iva-incluido",
+      "input": {
+        "total": 580,
+        "tasa": 16
+      },
+      "expected": "$80.00"
+    },
+    {
+      "type": "iva-incluido",
+      "input": {
+        "total": 1000,
+        "tasa": 0
+      },
+      "expected": "$1,000.00"
+    },
+    {
+      "type": "precio-venta",
+      "input": {
+        "costo": 100,
+        "aumento": 30
+      },
+      "expected": "$130.00"
+    },
+    {
+      "type": "precio-venta",
+      "input": {
+        "costo": 700,
+        "aumento": 50
+      },
+      "expected": "$1,050.00"
+    },
+    {
+      "type": "regla-tres",
+      "input": {
+        "a": 3,
+        "b": 45,
+        "c": 8
+      },
+      "expected": "120"
+    },
+    {
+      "type": "regla-tres",
+      "input": {
+        "a": 100,
+        "b": 800,
+        "c": 15
+      },
+      "expected": "120"
+    }
+  ],
+  "preserved": [
+    "calculadoras/salario-diario.html",
+    "calculadoras/pago-quincenal.html",
+    "calculadoras/salario-neto.html",
+    "assets/js/salario-diario.js",
+    "assets/js/pago-quincenal.js",
+    "assets/js/salario-neto-receipt.js",
+    "assets/js/calculators.js",
+    "assets/js/tablas.js",
+    "scripts/monetization-v2.cjs",
+    "vercel.json",
+    "index.html"
+  ],
+  "htmlPages": 407,
+  "sharedExamples": "PASS: load, input/change events, calculation, focus, invalid payloads",
+  "monetization": "407 pages, exactly one of each existing Adsterra unit and both affiliates; network delivery not tested"
+}
