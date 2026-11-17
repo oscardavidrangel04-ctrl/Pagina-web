@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta content="width=device-width,initial-scale=1" name="viewport">
 <title>Calculadora de precio de venta: costo y aumento</title>
-<meta content="Calcula el precio de venta con base en el costo y un porcentaje de aumento (markup). Aprende a distinguir aumento sobre costo y margen sobre el precio." name="description">
+<meta content="Calcula precio de venta desde el costo, gastos por unidad y aumento. Obtén utilidad y margen efectivo; distingue markup de margen con ejemplos." name="description">
 <meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots">
 <link href="https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html" rel="canonical">
 <link href="/assets/img/favicon.svg" rel="icon" type="image/svg+xml">
@@ -16,13 +16,13 @@
 <meta content="es_MX" property="og:locale">
 <meta content="website" property="og:type">
 <meta content="Calculadora de precio de venta: costo y aumento" property="og:title">
-<meta content="Calcula el precio de venta con base en el costo y un porcentaje de aumento (markup). Aprende a distinguir aumento sobre costo y margen sobre el precio." property="og:description">
+<meta content="Calcula precio de venta desde el costo, gastos por unidad y aumento. Obtén utilidad y margen efectivo; distingue markup de margen con ejemplos." property="og:description">
 <meta content="https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html" property="og:url">
 <meta content="Calculadoras México" property="og:site_name">
 <meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" property="og:image">
 <meta content="summary_large_image" name="twitter:card">
 <meta content="Calculadora de precio de venta: costo y aumento" name="twitter:title">
-<meta content="Calcula el precio de venta con base en el costo y un porcentaje de aumento (markup). Aprende a distinguir aumento sobre costo y margen sobre el precio." name="twitter:description">
+<meta content="Calcula precio de venta desde el costo, gastos por unidad y aumento. Obtén utilidad y margen efectivo; distingue markup de margen con ejemplos." name="twitter:description">
 <meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" name="twitter:image">
 <link href="/styles-v5628.css?v=5.6.28" rel="stylesheet">
 <script>try{document.documentElement.dataset.theme=localStorage.getItem('cm-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script>
@@ -83,14 +83,14 @@
 <h2 class="cm-form-title">Datos para el cálculo</h2>
 <p class="cm-form-note">Revisa los datos y pulsa Calcular para ver el desglose.</p>
 <div class="form-group">
-<label for="costo">Costo del producto</label>
-<input id="costo" inputmode="decimal" min="0" step="0.01" type="number" value="700">
+<label for="costo">Costo base por producto o servicio (MXN)</label>
+<input id="costo" inputmode="decimal" min="0" step="0.01" type="number" value="700" max="1000000000">
 </div>
 <div class="form-group">
 <label for="aumento">Aumento sobre costo (%)</label>
-<input id="aumento" inputmode="decimal" min="0" step="0.01" type="number" value="30">
+<input id="aumento" inputmode="decimal" min="0" step="0.01" type="number" value="30" max="100000">
 </div>
-<div class="calc-controls">
+<div class="form-group"><label for="costosExtra">Costos adicionales por unidad (MXN)</label><input id="costosExtra" type="number" inputmode="decimal" min="0" max="1000000000" step="0.01" value="0" aria-describedby="costos-extra-ayuda"><small id="costos-extra-ayuda">Por ejemplo, empaque o entrega asignados a una unidad. Escribe 0 si ya están incluidos en el costo base.</small></div><div class="calc-controls">
 <button class="calc-button" type="button">Calcular</button>
 <button class="reset-button" data-form-reset="" type="button">Limpiar</button>
 </div>
@@ -98,12 +98,12 @@
 <div aria-live="polite" class="result" id="resultado" tabindex="-1" aria-label="Resultado del cálculo">
 <span>Completa los datos y presiona Calcular.</span>
 </div>
-</section>
+</section><p id="costos-siguiente" hidden><a id="costos-enlace" href="/calculadoras/margen-ganancia.html">Comprobar el margen de este precio</a></p>
 <aside class="side-box"><h2>Del costo al precio de venta</h2><ol><li>Captura el costo de la unidad o servicio completo.</li><li>El porcentaje se aplica sobre el costo: $100 con 30% de aumento produce $130.</li><li>El margen sobre la venta es distinto: en ese ejemplo es 23.08%. Compruébalo con la calculadora de margen.</li></ol>
 <p class="privacy-note">El cálculo se realiza en tu navegador. Si compartes un escenario, sus datos se incluyen en el enlace; revisa la <a href="/privacidad.html">política de privacidad</a> antes de compartirlo.</p>
 </aside>
 </div>
-<section class="content-box calc-examples" aria-labelledby="ejemplos-calculadora"><h2 id="ejemplos-calculadora">Prueba un ejemplo en la calculadora</h2><p>Selecciona un caso para cargar sus datos y ver la operación. Después puedes cambiar los valores.</p><div class="calc-controls"><button class="btn secondary" type="button" data-calc-example="{&quot;costo&quot;:100,&quot;aumento&quot;:30}">Costo $100 con aumento de 30%</button><button class="btn secondary" type="button" data-calc-example="{&quot;costo&quot;:700,&quot;aumento&quot;:50}">Costo $700 con aumento de 50%</button></div></section>
+<section class="content-box calc-examples" aria-labelledby="ejemplos-calculadora"><h2 id="ejemplos-calculadora">Prueba un ejemplo en la calculadora</h2><p>Selecciona un caso para cargar sus datos y ver la operación. Después puedes cambiar los valores.</p><div class="calc-controls"><button class="btn secondary" type="button" data-calc-example="{&quot;costo&quot;: 100, &quot;aumento&quot;: 30, &quot;costosExtra&quot;: 0}">Costo $100 con aumento de 30%</button><button class="btn secondary" type="button" data-calc-example="{&quot;costo&quot;: 700, &quot;aumento&quot;: 50, &quot;costosExtra&quot;: 0}">Costo $700 con aumento de 50%</button></div></section><section class="content-box"><h2>Incluye el costo completo antes de aplicar el aumento</h2><p>Un producto de $100 con $20 adicionales por empaque tiene un costo de $120. Con aumento de 25%, la utilidad agregada es $30 y el precio es $150. El margen sobre venta es $30 ÷ $150 = 20%, aunque el aumento sobre costo sea 25%.</p><button type="button" class="example-button" data-calc-example="{&quot;costo&quot;: 100, &quot;costosExtra&quot;: 20, &quot;aumento&quot;: 25}">Probar costo $100 + $20 y aumento 25%</button><p>Precio = (costo base + costos adicionales por unidad) × (1 + aumento ÷ 100). Si partes del costo de un lote, obtén primero el <a href="/calculadoras/costo-unidad.html">costo por unidad</a>. Si buscas un margen específico sobre venta, usa el <a href="/calculadoras/margen-ganancia.html?margenModo=objetivo&amp;costo=120&amp;venta=150&amp;margenObjetivo=20#calculadora">precio para un margen objetivo</a>.</p><p>La utilidad se redondea al centavo antes de sumarla al costo. El margen efectivo se calcula con ese precio. La herramienta no agrega IVA; mantén todos los costos sobre la misma base de impuestos y evita capturar dos veces el mismo gasto.</p></section>
 <section class="content-box semantic-intent" data-seo-intent="true" id="guia-del-calculo">
 <h2>Qué puedes calcular sobre precio de venta</h2>
 <p>Calcula el precio de venta de un producto a partir de su costo y un porcentaje de aumento sobre ese costo. El resultado muestra cuánto se agrega y el precio antes de impuestos, comisiones u otros costos que no se hayan capturado.</p>
@@ -196,7 +196,7 @@
 </div>
 
 
-<!-- ARCHITECTURE: contextual routes 2026-10-09 --><section class="content-box architecture-related" aria-label="Tema y lecturas relacionadas"><h2>Continúa según tu objetivo</h2><p>Para encontrar herramientas y explicaciones de este tema, consulta <a href="/temas/negocios.html">Precios y finanzas del negocio</a>.</p></section></main>
+<!-- ARCHITECTURE: contextual routes 2026-10-09 --><section class="content-box architecture-related" aria-label="Tema y lecturas relacionadas"><h2>Continúa según tu objetivo</h2><p>Para encontrar herramientas y explicaciones de este tema, consulta <a href="/temas/negocios.html">Precios y finanzas del negocio</a>.</p></section><noscript><p>Activa JavaScript para calcular con tus datos. Las fórmulas y los ejemplos de esta página se pueden consultar sin activarlo.</p></noscript></main>
 <nav aria-label="Navegación móvil" class="mobile-dock">
 <a href="/">
 <span>⌂</span>Inicio</a>
@@ -255,9 +255,9 @@
 </script>
 <script defer src="/_vercel/insights/script.js">
 </script>
-<script defer src="/assets/js/calculators.js?v=5.5.5">
+<script defer src="/assets/js/costos-precios.js?v=20261111">
 </script>
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Calculadora de precio de venta","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html","description":"Calcula el precio de venta con base en el costo y un porcentaje de aumento (markup). Aprende a distinguir aumento sobre costo y margen sobre el precio.","dateModified":"2026-09-30","@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html#webpage","inLanguage":"es-MX","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"Precio de venta","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html"}]}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Calculadora de precio de venta","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html","description":"Calcula precio de venta desde el costo, gastos por unidad y aumento. Obtén utilidad y margen efectivo; distingue markup de margen con ejemplos.","dateModified":"2026-11-11","@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html#webpage","inLanguage":"es-MX","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"Precio de venta","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/precio-venta.html"}]}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cómo se calcula el precio de venta?","acceptedAnswer":{"@type":"Answer","text":"Precio de venta = costo × (1 + porcentaje de aumento ÷ 100). La utilidad añadida es costo × porcentaje de aumento ÷ 100."}},{"@type":"Question","name":"¿Cuál es la diferencia entre margen y aumento sobre costo?","acceptedAnswer":{"@type":"Answer","text":"El aumento sobre costo divide la utilidad entre el costo; el margen la divide entre el precio de venta. Esta calculadora usa aumento sobre costo, no un margen objetivo del precio final."}},{"@type":"Question","name":"¿Puedo usar el resultado como cifra definitiva?","acceptedAnswer":{"@type":"Answer","text":"No necesariamente. Para fijar precios reales considera costos indirectos, comisiones, impuestos y el margen objetivo, no solo el costo directo."}},{"@type":"Question","name":"¿Por qué conviene revisar el desglose?","acceptedAnswer":{"@type":"Answer","text":"Porque permite identificar la base, tasa, plazo o proporción usada y detectar si los datos capturados corresponden al escenario que quieres analizar."}},{"@type":"Question","name":"¿Se guardan mis datos en un servidor?","acceptedAnswer":{"@type":"Answer","text":"No. El cálculo se ejecuta localmente en tu navegador; las funciones de favoritos e historial permanecen en tu dispositivo."}},{"@type":"Question","name":"¿Cómo puedo comprobar el resultado de Calculadora de Precio de venta?","acceptedAnswer":{"@type":"Answer","text":"Revisa los datos de entrada, las unidades o el periodo y después contrasta las filas del desglose. También puedes cambiar un solo dato y volver a calcular para comprobar cómo afecta al resultado."}},{"@type":"Question","name":"¿Puedo comparar dos escenarios en Calculadora de Precio de venta?","acceptedAnswer":{"@type":"Answer","text":"Sí. Guarda el primer escenario, modifica los datos y calcula de nuevo. Cuando ambos resultados son comparables, la página muestra la diferencia entre el escenario guardado y el actual."}},{"@type":"Question","name":"¿Puedo compartir un cálculo de Calculadora de Precio de venta?","acceptedAnswer":{"@type":"Answer","text":"Sí. La opción de compartir genera un enlace con los datos del formulario para recrear el escenario. La persona que lo abra puede revisar y volver a calcular desde su propio navegador."}}]}</script>
 <script defer src="/assets/js/interface-v570.js?v=5.7.0">
 </script>

@@ -1,13 +1,98 @@
-/* Salary page only: retain the pilot layout while restoring the original blue identity. */
-body.cm-ui.cm-pilot-v2[data-calc="salario-diario"]{--primary:#0b57d0;--primary-2:#0849af;--primary-soft:#e5efff;--text:#071a35;--muted:#445a75;--bg:#f5f8fc;--surface:#fff;--surface-2:#eaf0fa;--line:#cbd8e9;--navy:#071a35;--navy-2:#0e2a52}
-html[data-theme=dark] body.cm-ui.cm-pilot-v2[data-calc="salario-diario"]{--primary:#a6c9ff;--primary-2:#c0daff;--primary-soft:#173354;--text:#edf4ff;--muted:#adbed6;--bg:#0b1729;--surface:#101f34;--surface-2:#172a43;--line:#324965;--navy:#071a35;--navy-2:#0e2a52}
-body[data-calc="salario-diario"] .cm-logo-mark{filter:none}
-body.cm-pilot-v2[data-calc="salario-diario"] .calc-button{background:#0b57d0!important;border-color:#0b57d0!important}
-body.cm-pilot-v2[data-calc="salario-diario"] .calc-button:hover{background:#0849af!important}
-body[data-calc="salario-diario"] .salary-monthly-methods{margin-block:20px;padding:16px;border:1px solid var(--line);border-radius:8px}
-body[data-calc="salario-diario"] .salary-monthly-methods summary{cursor:pointer;font-weight:700;min-height:44px}
-body[data-calc="salario-diario"] .salary-monthly-methods p{font-size:.9rem;overflow-wrap:anywhere}
-body[data-calc="salario-diario"] .salary-monthly-methods .result-row{gap:12px;flex-wrap:wrap}
-body[data-calc="salario-diario"] .salary-monthly-methods .result-row strong{min-width:0}
-body[data-calc="salario-diario"] .salary-example-link{display:inline-block;padding-block:8px}
-body[data-calc="salario-diario"] #metodos-mensuales{scroll-margin-top:100px}
+/* Isolated salary workspace. Reuses the HOME's existing local font and palette. */
+@font-face{font-family:"Instrument Sans";font-style:normal;font-weight:400 700;font-display:swap;src:url('/assets/fonts/home-taste/instrument-sans-latin.woff2') format('woff2')}
+body.cm-ui.cm-salary-premium{--primary:#0b57d0;--primary-2:#0849af;--primary-soft:#e5efff;--text:#071a35;--muted:#445a75;--bg:#f5f8fc;--surface:#fff;--surface-2:#eaf0fa;--line:#cbd8e9;--navy:#071a35;--navy-2:#0e2a52;font-family:"Instrument Sans",system-ui,sans-serif}
+html[data-theme=dark] body.cm-ui.cm-salary-premium{--primary:#a6c9ff;--primary-2:#c0daff;--primary-soft:#173354;--text:#edf4ff;--muted:#adbed6;--bg:#0b1729;--surface:#101f34;--surface-2:#172a43;--line:#324965;--navy:#071a35;--navy-2:#0e2a52;color-scheme:dark}
+body.cm-salary-premium :is(h1,h2,h3){font-family:inherit;font-weight:500;letter-spacing:-.03em;text-wrap:balance}
+body.cm-salary-premium :is(.page-wrap,.breadcrumb,.header-inner){max-width:1200px;width:min(1200px,calc(100% - 48px))}
+body.cm-salary-premium .site-header{background:#071a35!important;border-bottom:1px solid #365071}
+body.cm-salary-premium .cm-logo-mark{filter:none}
+body.cm-salary-premium .cm-wordmark,body.cm-salary-premium .cm-wordmark strong{color:#f5f8fc!important}
+body.cm-salary-premium .site-header :is(.icon-button,.main-nav a){color:#eef5ff;background:transparent}
+body.cm-salary-premium .site-header .icon-button{border-color:#365071}
+body.cm-salary-premium .main-nav a:is(:hover,.active){background:#173354;color:#fff}
+body.cm-salary-premium .page-head{padding:12px 0 24px!important;border:0!important;margin:0!important;text-align:left}
+body.cm-salary-premium .page-head h1{font-size:clamp(1.9rem,3.4vw,2.9rem)!important;max-width:960px;margin:8px 0 12px;line-height:1.12}
+body.cm-salary-premium .page-head>p{margin:0;max-width:70ch}
+body.cm-salary-premium .page-head .favorite-page{position:absolute;right:0;top:0;margin:0}
+body.cm-salary-premium .calc-layout{display:block}
+body.cm-salary-premium .calc-box{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:0;padding:0!important;border:1px solid var(--line)!important;overflow:hidden;border-radius:12px!important;box-shadow:0 16px 40px #071a3508!important}
+body.cm-salary-premium .salary-input-panel{padding:32px;min-width:0}
+body.cm-salary-premium .cm-form-title{font-size:1.4rem!important}
+body.cm-salary-premium .cm-form-note{font-size:1rem;margin:8px 0 24px}
+body.cm-salary-premium .form-group{margin-bottom:20px}
+body.cm-salary-premium .form-group :is(input,select){min-height:56px;border-color:#8499b4!important;font-size:1.1rem!important;padding:12px 16px!important;font-variant-numeric:tabular-nums}
+body.cm-salary-premium .form-group input{font-size:1.55rem!important;font-weight:500}
+body.cm-salary-premium .salary-divisor{font-size:.9rem;margin:0;padding:10px 14px;background:var(--surface-2);border-radius:6px}
+body.cm-salary-premium .calc-controls{margin-top:20px;flex-wrap:wrap}
+body.cm-salary-premium .calc-button{background:#0b57d0!important;border-color:#0b57d0!important;min-height:54px;flex-basis:220px}
+body.cm-salary-premium .calc-button:hover{background:#0849af!important}
+body.cm-salary-premium .salary-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:24px}
+body.cm-salary-premium .salary-presets>span{width:100%;font-size:.875rem;color:var(--muted)}
+body.cm-salary-premium .salary-presets button{background:var(--surface);border:1px solid var(--line);color:var(--primary);padding:8px 12px;border-radius:6px;min-height:44px;font-size:.9rem}
+body.cm-salary-premium .form-state{font-size:.8rem!important}
+body.cm-salary-premium .result{margin:0;padding:32px!important;background:var(--surface-2)!important;border:0!important;border-left:1px solid var(--line)!important;border-radius:0!important;align-self:stretch;min-height:440px}
+body.cm-salary-premium .salary-empty{height:100%;display:flex;flex-direction:column;justify-content:center;max-width:40ch}
+body.cm-salary-premium .salary-result-label{font-size:.9rem;color:var(--primary);font-weight:500}
+body.cm-salary-premium .salary-empty-title{font-size:clamp(1.5rem,2.5vw,2rem);line-height:1.2;letter-spacing:-.03em;color:var(--text);margin:16px 0}
+body.cm-salary-premium .salary-empty-formula{padding-top:24px;border-top:1px solid var(--line);font-size:.9rem}
+body.cm-salary-premium .result-heading{margin:0 0 20px}
+body.cm-salary-premium .result-heading>span{font-size:1rem;font-weight:500}
+body.cm-salary-premium .result-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+body.cm-salary-premium .result-grid>.result-row{display:block;min-width:0;margin:0;padding:14px 10px;border:1px solid var(--line);background:var(--surface);border-radius:6px;font-size:.8rem}
+body.cm-salary-premium .result-grid>.result-row strong{display:block;font-weight:400;line-height:1.4}
+body.cm-salary-premium .result-grid>.result-row>span{display:block;text-align:left;font-size:1.05rem;line-height:1.4;margin-top:8px;font-weight:600;overflow-wrap:anywhere}
+body.cm-salary-premium .result-grid>.salary-base-row{grid-column:1/-1;display:flex;padding:0;background:none;border:0;justify-content:space-between;align-items:baseline}
+body.cm-salary-premium .result-grid>.salary-base-row>span{font-size:.9rem;margin:0}
+body.cm-salary-premium .result-grid>.result-row.total{grid-column:1/-1;grid-row:1;order:0;background:#071a35!important;border:0!important;padding:24px!important;color:#f5f8fc!important;border-radius:8px!important}
+body.cm-salary-premium .result-grid>.result-row.total strong{color:#d0def1;font-size:.95rem}
+body.cm-salary-premium .result-grid>.result-row.total>span{font-size:clamp(1.75rem,3.4vw,3rem);line-height:1.15;letter-spacing:-.035em;font-weight:500;color:#fff}
+body.cm-salary-premium .result-grid>small{grid-column:1/-1;font-size:.9rem;line-height:1.6;margin:4px 0 0}
+body.cm-salary-premium .salary-monthly-methods{margin-top:20px}
+body.cm-salary-premium .salary-monthly-methods summary{min-height:44px;cursor:pointer;font-weight:500;line-height:1.5;color:var(--primary)}
+body.cm-salary-premium .salary-monthly-methods .result-row{flex-wrap:wrap;gap:8px;font-size:.9rem}
+body.cm-salary-premium .salary-monthly-methods p{font-size:.875rem;overflow-wrap:anywhere}
+body.cm-salary-premium .result-actions{gap:8px;margin-top:20px}
+body.cm-salary-premium .result-actions button{flex:1 1 110px;font-size:.875rem}
+body.cm-salary-premium .salary-extra-actions{margin-top:12px}
+body.cm-salary-premium .salary-extra-actions summary{min-height:44px;cursor:pointer;color:var(--primary);padding:10px 0;font-size:.9rem}
+body.cm-salary-premium .salary-extra-actions .result-actions{margin:0}
+body.cm-salary-premium .salary-next{padding:36px 0}
+body.cm-salary-premium .salary-next h2{margin:0}
+body.cm-salary-premium .salary-next>p{margin:8px 0 24px}
+body.cm-salary-premium .salary-next-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+body.cm-salary-premium .salary-next-grid a{display:block;padding:20px;background:var(--surface);border:1px solid var(--line);border-radius:8px;min-width:0;text-decoration:none;transition:transform 140ms ease,border-color 140ms ease}
+body.cm-salary-premium .salary-next-grid strong{display:block;color:var(--primary);font-weight:500}
+body.cm-salary-premium .salary-next-grid span{display:block;color:var(--muted);font-size:.9rem;line-height:1.5;margin-top:8px}
+body.cm-salary-premium .cm-page-shortcuts{margin:0 0 32px;padding:16px 0;border-block:1px solid var(--line);gap:8px 24px}
+body.cm-salary-premium .cm-page-shortcuts a{min-height:44px}
+body.cm-salary-premium .side-box{padding:28px 32px!important;background:var(--surface-2)!important}
+body.cm-salary-premium :is(.side-box,.content-box) :is(p,li){max-width:76ch;line-height:1.8}
+body.cm-salary-premium .content-box{padding:32px!important;margin:32px 0;border-radius:8px!important}
+body.cm-salary-premium .content-box h2{font-size:clamp(1.4rem,2.4vw,1.9rem)!important;font-weight:500;margin-bottom:20px}
+body.cm-salary-premium .content-box h3{margin:28px 0 12px;font-size:1.2rem}
+body.cm-salary-premium #guia-del-calculo{border-left:4px solid var(--primary)!important;background:var(--surface-2)!important}
+body.cm-salary-premium .table-wrap{max-width:100%;overflow-x:auto;overscroll-behavior-x:contain;border:1px solid var(--line);border-radius:8px;margin:24px 0}
+body.cm-salary-premium table{width:100%;font-variant-numeric:tabular-nums}
+body.cm-salary-premium caption{text-align:left;padding:16px;background:var(--surface-2);color:var(--text);font-weight:500}
+body.cm-salary-premium :is(th,td){padding:14px 16px;text-align:left}
+body.cm-salary-premium tbody tr:nth-child(even){background:var(--surface-2)}
+body.cm-salary-premium .faq-section details{padding:16px 0;border-bottom:1px solid var(--line)}
+body.cm-salary-premium .faq-section summary{min-height:44px;cursor:pointer;line-height:1.6}
+body.cm-salary-premium :is(#calculadora,#resultado,#metodos-mensuales,.content-box){scroll-margin-top:100px}
+body.cm-salary-premium .salary-example-link{display:inline-block;padding:8px 0}
+body.cm-salary-premium .cm-stale{grid-column:1/-1;margin:0}
+@media(hover:hover) and (pointer:fine){body.cm-salary-premium .salary-next-grid a:hover{transform:translateY(-2px);border-color:var(--primary)}body.cm-salary-premium .salary-presets button:hover{background:var(--primary-soft)}}
+@media(max-width:1040px){body.cm-salary-premium .main-nav{background:#071a35!important}body.cm-salary-premium .salary-input-panel,body.cm-salary-premium .result{padding:24px!important}}
+@media(max-width:800px){body.cm-salary-premium .calc-box{grid-template-columns:minmax(0,1fr)}body.cm-salary-premium .result{border-left:0!important;border-top:1px solid var(--line)!important;min-height:220px}body.cm-salary-premium .salary-next-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){body.cm-salary-premium :is(.page-wrap,.breadcrumb,.header-inner){width:calc(100% - 32px)}body.cm-salary-premium .page-head{padding-top:0!important}body.cm-salary-premium .page-head h1{font-size:1.85rem!important}body.cm-salary-premium .page-head .favorite-page{position:static;margin:12px 0 0}body.cm-salary-premium .salary-input-panel,body.cm-salary-premium .result,body.cm-salary-premium .content-box,body.cm-salary-premium .side-box{padding:20px 16px!important}body.cm-salary-premium .salary-next-grid{grid-template-columns:minmax(0,1fr)}body.cm-salary-premium .result-grid{grid-template-columns:minmax(0,1fr)}body.cm-salary-premium .result-grid>.result-row:not(.total){grid-column:1;display:flex;align-items:baseline;gap:12px}body.cm-salary-premium .result-grid>.result-row:not(.total)>span{margin:0;font-size:1rem}body.cm-salary-premium .result-grid>.result-row.total>span{font-size:clamp(1.65rem,7vw,2.4rem)}body.cm-salary-premium .result-actions button{flex-basis:100%}body.cm-salary-premium .salary-next{padding:28px 0}}
+@media(prefers-reduced-motion:reduce){body.cm-salary-premium *,body.cm-salary-premium *::before,body.cm-salary-premium *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+@media print{body.cm-salary-premium .calc-box{display:block}body.cm-salary-premium .salary-next,body.cm-salary-premium .salary-presets,body.cm-salary-premium .salary-extra-actions{display:none!important}body.cm-salary-premium .result{min-height:0}body.cm-salary-premium .result-grid>.result-row.total{background:#fff!important;color:#000!important}body.cm-salary-premium .result-grid>.result-row.total :is(strong,span){color:#000!important}}
+/* Match the opaque HOME header despite legacy navigation declarations. */
+body.cm-ui.cm-salary-premium .site-header .main-nav a{color:#cedcf0!important;background:transparent!important}
+body.cm-ui.cm-salary-premium .site-header .main-nav a:is(:hover,.active){color:#fff!important;background:#173354!important}
+body.cm-ui.cm-salary-premium .site-header .icon-button{color:#eef5ff!important;background:#071a35!important}
+body.cm-ui.cm-salary-premium .badge{text-transform:none!important;letter-spacing:0!important}
+body.cm-ui.cm-salary-premium .form-group #salario{font-size:1.55rem!important}
+/* Keep the calculate action close to the first mobile viewport. */
+@media(max-width:520px){body.cm-salary-premium .page-head .favorite-page{position:absolute;top:-4px;right:0;margin:0;min-height:44px}body.cm-salary-premium .page-head .badge{min-height:44px;display:flex;align-items:center}body.cm-salary-premium .cm-form-note{margin-bottom:16px}body.cm-salary-premium .calc-controls{position:static!important;bottom:auto!important;padding:0!important;border:0!important;box-shadow:none!important;background:none!important}}
+body.cm-salary-premium .salary-share-note{font-size:.8rem;line-height:1.5;color:var(--muted);margin-top:20px}

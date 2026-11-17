@@ -1,0 +1,148 @@
+{
+  "urls": [
+    "/calculadoras/iva.html",
+    "/calculadoras/credito-automotriz.html",
+    "/articulos/simulador-credito-automotriz.html",
+    "/calculadoras/regla-tres.html",
+    "/calculadoras/costo-unidad.html",
+    "/calculadoras/precio-venta.html",
+    "/articulos/como-calcular-iva.html",
+    "/articulos/que-incluye-finiquito.html",
+    "/articulos/finiquito-renuncia-voluntaria.html"
+  ],
+  "html_files": [
+    {
+      "file": "calculadoras/iva.html",
+      "url": "/calculadoras/iva.html",
+      "before_sha256": "717a0e4dbb9c8dc4503b566312b19e1b7b0813763c93087dedcaf486fd77b0c8",
+      "after_sha256": "bc5176513fcb030e49d043bf301c2ec6019db49da02be78582883f4435c57212"
+    },
+    {
+      "file": "calculadoras/credito-automotriz.html",
+      "url": "/calculadoras/credito-automotriz.html",
+      "before_sha256": "6a2363e48beba69bddebd6d39799563e26c334810b2b051fa543f783e3e49557",
+      "after_sha256": "21be491cd457d1031cb94cf5a775d30f02fcd3a459970e5a20d462af8ca397b5"
+    },
+    {
+      "file": "articulos/simulador-credito-automotriz.html",
+      "url": "/articulos/simulador-credito-automotriz.html",
+      "before_sha256": "166abb325b5cbd67b17aaf9b488ee7bb4655350394862b27e174c654a445599e",
+      "after_sha256": "4e407ceb18a1eec88599b19556b4df7c965fdedec64b35d71b83c21de0812fbb"
+    },
+    {
+      "file": "calculadoras/regla-tres.html",
+      "url": "/calculadoras/regla-tres.html",
+      "before_sha256": "75b648a7b860783f49866898f7214777da8cf202d0604a71737e4b2982c52e9e",
+      "after_sha256": "5509d127e1f6000dfc12f1edad220efd6e9650360ee76d67b5319a6011b30a61"
+    },
+    {
+      "file": "calculadoras/costo-unidad.html",
+      "url": "/calculadoras/costo-unidad.html",
+      "before_sha256": "b1e2875289b8f79dd307f0a10e069fd8ee2fda72acd7381f97766430043fc4f4",
+      "after_sha256": "4b634db61ae1f27b11648148fd6738edbb5282e0840da24d52244619a769ea42"
+    },
+    {
+      "file": "calculadoras/precio-venta.html",
+      "url": "/calculadoras/precio-venta.html",
+      "before_sha256": "405c0ffa26d4a46395cc7327e85d5c8d72571bf065a2c6f66f6fe9d298c5c42a",
+      "after_sha256": "e36d5d4c6fc5b65a9d43dca72ae06da9c749f5745ba3a2ccf66c9d90143fca7b"
+    },
+    {
+      "file": "articulos/como-calcular-iva.html",
+      "url": "/articulos/como-calcular-iva.html",
+      "before_sha256": "c6b8be7779e2a559b526afb0afb9d215adede4ed4fe91e8bc0c401c4c771f539",
+      "after_sha256": "b7f2b05da842c13d311c49e9843c41b1f23ca4f10aca7e8f1cd718ac601b12e1"
+    },
+    {
+      "file": "articulos/que-incluye-finiquito.html",
+      "url": "/articulos/que-incluye-finiquito.html",
+      "before_sha256": "1816b86df7223cc60ba27bef234061fc4308d33f2821d001e70c3f083e1082c0",
+      "after_sha256": "bdfe2e3b3bafca28dd2c81131389c9b91e7fadee988cb57943a40d7914e44be1"
+    },
+    {
+      "file": "fallback-que-incluye-finiquito.html",
+      "url": "/articulos/que-incluye-finiquito.html",
+      "before_sha256": "9e29e2bcde1a0bbf62ae9745da684e6580315ad1586e362f4b6189dc9421265b",
+      "after_sha256": "4a78c5b4114352bdaa47178e1bff0ad0a21be90cceae221514559c2afdd343db"
+    },
+    {
+      "file": "articulos/finiquito-renuncia-voluntaria.html",
+      "url": "/articulos/finiquito-renuncia-voluntaria.html",
+      "before_sha256": "92a5d1bbc1d254d5da33d7baed930ca7c4f2d6f3baa5bbb704f7d5713f658d5a",
+      "after_sha256": "522c9fcf1201634688af62524a0884b9c71e1d905dff8a69465200da622bce7b"
+    },
+    {
+      "file": "fallback-finiquito-renuncia-voluntaria.html",
+      "url": "/articulos/finiquito-renuncia-voluntaria.html",
+      "before_sha256": "81cddd166172afc883e3084b5900d59b2b37f09f9d79a44534b9a26e72b49626",
+      "after_sha256": "71177697f06836b4fefe7b2e30b3659c985b1e091ad0396fa1f8713dbf315259"
+    }
+  ],
+  "contextual_links": [
+    {
+      "origen": "/calculadoras/credito-automotriz.html",
+      "destino": "/articulos/simulador-credito-automotriz.html",
+      "cantidad": 1
+    },
+    {
+      "origen": "/articulos/simulador-credito-automotriz.html",
+      "destino": "/calculadoras/credito-automotriz.html?precioAuto=300000&enganchePct=20&tasa=18&meses=36#calculadora",
+      "cantidad": 1
+    },
+    {
+      "origen": "/articulos/simulador-credito-automotriz.html",
+      "destino": "/calculadoras/credito-automotriz.html?precioAuto=300000&enganchePct=20&tasa=18&meses=48#calculadora",
+      "cantidad": 1
+    },
+    {
+      "origen": "/calculadoras/costo-unidad.html",
+      "destino": "/calculadoras/precio-venta.html",
+      "cantidad": 1
+    },
+    {
+      "origen": "/calculadoras/precio-venta.html",
+      "destino": "/calculadoras/margen-ganancia.html",
+      "cantidad": 1
+    },
+    {
+      "origen": "/calculadoras/precio-venta.html",
+      "destino": "/calculadoras/costo-unidad.html",
+      "cantidad": 1
+    },
+    {
+      "origen": "/calculadoras/precio-venta.html",
+      "destino": "/calculadoras/margen-ganancia.html?margenModo=objetivo&costo=120&venta=150&margenObjetivo=20#calculadora",
+      "cantidad": 1
+    },
+    {
+      "origen": "/articulos/como-calcular-iva.html",
+      "destino": "/calculadoras/iva.html?cantidad=1000&tasa=16&operacion=agregar#calculadora",
+      "cantidad": 1
+    },
+    {
+      "origen": "/articulos/como-calcular-iva.html",
+      "destino": "/calculadoras/iva.html?cantidad=1160&tasa=16&operacion=quitar#calculadora",
+      "cantidad": 1
+    },
+    {
+      "origen": "/articulos/como-calcular-iva.html",
+      "destino": "/calculadoras/iva.html?cantidad=999.99&tasa=16&operacion=agregar#calculadora",
+      "cantidad": 1
+    },
+    {
+      "origen": "/articulos/que-incluye-finiquito.html",
+      "destino": "/calculadoras/finiquito.html",
+      "cantidad": 1
+    },
+    {
+      "origen": "/articulos/que-incluye-finiquito.html",
+      "destino": "/articulos/finiquito-renuncia-voluntaria.html",
+      "cantidad": 1
+    },
+    {
+      "origen": "/articulos/finiquito-renuncia-voluntaria.html",
+      "destino": "/calculadoras/finiquito.html?salario=18000&diasPendientes=3&diasAnio=90&vacacionesPendientes=6&diasAguinaldo=15&prima=25#calculadora",
+      "cantidad": 1
+    }
+  ]
+}

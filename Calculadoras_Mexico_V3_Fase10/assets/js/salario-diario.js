@@ -21,6 +21,13 @@
     const salary = document.getElementById('salario');
     const period = document.getElementById('periodo');
     const result = document.getElementById('resultado');
+    const periodHint = document.getElementById('salary-divisor');
+    const syncPeriod = () => {
+      if (periodHint) periodHint.textContent = `${period.options[period.selectedIndex]?.text || 'Periodo'} · divide entre ${days[period.value] || '—'} ${days[period.value] === 1 ? 'día' : 'días'}`;
+    };
+    period.addEventListener('change', syncPeriod);
+    syncPeriod();
+    document.querySelector('[data-form-reset]')?.addEventListener('click', () => setTimeout(syncPeriod, 0));
     const invalidate = (message, field) => {
       result.replaceChildren();
       const notice = document.createElement('p');
@@ -77,9 +84,29 @@
         const cashNote = document.createElement('p'); cashNote.textContent = 'Cuenta las fechas de pago del mes. Estas sumas suponen depósitos constantes del importe capturado: no son un mes de 30 días ni un promedio anual. Si capturaste bruto, tampoco representan el dinero neto que llegará a tu cuenta.'; details.append(cashNote);
       }
       result.querySelector('.result-actions').before(details);
+      // Preserve common result row semantics for history, CSV, comparison and sharing.
+      const rows = result.querySelectorAll('.result-grid > .result-row');
+      rows[0]?.classList.add('salary-base-row');
+      rows[1]?.classList.add('salary-base-row');
+      const actions = result.querySelector('.result-actions');
+      const extra = document.createElement('details'); extra.className = 'salary-extra-actions';
+      const extraTitle = document.createElement('summary'); extraTitle.textContent = 'Enlace, escenarios y exportación';
+      const extraButtons = document.createElement('div'); extraButtons.className = 'result-actions';
+      for (const selector of ['[data-result-link]', '[data-result-save]', '[data-result-export]', '[data-result-print]']) {
+        const button = actions.querySelector(selector); if (button) extraButtons.append(button);
+      }
+      extra.append(extraTitle, extraButtons); actions.after(extra);
+      const again = document.createElement('button'); again.type = 'button'; again.textContent = 'Editar sueldo';
+      again.addEventListener('click', () => { salary.focus(); salary.select(); }); actions.append(again);
+      const notice = document.createElement('p'); notice.className = 'salary-share-note';
+      notice.textContent = 'Al compartir se incluyen los importes del escenario. Revisa los datos antes de enviarlos.';
+      actions.before(notice);
+      result.focus({preventScroll: true});
+      if (matchMedia('(max-width: 800px)').matches) result.scrollIntoView({block: 'start', behavior: 'auto'});
     });
     // A changed input must not leave an old monetary result looking current.
     form.addEventListener('input', () => {
+      syncPeriod();
       if (result.dataset.ready === 'true') {
         result.removeAttribute('data-ready');
         result.textContent = 'Los datos cambiaron. Pulsa Calcular para actualizar el resultado.';

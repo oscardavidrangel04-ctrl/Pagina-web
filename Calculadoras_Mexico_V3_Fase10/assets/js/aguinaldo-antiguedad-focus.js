@@ -1,5 +1,16 @@
-(function () {
+(function (root) {
   'use strict';
+
+  function estimate(monthly, days, worked) {
+    if (!Number.isFinite(monthly) || monthly <= 0 || monthly > 1e9 || Number(monthly.toFixed(2)) !== monthly) throw new Error('Captura un sueldo mensual positivo de hasta 1,000,000,000, con hasta dos decimales.');
+    if (!Number.isFinite(days) || days < 15 || days > 365) throw new Error('Captura entre 15 y 365 días de prestación anual; el tiempo parcial se indica por separado.');
+    if (!Number.isInteger(worked) || worked < 1 || worked > 365) throw new Error('Captura entre 1 y 365 días computables enteros de 2026.');
+    var daily = monthly / 30, annual = daily * days;
+    return {daily: daily, annual: annual, proportional: annual * worked / 365, minimum: daily * 15 * worked / 365};
+  }
+  if (typeof module === 'object' && module.exports) module.exports = {estimate: estimate};
+  root.CMAguinaldoAntiguedad = {estimate: estimate};
+  if (typeof document === 'undefined') return;
 
   function money(value) {
     return new Intl.NumberFormat('es-MX', { style: 'currency', currency: 'MXN', minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(value);
@@ -24,26 +35,25 @@
       var monthly = Number(salary.value);
       var days = Number(benefitDays.value);
       var worked = Number(workedDays.value);
-      if (!Number.isFinite(monthly) || monthly <= 0) return showError('Captura un sueldo mensual mayor a cero.');
-      if (!Number.isFinite(days) || days <= 0 || days > 365) return showError('Captura entre 1 y 365 días de aguinaldo.');
-      if (!Number.isFinite(worked) || worked <= 0 || worked > 365) return showError('Captura entre 1 y 365 días trabajados.');
-
-      var daily = monthly / 30;
-      var annual = daily * days;
-      var proportional = annual * (worked / 365);
+      var value;
+      try {value = estimate(monthly, days, worked);} catch (error) {return showError(error.message);}
+      var daily = value.daily, annual = value.annual, proportional = value.proportional;
       result.classList.add('has-result');
       result.innerHTML =
         '<div class="aguinaldo-result-main"><div><span>Aguinaldo bruto estimado</span><strong>' + money(proportional) + '</strong></div><small>' + (worked === 365 ? 'Año completo' : worked + ' días trabajados') + '</small></div>' +
-        '<div class="aguinaldo-result-details"><div><span>Salario diario</span><strong>' + money(daily) + '</strong></div><div><span>Aguinaldo anual</span><strong>' + money(annual) + '</strong></div><div><span>Proporción trabajada</span><strong>' + (worked / 365 * 100).toLocaleString('es-MX', { maximumFractionDigits: 2 }) + '%</strong></div></div>';
+        '<div class="aguinaldo-result-details"><div><span>Salario diario</span><strong>' + money(daily) + '</strong></div><div><span>Aguinaldo anual</span><strong>' + money(annual) + '</strong></div><div><span>Proporción trabajada</span><strong>' + (worked / 365 * 100).toLocaleString('es-MX', { maximumFractionDigits: 2 }) + '%</strong></div></div>' +
+        '<p>Referencia con 15 días anuales: ' + money(value.minimum) + '. Diferencia de tu prestación: ' + money(proportional - value.minimum) + ' brutos.</p>' +
+        '<p><a href="/calculadoras/aguinaldo.html?tipoSalario=fijo&amp;periodoSalario=mensual&amp;salario=' + monthly + '&amp;diasAguinaldo=' + days + '&amp;modoAguinaldo=dias&amp;diasTrabajados=' + worked + '#calculadora">Continuar con este escenario en la calculadora de aguinaldo</a></p>';
       result.focus({ preventScroll: true });
     }
 
     button.addEventListener('click', calculate);
     [salary, benefitDays, workedDays].forEach(function (input) {
-      input.addEventListener('keydown', function (event) { if (event.key === 'Enter') calculate(); });
+      input.addEventListener('input', function () {result.classList.remove('has-result'); result.textContent = 'Datos actualizados. Vuelve a calcular para ver el aguinaldo.';});
+      input.addEventListener('keydown', function (event) { if (event.key === 'Enter') {event.preventDefault(); calculate();} });
     });
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
   else init();
-})();
+})(typeof globalThis === 'object' ? globalThis : this);

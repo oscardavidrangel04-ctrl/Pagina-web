@@ -132,5 +132,6 @@
   ],
   "htmlPages": 407,
   "sharedExamples": "PASS: load, input/change events, calculation, focus, invalid payloads",
+  "configurationException": "Only the reviewed permanent redirect for the missing Bing finiquito URL; all other settings unchanged.",
   "monetization": "407 pages, exactly one of each existing Adsterra unit and both affiliates; network delivery not tested"
 }

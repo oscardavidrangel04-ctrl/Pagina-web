@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "conditions": "Compiled HTML, local configuration, byte preservation and input exports. No browser, real advertising, live indexing or CWV measurement.",
+  "css_unchanged": 108,
+  "images_unchanged": 15,
+  "previous_gsc_html_unchanged": 11,
+  "public_files": 499,
+  "global_audit": {
+    "physical_html": 408,
+    "indexable_routes": 379,
+    "sitemap_routes": 379,
+    "orphan_indexable": 0,
+    "unreachable_indexable": 0,
+    "issues_by_kind": {}
+  },
+  "modified_canonical_destinations": 9,
+  "modified_html_files": 11,
+  "visible_faq_answers": 35,
+  "changed_contextual_link_destinations": 13,
+  "source_exports_verified": 5,
+  "matrix_rows": 380,
+  "queries_processed": 1746,
+  "redirect": "One reviewed permanent redirect from absent historical URL to comprehensive finiquito guide; local configuration only."
+}

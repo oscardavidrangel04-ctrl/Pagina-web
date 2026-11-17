@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-10",
+  "base_commit": "ee6d803",
+  "gsc_urls": 186,
+  "semrush_rows": 1272,
+  "matrix_rows": 1327,
+  "editorially_reviewed": 27,
+  "modified_urls": 8,
+  "modified_html": 11,
+  "preserved_editorial_candidates": 19,
+  "indexable_routes": 379,
+  "physical_html": 408,
+  "public_files": 495,
+  "calculation_checks": 107,
+  "visible_faq_answers": 51,
+  "css_files_unchanged": 24,
+  "deployed": false,
+  "browser_verified": false,
+  "field_cwv_measured": false,
+  "post_publish_seo_measured": false
+}

@@ -30,8 +30,9 @@
 <link href="/assets/css/interface-v570.css?v=5.7.0" rel="stylesheet"/>
 <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1606770348282610">
 </script>
-<link href="/assets/css/affiliate-block.css" rel="stylesheet"/><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Calculadora de salario diario: sueldo mensual o semanal","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html","applicationCategory":"FinanceApplication","operatingSystem":"Web","inLanguage":"es-MX","isAccessibleForFree":true,"description":"Calcula tu salario diario desde sueldo mensual, quincenal o semanal. Compara equivalencias de 30 días y promedios anuales, con ejemplos en pesos mexicanos.","featureList":["Convertir sueldo mensual, quincenal, semanal o diario","Mostrar equivalencias de 7, 15 y 30 días","Comparar promedios mensuales de 365 días y 52 semanas","Escenarios de sueldo semanal desde la tabla","Comparación de cuatro y cinco pagos semanales constantes"],"@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html#app"}</script><link href="/assets/css/pilot-v2.css?v=2" rel="stylesheet"/><link href="/assets/css/salario-diario.css?v=1" rel="stylesheet"/></head>
-<body class="ziro-site cm-ui cm-pilot-v2" data-calc="salario-diario">
+<link href="/assets/css/affiliate-block.css" rel="stylesheet"/><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Calculadora de salario diario: sueldo mensual o semanal","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html","applicationCategory":"FinanceApplication","operatingSystem":"Web","inLanguage":"es-MX","isAccessibleForFree":true,"description":"Calcula tu salario diario desde sueldo mensual, quincenal o semanal. Compara equivalencias de 30 días y promedios anuales, con ejemplos en pesos mexicanos.","featureList":["Convertir sueldo mensual, quincenal, semanal o diario","Mostrar equivalencias de 7, 15 y 30 días","Comparar promedios mensuales de 365 días y 52 semanas","Escenarios de sueldo semanal desde la tabla","Comparación de cuatro y cinco pagos semanales constantes"],"@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html#app"}</script><link href="/assets/css/salario-diario.css?v=2" rel="stylesheet"/><link rel="preload" href="/assets/fonts/home-taste/instrument-sans-latin.woff2" as="font" type="font/woff2" crossorigin/>
+</head>
+<body class="ziro-site cm-ui cm-salary-premium" data-calc="salario-diario">
 <a class="skip" href="#contenido">Saltar al contenido</a>
 <header class="site-header">
 <div class="header-inner">
@@ -69,44 +70,44 @@
 <header class="page-head">
 <span class="category-hero-icon">📆</span>
 <span class="badge">Nómina</span>
-<h1>Calculadora de salario diario: ¿cuánto gano al día?</h1>
-<p>Convierte tu sueldo mensual, quincenal o semanal a salario diario. Divide entre <strong>30, 15 o 7</strong>, según el periodo completo que cubre el importe. Por ejemplo, $15,000 al mes equivalen a $500 diarios. El resultado conserva la naturaleza bruta o neta del dato: no agrega prestaciones ni calcula deducciones.</p>
-<p>Calcula gratis y sin registro: obtén tu sueldo por día y sus equivalencias de 7, 15 y 30 días. También puedes comparar promedios mensuales anuales sin cambiar la referencia diaria.</p>
+<h1>Calculadora de salario diario: ¿cuánto gano al día?</h1><p>Elige tu periodo, escribe tu sueldo y obtén su equivalente por día. Sin registro.</p>
+
+
 <button aria-pressed="false" class="favorite-page" data-favorite="salario-diario" type="button">
 <span data-favorite-icon="">☆</span> <span data-favorite-label="">Guardar</span>
 </button>
-<nav aria-label="En esta página" class="cm-page-shortcuts">
-<a href="#calculadora">Calcular ahora</a>
-<a href="#conversion-diaria-resumen">Fórmulas por periodo</a>
-<a href="#divisor-diario">¿30 o 30.4 días?</a>
-<a href="#preguntas-salario-diario">Preguntas frecuentes</a>
-<a href="#metodos-mensuales">Semana a mes</a></nav>
+
 </header>
 <div class="calc-layout">
 <section aria-label="Formulario de cálculo" class="calc-box" id="calculadora">
-<h2 class="cm-form-title">Datos para el cálculo</h2>
-<p class="cm-form-note" id="salary-period-help">Escribe el sueldo del periodo completo en pesos mexicanos. Si buscas tu salario bruto diario, usa el importe antes de descuentos. Si ya conoces el importe por día, selecciona Diario para obtener equivalencias. No uses el total de una semana como si fuera mensual.</p>
+<div class="salary-input-panel"><h2 class="cm-form-title">Datos para el cálculo</h2>
+<p class="cm-form-note" id="salary-period-help">Usa el importe del periodo completo en pesos mexicanos.</p>
 <form aria-label="Convertir sueldo entre periodos" id="salary-form" novalidate=""><div class="form-group">
 <label for="salario">Sueldo del periodo (MXN)</label>
-<input aria-describedby="salary-period-help" id="salario" inputmode="decimal" max="1000000000000" min="0.01" required="" step="0.01" type="number" value="15000"/>
+<input aria-describedby="salary-period-help" id="salario" inputmode="decimal" max="1000000000000" min="0.01" required="" step="0.01" type="number" enterkeyhint="done" value="15000"/>
 </div><div class="form-group">
 <label for="periodo">¿Cada cuánto recibes ese sueldo?</label>
-<select id="periodo">
+<select id="periodo" aria-describedby="salary-divisor">
 <option value="mensual">Mensual</option>
 <option value="quincenal">Quincenal</option>
 <option value="semanal">Semanal</option>
 <option value="diario">Diario</option></select>
-</div><div class="calc-controls">
+</div><p class="salary-divisor" id="salary-divisor">Mensual · divide entre 30 días</p><div class="calc-controls">
 <button class="calc-button" type="submit">Calcular mi salario diario</button>
 <button class="reset-button" data-form-reset="" type="button">Limpiar</button>
-</div></form>
+</div></form><div class="salary-presets" aria-label="Ejemplos de sueldo"><span>Prueba un ejemplo</span><button type="button" data-calc-example='{"salario":15000,"periodo":"mensual"}'>$15,000 al mes</button><button type="button" data-calc-example='{"salario":2500,"periodo":"semanal"}'>$2,500 por semana</button></div>
 <small class="form-state" data-form-state="">Los datos se guardan automáticamente en este dispositivo.</small>
-<div aria-label="Resultado del cálculo" aria-live="polite" class="result" id="resultado" tabindex="-1">
-<span>Completa los datos y presiona Calcular.</span>
+</div><div aria-label="Resultado del cálculo" aria-live="polite" class="result" id="resultado" tabindex="-1">
+<div class="salary-empty"><span class="salary-result-label">Tu salario diario</span><p class="salary-empty-title">Un sueldo, varias equivalencias</p><p>Al calcular verás tu importe por día y sus referencias de 7, 15 y 30 días.</p><p class="salary-empty-formula">Sueldo del periodo ÷ días del periodo</p></div>
 </div>
 </section>
-<aside class="side-box">
-<h2>Encuentra el importe correcto en tu recibo</h2>
+<section class="salary-next" aria-labelledby="salary-next-title"><h2 id="salary-next-title">¿Qué quieres calcular ahora?</h2><p>Continúa con la herramienta que corresponda a tu siguiente pregunta.</p><div class="salary-next-grid"><a href="/calculadoras/salario-diario-integrado.html"><strong>Salario diario integrado</strong><span>Integra prestaciones a tu referencia diaria.</span></a><a href="/calculadoras/salario-hora.html"><strong>Sueldo por hora</strong><span>Convierte tu sueldo según tu jornada.</span></a><a href="/calculadoras/pago-quincenal.html"><strong>Pago quincenal</strong><span>Consulta la referencia de 15 días.</span></a><a href="/calculadoras/salario-neto.html"><strong>Salario neto</strong><span>Revisa tus deducciones conocidas.</span></a><a href="/calculadoras/aguinaldo.html"><strong>Aguinaldo</strong><span>Estima tu prestación anual o proporcional.</span></a><a href="/calculadoras/horas-extra.html"><strong>Horas extra</strong><span>Calcula el pago por tiempo adicional.</span></a></div></section><nav aria-label="En esta página" class="cm-page-shortcuts">
+<a href="#calculadora">Calcular ahora</a>
+<a href="#conversion-diaria-resumen">Fórmulas por periodo</a>
+<a href="#divisor-diario">¿30 o 30.4 días?</a>
+<a href="#preguntas-salario-diario">Preguntas frecuentes</a>
+<a href="#metodos-mensuales">Semana a mes</a></nav><aside class="side-box" id="ayuda-del-recibo">
+<h2>Encuentra el importe correcto en tu recibo</h2><p>Convierte tu sueldo mensual, quincenal o semanal a salario diario. Divide entre <strong>30, 15 o 7</strong>, según el periodo completo que cubre el importe. Por ejemplo, $15,000 al mes equivalen a $500 diarios. El resultado conserva la naturaleza bruta o neta del dato: no agrega prestaciones ni calcula deducciones.</p><p>Calcula gratis y sin registro: obtén tu sueldo por día y sus equivalencias de 7, 15 y 30 días. También puedes comparar promedios mensuales anuales sin cambiar la referencia diaria.</p><p>Escribe el sueldo del periodo completo en pesos mexicanos. Si buscas tu salario bruto diario, usa el importe antes de descuentos. Si ya conoces el importe por día, selecciona Diario para obtener equivalencias. No uses el total de una semana como si fuera mensual.</p>
 <ol>
 <li>Busca el sueldo ordinario correspondiente al periodo. Revisa por separado bonos, horas extra y otros conceptos.</li>
 <li>Selecciona mensual, quincenal o semanal según el importe que capturaste.</li>
@@ -428,7 +429,7 @@
 </script>
 <script defer="" src="/_vercel/insights/script.js">
 </script>
-<script defer="" src="/assets/js/salario-diario.js?v=1">
+<script defer="" src="/assets/js/salario-diario.js?v=2">
 </script>
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Calculadora de salario diario: sueldo mensual o semanal","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html","description":"Calcula tu salario diario desde sueldo mensual, quincenal o semanal. Compara equivalencias de 30 días y promedios anuales, con ejemplos en pesos mexicanos.","dateModified":"2026-11-09","@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html#webpage","inLanguage":"es-MX","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"},"mainEntity":{"@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html#app"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"Salario diario","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/salario-diario.html"}]}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cómo saber cuánto gano al día?","acceptedAnswer":{"@type":"Answer","text":"Divide el sueldo del periodo completo entre 30 si es mensual, 15 si es quincenal o 7 si es semanal. $12,000 mensuales ÷ 30 = $400 diarios."}},{"@type":"Question","name":"Si gano $2,500 a la semana, ¿cuánto gano al mes?","acceptedAnswer":{"@type":"Answer","text":"Con la referencia de 30 días: $2,500 ÷ 7 × 30 = $10,714.29. Es una equivalencia; el total cobrado en un mes depende de las fechas y periodos de pago."}},{"@type":"Question","name":"¿Cómo calcular el salario diario si me pagan por semana?","acceptedAnswer":{"@type":"Answer","text":"Divide entre 7 si el importe cubre toda la semana. $3,500 ÷ 7 = $500 diarios. Si el pago corresponde a días sueltos, primero identifica qué periodo e importes incluye."}},{"@type":"Question","name":"¿El sueldo mensual se divide entre 30 o 30.4?","acceptedAnswer":{"@type":"Answer","text":"Esta calculadora utiliza 30 para convertir sueldo mensual a diario. El factor aproximado 30.4 pertenece a otras equivalencias mensuales; no lo intercambies sin comprobar la finalidad del cálculo."}},{"@type":"Question","name":"¿Salario diario y salario diario integrado son iguales?","acceptedAnswer":{"@type":"Answer","text":"No. Aquí se convierte el sueldo del periodo; el salario diario integrado añade prestaciones que correspondan. El salario base de cotización se determina con reglas de seguridad social."}},{"@type":"Question","name":"¿El resultado es bruto o neto?","acceptedAnswer":{"@type":"Answer","text":"Tiene la misma naturaleza que el importe capturado. La herramienta no calcula ISR, IMSS ni agrega prestaciones."}},{"@type":"Question","name":"¿Cómo convertir un salario diario a semanal, quincenal y mensual?","acceptedAnswer":{"@type":"Answer","text":"Multiplica la referencia diaria por 7, 15 o 30, respectivamente. Con $500 diarios obtienes $3,500 por 7 días, $7,500 por 15 y $15,000 por 30. Son equivalencias; no incluyen deducciones ni prestaciones adicionales."}},{"@type":"Question","name":"¿Por qué multiplicar el sueldo semanal por cuatro no da un mes completo?","acceptedAnswer":{"@type":"Answer","text":"Cuatro semanas suman 28 días. Para una referencia de 30 días usa sueldo semanal ÷ 7 × 30. Si buscas un promedio mensual de 52 pagos semanales al año, usa sueldo semanal × 52 ÷ 12; para el dinero recibido en un mes, cuenta sus fechas de pago."}}]}</script>

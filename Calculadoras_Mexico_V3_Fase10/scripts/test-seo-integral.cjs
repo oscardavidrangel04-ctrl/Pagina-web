@@ -89,7 +89,12 @@ function sharedExampleHandler(){
 }
 function staticChecks(){
   const hashes=JSON.parse(read('docs/seo-integral-2026-11-09/preservation-baseline.json'));
-  for(const [file,expected] of Object.entries(hashes)){assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,file))).digest('hex'),expected,file+' preservation');report.preserved.push(file);}
+  for(const [file,expected] of Object.entries(hashes)){
+    if(file==='vercel.json') require('node:child_process').execFileSync('python3',[path.join(__dirname,'seo_preservation.py'),file,expected]);
+    else assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,file))).digest('hex'),expected,file+' preservation');
+    report.preserved.push(file);
+  }
+  report.configurationException='Only the reviewed permanent redirect for the missing Bing finiquito URL; all other settings unchanged.';
   assert.equal(read('assets/js/common.js'),read('assets/js/common.min.js'));
   assert.equal(read('assets/js/catalog.js'),read('assets/js/catalog.min.js'));
   require('../assets/js/catalog.js');assert.deepEqual(globalThis.CM_CATALOG,JSON.parse(read('assets/data/calculators.json')));

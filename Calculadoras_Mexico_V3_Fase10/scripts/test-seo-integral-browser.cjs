@@ -28,7 +28,7 @@ async function run(){
    return route.fulfill({contentType:mime[path.extname(file)]||'application/octet-stream',headers,body:fs.readFileSync(file)});
   });
   const page=await context.newPage();page.on('pageerror',error=>report.errors.push(error.message));
-  const pages=['/','/articulos/isr-semanal-quincenal-mensual.html',...['bono','ahorro-mensual','margen-ganancia','iva-incluido','precio-venta','regla-tres','salario-diario','pago-quincenal','salario-neto'].map(s=>'/calculadoras/'+s+'.html')];
+  const pages=['/','/articulos/isr-semanal-quincenal-mensual.html',...['como-calcular-iva','simulador-credito-automotriz','finiquito-renuncia-voluntaria','que-incluye-finiquito'].map(s=>'/articulos/'+s+'.html'),...['bono','ahorro-mensual','margen-ganancia','iva-incluido','iva','credito-automotriz','costo-unidad','precio-venta','regla-tres','salario-diario','pago-quincenal','salario-neto'].map(s=>'/calculadoras/'+s+'.html')];
   for(const url of pages)for(const width of [320,390,768,1440])for(const theme of ['light','dark']){
    await page.setViewportSize({width,height:900});await page.goto('https://qa.test'+url,{waitUntil:'load'});
    await page.evaluate(theme=>document.documentElement.dataset.theme=theme,theme);
@@ -54,10 +54,23 @@ async function run(){
   }
   await page.locator('#isrBase').fill('0');await page.locator('#isrConsulta button').click();assert.ok(await page.locator('#isrConsultaError').innerText());
   report.interactions.push('ISR: three periods, row highlight and invalid input');
-  for(const slug of ['ahorro-mensual','margen-ganancia','iva-incluido','precio-venta','regla-tres']){
+  for(const slug of ['ahorro-mensual','margen-ganancia','iva-incluido','iva','credito-automotriz','costo-unidad','precio-venta','regla-tres']){
    await page.goto('https://qa.test/calculadoras/'+slug+'.html');
    for(const button of await page.locator('[data-calc-example]').all()){await button.click();assert.equal(await page.locator('#resultado').getAttribute('data-ready'),'true');}
   }
+  await page.goto('https://qa.test/calculadoras/credito-automotriz.html?precioAuto=300000&enganchePct=20&tasa=18&meses=48');
+  await page.waitForFunction(()=>document.getElementById('resultado').dataset.ready==='true');
+  assert.equal(await page.locator('#auto-amortizacion tr').count(),48);
+  assert.match(await page.locator('#auto-amortizacion tr').last().innerText(),/0\.00/);
+  await page.setViewportSize({width:320,height:900});
+  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false,'Amortization table stays inside its horizontal scroll region');
+  await page.locator('#meses').fill('1.5');await page.locator('.calc-button').click();
+  assert.match(await page.locator('#resultado').innerText(),/enteros/);assert.equal(await page.locator('#auto-detalle').isVisible(),false);
+  await page.goto('https://qa.test/calculadoras/iva.html?cantidad=1160&tasa=16&operacion=quitar');
+  await page.waitForFunction(()=>document.getElementById('resultado').dataset.ready==='true');
+  assert.match(await page.locator('#iva-cantidad-label').innerText(),/Total con IVA/);
+  assert.match(await page.locator('#resultado').innerText(),/1,000\.00/);
+  report.interactions.push('New modules: all shipped examples, auto amortization and invalid term, IVA URL mode and label');
   if(process.argv.includes('--all')){
    const inventory=JSON.parse(fs.readFileSync(path.join(root,'docs/seo-integral-2026-11-09/deep-after.json')));
    await page.setViewportSize({width:320,height:900});

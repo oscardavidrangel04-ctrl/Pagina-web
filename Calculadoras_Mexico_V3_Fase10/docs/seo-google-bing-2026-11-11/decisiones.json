@@ -1,0 +1,70 @@
+{
+  "/calculadoras/iva.html": {
+    "prioridad": "Crítica",
+    "decision": "Eliminar ejemplos duplicados; distinguir base y total según operación; validar tasa e importes y dar ejemplos ejecutables."
+  },
+  "/articulos/finiquito-por-meses-trabajados.html": {
+    "prioridad": "Crítica",
+    "decision": "Ruta ausente con 37 impresiones y 2 clics Bing: redirección permanente a guía de finiquito con explicación de proporcionales."
+  },
+  "/calculadoras/credito-automotriz.html": {
+    "prioridad": "Alta",
+    "decision": "Añadir amortización conciliada y comparación de plazos sobre los mismos supuestos; validar sin alterar la fórmula financiera."
+  },
+  "/articulos/simulador-credito-automotriz.html": {
+    "prioridad": "Alta",
+    "decision": "Conectar los ejemplos de 36/48 meses a escenarios reproducibles; explicar redondeo y saldo final."
+  },
+  "/calculadoras/regla-tres.html": {
+    "prioridad": "Alta",
+    "decision": "Hacer explícitas las correspondencias y mostrar operación por pasos; rechazar vacíos y desbordamientos."
+  },
+  "/calculadoras/costo-unidad.html": {
+    "prioridad": "Alta",
+    "decision": "Separar variables totales y por unidad, desglosar costos y llevar el resultado al cálculo de precio."
+  },
+  "/calculadoras/precio-venta.html": {
+    "prioridad": "Alta",
+    "decision": "Capturar costos adicionales por unidad, mostrar margen efectivo y aumento sin confundir bases."
+  },
+  "/articulos/como-calcular-iva.html": {
+    "prioridad": "Alta",
+    "decision": "Conservar contenido y título que ya cubren la intención; conectar ejemplos a los tres modos de la herramienta con datos completos."
+  },
+  "/articulos/que-incluye-finiquito.html": {
+    "prioridad": "Alta",
+    "decision": "Añadir cálculo proporcional por días del periodo, equivalente a la intención de la antigua ruta por meses, sin equiparar antigüedad con prestaciones pendientes."
+  },
+  "/articulos/finiquito-renuncia-voluntaria.html": {
+    "prioridad": "Alta",
+    "decision": "Reproducir su ejemplo con todos los campos de la calculadora y depurar enlaces autorreferentes si existen."
+  },
+  "/calculadoras/quincenas-a-meses.html": {
+    "prioridad": "Baja",
+    "decision": "Revisión individual: herramienta, tabla, fracciones y diferencia con catorcenas ya completas; conservar."
+  },
+  "/articulos/como-calcular-salario-diario-integrado.html": {
+    "prioridad": "Media",
+    "decision": "Revisión individual: fórmula, ejemplo, tabla, LFT/LSS y límites SDI/SBC ya cubiertos; conservar título y contenido."
+  },
+  "/calculadoras/salario-diario-integrado.html": {
+    "prioridad": "Media",
+    "decision": "Revisión individual: ejemplo y escenarios ya ejecutables; no añadir herramienta redundante."
+  },
+  "/articulos/ptu-exenta-isr.html": {
+    "prioridad": "Media",
+    "decision": "Revisado: límite UMA vigente, ejemplo y alcance fiscal ya cubiertos; no ampliar por volumen solamente."
+  },
+  "/calculadoras/vacaciones-proporcionales.html": {
+    "prioridad": "Media",
+    "decision": "Revisado: cálculo y supuestos presentes; menor evidencia que las brechas implementadas."
+  },
+  "/articulos/conservacion-derechos-imss-ley-73.html": {
+    "prioridad": "Media",
+    "decision": "Revisado: periodos y fuentes legales presentes; no modificar derechos pensionarios sin nueva brecha."
+  },
+  "/articulos/con-que-salario-se-calcula-aguinaldo.html": {
+    "prioridad": "Media",
+    "decision": "La consulta histórica de fecha límite no justifica reorientar una guía sobre base salarial; mantener intención."
+  }
+}

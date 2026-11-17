@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "conditions": "ZIP extracted into an isolated folder, without Git history. Local build/data/static/numeric validation; not browser or deployment.",
+  "checks": [
+    {
+      "command": "node scripts/build-public.cjs",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 scripts/analyze-google-bing-20261111.py docs/seo-google-bing-2026-11-11/fuentes-originales/",
+      "exit_code": 0
+    },
+    {
+      "command": "node scripts/test-seo-google-bing.cjs",
+      "exit_code": 0
+    },
+    {
+      "command": "node scripts/test-seo-integral.cjs",
+      "exit_code": 0
+    },
+    {
+      "command": "node scripts/test-seo-semrush.cjs",
+      "exit_code": 0
+    },
+    {
+      "command": "node scripts/test-seo-gsc.cjs",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 scripts/audit-seo-integral.py docs/seo-google-bing-2026-11-11/auditoria-despues.json",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 scripts/check-seo-google-bing.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 scripts/check-seo-gsc.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 scripts/check-seo-semrush.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 scripts/check-phase6-release.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 scripts/check-phase4-topics.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 scripts/report-google-bing-20261111.py",
+      "exit_code": 0
+    }
+  ],
+  "public_files_byte_identical": 499,
+  "commands_passed": 13
+}

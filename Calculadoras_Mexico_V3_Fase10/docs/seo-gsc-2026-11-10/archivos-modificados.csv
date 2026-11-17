@@ -1,0 +1,56 @@
+﻿Archivo,Tipo
+README_SEO_INTEGRAL.md,"Código, datos o documentación"
+articulos/aguinaldo-por-antiguedad.html,HTML fuente
+articulos/convertir-salario-mensual-diario-hora.html,HTML fuente
+articulos/horario-transferencias-spei.html,HTML fuente
+articulos/isr-prima-vacacional.html,HTML fuente
+articulos/que-es-propina.html,HTML fuente
+assets/js/aguinaldo-antiguedad-focus.js,"Código, datos o documentación"
+assets/js/ahorro-mensual.js,"Código, datos o documentación"
+assets/js/margen-ganancia.js,"Código, datos o documentación"
+assets/js/prima-exenta.js,"Código, datos o documentación"
+assets/js/salario-hora-focus.js,"Código, datos o documentación"
+calculadoras/ahorro-mensual.html,HTML fuente
+calculadoras/margen-ganancia.html,HTML fuente
+calculadoras/salario-hora.html,HTML fuente
+docs/seo-gsc-2026-11-10/INFORME_URLS_GSC.md,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/SEGUIMIENTO.md,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/archivos-modificados.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/auditoria-antes.json,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/auditoria-despues.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/auditoria-despues.json,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/cambios-implementados.json,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/consultas-sin-asignacion-url.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/datos-verificados.json,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/decisiones-186-urls.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/gsc-aparici-n-en-b-squedas.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/gsc-consultas.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/gsc-dispositivos.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/gsc-filtros.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/gsc-gr-fico.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/gsc-p-ginas.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/gsc-pa-ses.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/inventario-union-gsc-semrush.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/mapa-379-urls-gsc-semrush.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/matriz-url-keyword.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/metadatos-antes-despues.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/normalizacion-urls.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/oportunidades-implementadas.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/preservacion-base.json,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/preservacion-css.json,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/recursos-antes-despues.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/resumen-final.json,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/semrush-sin-url-conocida.csv,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/validation-calculations.json,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/validation-package.json,"Código, datos o documentación"
+docs/seo-gsc-2026-11-10/validation-preservation-data.json,"Código, datos o documentación"
+fallback-aguinaldo-por-antiguedad.html,HTML fuente
+fallback-isr-prima-vacacional.html,HTML fuente
+fallback-que-es-propina.html,HTML fuente
+scripts/analyze-gsc-20261110.py,"Código, datos o documentación"
+scripts/audit-seo-integral.py,"Código, datos o documentación"
+scripts/check-seo-gsc.py,"Código, datos o documentación"
+scripts/report-seo-gsc.py,"Código, datos o documentación"
+scripts/test-seo-gsc.cjs,"Código, datos o documentación"
+sitemap-seo-2026.xml,"Código, datos o documentación"
+sitemap.xml,"Código, datos o documentación"

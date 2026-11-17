@@ -5,6 +5,7 @@ import json
 from decimal import Decimal, ROUND_HALF_UP
 from pathlib import Path
 from lxml import html
+from seo_preservation import assert_preserved
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'docs/seo-semrush-2026-11-10'
@@ -13,7 +14,8 @@ report = {'status': 'RUNNING', 'conditions': 'Static checks; no production, brow
 try:
     preserved = json.loads((OUT / 'preservacion-etapa-anterior.json').read_text())
     for name, expected in preserved.items():
-        assert hashlib.sha256((ROOT / name).read_bytes()).hexdigest() == expected, name
+        assert_preserved(ROOT,name,expected)
+    report['configuration_exception']='Only the reviewed missing-route redirect; all other configuration unchanged.'
     report['preserved_files'] = len(preserved)
 
     # Independent expected values and Decimal rounding; inspect the published table.

@@ -99,5 +99,5 @@ for field in ['title','description']:
 result={'summary':{'physical_html':len(rows),'indexable_routes':sum(r['indexable'] for r in rows),'sitemap_routes':len(sitemap),'orphan_indexable':sum(r['indexable'] and r['unique_inlinks']==0 for r in rows),'unreachable_indexable':sum(r['indexable'] and r['depth'] is None for r in rows),'issues_by_kind':dict(Counter(i['kind'] for i in issues))},'pages':rows,'issues':issues,'schema_types':dict(schema_types),'conditions':'Local Vercel build, rewrites and explicit X-Robots-Tag evaluated; indexable does not mean indexed by Google; no remote HTTP/CWV measurement.'}
 OUT.parent.mkdir(parents=True,exist_ok=True);OUT.write_text(json.dumps(result,ensure_ascii=False,indent=2))
 with OUT.with_suffix('.csv').open('w',encoding='utf-8-sig',newline='') as f:
-    writer=csv.DictWriter(f,fieldnames=rows[0].keys());writer.writeheader();writer.writerows(rows)
+    writer=csv.DictWriter(f,fieldnames=rows[0].keys(),lineterminator="\n");writer.writeheader();writer.writerows(rows)
 print(json.dumps(result['summary'],ensure_ascii=False))

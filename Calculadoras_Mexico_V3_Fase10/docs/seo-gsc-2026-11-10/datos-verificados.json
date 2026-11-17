@@ -1,0 +1,91 @@
+{
+  "source_filename": "https___calculadora-isr-mexico.vercel.app_-Performance-on-Search-2026-11-10(1).xlsx",
+  "source_sha256": "daab97bc45d1a86f83e24c97ff6f552db32d2ba2bfbba312ffa6d78b64382c57",
+  "filters": [
+    {
+      "Filtrar": "Tipo de búsqueda",
+      "Valor": "Web (basada en texto)"
+    },
+    {
+      "Filtrar": "Fecha",
+      "Valor": "9 ago 2026-10 nov 2026"
+    }
+  ],
+  "date_start": "2026-08-09",
+  "date_end": "2026-11-10",
+  "sheets": {
+    "Gráfico": {
+      "rows": 94,
+      "clicks": 424.0,
+      "impressions": 79566.0
+    },
+    "Consultas": {
+      "rows": 1000,
+      "clicks": 13.0,
+      "impressions": 10657.0
+    },
+    "Páginas": {
+      "rows": 186,
+      "clicks": 425.0,
+      "impressions": 81144.0
+    },
+    "Países": {
+      "rows": 130,
+      "clicks": 424.0,
+      "impressions": 79566.0
+    },
+    "Dispositivos": {
+      "rows": 3,
+      "clicks": 424.0,
+      "impressions": 79566.0
+    },
+    "Aparición en búsquedas": {
+      "rows": 0,
+      "clicks": 0,
+      "impressions": 0
+    },
+    "Filtros": {
+      "rows": 2
+    }
+  },
+  "gsc_urls": 186,
+  "semrush_urls_confirmed": 124,
+  "intersection_urls": 124,
+  "union_urls": 186,
+  "semrush_rows": 1272,
+  "semrush_unknown_url_rows": 7,
+  "page_position_bands": {
+    "4–10": 36,
+    "Mayor de 10 hasta 20": 54,
+    "Mayor de 20 hasta 50": 48,
+    ">50": 47,
+    "Menor de 4": 1
+  },
+  "property_trend_only": {
+    "latest28": {
+      "start": "2026-10-13",
+      "end": "2026-11-09",
+      "days": 28,
+      "clicks": 285.0,
+      "impressions": 59370.0,
+      "ctr": 0.004800404244567963,
+      "impression_weighted_position": 11.682824658918646
+    },
+    "previous28": {
+      "start": "2026-09-15",
+      "end": "2026-10-12",
+      "days": 28,
+      "clicks": 111.0,
+      "impressions": 17122.0,
+      "ctr": 0.006482887513140989,
+      "impression_weighted_position": 13.960658801541875
+    }
+  },
+  "limitations": [
+    "Páginas sums differ from property graph; do not combine or force equality.",
+    "Queries and Pages are independent aggregations; no row-order join.",
+    "No per-URL trend available; property daily trend is not assigned to each page.",
+    "Current export includes 10 November; omit that potentially partial day from the two 28-day windows.",
+    "Overlapping historical periods are not before/after results of unpublished edits."
+  ]
+}

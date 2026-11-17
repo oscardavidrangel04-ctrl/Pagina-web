@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta content="width=device-width,initial-scale=1" name="viewport">
 <title>Calculadora IVA 16%: agregar, quitar y separar</title>
-<meta content="Calcula IVA, agrega 16% o separa subtotal e impuesto de un precio final. Revisa fórmulas, ejemplos y el desglose del resultado." name="description">
+<meta content="Agrega o quita IVA y separa subtotal, impuesto y total. Elige la operación, prueba ejemplos al 16% y comprueba que el desglose sume a centavos." name="description">
 <meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots">
 <link href="https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html" rel="canonical">
 <link href="/assets/img/favicon.svg" rel="icon" type="image/svg+xml">
@@ -16,13 +16,13 @@
 <meta content="es_MX" property="og:locale">
 <meta content="website" property="og:type">
 <meta content="Calculadora IVA 16%: agregar, quitar y separar" property="og:title">
-<meta content="Calcula IVA, agrega 16% o separa subtotal e impuesto de un precio final. Revisa fórmulas, ejemplos y el desglose del resultado." property="og:description">
+<meta content="Agrega o quita IVA y separa subtotal, impuesto y total. Elige la operación, prueba ejemplos al 16% y comprueba que el desglose sume a centavos." property="og:description">
 <meta content="https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html" property="og:url">
 <meta content="Calculadoras México" property="og:site_name">
 <meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" property="og:image">
 <meta content="summary_large_image" name="twitter:card">
 <meta content="Calculadora IVA 16%: agregar, quitar y separar" name="twitter:title">
-<meta content="Calcula IVA, agrega 16% o separa subtotal e impuesto de un precio final. Revisa fórmulas, ejemplos y el desglose del resultado." name="twitter:description">
+<meta content="Agrega o quita IVA y separa subtotal, impuesto y total. Elige la operación, prueba ejemplos al 16% y comprueba que el desglose sume a centavos." name="twitter:description">
 <meta content="https://calculadora-isr-mexico.vercel.app/assets/img/og-image.png" name="twitter:image">
 <link href="/styles-v5628.css?v=5.6.28" rel="stylesheet">
 <script>try{document.documentElement.dataset.theme=localStorage.getItem('cm-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script>
@@ -72,19 +72,19 @@
 <div class="calc-layout">
 <section aria-label="Formulario de cálculo" class="calc-box" id="calculadora">
 <h2 class="cm-form-title">Datos para el cálculo</h2><p class="cm-form-note">Revisa los datos y pulsa Calcular para ver el desglose.</p><div class="form-group">
-<label for="cantidad">Cantidad</label>
-<input id="cantidad" inputmode="decimal" min="0.01" step="0.01" type="number" value="1000">
+<label id="iva-cantidad-label" for="cantidad">Subtotal antes de IVA (MXN)</label>
+<input id="cantidad" inputmode="decimal" min="0.01" step="0.01" type="number" value="1000" max="1000000000">
 </div>
 <div class="form-group">
 <label for="tasa">Tasa de IVA (%)</label>
-<input id="tasa" inputmode="decimal" min="0" step="0.01" type="number" value="16">
+<input id="tasa" inputmode="decimal" min="0" step="0.01" type="number" value="16" max="100">
 </div>
 <div class="form-group">
 <label for="operacion">Operación</label>
 <select id="operacion">
 <option value="agregar">Agregar IVA</option>
 <option value="quitar">Quitar IVA</option>
-<option value="calcular">Calcular solo el impuesto</option>
+<option value="calcular">Solo impuesto sobre un subtotal</option>
 </select>
 </div>
 <div class="calc-controls">
@@ -95,7 +95,7 @@
 <div aria-live="polite" class="result" id="resultado" tabindex="-1" aria-label="Resultado del cálculo">
 <span>Completa los datos y presiona Calcular.</span>
 </div>
-</section>
+</section><section class="content-box calc-examples" aria-labelledby="ejemplos-nuevos"><h2 id="ejemplos-nuevos">Elige un ejemplo según el dato que tienes</h2><div class="example-buttons"><button type="button" class="example-button" data-calc-example="{&quot;cantidad&quot;: 1000, &quot;tasa&quot;: 16, &quot;operacion&quot;: &quot;agregar&quot;}">Agregar 16% a $1,000</button><button type="button" class="example-button" data-calc-example="{&quot;cantidad&quot;: 1160, &quot;tasa&quot;: 16, &quot;operacion&quot;: &quot;quitar&quot;}">Quitar 16% de $1,160</button><button type="button" class="example-button" data-calc-example="{&quot;cantidad&quot;: 5000, &quot;tasa&quot;: 16, &quot;operacion&quot;: &quot;calcular&quot;}">Solo impuesto de $5,000</button></div></section>
 <aside class="side-box">
 <h2>Cómo calcular IVA al 16% en México</h2>
 <ol><li>Introduce los datos solicitados y comprueba sus unidades o periodo.</li><li>Pulsa Calcular y revisa el resultado principal y su desglose.</li><li>Consulta la explicación y los supuestos antes de utilizar el resultado.</li></ol><p class="privacy-note">El cálculo se realiza en tu navegador. Si compartes un escenario, sus datos se incluyen en el enlace; revisa la <a href="/privacidad.html">política de privacidad</a> antes de compartirlo.</p>
@@ -108,7 +108,7 @@
 </section>
 
 
-<section class="content-box seo-guide" data-editorial-review="2026-10-30"><h2>Método y lectura del resultado</h2><h3>Fórmula utilizada</h3><p>Agregar IVA: base × (1 + tasa ÷ 100). Quitar IVA: total ÷ (1 + tasa ÷ 100). Calcular solo impuesto: base × tasa ÷ 100.</p><h3>Ejemplo verificable</h3><p>Con base de $1,000 y tasa de 16%, el impuesto es $160 y el total $1,160. Al quitar IVA a $1,160 se recuperan $1,000 de base y $160 de impuesto.</p><h3>Qué significa el resultado</h3><p>Elige la operación antes de capturar la cantidad. En el modo «solo impuesto», el resultado principal es el IVA, no el total de la factura.</p><h3>Alcance del cálculo</h3><p>La tasa es un dato del escenario. La herramienta no determina exenciones, acreditamiento, retenciones ni la procedencia de una tasa reducida.</p><p>Referencias: <a href="https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/normatividad_rmf_rgce2026.html">SAT · Normatividad fiscal 2026 ↗</a>; <a href="/calculadoras/iva-incluido.html">separar IVA incluido</a>; <a href="/articulos/como-calcular-iva.html">las fórmulas de IVA 16%</a>; <a href="https://www.diputados.gob.mx/LeyesBiblio/ref/liva.htm">Ley del Impuesto al Valor Agregado vigente</a>; <a href="/calculadoras/isr.html">Estimar ISR →</a>; <a href="/calculadoras/prestamo.html">Calcular préstamo →</a>; <a href="/calculadoras/salario-neto.html">Obtener salario neto →</a>.</p><p class="small">Método revisado el 30 de octubre de 2026. Los ejemplos financieros son hipotéticos.</p></section><!-- affiliate-card:start -->
+<section class="content-box seo-guide" data-editorial-review="2026-11-11"><h2>Método y lectura del resultado</h2><h3>Fórmula utilizada</h3><p>Agregar IVA: base × (1 + tasa ÷ 100). Quitar IVA: total ÷ (1 + tasa ÷ 100). Calcular solo impuesto: base × tasa ÷ 100.</p><h3>Ejemplo verificable</h3><p>Con base de $1,000 y tasa de 16%, el impuesto es $160 y el total $1,160. Al quitar IVA a $1,160 se recuperan $1,000 de base y $160 de impuesto.</p><h3>Qué significa el resultado</h3><p>Elige la operación antes de capturar la cantidad. En el modo «solo impuesto», el resultado principal es el IVA, no el total de la factura.</p><h3>Redondeo del desglose</h3><p>Se trata un importe global en pesos: al agregar IVA, se redondea el impuesto a centavos y se suma al subtotal. Al quitarlo, se redondea el subtotal y el impuesto es la diferencia con el total, de modo que las partidas sumen exactamente el importe capturado. Un CFDI con varias partidas puede usar reglas de precisión y redondeo distintas.</p><h3>Alcance del cálculo</h3><p>La tasa es un dato del escenario. La herramienta no determina exenciones, acreditamiento, retenciones ni la procedencia de una tasa reducida.</p><p>Referencias: <a href="https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/normatividad_rmf_rgce2026.html">SAT · Normatividad fiscal 2026 ↗</a>; <a href="/calculadoras/iva-incluido.html">separar IVA incluido</a>; <a href="/articulos/como-calcular-iva.html">las fórmulas de IVA 16%</a>; <a href="https://www.diputados.gob.mx/LeyesBiblio/ref/liva.htm">Ley del Impuesto al Valor Agregado vigente</a>; <a href="/calculadoras/isr.html">Estimar ISR →</a>; <a href="/calculadoras/prestamo.html">Calcular préstamo →</a>; <a href="/calculadoras/salario-neto.html">Obtener salario neto →</a>.</p><p class="small">Método revisado el 11 de noviembre de 2026. Los ejemplos financieros son hipotéticos.</p></section><!-- affiliate-card:start -->
 <aside class="affiliate-card" data-affiliate="aliexpress" data-placement="after-guide" data-variant="contextual-v1" aria-labelledby="affiliate-title-aliexpress">
   <div class="affiliate-card__inner">
     <a class="affiliate-card__banner" data-affiliate-link="banner" href="https://rzekl.com/g/qpw0xm1c34934a2368b316525dc3e8/?i=4" target="_blank" rel="sponsored nofollow noopener" aria-label="Publicidad de AliExpress: visitar sitio externo en una pestaña nueva" aria-describedby="affiliate-disclosure-aliexpress">
@@ -164,45 +164,7 @@
 </div>
 <p class="table-note">Para retirar IVA de un precio final se divide entre 1.16; no se resta 16% directamente.</p>
 </section>
-<section class="content-box search-cases">
-<span class="badge">Casos concretos</span>
-<h2>Ejemplos al agregar IVA de 16%: otro escenario de IVA</h2>
-<p>Estas referencias permiten comparar escenarios frecuentes antes de utilizar tus propios datos.</p>
-<div class="table-wrap table-scroll">
-<table>
-<thead>
-<tr>
-<th scope="col">Subtotal</th>
-<th scope="col">IVA</th>
-<th scope="col">Total</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>$1,000.00</td>
-<td>$160.00</td>
-<td>$1,160.00</td>
-</tr>
-<tr>
-<td>$5,000.00</td>
-<td>$800.00</td>
-<td>$5,800.00</td>
-</tr>
-<tr>
-<td>$10,000.00</td>
-<td>$1,600.00</td>
-<td>$11,600.00</td>
-</tr>
-<tr>
-<td>$20,000.00</td>
-<td>$3,200.00</td>
-<td>$23,200.00</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p class="table-note">Para retirar IVA de un precio final se divide entre 1.16; no se resta 16% directamente.</p>
-</section>
+
 <section class="content-box premium-guide">
 <span class="badge">Guía del cálculo</span>
 <h2>Metodología para calcular IVA</h2>
@@ -299,7 +261,7 @@
 </div>
 </section>
 </div>
-<section class="content-box" data-propina-context="v5642"><h2>También sobre propina</h2><p>Si estás calculando una cuenta, consulta la <a href="/calculadoras/propina.html">calculadora de propina</a>, revisa <a href="/articulos/cuanto-se-deja-propina-mexico.html">cuánto se deja de propina en México</a> y conoce <a href="/articulos/propina-obligatoria-mexico.html">si la propina es obligatoria</a>.</p></section><!-- ARCHITECTURE: contextual routes 2026-10-09 --><section class="content-box architecture-related" aria-label="Tema y lecturas relacionadas"><h2>Continúa según tu objetivo</h2><p>Para encontrar herramientas y explicaciones de este tema, consulta <a href="/temas/impuestos.html">Impuestos y trámites SAT</a>.</p></section></main>
+<!-- ARCHITECTURE: contextual routes 2026-10-09 --><section class="content-box architecture-related" aria-label="Tema y lecturas relacionadas"><h2>Continúa según tu objetivo</h2><p>Para encontrar herramientas y explicaciones de este tema, consulta <a href="/temas/impuestos.html">Impuestos y trámites SAT</a>.</p></section><noscript><p>Activa JavaScript para calcular con tus datos. Las fórmulas y los ejemplos de esta página se pueden consultar sin activarlo.</p></noscript></main>
 <nav aria-label="Navegación móvil" class="mobile-dock">
 <a href="/">
 <span>⌂</span>Inicio</a>
@@ -354,53 +316,13 @@
 </div>
 <script defer src="/assets/js/catalog.js?v=5.1.0">
 </script>
-<script defer src="/assets/js/common.js?v=5.7.0">
+<script defer src="/assets/js/common.js?v=20261109">
 </script>
 <script defer src="/_vercel/insights/script.js">
 </script>
-<script defer src="/assets/js/calculators.js?v=5.5.5">
+<script defer src="/assets/js/iva.js?v=20261111">
 </script>
-<script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "WebPage",
-      "name": "Calculadora de IVA 16% en México",
-      "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html",
-      "description": "Calcula IVA, agrega 16% o separa subtotal e impuesto de un precio final. Revisa fórmulas, ejemplos y el desglose del resultado.",
-      "inLanguage": "es-MX",
-      "dateModified": "2026-09-01",
-      "isAccessibleForFree": true,
-      "@id": "https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html#webpage",
-      "isPartOf": {
-        "@id": "https://calculadora-isr-mexico.vercel.app/#website"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Inicio",
-          "item": "https://calculadora-isr-mexico.vercel.app/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Calculadoras",
-          "item": "https://calculadora-isr-mexico.vercel.app/calculadoras.html"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "IVA",
-          "item": "https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html"
-        }
-      ]
-    }
-  ]
-}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Calculadora de IVA 16% en México","url":"https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html","description":"Agrega o quita IVA y separa subtotal, impuesto y total. Elige la operación, prueba ejemplos al 16% y comprueba que el desglose sume a centavos.","inLanguage":"es-MX","dateModified":"2026-11-11","isAccessibleForFree":true,"@id":"https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html#webpage","isPartOf":{"@id":"https://calculadora-isr-mexico.vercel.app/#website"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://calculadora-isr-mexico.vercel.app/"},{"@type":"ListItem","position":2,"name":"Calculadoras","item":"https://calculadora-isr-mexico.vercel.app/calculadoras.html"},{"@type":"ListItem","position":3,"name":"IVA","item":"https://calculadora-isr-mexico.vercel.app/calculadoras/iva.html"}]}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cómo compruebo el cálculo con un ejemplo?","acceptedAnswer":{"@type":"Answer","text":"Con base de $1,000 y tasa de 16%, el impuesto es $160 y el total $1,160. Al quitar IVA a $1,160 se recuperan $1,000 de base y $160 de impuesto."}},{"@type":"Question","name":"¿Qué debo revisar antes de utilizar el resultado?","acceptedAnswer":{"@type":"Answer","text":"La tasa es un dato del escenario. La herramienta no determina exenciones, acreditamiento, retenciones ni la procedencia de una tasa reducida."}}]}</script>
 <script defer src="/assets/js/interface-v570.js?v=5.7.0"></script><script defer src="/assets/js/affiliate-events.js?v=1"></script></body>
 </html>

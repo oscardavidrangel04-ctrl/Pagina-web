@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "conditions": "Generated HTML and local assets; not browser, network advertising, Google indexing or CWV.",
+  "configuration_exception": "Only the reviewed missing-route redirect; all other configuration unchanged.",
+  "preserved_files": 17,
+  "unchanged_css_files": 24,
+  "global_audit": {
+    "physical_html": 408,
+    "indexable_routes": 379,
+    "sitemap_routes": 379,
+    "orphan_indexable": 0,
+    "unreachable_indexable": 0,
+    "issues_by_kind": {}
+  },
+  "visible_faq_answers": 51,
+  "unchanged_title_h1_canonical_html": 11,
+  "modified_canonical_urls": 8,
+  "uma_reference_cells": 4,
+  "gsc_urls_checked": 186
+}

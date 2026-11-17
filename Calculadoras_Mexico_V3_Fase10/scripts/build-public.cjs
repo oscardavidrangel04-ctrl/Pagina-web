@@ -4,6 +4,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const {transform}=require('./monetization-v2.cjs');
+const {installGoogleAnalytics}=require('./google-analytics.cjs');
 const root = path.resolve(__dirname, '..');
 const output = path.join(root, 'site-public');
 const rootNames = new Set([
@@ -61,7 +62,12 @@ list(output, file => {
 for (const name of files) {
   const target = path.join(output, name);
   fs.mkdirSync(path.dirname(target), {recursive:true});
-  if(name.endsWith('.html'))fs.writeFileSync(target,transform(fs.readFileSync(path.join(root,name),'utf8'),name).html);
-  else fs.copyFileSync(path.join(root, name), target);
+  if (name.endsWith('.html')) {
+    const source = fs.readFileSync(path.join(root, name), 'utf8');
+    const page = transform(source, name).html;
+    fs.writeFileSync(target, installGoogleAnalytics(page, name));
+  } else {
+    fs.copyFileSync(path.join(root, name), target);
+  }
 }
 console.log('Public build ready: ' + files.size + ' files. Internal reports, exports and scripts excluded.');

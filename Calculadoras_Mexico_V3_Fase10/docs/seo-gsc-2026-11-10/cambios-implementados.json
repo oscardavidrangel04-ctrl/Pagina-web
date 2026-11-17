@@ -1,0 +1,91 @@
+{
+  "urls": [
+    "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-antiguedad.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/convertir-salario-mensual-diario-hora.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/horario-transferencias-spei.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/isr-prima-vacacional.html",
+    "https://calculadora-isr-mexico.vercel.app/articulos/que-es-propina.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/ahorro-mensual.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/margen-ganancia.html",
+    "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html"
+  ],
+  "html_files": [
+    {
+      "file": "calculadoras/ahorro-mensual.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/ahorro-mensual.html",
+      "change": "Desglose mensual, momento de aportación, validación de plazo y módulo exclusivo; fórmulas anteriores conservadas en modo final de mes.",
+      "before_sha256": "9003a23ed9e777d5541c144608ec378285e58fc5e8ad893d2d2769343c8f29ad",
+      "after_sha256": "f735625f03103973cf3f175c125bb7229d796737e1bf81d1480eeff53335b8ee"
+    },
+    {
+      "file": "calculadoras/margen-ganancia.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/margen-ganancia.html",
+      "change": "Modo inverso de precio por margen objetivo con redondeo al centavo que cumple el margen; conserva cálculo actual y casos con pérdida.",
+      "before_sha256": "5e589aab572658e2ae0aff0c4f2cbd3a058e485159cb6584bf595a1327e5aa55",
+      "after_sha256": "6fdfd02be26b5076161933e95fc807002240f9874993b8b5207256488194e89a"
+    },
+    {
+      "file": "calculadoras/salario-hora.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/calculadoras/salario-hora.html",
+      "change": "Comparación opcional de dos ofertas; resultados invalidados al editar, validación explícita de periodo y retirada del script genérico que no manejaba salario-hora-v2.",
+      "before_sha256": "3074ead6c37aba8d0c73a38db10760fb801da193a7b7ff64fc0da5070bfd6304",
+      "after_sha256": "9e51ca9f321b6e72c472ac405e883086b46ac0b9c3c6f77f942e186e17c17d1d"
+    },
+    {
+      "file": "articulos/aguinaldo-por-antiguedad.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-antiguedad.html",
+      "change": "Mínimo anual 15, días computables enteros, resultado sin datos obsoletos, comparación con mínimo y continuación con escenario en calculadora principal.",
+      "before_sha256": "58a5d5bbb8115273c18de4d6e247ccc10011110143c1c0988280b8d707ad3884",
+      "after_sha256": "295241325bc72d5e4a0b3934b8328f2b6ab6005d3e4344690fafa62516dc51f2"
+    },
+    {
+      "file": "fallback-aguinaldo-por-antiguedad.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/aguinaldo-por-antiguedad.html",
+      "change": "Mínimo anual 15, días computables enteros, resultado sin datos obsoletos, comparación con mínimo y continuación con escenario en calculadora principal.",
+      "before_sha256": "58a5d5bbb8115273c18de4d6e247ccc10011110143c1c0988280b8d707ad3884",
+      "after_sha256": "295241325bc72d5e4a0b3934b8328f2b6ab6005d3e4344690fafa62516dc51f2"
+    },
+    {
+      "file": "articulos/isr-prima-vacacional.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/isr-prima-vacacional.html",
+      "change": "Referencias oficiales enero/febrero 2026, herramienta de separación a centavos, ejemplos de pagos parciales y contenido fiscal sin confundir base gravada con impuesto.",
+      "before_sha256": "448def15a12b62fed1cc773382101e1066894e3dafec95089d5c4e53419b0903",
+      "after_sha256": "fc6db8d7d6ac64dbbdc52844efeb81db66223c12ffc3fb4526cf4244af7b0301"
+    },
+    {
+      "file": "fallback-isr-prima-vacacional.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/isr-prima-vacacional.html",
+      "change": "Referencias oficiales enero/febrero 2026, herramienta de separación a centavos, ejemplos de pagos parciales y contenido fiscal sin confundir base gravada con impuesto.",
+      "before_sha256": "41d6d54046334b2c5c2e4358177f1e8eff963e501a2f46b9a9bc59214c578ed5",
+      "after_sha256": "72dc85210831a4f2cabcacd749cd719d52e4d5bff846340313405a64875c4228"
+    },
+    {
+      "file": "articulos/que-es-propina.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-propina.html",
+      "change": "Diferencia consumo/propina/total y sugerencia/autorización, escenario trasladable a calculadora y consolidación de tabla repetitiva; title/H1 conservados.",
+      "before_sha256": "c54ef0f4bf6c549151ac7a30a7c2f2bfb34b454100a28c8ef4adb32976331b8e",
+      "after_sha256": "87756d17da142803e6aa53f147d2d0ec9a8b67e4ba077e6de4cfeb375bb18075"
+    },
+    {
+      "file": "fallback-que-es-propina.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/que-es-propina.html",
+      "change": "Diferencia consumo/propina/total y sugerencia/autorización, escenario trasladable a calculadora y consolidación de tabla repetitiva; title/H1 conservados.",
+      "before_sha256": "c54ef0f4bf6c549151ac7a30a7c2f2bfb34b454100a28c8ef4adb32976331b8e",
+      "after_sha256": "87756d17da142803e6aa53f147d2d0ec9a8b67e4ba077e6de4cfeb375bb18075"
+    },
+    {
+      "file": "articulos/horario-transferencias-spei.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/horario-transferencias-spei.html",
+      "change": "Fecha de operación frente a fecha de consulta, instrucciones oficiales CEP y rutas por estado; no se promete horario particular de un banco.",
+      "before_sha256": "5838356c120e84e72bd838f6eabb5ddfb9cc04bfd878417a270ee5942949d585",
+      "after_sha256": "4b18fbeafc1a8c1ebd9043793ea17454d71e01ec104067153c5d647da45c42fd"
+    },
+    {
+      "file": "articulos/convertir-salario-mensual-diario-hora.html",
+      "url": "https://calculadora-isr-mexico.vercel.app/articulos/convertir-salario-mensual-diario-hora.html",
+      "change": "Enlaces con escenarios a las dos calculadoras protegidas y al nuevo comparador por hora; distinción porcentaje por hora frente a sueldo mensual.",
+      "before_sha256": "4fa983b2133505c9791f508b03eb3e41749c5cf30605cbe09402a72e789d7a01",
+      "after_sha256": "d61ffcab1fedd1d8ab74efae0af9bfe72ca5b278fd7fd5f671ec983ead3e343b"
+    }
+  ]
+}

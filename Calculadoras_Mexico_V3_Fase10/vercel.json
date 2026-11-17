@@ -517,6 +517,11 @@
       "source": "/articulos/articulos.html",
       "destination": "/articulos.html",
       "permanent": true
+    },
+    {
+      "source": "/articulos/finiquito-por-meses-trabajados.html",
+      "destination": "/articulos/que-incluye-finiquito.html",
+      "permanent": true
     }
   ],
   "rewrites": [

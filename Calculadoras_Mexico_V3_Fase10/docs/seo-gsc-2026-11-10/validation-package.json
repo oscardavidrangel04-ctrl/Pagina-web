@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "public_files": 495,
+  "clean_extracted_build_matches": true,
+  "source_files_in_first_package": 2481,
+  "original_files_preserved": 2365,
+  "original_files_missing": 0,
+  "all_crc_valid": true,
+  "source_bytes_match": true,
+  "cumulative_changed_canonical_urls": 66,
+  "cumulative_changed_html": 71,
+  "conditions": "ZIP extracted and built; public files compared byte-for-byte. Final documentation-only packaging is checked separately."
+}
