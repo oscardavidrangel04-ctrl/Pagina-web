@@ -66,7 +66,24 @@
       const annualNote = document.createElement('p'); annualNote.textContent = 'Son sumas hipotéticas de pagos brutos constantes: 24 × 15 representa 360 días de referencia; 26 × 14, 364; y 27 × 14, 378. Tener 27 fechas de cobro dentro de un año no significa trabajar 378 días de ese año: los periodos pueden cruzar sus límites. No son tres sueldos anuales equivalentes; revisa el calendario, los importes pactados y los conceptos del recibo.'; details.append(annualNote);
       const tax = document.createElement('p');
       const taxLink = document.createElement('a'); taxLink.href = '#isr-quincenal-pasos'; taxLink.textContent = 'Cómo revisar ISR y deducciones de esta quincena'; tax.append(taxLink);
-      result.querySelector('.result-actions').before(details, tax);
+      const actions = result.querySelector('.result-actions');
+      result.querySelector('.result-heading > span').textContent = 'Antes de descuentos · MXN';
+      const more = document.createElement('details');
+      more.className = 'qn-more';
+      const moreLabel = document.createElement('summary');
+      moreLabel.textContent = 'Ver el desglose y las comparaciones';
+      more.append(moreLabel);
+      for (const block of result.querySelectorAll('.result-insight, .result-chart, .result-steps, .result-comparison, .result-simulation')) {
+        more.append(block);
+      }
+      actions.before(more, details, tax);
+      const edit = document.createElement('button');
+      edit.type = 'button';
+      edit.textContent = 'Editar sueldo';
+      edit.addEventListener('click', () => { salary.focus(); salary.select(); });
+      actions.prepend(edit);
+      result.focus({preventScroll: true});
+      if (matchMedia('(max-width: 800px)').matches) result.scrollIntoView({block: 'start'});
     });
     form.addEventListener('input', () => {
       if (result.dataset.ready === 'true') {

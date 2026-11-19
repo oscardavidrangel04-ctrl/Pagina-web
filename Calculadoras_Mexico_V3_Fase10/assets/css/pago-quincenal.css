@@ -1,11 +1,31 @@
-/* Only this calculator: keep the pilot layout and restore the original blue tokens. */
-body.cm-ui.cm-pilot-v2[data-calc="pago-quincenal"]{--primary:#0b57d0;--primary-2:#0849af;--primary-soft:#e5efff;--text:#071a35;--muted:#445a75;--bg:#f5f8fc;--surface:#fff;--surface-2:#eaf0fa;--line:#cbd8e9;--navy:#071a35;--navy-2:#0e2a52}
-html[data-theme=dark] body.cm-ui.cm-pilot-v2[data-calc="pago-quincenal"]{--primary:#a6c9ff;--primary-2:#c0daff;--primary-soft:#173354;--text:#edf4ff;--muted:#adbed6;--bg:#0b1729;--surface:#101f34;--surface-2:#172a43;--line:#324965;--navy:#071a35;--navy-2:#0e2a52}
-body[data-calc="pago-quincenal"] .cm-logo-mark{filter:none}
-body.cm-pilot-v2[data-calc="pago-quincenal"] .calc-button{background:#0b57d0!important;border-color:#0b57d0!important}
-body.cm-pilot-v2[data-calc="pago-quincenal"] .calc-button:hover{background:#0849af!important}
-body[data-calc="pago-quincenal"] .quincenal-comparison{margin-block:20px;padding:16px;border:1px solid var(--line);border-radius:8px}
-body[data-calc="pago-quincenal"] .quincenal-comparison summary{cursor:pointer;min-height:44px;font-weight:700}
-body[data-calc="pago-quincenal"] .quincenal-comparison .result-row{gap:12px;flex-wrap:wrap}
-body[data-calc="pago-quincenal"] .quincenal-comparison .result-row strong{min-width:0}
-body[data-calc="pago-quincenal"] #isr-quincenal-pasos{scroll-margin-top:100px}
+/* Extends the salary calculator layout with the fortnightly pay breakdown. */
+body[data-calc="pago-quincenal"] {
+  --qn-ink: #071a35;
+  --qn-light: #f1f6ff;
+}
+body[data-calc="pago-quincenal"] .page-head { position: relative; }
+.qn-preview { display: grid; align-content: center; min-height: 100%; }
+.qn-preview h2 { margin: 0; font-size: clamp(1.4rem, 2.4vw, 2rem); }
+.qn-preview p { max-width: 42ch; color: var(--muted); line-height: 1.6; }
+.qn-periods {
+  display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 16px 0; border-radius: 8px; overflow: hidden;
+  background: var(--qn-ink); color: var(--qn-light);
+}
+.qn-periods span { padding: clamp(12px, 2vw, 24px); font-size: .875rem; }
+.qn-periods span + span { border-left: 1px dashed #8195b1; }
+.qn-periods strong { display: block; margin-top: 6px; color: white; font-size: clamp(1.5rem, 3vw, 2.4rem); font-weight: 500; }
+body.cm-salary-premium[data-calc="pago-quincenal"] .result-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+body[data-calc="pago-quincenal"] .result { min-width: 0; overflow-wrap: anywhere; }
+body[data-calc="pago-quincenal"] .quincenal-comparison { border-block: 1px solid var(--line); margin: 16px 0; padding: 8px 0; }
+.quincenal-comparison summary { min-height: 44px; padding-block: 10px; cursor: pointer; color: var(--primary); }
+.quincenal-comparison .result-row { flex-wrap: wrap; gap: 8px; }
+body[data-calc="pago-quincenal"] .calc-layout > .premium-cluster-map { margin: 28px 0; }
+body[data-calc="pago-quincenal"] .cluster-link-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 195px), 1fr)); gap: 12px; }
+body[data-calc="pago-quincenal"] .cluster-link-card { padding: 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+body[data-calc="pago-quincenal"] .cluster-link-card small { display: block; color: var(--muted); line-height: 1.5; }
+body[data-calc="pago-quincenal"] .cm-page-shortcuts { flex-wrap: wrap; }
+body[data-calc="pago-quincenal"] .article ol { padding-inline-start: 1.7rem; }
+body[data-calc="pago-quincenal"] #isr-quincenal-pasos { scroll-margin-top: 100px; }
+.qn-more > summary { color: var(--primary); cursor: pointer; padding: 12px 0; }
+body[data-calc="pago-quincenal"] #resultado { scroll-margin-top: 5rem; }
